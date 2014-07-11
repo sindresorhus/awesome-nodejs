@@ -222,7 +222,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [marked](https://github.com/chjj/marked) - A markdown parser and compiler built for speed.
 - [semver](https://github.com/isaacs/node-semver) - [semver](http://semver.org) parser.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
-- [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Google Chrome Extension which links dependencies listed in package.json to their GitHub project’s pages.
 
 
 ## Resources
@@ -254,6 +253,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Real Time Web with Node.js](http://node.codeschool.com)
 
+### Tools
+- [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Google Chrome Extension which links dependencies listed in package.json to their GitHub project’s pages.
 
 ## Contribute
 
