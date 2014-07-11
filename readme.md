@@ -253,6 +253,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Real Time Web with Node.js](http://node.codeschool.com)
 
+### Tools
+- [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Google Chrome Extension which links dependencies listed in package.json to their GitHub project’s pages.
 
 ## Contribute
 
