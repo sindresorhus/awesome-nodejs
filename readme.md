@@ -115,6 +115,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [rimraf](https://github.com/isaacs/rimraf) - Recursively delete files like `rm -rf`.
 - [mkdirp](https://github.com/substack/node-mkdirp) - Recursively create directories like `mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Drop-in replacement for the `fs` module with various improvements.
+- [lie-fs](https://www.npmjs.org/package/lie-fs) - Promise wrappers for Node's FS API.
 
 
 ### Control flow
@@ -157,6 +158,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
 - [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+- [humem](https://www.npmjs.org/package/humem) - Human Readable real time memory stats.
 
 
 ### Static site generators
