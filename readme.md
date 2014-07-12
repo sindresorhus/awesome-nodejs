@@ -28,6 +28,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Network](#network)
 - [Static site generators](#static-site-generators)
 - [Content management systems](#content-management-systems)
+- [Forum](#forum)
+- [Blogging](#blogging)
 - [Debugging](#debugging)
 - [Database](#database)
 - [Testing](#testing)
@@ -223,6 +225,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [KeystoneJS](http://keystonejs.com) - CMS and web application platform built on Express and MongoDB.
 - [Calipso](http://calip.so) - A simple content management system, built along similar themes to Drupal and Wordpress, that is designed to be fast, flexible and simple.
 
+### Forum
+
+- [nodeBB](https://nodebb.org/) - A better forum platform for the modern web. The next generation forum software that's free and easy to use.
+
+### Blogging
+
+- [ghost](https://ghost.org/) - Ghost is a simple, powerful publishing platform that allows you to share your story with the world. 
+- [Hexo](http://hexo.io/) - A fast, simple and powerful blogging framework powered by node.js.
 
 ### Debugging
 
