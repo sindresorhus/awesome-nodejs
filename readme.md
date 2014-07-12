@@ -111,6 +111,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [handlebars.js](https://github.com/wycats/handlebars.js/) - Provides the power necessary to let you build semantic templates effectively with no frustration.
 - [Jade](https://github.com/visionmedia/jade) - High performance template engine heavily influenced by Haml.
 - [nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
+- [swig](https://github.com/paularmstrong/swig) - Awesome, Django/Jinja-like template engine.
 
 
 ### Documentation
