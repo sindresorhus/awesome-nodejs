@@ -181,7 +181,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Blogging Software
 
 - [ghost](https://ghost.org/) - Ghost is a simple, powerful publishing platform that allows you to share your story with the world. 
-- [Hexo](http://hexo.io/) - A fast, simple and powerful blogging framework powered by node.js
+- [Hexo](http://hexo.io/) - A fast, simple and powerful blogging framework powered by node.js.
 
 ### Debugging
 
