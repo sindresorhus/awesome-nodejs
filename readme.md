@@ -207,6 +207,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [n](https://github.com/visionmedia/n) - Node.js version management.
 - [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
+- [nodeenv](https://github.com/ekalinin/nodeenv) - A Node.js virtual environment compatible to Python's virtualenv.
 
 
 ### Polyfills
