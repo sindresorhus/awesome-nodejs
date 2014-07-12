@@ -22,7 +22,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Real-time](#real-time)
 - [Date](#date)
 - [Image](#image)
+- [Parsing](#parsing)
 - [Humanize](#humanize)
+- [Compression](#compression)
+- [Network](#network)
 - [Static site generators](#static-site-generators)
 - [Content management systems](#content-management-systems)
 - [Debugging](#debugging)
@@ -32,6 +35,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Authentication](#authentication)
 - [Node.js management](#nodejs-management)
 - [Polyfills](#polyfills)
+- [AST](#ast)
+- [Weird](#weird)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -52,6 +57,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [JSHint](http://jshint.com) - A community-driven tool to detect errors and potential problems in JavaScript code.
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files.
+- [torrent](https://github.com/maxogden/torrent) - Download torrents.
+- [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 
 
 ### HTTP
@@ -72,8 +79,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Koa](http://koajs.com) - A new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
 - [Express](http://expressjs.com) - A minimal and flexible web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
-- [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
-- [SailsJS](http://sailsjs.org/) - An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.
+- [Hapi](http://hapijs.com) - A rich framework for building applications and services.
+- [Meteor](https://www.meteor.com) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
+- [SailsJS](http://sailsjs.org) - An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.
 
 
 ### Command-line utilities
@@ -83,6 +91,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
 - [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app.
 - [sudo-block](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
+- [configstore](https://github.com/yeoman/configstore) - Easily load and persist config without having to think about where and how.
+- [insight](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 - [blessed](https://github.com/chjj/blessed) - A curses-like library.
 - [cli-table](https://github.com/LearnBoost/cli-table) - Pretty unicode tables.
 
@@ -116,6 +126,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [rimraf](https://github.com/isaacs/rimraf) - Recursively delete files like `rm -rf`.
 - [mkdirp](https://github.com/substack/node-mkdirp) - Recursively create directories like `mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Drop-in replacement for the `fs` module with various improvements.
+- [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
 
 
 ### Control flow
@@ -152,12 +163,52 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Image
 
 - [sharp](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
+- [image-type](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
+- [gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
+
+
+### Text
+
+- [Underscore.string](https://github.com/epeli/underscore.string) - Collection of string manipulation utilities.
+- [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder.
+- [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
+- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+- [indent-string](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
+- [strip-indent](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
+
+
+### Math
+
+- [ndarray](https://github.com/mikolalysenko/ndarray) - Multidimensional arrays.
+
+
+### Parsing
+
+- [css](https://github.com/reworkcss/css) - CSS parser / stringifier.
+- [strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
+- [marked](https://github.com/chjj/marked) - A markdown parser and compiler built for speed.
+- [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
+- [URI.js](https://github.com/medialize/URI.js) - URL mutation.
 
 
 ### Humanize
 
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
 - [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+- [ms](https://github.com/guille/ms.js) - Tiny milisecond conversion utility.
+- [pretty-error](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
+- [humanize](https://github.com/taijinlee/humanize) - Data formatter for human readability.
+
+
+### Compression
+
+- [Archiver](https://github.com/ctalkington/node-archiver) - A streaming interface for archive generation, supporting ZIP and TAR.
+- [decompress-zip](https://github.com/bower/decompress-zip) - Unzip.
+
+
+### Network
+
+- [get-port](https://github.com/sindresorhus/get-port) - Get an available port.
 
 
 ### Static site generators
@@ -178,6 +229,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
 - [Theseus](https://github.com/adobe-research/theseus) - A new type of JavaScript debugger featuring real-time code coverage, retroactive inspection and asynchronous call tree.
 - [longjohn](https://github.com/mattinsler/longjohn) - Long stack traces with configurable call trace length.
+- [debug](https://github.com/visionmedia/debug) - Tiny debugging utility.
 
 
 ### Database
@@ -194,10 +246,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Minifiers
 
-- [UglifyJS2](http://lisperator.net/uglifyjs/) - JavaScript parser, minifier, compressor or beautifier toolkit.
-- [clean-css](https://github.com/GoalSmashers/clean-css) - A fast, efficient, and well tested CSS minifier.
+- [UglifyJS2](http://lisperator.net/uglifyjs/) - JavaScript minifier.
+- [clean-css](https://github.com/GoalSmashers/clean-css) - CSS minifier.
 - [minimize](https://github.com/Moveo/minimize) - HTML minifier.
-- [imagemin](https://github.com/kevva/imagemin) - Minify images.
+- [imagemin](https://github.com/kevva/imagemin) - Image minifier.
 
 
 ### Authentication
@@ -214,17 +266,32 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Polyfills
 
-- [object-assign](https://github.com/sindresorhus/object-assign) - ES6 Object.assign() polyfill
+- [object-assign](https://github.com/sindresorhus/object-assign) - ES6 Object.assign() polyfill.
+- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 Reflect and Proxy polyfill.
+- [es6-shim](https://github.com/paulmillr/es6-shim) - Collection of ES6 polyfills.
+- More ES6 polyfills at [es6-tools](https://github.com/addyosmani/es6-tools#polyfills).
+
+
+### AST
+
+- [Esprima](http://esprima.org) - A high performance, standard-compliant JavaScript parser.
+- [Rocambole](https://github.com/millermedeiros/rocambole) - Recursively walk and transform JavaScript AST.
+
+
+### Weird
+
+- [superb](https://github.com/sindresorhus/superb) - Get superb like words.
+- [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 
 
 ### Miscellaneous
 
-- [opn](https://github.com/sindresorhus/opn) - Opens stuff like websites, files, executables.
-- [strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
 - [multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
-- [marked](https://github.com/chjj/marked) - A markdown parser and compiler built for speed.
+- [opn](https://github.com/sindresorhus/opn) - Opens stuff like websites, files, executables.
 - [semver](https://github.com/isaacs/node-semver) - [semver](http://semver.org) parser.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [browserify](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
+- [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 
 
 ## Resources
@@ -252,12 +319,19 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
 - [Mastering Node](http://visionmedia.github.io/masteringnode/).
 
+### Blogs
+
+- [Node.js blog](http://blog.nodejs.org)
+- [HowToNode](http://howtonode.org) - Teaching how to do various tasks in Node.js as well as teach fundamental concepts that are needed to write effective code.
+
 ### Courses
 
 - [Real Time Web with Node.js](http://node.codeschool.com)
 
 ### Tools
-- [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Google Chrome Extension which links dependencies listed in package.json to their GitHub project’s pages.
+
+- [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json on GitHub.
+
 
 ## Contribute
 
