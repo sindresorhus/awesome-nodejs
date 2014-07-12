@@ -73,6 +73,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Koa](http://koajs.com) - A new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
 - [Express](http://expressjs.com) - A minimal and flexible web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 - [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
+- [SailsJS](http://sailsjs.org/) - An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.
 
 
 ### Command-line utilities
