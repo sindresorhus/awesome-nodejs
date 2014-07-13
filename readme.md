@@ -118,6 +118,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Docco](http://jashkenas.github.io/docco/) - A quick-and-dirty documentation generator which produces an HTML document that displays your comments intermingled with your code.
 - [JSDoc](http://usejsdoc.org) - API documentation generator similar to JavaDoc or PHPDoc.
 - [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator for Node.js using Markdown and JSDoc.
+- [jsdox](https://github.com/sutoiku/jsdox) - JSDoc3 to Markdown documentation generator.
 
 
 ### Filesystem
