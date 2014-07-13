@@ -154,6 +154,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Real-time
 
 - [Socket.io](http://socket.io) - Enables real-time bidirectional event-based communication.
+- [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 
 
 ### Date
