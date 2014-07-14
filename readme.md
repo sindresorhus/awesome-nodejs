@@ -202,6 +202,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ms](https://github.com/guille/ms.js) - Tiny milisecond conversion utility.
 - [pretty-error](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
 - [humanize](https://github.com/taijinlee/humanize) - Data formatter for human readability.
+- [node-read](https://github.com/bndr/node-read) - Extract readable content from any page.
 
 
 ### Compression
