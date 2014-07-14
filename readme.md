@@ -250,11 +250,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Database
 
-- [LevelUP](https://github.com/rvagg/node-levelup) - LevelDB, Node.js style.
-- [MongoDB](https://github.com/mongodb/node-mongodb-native) - Native MongoDB driver for Node.js.
-- [MySQL](https://github.com/felixge/node-mysql) - A pure Node.js JavaScript Client implementing the MySQL protocol.
-- [Redis](https://github.com/mranney/node_redis) - Redis client for Node.js.
-- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports SQLite, MySQL, PostgreSQL.
+- Drivers
+  - [LevelUP](https://github.com/rvagg/node-levelup) - LevelDB, Node.js style.
+  - [MongoDB](https://github.com/mongodb/node-mongodb-native) - Native MongoDB driver for Node.js.
+  - [MySQL](https://github.com/felixge/node-mysql) - A pure Node.js JavaScript Client implementing the MySQL protocol.
+  - [Redis](https://github.com/mranney/node_redis) - Redis client for Node.js.
+- ODM / ORM
+  - [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports SQLite, MySQL, PostgreSQL.
 
 
 ### Testing
