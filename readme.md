@@ -98,6 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [insight](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 - [blessed](https://github.com/chjj/blessed) - A curses-like library.
 - [cli-table](https://github.com/LearnBoost/cli-table) - Pretty unicode tables.
+- [drawille](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
 
 
 ### Build tools
