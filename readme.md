@@ -12,7 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTTP](#http)
 - [Logging](#logging)
 - [Web frameworks](#web-frameworks)
-- [Application Servers](#app-servers)
+- [Application Servers](#application-servers)
 - [Command-line utilities](#command-line-utilities)
 - [Build tools](#build-tools)
 - [Templating](#templating)
