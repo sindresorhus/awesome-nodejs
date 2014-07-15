@@ -12,6 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTTP](#http)
 - [Logging](#logging)
 - [Web frameworks](#web-frameworks)
+- [Application Servers](#app-servers)
 - [Command-line utilities](#command-line-utilities)
 - [Build tools](#build-tools)
 - [Templating](#templating)
@@ -86,7 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SailsJS](http://sailsjs.org) - An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.
 
 
-## Application Servers
+### Application Servers
 
 *Application Server is an environment to run and manage multiple applications.*
 
