@@ -261,7 +261,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - ODM / ORM
   - [Mongoose](http://mongoosejs.com/) - Elegant MongoDB object modeling for Node.js.
   - [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports SQLite, MySQL, PostgreSQL.
-
+- File system based DB
+  - [DiskDB](https://github.com/arvindr21/diskDB) - A Lightweight Disk based JSON Database with a MongoDB like API for Node
 
 ### Testing
 
