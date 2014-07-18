@@ -110,7 +110,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Templating
 
-- [handlebars.js](https://github.com/wycats/handlebars.js/) - Provides the power necessary to let you build semantic templates effectively with no frustration.
+- [handlebars.js](https://github.com/wycats/handlebars.js/) - A superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
+- [hogan.js](http://twitter.github.io/hogan.js/) - Twitter's small, fast, phase-separated compiler for Mustache templates.
 - [Jade](https://github.com/visionmedia/jade) - High performance template engine heavily influenced by Haml.
 - [nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
 
