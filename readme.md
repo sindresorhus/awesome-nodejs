@@ -343,7 +343,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Books
 
 - [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
-- [Mastering Node](http://visionmedia.github.io/masteringnode/).
+- [Mastering Node](http://visionmedia.github.io/masteringnode/)
+- [Professional Node.js: Building Javascript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
 
 ### Blogs
 
