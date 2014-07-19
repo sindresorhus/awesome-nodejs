@@ -315,6 +315,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
 - [opn](https://github.com/sindresorhus/opn) - Opens stuff like websites, files, executables.
 - [semver](https://github.com/isaacs/node-semver) - [semver](http://semver.org) parser.
+- [slimver](https://github.com/DamonOehlman/slimver) - [slimver](http://slimver.org/) parser.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
