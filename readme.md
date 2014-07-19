@@ -262,6 +262,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - ODM / ORM
   - [Mongoose](http://mongoosejs.com/) - Elegant MongoDB object modeling for Node.js.
   - [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports SQLite, MySQL, PostgreSQL.
+- Query builder
+  - [Knex](http://knexjs.org/) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 
 
 ### Testing
