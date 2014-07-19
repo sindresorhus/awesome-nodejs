@@ -268,6 +268,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [tape](https://github.com/substack/tape) - [TAP](http://testanything.org)-producing test harness.
 - [Mocha](http://visionmedia.github.io/mocha/) - A feature-rich test framework making asynchronous testing simple and fun.
+- [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
 
 
 ### Minifiers
