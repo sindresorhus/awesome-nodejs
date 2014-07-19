@@ -22,6 +22,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Real-time](#real-time)
 - [Date](#date)
 - [Image](#image)
+- [Text](#text)
 - [Parsing](#parsing)
 - [Humanize](#humanize)
 - [Compression](#compression)
