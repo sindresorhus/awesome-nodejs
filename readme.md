@@ -23,6 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Date](#date)
 - [Image](#image)
 - [Text](#text)
+- [Math](#math)
 - [Parsing](#parsing)
 - [Humanize](#humanize)
 - [Compression](#compression)
