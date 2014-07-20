@@ -56,6 +56,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bower](http://bower.io) - A package manager for the web.
 - [Yo](https://github.com/yeoman/yo) - Run Yeoman generators.
 - [Pageres](https://github.com/sindresorhus/pageres) - Responsive website screenshots.
+- [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager for Node.js.
 - [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm`.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [JSHint](http://jshint.com) - A community-driven tool to detect errors and potential problems in JavaScript code.
