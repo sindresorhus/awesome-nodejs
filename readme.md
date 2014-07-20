@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Image](#image)
 - [Text](#text)
 - [Math](#math)
+- [Data validation](#data-validation)
 - [Parsing](#parsing)
 - [Humanize](#humanize)
 - [Compression](#compression)
@@ -192,6 +193,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [ndarray](https://github.com/mikolalysenko/ndarray) - Multidimensional arrays.
 
+
+### Data validation
+
+- [validator](https://github.com/chriso/validator.js) - A library of string validators and sanitizers.
 
 ### Parsing
 
