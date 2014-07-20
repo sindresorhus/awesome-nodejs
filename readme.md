@@ -196,6 +196,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Data validation
 
+- [joi](https://github.com/spumko/joi) - Object schema description language and validator for JavaScript objects.
 - [validator](https://github.com/chriso/validator.js) - A library of string validators and sanitizers.
 
 ### Parsing
