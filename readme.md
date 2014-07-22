@@ -87,6 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hapi](http://hapijs.com) - A rich framework for building applications and services.
 - [Meteor](https://www.meteor.com) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 - [SailsJS](http://sailsjs.org) - An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.
+- [Restify](http://mcavage.me/node-restify/) - A node framework built specifically to enable you to build correct REST web services.
 
 
 ### Command-line utilities
@@ -108,6 +109,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gulp.js](http://gulpjs.com) - Streaming and fast build system that favors code over config.
 - [grunt](http://gruntjs.com) - Task runner that can perform repetitive tasks like minification, compilation, unit testing, linting, etc.
 - [Broccoli](https://github.com/broccolijs/broccoli) - A fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
+- [connect-assets](https://github.com/adunkman/connect-assets) - A Rails 3.1-style asset pipeline for Node.js.
+
 
 
 ### Templating
@@ -167,6 +170,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Moment.js](http://momentjs.com) - Parse, validate, manipulate, and display dates.
 - [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
+- [date-utils](https://github.com/JerrySievert/date-utils) - Date Pollyfills for Node.js and Browser.
 
 
 ### Image
@@ -184,11 +188,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
 - [indent-string](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
 - [strip-indent](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
+- [i18n-node](https://github.com/mashpie/i18n-node) - Lightweight simple translation module for node.js / express.js with dynamic json storage.
 
 
 ### Math
 
 - [ndarray](https://github.com/mikolalysenko/ndarray) - Multidimensional arrays.
+- [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js.
 
 
 ### Parsing
@@ -286,6 +292,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Authentication
 
 - [Passport](http://passportjs.org) - Simple, unobtrusive authentication.
+- [Mongoose-Auth](https://github.com/bnoguchi/mongoose-auth) - User authentication plugin for mongoose nodejs orm.
 
 
 ### Node.js management
