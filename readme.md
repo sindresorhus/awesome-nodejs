@@ -198,6 +198,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [marked](https://github.com/chjj/marked) - A markdown parser and compiler built for speed.
 - [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 - [URI.js](https://github.com/medialize/URI.js) - URL mutation.
+- [JSONStream](https://github.com/dominictarr/JSONStream) - Streaming JSON.parse and stringify.
 
 
 ### Humanize
