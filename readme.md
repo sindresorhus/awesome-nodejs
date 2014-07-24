@@ -23,6 +23,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Real-time](#real-time)
 - [Date](#date)
 - [Image](#image)
+- [Text](#text)
 - [Parsing](#parsing)
 - [Humanize](#humanize)
 - [Compression](#compression)
@@ -56,12 +57,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bower](http://bower.io) - A package manager for the web.
 - [Yo](https://github.com/yeoman/yo) - Run Yeoman generators.
 - [Pageres](https://github.com/sindresorhus/pageres) - Responsive website screenshots.
+- [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager for Node.js.
 - [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm`.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [JSHint](http://jshint.com) - A community-driven tool to detect errors and potential problems in JavaScript code.
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files.
 - [torrent](https://github.com/maxogden/torrent) - Download torrents.
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
+- [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts.
 
 
 ### HTTP
@@ -105,6 +108,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [insight](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 - [blessed](https://github.com/chjj/blessed) - A curses-like library.
 - [cli-table](https://github.com/LearnBoost/cli-table) - Pretty unicode tables.
+- [drawille](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
+- [progress](https://github.com/visionmedia/node-progress) - Flexible ascii progress bar.
 
 
 ### Build tools
@@ -163,6 +168,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Real-time
 
 - [Socket.io](http://socket.io) - Enables real-time bidirectional event-based communication.
+- [SocketCluster](https://github.com/topcloud/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 - [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 
 
@@ -201,6 +207,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [marked](https://github.com/chjj/marked) - A markdown parser and compiler built for speed.
 - [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 - [URI.js](https://github.com/medialize/URI.js) - URL mutation.
+- [JSONStream](https://github.com/dominictarr/JSONStream) - Streaming JSON.parse and stringify.
 
 
 ### Humanize
@@ -210,6 +217,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ms](https://github.com/guille/ms.js) - Tiny milisecond conversion utility.
 - [pretty-error](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
 - [humanize](https://github.com/taijinlee/humanize) - Data formatter for human readability.
+- [node-read](https://github.com/bndr/node-read) - Extract readable content from any page.
 
 
 ### Compression
@@ -257,17 +265,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Database
 
-- [LevelUP](https://github.com/rvagg/node-levelup) - LevelDB, Node.js style.
-- [MongoDB](https://github.com/mongodb/node-mongodb-native) - Native MongoDB driver for Node.js.
-- [MySQL](https://github.com/felixge/node-mysql) - A pure Node.js JavaScript Client implementing the MySQL protocol.
-- [Redis](https://github.com/mranney/node_redis) - Redis client for Node.js.
-- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports SQLite, MySQL, PostgreSQL.
+- Drivers
+  - [LevelUP](https://github.com/rvagg/node-levelup) - LevelDB, Node.js style.
+  - [MongoDB](https://github.com/mongodb/node-mongodb-native) - Native MongoDB driver for Node.js.
+  - [MySQL](https://github.com/felixge/node-mysql) - A pure Node.js JavaScript Client implementing the MySQL protocol.
+  - [Redis](https://github.com/mranney/node_redis) - Redis client for Node.js.
+- ODM / ORM
+  - [Bookshelf](http://bookshelfjs.org/) - A Node.js ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
+  - [Mongoose](http://mongoosejs.com/) - Elegant MongoDB object modeling for Node.js.
+  - [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports SQLite, MySQL, PostgreSQL.
+- Query builder
+  - [Knex](http://knexjs.org/) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 
 
 ### Testing
 
 - [tape](https://github.com/substack/tape) - [TAP](http://testanything.org)-producing test harness.
 - [Mocha](http://visionmedia.github.io/mocha/) - A feature-rich test framework making asynchronous testing simple and fun.
+- [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
 
 
 ### Minifiers
@@ -327,6 +342,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Nodeschool](http://nodeschool.io) - Learn Node.js with interactive lessons.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
 - [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams.
+- [browserify-handbook](https://github.com/substack/browserify-handbook) - The definitive guide for browserify.
 
 ### Articles
 
@@ -343,7 +359,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Books
 
 - [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
-- [Mastering Node](http://visionmedia.github.io/masteringnode/).
+- [Mastering Node](http://visionmedia.github.io/masteringnode/)
+- [Professional Node.js: Building Javascript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
 
 ### Blogs
 
