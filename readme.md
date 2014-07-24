@@ -141,6 +141,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
 - [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronousity.
+- [contra](https://github.com/bevacqua/contra) - Asynchronous flow control with a functional taste to it.
 - [co](https://github.com/visionmedia/co) - The ultimate generator based flow-control goodness.
 - [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 - [native-promise-only](https://www.npmjs.org/package/native-promise-only) - A polyfill for native ES6 Promises.
@@ -234,6 +235,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [KeystoneJS](http://keystonejs.com) - CMS and web application platform built on Express and MongoDB.
 - [Calipso](http://calip.so) - A simple content management system, built along similar themes to Drupal and Wordpress, that is designed to be fast, flexible and simple.
+- [Apostrophe2](http://apostrophenow.org/) - A content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
 
 
 ### Forum
