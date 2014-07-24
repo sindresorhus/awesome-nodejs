@@ -261,6 +261,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
   - [LevelUP](https://github.com/rvagg/node-levelup) - LevelDB, Node.js style.
   - [MongoDB](https://github.com/mongodb/node-mongodb-native) - Native MongoDB driver for Node.js.
   - [MySQL](https://github.com/felixge/node-mysql) - A pure Node.js JavaScript Client implementing the MySQL protocol.
+  - [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js. Pure JavaScript and native libpq bindings.
   - [Redis](https://github.com/mranney/node_redis) - Redis client for Node.js.
 - ODM / ORM
   - [Bookshelf](http://bookshelfjs.org/) - A Node.js ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
