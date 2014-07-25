@@ -23,6 +23,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Date](#date)
 - [Image](#image)
 - [Text](#text)
+- [Math](#math)
+- [Data validation](#data-validation)
 - [Parsing](#parsing)
 - [Humanize](#humanize)
 - [Compression](#compression)
@@ -194,6 +196,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [ndarray](https://github.com/mikolalysenko/ndarray) - Multidimensional arrays.
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js.
+
+
+### Data validation
+
+- [joi](https://github.com/spumko/joi) - Object schema description language and validator for JavaScript objects.
 
 
 ### Parsing
