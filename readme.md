@@ -10,6 +10,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Functional programming](#functional-programming)
 - [Command-line apps](#command-line-apps)
 - [HTTP](#http)
+- [Debugging / Profiling](#debugging--profiling)
 - [Logging](#logging)
 - [Web frameworks](#web-frameworks)
 - [Command-line utilities](#command-line-utilities)
@@ -33,7 +34,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Content management systems](#content-management-systems)
 - [Forum](#forum)
 - [Blogging](#blogging)
-- [Debugging](#debugging)
 - [Database](#database)
 - [Testing](#testing)
 - [Minifiers](#minifiers)
@@ -48,8 +48,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Functional programming
 
 - [Lo-Dash](http://lodash.com) - A utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
-- [Underscore.js](http://underscorejs.org) - Provides a whole mess of useful functional programming helpers without extending any built-in objects.
 - [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
+- [mori](http://swannodette.github.io/mori/) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 - [Folktale](http://folktale.github.io/) - A suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse.
 
 
@@ -67,6 +67,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [torrent](https://github.com/maxogden/torrent) - Download torrents.
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 - [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts.
+- [tmpin](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
 
 
 ### HTTP
@@ -75,6 +76,16 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [got](https://github.com/sindresorhus/got) - A nicer interface to the built-in `http` module.
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
 - [hyperquest](https://github.com/substack/hyperquest) - Streaming HTTP requests.
+
+
+### Debugging / Profiling
+
+- [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
+- [Theseus](https://github.com/adobe-research/theseus) - A new type of JavaScript debugger featuring real-time code coverage, retroactive inspection and asynchronous call tree.
+- [longjohn](https://github.com/mattinsler/longjohn) - Long stack traces with configurable call trace length.
+- [debug](https://github.com/visionmedia/debug) - Tiny debugging utility.
+- [jstrace](https://github.com/jstrace/jstrace) - Dynamic tracing for JavaScript, similar to dtrace, ktap etc.
+- [TraceGL](https://github.com/traceglMPL/tracegl) - Transforms your JavaScript, injecting monitoring code that produces a log of everything that happens.
 
 
 ### Logging
@@ -106,6 +117,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cli-table](https://github.com/LearnBoost/cli-table) - Pretty unicode tables.
 - [drawille](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
 - [progress](https://github.com/visionmedia/node-progress) - Flexible ascii progress bar.
+- [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
+- [columnify](https://github.com/timoxley/columnify) - Create text-based columns suitable for console output. Supports cell wrapping.
 
 
 ### Build tools
@@ -144,13 +157,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Control flow
 
-- [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
-- [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronousity.
-- [co](https://github.com/visionmedia/co) - The ultimate generator based flow-control goodness.
-- [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
-- [native-promise-only](https://www.npmjs.org/package/native-promise-only) - A polyfill for native ES6 Promises.
-- [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
-- [Q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises.
+- Callbacks
+	- [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
+	- [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronousity.
+- Generators
+	- [co](https://github.com/visionmedia/co) - The ultimate generator based flow-control goodness.
+- Promises
+	- [native-promise-only](https://www.npmjs.org/package/native-promise-only) - A polyfill for native ES6 Promises.
+	- [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
+	- [Q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises.
+- Streams
+	- [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 
 
 ### Streams
@@ -160,6 +177,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [simple-bufferstream](https://github.com/rvagg/node-simple-bufferstream) - Turn a Buffer into a ReadableStream.
 - [co-stream](https://github.com/juliangruber/co-stream) - [co](https://github.com/visionmedia/co) generator stream.
 - [byline](https://www.npmjs.org/package/byline) - Super-simple line-by-line Stream reader.
+- [first-chunk-stream](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
 
 
 ### Real-time
@@ -190,6 +208,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
 - [indent-string](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
 - [strip-indent](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
+- [detect-indent](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 - [i18n-node](https://github.com/mashpie/i18n-node) - Lightweight simple translation module for node.js / express.js with dynamic json storage.
 
 
@@ -212,6 +231,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 - [URI.js](https://github.com/medialize/URI.js) - URL mutation.
 - [JSONStream](https://github.com/dominictarr/JSONStream) - Streaming JSON.parse and stringify.
+- [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming CSV parser that aims to be faster than everyone else.
 
 
 ### Humanize
@@ -260,14 +280,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hexo](http://hexo.io) - Fast, simple and powerful blogging framework.
 
 
-### Debugging
-
-- [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
-- [Theseus](https://github.com/adobe-research/theseus) - A new type of JavaScript debugger featuring real-time code coverage, retroactive inspection and asynchronous call tree.
-- [longjohn](https://github.com/mattinsler/longjohn) - Long stack traces with configurable call trace length.
-- [debug](https://github.com/visionmedia/debug) - Tiny debugging utility.
-
-
 ### Database
 
 - Drivers
@@ -302,6 +314,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Authentication
 
 - [Passport](http://passportjs.org) - Simple, unobtrusive authentication.
+- [everyauth](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, facebook, & more) for your Connect and Express apps.
 
 
 ### Node.js management
@@ -338,6 +351,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [semver](https://github.com/isaacs/node-semver) - [semver](http://semver.org) parser.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
+- [require-uncached](https://github.com/sindresorhus/require-uncached) - Require a module bypassing the cache.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 
 
