@@ -48,6 +48,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Lo-Dash](http://lodash.com) - A utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
 - [Underscore.js](http://underscorejs.org) - Provides a whole mess of useful functional programming helpers without extending any built-in objects.
 - [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
+- [Ramda](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers. It uses functional techniques such as automatically currying functions.
 
 
 ### Command-line apps
