@@ -12,6 +12,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTTP](#http)
 - [Logging](#logging)
 - [Web frameworks](#web-frameworks)
+- [Application Servers](#application-servers)
 - [Command-line utilities](#command-line-utilities)
 - [Build tools](#build-tools)
 - [Templating](#templating)
@@ -87,6 +88,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Hapi](http://hapijs.com) - A rich framework for building applications and services.
 - [Meteor](https://www.meteor.com) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 - [SailsJS](http://sailsjs.org) - An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.
+
+
+### Application Servers
+
+*Application Server is an environment to run and manage multiple applications.*
+
+* [Impress](https://github.com/tshemsedinov/impress) - Impressive multipurpose scalable Application Server optimized for high load API and web applications.
 
 
 ### Command-line utilities
