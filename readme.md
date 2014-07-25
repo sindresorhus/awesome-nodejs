@@ -110,6 +110,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gulp.js](http://gulpjs.com) - Streaming and fast build system that favors code over config.
 - [grunt](http://gruntjs.com) - Task runner that can perform repetitive tasks like minification, compilation, unit testing, linting, etc.
 - [Broccoli](https://github.com/broccolijs/broccoli) - A fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
+- [connect-assets](https://github.com/adunkman/connect-assets) - A Rails 3.1-style asset pipeline for Node.js.
+
 
 
 ### Templating
@@ -170,6 +172,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Moment.js](http://momentjs.com) - Parse, validate, manipulate, and display dates.
 - [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
+- [date-utils](https://github.com/JerrySievert/date-utils) - Date Pollyfills for Node.js and Browser.
 
 
 ### Image
@@ -280,6 +283,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [tape](https://github.com/substack/tape) - [TAP](http://testanything.org)-producing test harness.
 - [Mocha](http://visionmedia.github.io/mocha/) - A feature-rich test framework making asynchronous testing simple and fun.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
+- [husky](https://github.com/typicode/husky) - Prevents bad commit or push (git hooks, pre-commit, pre-push and all that stuff...).
 
 
 ### Minifiers
@@ -293,6 +297,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Authentication
 
 - [Passport](http://passportjs.org) - Simple, unobtrusive authentication.
+- [Mongoose-Auth](https://github.com/bnoguchi/mongoose-auth) - User authentication plugin for mongoose nodejs orm.
 
 
 ### Node.js management
