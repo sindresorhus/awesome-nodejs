@@ -119,6 +119,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [progress](https://github.com/visionmedia/node-progress) - Flexible ascii progress bar.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
 - [columnify](https://github.com/timoxley/columnify) - Create text-based columns suitable for console output. Supports cell wrapping.
+- [normit](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 
 
 ### Build tools
