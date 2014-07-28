@@ -126,6 +126,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gulp.js](http://gulpjs.com) - Streaming and fast build system that favors code over config.
 - [grunt](http://gruntjs.com) - Task runner that can perform repetitive tasks like minification, compilation, unit testing, linting, etc.
 - [Broccoli](https://github.com/broccolijs/broccoli) - A fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
+- [browserify](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
 
 
 ### Templating
@@ -350,7 +351,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [opn](https://github.com/sindresorhus/opn) - Opens stuff like websites, files, executables.
 - [semver](https://github.com/isaacs/node-semver) - [semver](http://semver.org) parser.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
-- [browserify](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
 - [require-uncached](https://github.com/sindresorhus/require-uncached) - Require a module bypassing the cache.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 
