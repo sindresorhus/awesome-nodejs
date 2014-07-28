@@ -342,7 +342,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [superb](https://github.com/sindresorhus/superb) - Get superb like words.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
-
+- [five](https://github.com/jackdcrawford/five) - A library to overcomplicate 5.
 
 ### Miscellaneous
 
