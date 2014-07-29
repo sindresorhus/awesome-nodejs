@@ -43,7 +43,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [AST](#ast)
 - [Weird](#weird)
 - [Miscellaneous](#miscellaneous)
-
+- [Email](#email)
 
 ### Functional programming
 
@@ -355,6 +355,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [require-uncached](https://github.com/sindresorhus/require-uncached) - Require a module bypassing the cache.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
+
+
+### Email
+- [Nodemailer](https://github.com/andris9/Nodemailer) - the fastest way to handle email in nodejs.
+
 
 
 ## Resources
