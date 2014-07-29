@@ -39,11 +39,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Minifiers](#minifiers)
 - [Authentication](#authentication)
 - [Node.js management](#nodejs-management)
+- [Email](#email)
 - [Polyfills](#polyfills)
 - [AST](#ast)
 - [Weird](#weird)
 - [Miscellaneous](#miscellaneous)
-- [Email](#email)
 
 ### Functional programming
 
@@ -326,6 +326,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nodeenv](https://github.com/ekalinin/nodeenv) - A Node.js virtual environment compatible to Python's virtualenv.
 
 
+### Email
+- [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
+
+
 ### Polyfills
 
 - [object-assign](https://github.com/sindresorhus/object-assign) - ES6 Object.assign() polyfill.
@@ -357,8 +361,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 
 
-### Email
-- [Nodemailer](https://github.com/andris9/Nodemailer) - the fastest way to handle email in nodejs.
+
 
 
 
