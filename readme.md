@@ -76,6 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [got](https://github.com/sindresorhus/got) - A nicer interface to the built-in `http` module.
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
 - [hyperquest](https://github.com/substack/hyperquest) - Streaming HTTP requests.
+- [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - OAuth 1.0a signature generator
 
 
 ### Debugging / Profiling
