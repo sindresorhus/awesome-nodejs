@@ -336,7 +336,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### AST
 
-- [Esprima](http://esprima.org) - A high performance, standard-compliant JavaScript parser.
+- [Acorn](https://github.com/marijnh/acorn/) - A tiny, fast JavaScript parser.
 - [Rocambole](https://github.com/millermedeiros/rocambole) - Recursively walk and transform JavaScript AST.
 
 
