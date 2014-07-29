@@ -357,6 +357,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [require-uncached](https://github.com/sindresorhus/require-uncached) - Require a module bypassing the cache.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
+- [BitcoinJS](http://bitcoinjs.org/) - The clean, readable, proven library for Bitcoin JavaScript development.
 
 
 ## Resources
