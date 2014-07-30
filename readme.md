@@ -39,11 +39,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Minifiers](#minifiers)
 - [Authentication](#authentication)
 - [Node.js management](#nodejs-management)
+- [Email](#email)
 - [Polyfills](#polyfills)
 - [AST](#ast)
 - [Weird](#weird)
 - [Miscellaneous](#miscellaneous)
-
 
 ### Functional programming
 
@@ -329,6 +329,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nodeenv](https://github.com/ekalinin/nodeenv) - A Node.js virtual environment compatible to Python's virtualenv.
 
 
+### Email
+- [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
+
+
 ### Polyfills
 
 - [object-assign](https://github.com/sindresorhus/object-assign) - ES6 Object.assign() polyfill.
@@ -359,6 +363,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 - [BitcoinJS](http://bitcoinjs.org/) - The clean, readable, proven library for Bitcoin JavaScript development.
+
+
+
+
 
 
 ## Resources
