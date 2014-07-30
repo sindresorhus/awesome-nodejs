@@ -366,6 +366,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 - [BitcoinJS](http://bitcoinjs.org/) - The clean, readable, proven library for Bitcoin JavaScript development.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
+- [PDFKit](http://pdfkit.org/) - A JavaScript PDF generation library.
 
 
 ## Resources
