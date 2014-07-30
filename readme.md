@@ -45,6 +45,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Weird](#weird)
 - [Miscellaneous](#miscellaneous)
 
+
 ### Functional programming
 
 - [Lo-Dash](http://lodash.com) - A utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
@@ -59,7 +60,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bower](http://bower.io) - A package manager for the web.
 - [Yo](https://github.com/yeoman/yo) - Run Yeoman generators.
 - [Pageres](https://github.com/sindresorhus/pageres) - Responsive website screenshots.
-- [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager for Node.js.
+- [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager.
 - [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm`.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [JSHint](http://jshint.com) - A community-driven tool to detect errors and potential problems in JavaScript code.
@@ -142,7 +143,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Docco](http://jashkenas.github.io/docco/) - A quick-and-dirty documentation generator which produces an HTML document that displays your comments intermingled with your code.
 - [JSDoc](http://usejsdoc.org) - API documentation generator similar to JavaDoc or PHPDoc.
-- [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator for Node.js using Markdown and JSDoc.
+- [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator using Markdown and JSDoc.
 - [jsdox](https://github.com/sutoiku/jsdox) - JSDoc3 to Markdown documentation generator.
 
 
@@ -174,7 +175,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Streams
 
-- [through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
+- [through2](https://github.com/rvagg/through2) - Tiny wrapper around streams2 Transform to avoid explicit subclassing noise.
 - [concat-stream](https://github.com/maxogden/concat-stream) - Concatenates a stream into strings or binary data.
 - [simple-bufferstream](https://github.com/rvagg/node-simple-bufferstream) - Turn a Buffer into a ReadableStream.
 - [co-stream](https://github.com/juliangruber/co-stream) - [co](https://github.com/visionmedia/co) generator stream.
@@ -211,13 +212,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [indent-string](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
 - [strip-indent](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 - [detect-indent](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
-- [i18n-node](https://github.com/mashpie/i18n-node) - Lightweight simple translation module for node.js / express.js with dynamic json storage.
+- [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
 
 
 ### Math
 
 - [ndarray](https://github.com/mikolalysenko/ndarray) - Multidimensional arrays.
-- [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js.
+- [mathjs](https://github.com/josdejong/mathjs) - An extensive math library.
 
 
 ### Data validation
@@ -287,18 +288,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Database
 
 - Drivers
-  - [LevelUP](https://github.com/rvagg/node-levelup) - LevelDB, Node.js style.
-  - [MongoDB](https://github.com/mongodb/node-mongodb-native) - Native MongoDB driver for Node.js.
-  - [MySQL](https://github.com/felixge/node-mysql) - A pure Node.js JavaScript Client implementing the MySQL protocol.
-  - [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js. Pure JavaScript and native libpq bindings.
-  - [Redis](https://github.com/mranney/node_redis) - Redis client for Node.js.
+	- [LevelUP](https://github.com/rvagg/node-levelup) - LevelDB.
+	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
+	- [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
+	- [MySQL](https://github.com/felixge/node-mysql) - MySQL client.
+	- [Redis](https://github.com/mranney/node_redis) - Redis client.
 - ODM / ORM
-  - [Bookshelf](http://bookshelfjs.org/) - A Node.js ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
-  - [JugglingDB](https://github.com/1602/jugglingdb) - Multi-database ORM: Redis, MongoDB, MySQL, SQLite, PostgreSQL, Neo4j, memory... Many databases, common API.
-  - [Mongoose](http://mongoosejs.com/) - Elegant MongoDB object modeling for Node.js.
-  - [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports SQLite, MySQL, PostgreSQL.
+	- [Bookshelf](http://bookshelfjs.org/) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
+	- [JugglingDB](https://github.com/1602/jugglingdb) - Multi-database ORM with a common API. Supports Redis, PostgreSQL, MongoDB, MySQL, SQLite, Neo4j, memory, and more.
+	- [Mongoose](http://mongoosejs.com/) - Elegant MongoDB object modeling.
+	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
 - Query builder
-  - [Knex](http://knexjs.org/) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+	- [Knex](http://knexjs.org/) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 
 
 ### Testing
@@ -330,6 +331,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
 ### Email
+
 - [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
 
 
@@ -363,10 +365,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 - [BitcoinJS](http://bitcoinjs.org/) - The clean, readable, proven library for Bitcoin JavaScript development.
-
-
-
-
 
 
 ## Resources
