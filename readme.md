@@ -68,6 +68,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 - [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts.
 - [tmpin](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
+- [normit](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 
 
 ### HTTP
