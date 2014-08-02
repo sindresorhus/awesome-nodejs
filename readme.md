@@ -393,6 +393,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Videos
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
+- [Node.js & Express 101 by Alex Ford](https://www.youtube.com/watch?v=BN0JlMZCtNU)
 
 ### Podcasts
 
