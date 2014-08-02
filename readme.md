@@ -368,6 +368,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [BitcoinJS](http://bitcoinjs.org/) - The clean, readable, proven library for Bitcoin JavaScript development.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 - [PDFKit](http://pdfkit.org/) - A JavaScript PDF generation library.
+- [Natural](https://github.com/NaturalNode/natural) - A general natural language facility.
 
 
 ## Resources
