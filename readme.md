@@ -41,6 +41,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Node.js management](#nodejs-management)
 - [Email](#email)
 - [Polyfills](#polyfills)
+- [Natural Language Processing](#natural-language-processing)
 - [AST](#ast)
 - [Weird](#weird)
 - [Miscellaneous](#miscellaneous)
@@ -342,6 +343,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 Reflect and Proxy polyfill.
 - [es6-shim](https://github.com/paulmillr/es6-shim) - Collection of ES6 polyfills.
 - More ES6 polyfills at [es6-tools](https://github.com/addyosmani/es6-tools#polyfills).
+
+
+### Natural Language Processing
+
+- [Natural](https://github.com/NaturalNode/natural) - A general natural language facility.
+- [retext](https://github.com/wooorm/retext) - An extensible natural language system.
 
 
 ### AST
