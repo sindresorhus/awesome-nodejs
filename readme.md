@@ -24,6 +24,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Date](#date)
 - [Image](#image)
 - [Text](#text)
+- [Array](#array)
 - [Math](#math)
 - [Data validation](#data-validation)
 - [Parsing](#parsing)
@@ -218,6 +219,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [detect-indent](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 - [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
 
+
++### Array
+ +- [_s](https://github.com/usablica/_s) - Pythonic array slicing.
 
 ### Math
 
