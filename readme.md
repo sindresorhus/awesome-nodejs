@@ -228,6 +228,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Data validation
 
 - [joi](https://github.com/spumko/joi) - Object schema description language and validator for JavaScript objects.
+- [schema-inspector](https://github.com/atinux/schema-inspector) - Use schemas for sanitizing and validating JavaScript objects.
 
 
 ### Parsing
