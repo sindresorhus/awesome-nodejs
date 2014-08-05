@@ -81,7 +81,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
 - [hyperquest](https://github.com/substack/hyperquest) - Streaming HTTP requests.
 - [spdy](https://github.com/indutny/node-spdy) - Creates SPDY servers with the same API as the built-in `https` module.
-
+- [Nock](https://github.com/pgte/nock) - A HTTP mocking and expectations library.
 
 ### Debugging / Profiling
 
