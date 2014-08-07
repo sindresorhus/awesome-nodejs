@@ -381,6 +381,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PDFKit](http://pdfkit.org/) - A JavaScript PDF generation library.
 - [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
 - [node-windows](https://github.com/coreybutler/node-windows) - Run scripts as a Windows service and log to the Event viewer.
+- [node-mac](https://github.com/coreybutler/node-mac) - Run scripts as a Mac daemon and log to the console app.
 
 
 ## Resources
