@@ -186,6 +186,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [co-stream](https://github.com/juliangruber/co-stream) - [co](https://github.com/visionmedia/co) generator stream.
 - [byline](https://www.npmjs.org/package/byline) - Super-simple line-by-line Stream reader.
 - [first-chunk-stream](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
+- [duplexify](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
+- [pumpify](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
+- [from2](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`.
+- [from2-array](https://github.com/binocarlos/from2-array) - Create a `from2` stream based on an array of source values.
 
 
 ### Real-time
