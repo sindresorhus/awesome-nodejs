@@ -382,6 +382,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
 - [node-windows](https://github.com/coreybutler/node-windows) - Run scripts as a Windows service and log to the Event viewer.
 - [node-mac](https://github.com/coreybutler/node-mac) - Run scripts as a Mac daemon and log to the console app.
+- [node-linux](https://github.com/coreybutler/node-linux) - Run scripts as systemv services and log to syslog.
 
 
 ## Resources
