@@ -91,7 +91,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [debug](https://github.com/visionmedia/debug) - Tiny debugging utility.
 - [jstrace](https://github.com/jstrace/jstrace) - Dynamic tracing for JavaScript, similar to dtrace, ktap etc.
 - [TraceGL](https://github.com/traceglMPL/tracegl) - Transforms your JavaScript, injecting monitoring code that produces a log of everything that happens.
-- [Spy-js](https://github.com/spy-js/spy-js#installation) - Tracing tool for JavaScript, featuring configurable event capturing, searchable call stack, code coverage, recorded object values inspection, multi process and node cluster tracing support. 
+- [Spy-js](https://github.com/spy-js/spy-js#installation) - Tracing tool for JavaScript, featuring configurable event capturing, searchable call stack, code coverage, recorded object values inspection, multi process and node cluster tracing support.
 
 
 ### Logging
@@ -186,6 +186,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [co-stream](https://github.com/juliangruber/co-stream) - [co](https://github.com/visionmedia/co) generator stream.
 - [byline](https://www.npmjs.org/package/byline) - Super-simple line-by-line Stream reader.
 - [first-chunk-stream](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
+- [combined-stream](https://github.com/felixge/node-combined-stream) - A stream that emits multiple other streams one after another.
 
 
 ### Real-time
