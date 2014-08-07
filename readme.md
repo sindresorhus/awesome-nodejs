@@ -380,6 +380,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 - [PDFKit](http://pdfkit.org/) - A JavaScript PDF generation library.
 - [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
+- [node-windows](https://github.com/coreybutler/node-windows) - Run scripts as a Windows service and log to the Event viewer.
 
 
 ## Resources
