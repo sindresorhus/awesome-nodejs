@@ -277,6 +277,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Archiver](https://github.com/ctalkington/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
 - [decompress-zip](https://github.com/bower/decompress-zip) - Unzip.
 - [tar-stream](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs](https://github.com/mafintosh/tar-fs).
+- [decompress](https://github.com/kevva/decompress) - A pluggable decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
 
 
 ### Network
