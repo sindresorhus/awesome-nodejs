@@ -377,6 +377,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 
 
+### Process management
+
+- [node-windows](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer.
+- [node-mac](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
+- [node-linux](https://github.com/coreybutler/node-linux) - Run scripts as native systemv service and log to syslog.
+- [forever](https://github.com/nodejitsu/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
+- [supervisor](https://github.com/isaacs/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
+
+
 ### AST
 
 - [Acorn](https://github.com/marijnh/acorn/) - A tiny, fast JavaScript parser.
