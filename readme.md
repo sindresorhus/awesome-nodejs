@@ -14,6 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Logging](#logging)
 - [Web frameworks](#web-frameworks)
 - [Command-line utilities](#command-line-utilities)
+- [Package managers](#package-managers)
 - [Build tools](#build-tools)
 - [Templating](#templating)
 - [Documentation](#documentation)
@@ -53,12 +54,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
 - [mori](http://swannodette.github.io/mori/) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 - [Folktale](http://folktale.github.io/) - A suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse.
+- [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 
 
 ### Command-line apps
 
-- [npm](https://github.com/npm/npm/) - A package-manager for Node.js.
-- [Bower](http://bower.io) - A package manager for the web.
 - [Yo](https://github.com/yeoman/yo) - Run Yeoman generators.
 - [Pageres](https://github.com/sindresorhus/pageres) - Responsive website screenshots.
 - [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager.
@@ -130,6 +130,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [googleauth](https://github.com/maxogden/googleauth) - Create and load persistent Google authentication tokens for command-line apps.
 
 
+### Package managers
+
+- [npm](https://github.com/npm/npm/) - A package manager for Node.js and the web.
+- [Bower](http://bower.io) - A package manager for the web.
+- [Component](https://github.com/component/component) - A package manager for building better web apps.
+- [Duo](https://www.npmjs.org/package/duo) - The next `Component`.
+
+
 ### Build tools
 
 - [gulp.js](http://gulpjs.com) - Streaming and fast build system that favors code over config.
@@ -192,6 +200,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pumpify](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
 - [from2](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`.
 - [from2-array](https://github.com/binocarlos/from2-array) - Create a `from2` stream based on an array of source values.
+- [peek-stream](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
+- [binary-split](https://github.com/maxogden/binary-split) - A fast newline (or any delimiter) splitter stream.
 
 
 ### Real-time
@@ -224,6 +234,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [strip-indent](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 - [detect-indent](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 - [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
+- [string-length](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
 
 
 ### Math
@@ -247,6 +258,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSONStream](https://github.com/dominictarr/JSONStream) - Streaming JSON.parse and stringify.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming CSV parser that aims to be faster than everyone else.
 - [excel-stream](https://github.com/dominictarr/excel-stream) - Streaming Excel spreadsheet to JSON parser.
+- [htmlparser2](https://github.com/fb55/htmlparser2/) - Forgiving HTML/XML parser.
+- [PostCSS](https://github.com/postcss/postcss) - Framework for CSS postprocessors, to modify CSS.
 
 
 ### Humanize
@@ -357,7 +370,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Natural Language Processing
 
-- [Natural](https://github.com/NaturalNode/natural) - A general natural language facility.
+- [natural](https://github.com/NaturalNode/natural) - A general natural language facility.
 - [retext](https://github.com/wooorm/retext) - An extensible natural language system.
 
 
@@ -386,6 +399,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 - [PDFKit](http://pdfkit.org/) - A JavaScript PDF generation library.
 - [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
+- [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
+- [shelljs](https://github.com/arturadib/shelljs) - Portable Unix shell commands.
+- [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder.
+- [nan](https://github.com/rvagg/nan) - A header file filled with macro and utility goodness for making add-on development for across Node.js versions easier.
 
 
 ## Resources
