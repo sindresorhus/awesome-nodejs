@@ -92,6 +92,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [jstrace](https://github.com/jstrace/jstrace) - Dynamic tracing for JavaScript, similar to dtrace, ktap etc.
 - [TraceGL](https://github.com/traceglMPL/tracegl) - Transforms your JavaScript, injecting monitoring code that produces a log of everything that happens.
 - [spy-js](https://github.com/spy-js/spy-js#installation) - Tracing tool for JavaScript, featuring configurable event capturing, searchable call stack, code coverage, recorded object values inspection, multi process and node cluster tracing support.
+- [njsTrace](https://github.com/valyouw/njstrace) - Instrument and trace you code, see all function calls, arguments, return values, as well as the time spent in each function.
 
 
 ### Logging
@@ -373,6 +374,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [natural](https://github.com/NaturalNode/natural) - A general natural language facility.
 - [retext](https://github.com/wooorm/retext) - An extensible natural language system.
+- [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 
 
 ### AST
