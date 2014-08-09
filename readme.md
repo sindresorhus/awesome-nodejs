@@ -307,6 +307,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [ghost](https://ghost.org) - Simple, powerful publishing platform that allows you to share your story with the world.
 - [Hexo](http://hexo.io) - Fast, simple and powerful blogging framework.
+- [OurJS](http://code.ourjs.com) - Free Blog, Forum, Website Platform and CMS based on Node.JS.
 
 
 ### Database
