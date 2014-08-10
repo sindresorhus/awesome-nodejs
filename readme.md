@@ -42,7 +42,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Node.js management](#nodejs-management)
 - [Email](#email)
 - [Polyfills](#polyfills)
-- [Natural Language Processing](#natural-language-processing)
+- [Natural language processing](#natural-language-processing)
 - [AST](#ast)
 - [Weird](#weird)
 - [Miscellaneous](#miscellaneous)
@@ -370,7 +370,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - More ES6 polyfills at [es6-tools](https://github.com/addyosmani/es6-tools#polyfills).
 
 
-### Natural Language Processing
+### Natural language processing
 
 - [natural](https://github.com/NaturalNode/natural) - A general natural language facility.
 - [retext](https://github.com/wooorm/retext) - An extensible natural language system.
@@ -381,7 +381,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [node-windows](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer.
 - [node-mac](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
-- [node-linux](https://github.com/coreybutler/node-linux) - Run scripts as native systemv service and log to syslog.
+- [node-linux](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
 - [forever](https://github.com/nodejitsu/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
 - [supervisor](https://github.com/isaacs/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
 
