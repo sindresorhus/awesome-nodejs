@@ -120,6 +120,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling done right.
 - [minimist](https://github.com/substack/minimist) - Parse command-line flags
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
+- [commander.js](https://github.com/visionmedia/commander.js) - node.js command-line interfaces made easy.
 - [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app.
 - [sudo-block](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
 - [configstore](https://github.com/yeoman/configstore) - Easily load and persist config without having to think about where and how.
@@ -396,7 +397,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### AST
 
-- [Acorn](https://github.com/marijnh/acorn/) - A tiny, fast JavaScript parser.
+- [Esprima](http://esprima.org/) - A high performance, standard-compliant ECMAScript parser which uses the SpiderMonkey AST format and has full code coverage.
+- [Acorn](https://github.com/marijnh/acorn/) - A tiny, fast JavaScript parser, inspired by and compatible with Esprima.
 - [Rocambole](https://github.com/millermedeiros/rocambole) - Recursively walk and transform JavaScript AST.
 
 
