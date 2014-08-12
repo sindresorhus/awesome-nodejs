@@ -77,7 +77,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### HTTP
 
 - [request](https://github.com/mikeal/request) - Simplified HTTP request client.
-- [got](https://github.com/sindresorhus/got) - A nicer interface to the built-in `http` module.
+- [got](https://github.com/sindresorhus/got) / [sent](https://github.com/floatdrop/sent) - A nicer interface to the built-in `http` module.
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
 - [hyperquest](https://github.com/substack/hyperquest) - Streaming HTTP requests.
 - [spdy](https://github.com/indutny/node-spdy) - Creates SPDY servers with the same API as the built-in `https` module.
