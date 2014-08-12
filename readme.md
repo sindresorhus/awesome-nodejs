@@ -37,6 +37,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Blogging](#blogging)
 - [Database](#database)
 - [Testing](#testing)
+- [Benchmarking](#benchmarking)
 - [Minifiers](#minifiers)
 - [Authentication](#authentication)
 - [Node.js management](#nodejs-management)
@@ -335,6 +336,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mocha](http://visionmedia.github.io/mocha/) - A feature-rich test framework making asynchronous testing simple and fun.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
 - [istanbul](https://github.com/gotwarlost/istanbul) - A code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests.
+
+
+### Benchmarking
+
+- [Benchmark.js](http://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
+- [matcha](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
 
 ### Minifiers
