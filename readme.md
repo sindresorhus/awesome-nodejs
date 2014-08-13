@@ -261,6 +261,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSONStream](https://github.com/dominictarr/JSONStream) - Streaming JSON.parse and stringify.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - Streaming CSV parser that aims to be faster than everyone else.
 - [excel-stream](https://github.com/dominictarr/excel-stream) - Streaming Excel spreadsheet to JSON parser.
+- [parser5](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
 - [htmlparser2](https://github.com/fb55/htmlparser2/) - Forgiving HTML/XML parser.
 - [PostCSS](https://github.com/postcss/postcss) - Framework for CSS postprocessors, to modify CSS.
 
