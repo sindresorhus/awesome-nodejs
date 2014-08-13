@@ -424,6 +424,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [shelljs](https://github.com/arturadib/shelljs) - Portable Unix shell commands.
 - [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder.
 - [nan](https://github.com/rvagg/nan) - A header file filled with macro and utility goodness for making add-on development for across Node.js versions easier.
+- [ssh2](https://github.com/mscdex/ssh2) - An SSH2 client module.
 
 
 ## Resources
