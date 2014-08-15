@@ -205,6 +205,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [from2-array](https://github.com/binocarlos/from2-array) - Create a `from2` stream based on an array of source values.
 - [peek-stream](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
 - [binary-split](https://github.com/maxogden/binary-split) - A fast newline (or any delimiter) splitter stream.
+- [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream/) - Fast convertion/scaling of images using a pool of long lived graphicsmagick processes.
 
 
 ### Real-time
