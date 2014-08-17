@@ -96,6 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [TraceGL](https://github.com/traceglMPL/tracegl) - Transforms your JavaScript, injecting monitoring code that produces a log of everything that happens.
 - [spy-js](https://github.com/spy-js/spy-js#installation) - Tracing tool for JavaScript, featuring configurable event capturing, searchable call stack, code coverage, recorded object values inspection, multi process and node cluster tracing support.
 - [njsTrace](https://github.com/valyouw/njstrace) - Instrument and trace you code, see all function calls, arguments, return values, as well as the time spent in each function.
+- [vstream](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
 
 
 ### Logging
