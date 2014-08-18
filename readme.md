@@ -345,6 +345,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Benchmark.js](http://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
 - [matcha](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+- [perfbar](http://lafikl.github.io/perfBar/) - Simple way to collect and look at your website performance metrics quickly, that supports budgeting and adding custom metrics.
 
 
 ### Minifiers
