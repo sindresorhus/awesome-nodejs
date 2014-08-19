@@ -103,6 +103,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [winston](https://github.com/flatiron/winston) - A multi-transport async logging library.
 - [Bunyan](https://github.com/trentm/node-bunyan) - A simple and fast JSON logging library.
+- [Bragi](https://github.com/enoex/Bragi-Node) - A group-based, colorful, multi-transport logging framework
 
 
 ### Web frameworks
