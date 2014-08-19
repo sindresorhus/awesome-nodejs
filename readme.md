@@ -132,6 +132,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
 - [columnify](https://github.com/timoxley/columnify) - Create text-based columns suitable for console output. Supports cell wrapping.
 - [googleauth](https://github.com/maxogden/googleauth) - Create and load persistent Google authentication tokens for command-line apps.
+- [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
 
 
 ### Package managers
@@ -206,6 +207,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [from2-array](https://github.com/binocarlos/from2-array) - Create a `from2` stream based on an array of source values.
 - [peek-stream](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
 - [binary-split](https://github.com/maxogden/binary-split) - A fast newline (or any delimiter) splitter stream.
+- [multistream](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 - [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream/) - Fast convertion/scaling of images using a pool of long lived graphicsmagick processes.
 
 
@@ -289,6 +291,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Network
 
 - [get-port](https://github.com/sindresorhus/get-port) - Get an available port.
+- [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
 
 
 ### Static site generators
