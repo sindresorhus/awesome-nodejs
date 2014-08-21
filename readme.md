@@ -44,6 +44,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Email](#email)
 - [Polyfills](#polyfills)
 - [Natural language processing](#natural-language-processing)
+- [Process management](#process-management)
 - [AST](#ast)
 - [Weird](#weird)
 - [Miscellaneous](#miscellaneous)
