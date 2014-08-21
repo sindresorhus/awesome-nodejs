@@ -63,7 +63,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Yo](https://github.com/yeoman/yo) - Run Yeoman generators.
 - [Pageres](https://github.com/sindresorhus/pageres) - Responsive website screenshots.
-- [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager.
 - [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm`.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [JSHint](http://jshint.com) - A community-driven tool to detect errors and potential problems in JavaScript code.
@@ -399,6 +398,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [node-linux](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
 - [forever](https://github.com/nodejitsu/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
 - [supervisor](https://github.com/isaacs/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
+- [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager.
 
 
 ### AST
