@@ -109,7 +109,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SailsJS](http://sailsjs.org) - An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.
 - [Restify](http://mcavage.me/node-restify/) - A node framework built specifically to enable you to build correct REST web services.
 - [Derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
-
+    - [Derby-awesome](https://github.com/onerussell/awesome-derby) - A collection of awesome derby components
 
 
 ### Command-line utilities
