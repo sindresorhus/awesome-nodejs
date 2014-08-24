@@ -449,6 +449,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Videos
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
+- [A lot of Node.js free screencasts](http://caio-ribeiro-pereira.github.io/devfreecasts/nodejs)
 
 ### Podcasts
 
