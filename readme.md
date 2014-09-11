@@ -59,6 +59,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ipfs](https://github.com/jbenet/node-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 - [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
+- [node-os](http://node-os.com) - The first operating system powered by npm.
 - [PDFKit](http://pdfkit.org) - PDF generation library.
 
 
