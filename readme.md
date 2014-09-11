@@ -84,7 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [spdy](https://github.com/indutny/node-spdy) - Creates SPDY servers with the same API as the built-in `https` module.
 - [Nock](https://github.com/pgte/nock) - A HTTP mocking and expectations library.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
-- [wreck](https://www.npmjs.org/package/wreck) - HTTP Client Utilities
+- [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities
 
 
 ### Debugging / Profiling
@@ -141,7 +141,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [npm](https://github.com/npm/npm/) - A package manager for Node.js and the web.
 - [Bower](http://bower.io) - A package manager for the web.
 - [Component](https://github.com/component/component) - A package manager for building better web apps.
-- [Duo](https://www.npmjs.org/package/duo) - The next `Component`.
+- [Duo](http://duojs.org) - A next-generation package manager for the front-end.
 
 
 ### Build tools
@@ -187,7 +187,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - Generators
 	- [co](https://github.com/visionmedia/co) - The ultimate generator based flow-control goodness.
 - Promises
-	- [native-promise-only](https://www.npmjs.org/package/native-promise-only) - A polyfill for native ES6 Promises.
+	- [native-promise-only](https://github.com/getify/native-promise-only) - A polyfill for native ES6 Promises.
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
 	- [Q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises.
 - Streams
@@ -200,7 +200,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [concat-stream](https://github.com/maxogden/concat-stream) - Concatenates a stream into strings or binary data.
 - [simple-bufferstream](https://github.com/rvagg/node-simple-bufferstream) - Turn a Buffer into a ReadableStream.
 - [co-stream](https://github.com/juliangruber/co-stream) - [co](https://github.com/visionmedia/co) generator stream.
-- [byline](https://www.npmjs.org/package/byline) - Super-simple line-by-line Stream reader.
+- [byline](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
 - [first-chunk-stream](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
 - [duplexify](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
 - [pumpify](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
