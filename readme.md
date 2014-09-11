@@ -7,8 +7,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Packages
 
-- [Functional programming](#functional-programming)
+- [Mad science](#mad-science)
 - [Command-line apps](#command-line-apps)
+- [Functional programming](#functional-programming)
 - [HTTP](#http)
 - [Debugging / Profiling](#debugging--profiling)
 - [Logging](#logging)
@@ -50,23 +51,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Miscellaneous](#miscellaneous)
 
 
-### Functional programming
+### Mad science
 
-- [Lo-Dash](http://lodash.com) - A utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
-- [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
-- [mori](http://swannodette.github.io/mori/) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
-- [Folktale](http://folktale.github.io/) - A suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse.
-- [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
+- [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser.
+- [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
+- [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
+- [ipfs](https://github.com/jbenet/node-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
+- [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
+- [PDFKit](http://pdfkit.org) - PDF generation library.
 
 
 ### Command-line apps
 
-- [Yo](https://github.com/yeoman/yo) - Run Yeoman generators.
-- [Pageres](https://github.com/sindresorhus/pageres) - Responsive website screenshots.
+- [pageres](https://github.com/sindresorhus/pageres) - Responsive website screenshots.
 - [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm`.
+- [Yo](https://github.com/yeoman/yo) - Run Yeoman generators.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [JSHint](http://jshint.com) - A community-driven tool to detect errors and potential problems in JavaScript code.
-- [JSCS](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker
+- [JSCS](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files.
 - [torrent](https://github.com/maxogden/torrent) - Download torrents.
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
@@ -74,6 +76,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [tmpin](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
 - [normit](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 - [esformatter](https://github.com/millermedeiros/esformatter) - JavaScript code beautifier/formatter.
+- [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
+- [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
+
+
+### Functional programming
+
+- [Lo-Dash](http://lodash.com) - A utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
+- [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
+- [mori](http://swannodette.github.io/mori/) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
+- [Folktale](http://folktale.github.io) - A suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse.
+- [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 
 
 ### HTTP
@@ -85,7 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [spdy](https://github.com/indutny/node-spdy) - Creates SPDY servers with the same API as the built-in `https` module.
 - [Nock](https://github.com/pgte/nock) - A HTTP mocking and expectations library.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
-- [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities
+- [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
 
 
 ### Debugging / Profiling
@@ -121,12 +134,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Command-line utilities
 
 - [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling done right.
-- [minimist](https://github.com/substack/minimist) - Parse command-line flags
+- [minimist](https://github.com/substack/minimist) - Parse command-line flags.
+- [get-stdin](https://github.com/sindresorhus/get-stdin) - Easier stdin.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
 - [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app.
 - [sudo-block](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
 - [configstore](https://github.com/yeoman/configstore) - Easily load and persist config without having to think about where and how.
 - [insight](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
+- [sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
 - [blessed](https://github.com/chjj/blessed) - A curses-like library.
 - [cli-table](https://github.com/LearnBoost/cli-table) - Pretty unicode tables.
 - [drawille](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
@@ -135,6 +150,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [columnify](https://github.com/timoxley/columnify) - Create text-based columns suitable for console output. Supports cell wrapping.
 - [googleauth](https://github.com/maxogden/googleauth) - Create and load persistent Google authentication tokens for command-line apps.
 - [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
+- [cli-cursor](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
 
 
 ### Package managers
@@ -307,7 +323,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [KeystoneJS](http://keystonejs.com) - CMS and web application platform built on Express and MongoDB.
 - [Calipso](http://calip.so) - A simple content management system, built along similar themes to Drupal and Wordpress, that is designed to be fast, flexible and simple.
-- [Apostrophe2](http://apostrophenow.org/) - A content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
+- [Apostrophe2](http://apostrophenow.org) - A content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
 
 
 ### Forum
@@ -330,13 +346,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [MySQL](https://github.com/felixge/node-mysql) - MySQL client.
 	- [Redis](https://github.com/mranney/node_redis) - Redis client.
 - ODM / ORM
-	- [Bookshelf](http://bookshelfjs.org/) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
+	- [Bookshelf](http://bookshelfjs.org) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
 	- [JugglingDB](https://github.com/1602/jugglingdb) - Multi-database ORM with a common API. Supports Redis, PostgreSQL, MongoDB, MySQL, SQLite, Neo4j, memory, and more.
-	- [Mongoose](http://mongoosejs.com/) - Elegant MongoDB object modeling.
+	- [Mongoose](http://mongoosejs.com) - Elegant MongoDB object modeling.
 	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
     - [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
 - Query builder
-	- [Knex](http://knexjs.org/) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+	- [Knex](http://knexjs.org) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 
 
 ### Testing
@@ -349,7 +365,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Benchmarking
 
-- [Benchmark.js](http://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
+- [Benchmark.js](http://benchmarkjs.com) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
 - [matcha](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
 
@@ -424,16 +440,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [require-uncached](https://github.com/sindresorhus/require-uncached) - Require a module bypassing the cache.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
-- [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
-- [BitcoinJS](http://bitcoinjs.org/) - The clean, readable, proven library for Bitcoin JavaScript development.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
-- [PDFKit](http://pdfkit.org/) - A JavaScript PDF generation library.
 - [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 - [shelljs](https://github.com/arturadib/shelljs) - Portable Unix shell commands.
 - [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder.
 - [nan](https://github.com/rvagg/nan) - A header file filled with macro and utility goodness for making add-on development for across Node.js versions easier.
 - [ssh2](https://github.com/mscdex/ssh2) - An SSH2 client module.
+- [lazy-req](https://github.com/sindresorhus/lazy-req) - Require modules lazily.
 
 
 ## Resources
