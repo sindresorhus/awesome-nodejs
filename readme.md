@@ -332,6 +332,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [JugglingDB](https://github.com/1602/jugglingdb) - Multi-database ORM with a common API. Supports Redis, PostgreSQL, MongoDB, MySQL, SQLite, Neo4j, memory, and more.
 	- [Mongoose](http://mongoosejs.com/) - Elegant MongoDB object modeling.
 	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
+    - [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
 - Query builder
 	- [Knex](http://knexjs.org/) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 
