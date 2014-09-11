@@ -84,6 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [spdy](https://github.com/indutny/node-spdy) - Creates SPDY servers with the same API as the built-in `https` module.
 - [Nock](https://github.com/pgte/nock) - A HTTP mocking and expectations library.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
+- [wreck](https://www.npmjs.org/package/wreck) - HTTP Client Utilities
 
 
 ### Debugging / Profiling
