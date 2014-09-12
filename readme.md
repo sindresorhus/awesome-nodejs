@@ -163,6 +163,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bower](http://bower.io) - A package manager for the web.
 - [Component](https://github.com/component/component) - A package manager for building better web apps.
 - [Duo](http://duojs.org) - A next-generation package manager for the front-end.
+- [jspm.io](http://jspm.io) - Frictionless browser package management with support for ES6, CommonJS, AMD modules.
 
 
 ### Build tools
