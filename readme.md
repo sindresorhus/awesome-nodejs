@@ -192,6 +192,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSDoc](http://usejsdoc.org) - API documentation generator similar to JavaDoc or PHPDoc.
 - [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator using Markdown and JSDoc.
 - [jsdox](https://github.com/sutoiku/jsdox) - JSDoc3 to Markdown documentation generator.
+- [apiDoc](https://github.com/apidoc/apidoc) - Inline Documentation for RESTful web APIs.
 
 
 ### Filesystem
