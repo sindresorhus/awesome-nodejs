@@ -58,10 +58,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dat](http://dat-data.com) - Real-time replication and versioning for data sets.
 - [ipfs](https://github.com/jbenet/node-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 - [Breach](http://breach.cc) - Modular and hackable browser written in JavaScript.
+- [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 - [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
 - [NodeOS](http://node-os.com) - The first operating system powered by npm.
 - [PDFKit](http://pdfkit.org) - PDF generation library.
+- [turf](https://github.com/Turfjs/turf/) - Modular geospatial processing and analysis engine.
 
 
 ### Command-line apps
@@ -81,6 +83,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [esformatter](https://github.com/millermedeiros/esformatter) - JavaScript code beautifier/formatter.
 - [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
 - [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
+- [http-server](https://github.com/nodeapps/http-server) - Simple, zero-config command-line HTTP server.
 - [bcat](https://github.com/kessler/node-bcat) - Pipe command output to the browser.
 
 ### Functional programming
@@ -90,6 +93,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mori](http://swannodette.github.io/mori/) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 - [Folktale](http://folktale.github.io) - A suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse.
 - [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
+- [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) - The brass buckles on Underscore's utility belt.
 
 
 ### HTTP
@@ -133,6 +137,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SailsJS](http://sailsjs.org) - An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.
 - [Restify](http://mcavage.me/node-restify/) - A node framework built specifically to enable you to build correct REST web services.
 - [Derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
+- [Interfake](https://github.com/basicallydan/interfake) - Rapid prototyping framework for making mock HTTP APIs, with a Node, command-line and HTTP interface.
 
 
 ### Command-line utilities
@@ -163,6 +168,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bower](http://bower.io) - A package manager for the web.
 - [Component](https://github.com/component/component) - A package manager for building better web apps.
 - [Duo](http://duojs.org) - A next-generation package manager for the front-end.
+- [jspm.io](http://jspm.io) - Frictionless browser package management with support for ES6, CommonJS, AMD modules.
 
 
 ### Build tools
@@ -171,6 +177,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [grunt](http://gruntjs.com) - Task runner that can perform repetitive tasks like minification, compilation, unit testing, linting, etc.
 - [Broccoli](https://github.com/broccolijs/broccoli) - A fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
+- [webpack](https://github.com/webpack/webpack) - Packs CommonJS/AMD modules for the browser.
 
 
 ### Templating
@@ -187,6 +194,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [JSDoc](http://usejsdoc.org) - API documentation generator similar to JavaDoc or PHPDoc.
 - [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator using Markdown and JSDoc.
 - [jsdox](https://github.com/sutoiku/jsdox) - JSDoc3 to Markdown documentation generator.
+- [apiDoc](https://github.com/apidoc/apidoc) - Inline documentation for RESTful web APIs.
 
 
 ### Filesystem
@@ -231,6 +239,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [binary-split](https://github.com/maxogden/binary-split) - A fast newline (or any delimiter) splitter stream.
 - [multistream](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 - [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream/) - Fast convertion/scaling of images using a pool of long lived graphicsmagick processes.
+- [readable-stream](https://github.com/isaacs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 
 
 ### Real-time
@@ -238,6 +247,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Socket.io](http://socket.io) - Enables real-time bidirectional event-based communication.
 - [SocketCluster](https://github.com/topcloud/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 - [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
+- [Straw](https://github.com/simonswain/straw) - Real-time dataflow framework.
 
 
 ### Date
@@ -264,6 +274,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [detect-indent](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 - [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
 - [string-length](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
+- [speakingurl](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
 
 
 ### Math
@@ -365,6 +376,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mocha](http://visionmedia.github.io/mocha/) - A feature-rich test framework making asynchronous testing simple and fun.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
 - [istanbul](https://github.com/gotwarlost/istanbul) - A code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests.
+- [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks.
 
 
 ### Benchmarking
@@ -385,6 +397,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Passport](http://passportjs.org) - Simple, unobtrusive authentication.
 - [everyauth](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, facebook, & more) for your Connect and Express apps.
+- [passwordless](https://passwordless.net) - Token-based authentication middleware for Express allowing authentication without passwords.
 
 
 ### Node.js management
@@ -422,6 +435,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [forever](https://github.com/nodejitsu/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
 - [supervisor](https://github.com/isaacs/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
 - [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager.
+- [Phusion Passenger](https://www.phusionpassenger.com/node_weekly) - Friendly process manager that integrates directly into Nginx.
 
 
 ### AST
@@ -448,10 +462,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 - [shelljs](https://github.com/arturadib/shelljs) - Portable Unix shell commands.
-- [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder.
 - [nan](https://github.com/rvagg/nan) - A header file filled with macro and utility goodness for making add-on development for across Node.js versions easier.
 - [ssh2](https://github.com/mscdex/ssh2) - An SSH2 client module.
 - [lazy-req](https://github.com/sindresorhus/lazy-req) - Require modules lazily.
+- [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
+- [node-pre-gyp](https://github.com/mapbox/node-pre-gyp/) - Makes it easy to publish and install Node.js C++ addons from binaries.
+- [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
+- [common-errors](https://github.com/shutterstock/node-common-errors) - Common error classes and utility functions.
 
 
 ## Resources
@@ -467,6 +484,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Error Handling in Node.js](http://www.joyent.com/developers/node/design/errors)
 
+### Newsletters
+
+- [node weekly](http://nodeweekly.com) - Weekly e-mail round-up of Node.js news and articles.
+
 ### Videos
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
@@ -480,6 +501,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
 - [Mastering Node](http://visionmedia.github.io/masteringnode/)
 - [Professional Node.js: Building Javascript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
+- [Practical Node.js: Building Real-World Scalable Web Apps](http://practicalnodebook.com)
 
 ### Blogs
 
