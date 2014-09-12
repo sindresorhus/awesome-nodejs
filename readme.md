@@ -131,6 +131,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Koa](http://koajs.com) - A new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
 - [Express](http://expressjs.com) - A minimal and flexible web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
+- [Apper](https://github.com/asyncanup/apper) - Plug and play, restful, real-time application framework for single page apps.
 - [Hapi](http://hapijs.com) - A rich framework for building applications and services.
 - [LoopBack](http://loopback.io) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
 - [Meteor](https://www.meteor.com) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
