@@ -466,6 +466,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp/) - Makes it easy to publish and install Node.js C++ addons from binaries.
 - [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
+- [common-errors](https://github.com/shutterstock/node-common-errors) - Common error classes and utility functions.
 
 
 ## Resources
