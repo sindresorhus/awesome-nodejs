@@ -231,6 +231,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [binary-split](https://github.com/maxogden/binary-split) - A fast newline (or any delimiter) splitter stream.
 - [multistream](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 - [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream/) - Fast convertion/scaling of images using a pool of long lived graphicsmagick processes.
+- [readable-stream](https://github.com/isaacs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 
 
 ### Real-time
