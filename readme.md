@@ -82,6 +82,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [esformatter](https://github.com/millermedeiros/esformatter) - JavaScript code beautifier/formatter.
 - [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
 - [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
+- [http-server](https://github.com/nodeapps/http-server) - Simple, zero-config command-line HTTP server.
 
 
 ### Functional programming
