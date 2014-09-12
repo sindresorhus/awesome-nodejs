@@ -160,6 +160,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [googleauth](https://github.com/maxogden/googleauth) - Create and load persistent Google authentication tokens for command-line apps.
 - [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
 - [cli-cursor](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
+- [bcat](https://github.com/kessler/node-bcat) - Pipe command output to the browser.
 
 
 ### Package managers
