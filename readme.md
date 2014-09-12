@@ -483,6 +483,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Error Handling in Node.js](http://www.joyent.com/developers/node/design/errors)
 
+### Newsletters
+
+- [node weekly](http://nodeweekly.com) - Weekly e-mail round-up of Node.js news and articles.
+
 ### Videos
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
