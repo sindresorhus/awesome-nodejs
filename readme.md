@@ -422,6 +422,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [forever](https://github.com/nodejitsu/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
 - [supervisor](https://github.com/isaacs/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
 - [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager.
+- [Phusion Passenger](https://www.phusionpassenger.com/node_weekly) - Friendly process manager that integrates directly into Nginx.
 
 
 ### AST
