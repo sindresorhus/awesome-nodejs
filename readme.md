@@ -295,6 +295,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [parse5](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
 - [htmlparser2](https://github.com/fb55/htmlparser2/) - Forgiving HTML/XML parser.
 - [PostCSS](https://github.com/postcss/postcss) - Framework for CSS postprocessors, to modify CSS.
+- [speakingurl](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
 
 
 ### Humanize
