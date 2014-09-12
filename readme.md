@@ -72,6 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [JSHint](http://jshint.com) - A community-driven tool to detect errors and potential problems in JavaScript code.
 - [JSCS](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
+- [JSCodeSniffer](https://github.com/dsheiko/jscodesniffer) - JavaScript Code Sniffer
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files.
 - [torrent](https://github.com/maxogden/torrent) - Download torrents.
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
@@ -171,6 +172,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [grunt](http://gruntjs.com) - Task runner that can perform repetitive tasks like minification, compilation, unit testing, linting, etc.
 - [Broccoli](https://github.com/broccolijs/broccoli) - A fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
+- [CommonJS Compiler](https://github.com/dsheiko/cjsc) - CommonJS module compiler.
 
 
 ### Templating
