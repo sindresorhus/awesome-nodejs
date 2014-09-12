@@ -84,6 +84,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
 - [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
 - [http-server](https://github.com/nodeapps/http-server) - Simple, zero-config command-line HTTP server.
+- [bcat](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 
 
 ### Functional programming
