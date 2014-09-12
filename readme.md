@@ -454,6 +454,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nan](https://github.com/rvagg/nan) - A header file filled with macro and utility goodness for making add-on development for across Node.js versions easier.
 - [ssh2](https://github.com/mscdex/ssh2) - An SSH2 client module.
 - [lazy-req](https://github.com/sindresorhus/lazy-req) - Require modules lazily.
+- [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
 
 
 ## Resources
