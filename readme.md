@@ -269,6 +269,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [detect-indent](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 - [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
 - [string-length](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
+- [speakingurl](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
 
 
 ### Math
