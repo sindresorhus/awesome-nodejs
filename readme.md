@@ -64,6 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [NodeOS](http://node-os.com) - The first operating system powered by npm.
 - [PDFKit](http://pdfkit.org) - PDF generation library.
 - [turf](https://github.com/Turfjs/turf/) - Modular geospatial processing and analysis engine.
+- [nikki](https://github.com/odino/nikki) - Browser based IDE
 
 
 ### Command-line apps
