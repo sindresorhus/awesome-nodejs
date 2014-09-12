@@ -385,6 +385,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Passport](http://passportjs.org) - Simple, unobtrusive authentication.
 - [everyauth](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, facebook, & more) for your Connect and Express apps.
+- [passwordless](https://passwordless.net) - Token-based authentication middleware for Express allowing authentication without passwords.
 
 
 ### Node.js management
