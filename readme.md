@@ -60,7 +60,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Breach](http://breach.cc) - Modular and hackable browser written in JavaScript.
 - [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
-- [node-os](http://node-os.com) - The first operating system powered by npm.
+- [NodeOS](http://node-os.com) - The first operating system powered by npm.
 - [PDFKit](http://pdfkit.org) - PDF generation library.
 
 
