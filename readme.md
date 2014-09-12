@@ -171,7 +171,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [grunt](http://gruntjs.com) - Task runner that can perform repetitive tasks like minification, compilation, unit testing, linting, etc.
 - [Broccoli](https://github.com/broccolijs/broccoli) - A fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
-
+- [webpack](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser. Allows to split your codebase into multiple bundles, which can be loaded on demand. Support loaders to preprocess files, i.e. json, jade, coffee, css, less, ... and your custom stuff.
 
 ### Templating
 
