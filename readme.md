@@ -453,7 +453,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nan](https://github.com/rvagg/nan) - A header file filled with macro and utility goodness for making add-on development for across Node.js versions easier.
 - [ssh2](https://github.com/mscdex/ssh2) - An SSH2 client module.
 - [lazy-req](https://github.com/sindresorhus/lazy-req) - Require modules lazily.
-
+- [http-server](https://github.com/nodeapps/http-server) - A "simple, zero-configuration command-line http server".
 
 ## Resources
 
