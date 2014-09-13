@@ -17,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Command-line utilities](#command-line-utilities)
 - [Package managers](#package-managers)
 - [Build tools](#build-tools)
+- [Hardware](#hardware)
 - [Templating](#templating)
 - [Documentation](#documentation)
 - [Filesystem](#filesystem)
@@ -180,6 +181,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
 - [webpack](https://github.com/webpack/webpack) - Packs CommonJS/AMD modules for the browser.
 - [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
+
+### Hardware
+
+- [johnny-five](https://github.com/rwaldron/johnny-five) - Firmata based Arduino Framework.
+- [serialport](https://github.com/voodootikigod/node-serialport) - Access serial ports for reading and writing.
+- [usb](https://github.com/nonolith/node-usb) - USB library.
+
 
 ### Templating
 
@@ -516,6 +524,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Tools
 
 - [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json on GitHub.
+
+### Miscellaneous
+
+- [nodebots](http://nodebots.io) - Robots powered by JavaScript.
 
 
 ## Contribute
