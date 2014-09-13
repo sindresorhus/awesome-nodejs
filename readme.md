@@ -14,6 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Debugging / Profiling](#debugging--profiling)
 - [Logging](#logging)
 - [Web frameworks](#web-frameworks)
+- [Application frameworks](#application-frameworks)
 - [Command-line utilities](#command-line-utilities)
 - [Package managers](#package-managers)
 - [Build tools](#build-tools)
@@ -138,6 +139,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
 - [Interfake](https://github.com/basicallydan/interfake) - Rapid prototyping framework for making mock HTTP APIs, with a Node, command-line and HTTP interface.
 
+### Application frameworks
+
+- [Bearcat](https://github.com/bearcatnode/bearcat) - A POJOs based application framework which provides a lightweight container for writing simple, maintainable node.js inspired by [Java Spring](http://spring.io/)
 
 ### Command-line utilities
 
