@@ -35,6 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Static site generators](#static-site-generators)
 - [Content management systems](#content-management-systems)
 - [Forum](#forum)
+- [CMS](#CMS)
 - [Blogging](#blogging)
 - [Database](#database)
 - [Testing](#testing)
@@ -98,6 +99,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### HTTP
 
+- [jshttp](https://jshttp.github.io/) - Low-Level JavaScript HTTP-related Modules
 - [request](https://github.com/mikeal/request) - Simplified HTTP request client.
 - [got](https://github.com/sindresorhus/got) / [sent](https://github.com/floatdrop/sent) - A nicer interface to the built-in `http` module.
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
@@ -125,6 +127,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [winston](https://github.com/flatiron/winston) - A multi-transport async logging library.
 - [Bunyan](https://github.com/trentm/node-bunyan) - A simple and fast JSON logging library.
+- [log4js](https://github.com/nomiddlename/log4js-node) - A port of log4js to node.js
 
 
 ### Web frameworks
@@ -221,6 +224,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [Q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises.
 - Streams
 	- [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
+- Other
+    - [zone](https://github.com/strongloop/zone) - Flow control and error handling for Node.js
 
 
 ### Streams
@@ -350,6 +355,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [ghost](https://ghost.org) - Simple, powerful publishing platform that allows you to share your story with the world.
 - [Hexo](http://hexo.io) - Fast, simple and powerful blogging framework.
+
+
+### CMS
+
+- [cody](http://www.cody-cms.org)
+- [ourjs](http://code.ourjs.com/)
+- [pencilblue](https://github.com/pencilblue/pencilblue)
+- [keystonejs](http://keystonejs.com/)
 
 
 ### Database
@@ -498,6 +511,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Books
 
+- [node-books](https://github.com/Pana/node-books) - The most complete Node.js book collection
 - [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
 - [Mastering Node](http://visionmedia.github.io/masteringnode/)
 - [Professional Node.js: Building Javascript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
