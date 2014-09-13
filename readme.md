@@ -496,6 +496,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [NodeUp](http://nodeup.com)
 
+### Registries / Lists
+
+- [Node Frameworks](http://nodeframeworks.com): Hand-picked registry of Node.js frameworks.
+
 ### Books
 
 - [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
