@@ -140,6 +140,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Restify](http://mcavage.me/node-restify/) - A node framework built specifically to enable you to build correct REST web services.
 - [Derby](https://github.com/derbyjs/derby) - MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
 - [Interfake](https://github.com/basicallydan/interfake) - Rapid prototyping framework for making mock HTTP APIs, with a Node, command-line and HTTP interface.
+- [Handy.js](http://handyjs.org) - A web application template with pre-built user account management, content publishing, access control and other generic web app functionality
 
 
 ### Command-line utilities
