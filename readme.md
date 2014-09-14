@@ -94,6 +94,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Folktale](http://folktale.github.io) - A suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse.
 - [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 - [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) - The brass buckles on Underscore's utility belt.
+- [LINQJS](https://github.com/joaom182/linqjs) - Language Integrated Query for JavaScript based on C# implementation. It's awesome to work with collections. LINQ technology is a form of declarative, functional programming.
 
 
 ### HTTP
