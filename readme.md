@@ -226,6 +226,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [after-all-results](https://github.com/watson/after-all-results) - Bundle results of async functions calls into one callback with all the results.
 - Generators
 	- [co](https://github.com/visionmedia/co) - The ultimate generator based flow-control goodness.
+	- [suspend](https://github.com/jmar777/suspend) - Generator-based control flow that plays nice with callbacks, promises, and thunks.
 - Promises
 	- [native-promise-only](https://github.com/getify/native-promise-only) - A polyfill for native ES6 Promises.
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
