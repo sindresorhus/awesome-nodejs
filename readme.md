@@ -96,7 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Folktale](http://folktale.github.io) - A suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse.
 - [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 - [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) - The brass buckles on Underscore's utility belt.
-
+- [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
 
 ### HTTP
 
