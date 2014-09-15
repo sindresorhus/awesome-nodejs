@@ -230,7 +230,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [Q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises.
 - Streams
 	- [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
-
+- Channels
+	- [js-csp](https://github.com/jlongster/js-csp) - Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go).
 
 ### Streams
 
