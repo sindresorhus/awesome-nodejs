@@ -108,6 +108,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Nock](https://github.com/pgte/nock) - A HTTP mocking and expectations library.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
+- [request-stats](https://github.com/watson/request-stats) - Get stats like bytes sent and received etc. for each incoming request to a HTTP server.
 
 
 ### Debugging / Profiling
