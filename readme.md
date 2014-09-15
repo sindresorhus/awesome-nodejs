@@ -222,6 +222,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - Callbacks
 	- [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
 	- [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronousity.
+	- [rarity](https://github.com/neamar/rarity) - Continuation tools to control callbacks arity
 - Generators
 	- [co](https://github.com/visionmedia/co) - The ultimate generator based flow-control goodness.
 - Promises
