@@ -381,6 +381,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [Mongoose](http://mongoosejs.com) - Elegant MongoDB object modeling.
 	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
     - [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
+	- [BackboneORM](http://vidigami.github.io/backbone-orm) - A polystore ORM for Node.js and the browser. Provides identical APIs across PostgreSQL, MySQL, MongoDB, HTTP, and memory stores.
 - Query builder
 	- [Knex](http://knexjs.org) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 
