@@ -489,6 +489,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams.
 - [browserify-handbook](https://github.com/substack/browserify-handbook) - The definitive guide for browserify.
 
+### Discovery
+
+- [node-modules.com](http://node-modules.com/) - An alternative npm search engine with a more intelligent and personal results ranking.
+
 ### Articles
 
 - [Error Handling in Node.js](http://www.joyent.com/developers/node/design/errors)
