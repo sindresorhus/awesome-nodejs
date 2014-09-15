@@ -255,6 +255,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [multistream](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 - [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream/) - Fast convertion/scaling of images using a pool of long lived graphicsmagick processes.
 - [readable-stream](https://github.com/isaacs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
+- [object-stream-map](https://github.com/watson/object-stream-map) - Perform a map on a stream of objects.
 
 
 ### Real-time
