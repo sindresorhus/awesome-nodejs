@@ -529,6 +529,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Real Time Web with Node.js](http://node.codeschool.com)
 
+### Cheatsheets
+
+- [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4/index.md)
+
 ### Tools
 
 - [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json on GitHub.
