@@ -315,6 +315,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [parse5](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
 - [htmlparser2](https://github.com/fb55/htmlparser2/) - Forgiving HTML/XML parser.
 - [PostCSS](https://github.com/postcss/postcss) - Framework for CSS postprocessors, to modify CSS.
+- [PEG.js](https://github.com/dmajda/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
 
 
 ### Humanize
