@@ -96,7 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Folktale](http://folktale.github.io) - A suite of libraries for generic functional programming in JavaScript that allows you to write elegant modular applications with fewer bugs, and more reuse.
 - [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 - [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) - The brass buckles on Underscore's utility belt.
-
+- [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
 
 ### HTTP
 
@@ -121,6 +121,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [spy-js](https://github.com/spy-js/spy-js#installation) - Tracing tool for JavaScript, featuring configurable event capturing, searchable call stack, code coverage, recorded object values inspection, multi process and node cluster tracing support.
 - [njsTrace](https://github.com/valyouw/njstrace) - Instrument and trace you code, see all function calls, arguments, return values, as well as the time spent in each function.
 - [vstream](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
+- [stackman](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 
 
 ### Logging
@@ -195,6 +196,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [hogan.js](http://twitter.github.io/hogan.js/) - Twitter's small, fast, phase-separated compiler for Mustache templates.
 - [Jade](https://github.com/visionmedia/jade) - High performance template engine heavily influenced by Haml.
 - [nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
+- [swig](https://github.com/paularmstrong/swig) - Swig is an awesome, Django/Jinja-like template engine.
 
 
 ### Documentation
@@ -222,8 +224,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - Callbacks
 	- [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
 	- [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronousity.
+	- [after-all-results](https://github.com/watson/after-all-results) - Bundle results of async functions calls into one callback with all the results.
 - Generators
 	- [co](https://github.com/visionmedia/co) - The ultimate generator based flow-control goodness.
+	- [suspend](https://github.com/jmar777/suspend) - Generator-based control flow that plays nice with callbacks, promises, and thunks.
 - Promises
 	- [native-promise-only](https://github.com/getify/native-promise-only) - A polyfill for native ES6 Promises.
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
@@ -231,7 +235,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - Streams
 	- [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 - Channels
-	- [js-csp](https://github.com/jlongster/js-csp) - Communicating sequential processes for Javascript (like Clojurescript core.async, or Go). 
+	- [js-csp](https://github.com/jlongster/js-csp) - Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go).
+- Other
+	- [zone](https://github.com/strongloop/zone) - Provides a way to group and track resources and errors across asynchronous operations.
 
 ### Streams
 
@@ -311,6 +317,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [parse5](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
 - [htmlparser2](https://github.com/fb55/htmlparser2/) - Forgiving HTML/XML parser.
 - [PostCSS](https://github.com/postcss/postcss) - Framework for CSS postprocessors, to modify CSS.
+- [PEG.js](https://github.com/dmajda/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
 
 
 ### Humanize
@@ -387,6 +394,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
 - [istanbul](https://github.com/gotwarlost/istanbul) - A code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests.
 - [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks.
+- [Karma](http://karma-runner.github.io) - Executes code in multiple real browsers.
 
 
 ### Benchmarking
@@ -490,6 +498,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams.
 - [browserify-handbook](https://github.com/substack/browserify-handbook) - The definitive guide for browserify.
 
+### Discovery
+
+- [node-modules.com](http://node-modules.com/) - An alternative npm search engine with a more intelligent and personal results ranking.
+
 ### Articles
 
 - [Error Handling in Node.js](http://www.joyent.com/developers/node/design/errors)
@@ -521,6 +533,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Courses
 
 - [Real Time Web with Node.js](http://node.codeschool.com)
+
+### Cheatsheets
+
+- [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4/index.md)
 
 ### Tools
 
