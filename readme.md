@@ -196,6 +196,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [hogan.js](http://twitter.github.io/hogan.js/) - Twitter's small, fast, phase-separated compiler for Mustache templates.
 - [Jade](https://github.com/visionmedia/jade) - High performance template engine heavily influenced by Haml.
 - [nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
+- [swig](https://github.com/paularmstrong/swig) - Swig is an awesome, Django/Jinja-like template engine.
 
 
 ### Documentation
