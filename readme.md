@@ -390,6 +390,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [tape](https://github.com/substack/tape) - [TAP](http://testanything.org)-producing test harness.
 - [Mocha](http://visionmedia.github.io/mocha/) - A feature-rich test framework making asynchronous testing simple and fun.
+- [Mochify](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
 - [istanbul](https://github.com/gotwarlost/istanbul) - A code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests.
 - [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks.
