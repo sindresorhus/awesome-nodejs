@@ -495,7 +495,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Nodeschool](http://nodeschool.io) - Learn Node.js with interactive lessons.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
-- [LearnAllTheNodes](http://www.learnallthenodes.com) - Series of useful tips, tricks, and packages.
 - [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams.
 - [browserify-handbook](https://github.com/substack/browserify-handbook) - The definitive guide for browserify.
 
@@ -514,6 +513,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Videos
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
+- [LearnAllTheNodes](http://www.learnallthenodes.com) - Series of useful tips, tricks, and packages.
 
 ### Podcasts
 
