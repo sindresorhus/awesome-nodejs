@@ -253,7 +253,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [peek-stream](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
 - [binary-split](https://github.com/maxogden/binary-split) - A fast newline (or any delimiter) splitter stream.
 - [multistream](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
-- [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream/) - Fast convertion/scaling of images using a pool of long lived graphicsmagick processes.
+- [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream/) - Fast conversion/scaling of images using a pool of long lived graphicsmagick processes.
 - [readable-stream](https://github.com/isaacs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 - [s3-upload-stream](https://github.com/nathanpeck/s3-upload-stream) - Upload a stream to an Amazon S3 bucket using multipart upload.
 
@@ -324,7 +324,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
 - [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
-- [ms](https://github.com/guille/ms.js) - Tiny milisecond conversion utility.
+- [ms](https://github.com/guille/ms.js) - Tiny millisecond conversion utility.
 - [pretty-error](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
 - [humanize](https://github.com/taijinlee/humanize) - Data formatter for human readability.
 - [node-read](https://github.com/bndr/node-read) - Extract readable content from any page.
