@@ -466,6 +466,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [superb](https://github.com/sindresorhus/superb) - Get superb like words.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
+- [thirteen](https://github.com/phillipalexander/thirteen) - Take any number (or anything that thinks it's a number) and multiply by thirteen.
 
 
 ### Miscellaneous
