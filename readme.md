@@ -188,6 +188,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [johnny-five](https://github.com/rwaldron/johnny-five) - Firmata based Arduino Framework.
 - [serialport](https://github.com/voodootikigod/node-serialport) - Access serial ports for reading and writing.
 - [usb](https://github.com/nonolith/node-usb) - USB library.
+- [cylon.js](http://cylonjs.com/) - Next generation robotics framework with support for 26 different platforms.
 
 
 ### Templating
