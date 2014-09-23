@@ -422,6 +422,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Passport](http://passportjs.org) - Simple, unobtrusive authentication.
 - [everyauth](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, facebook, & more) for your Connect and Express apps.
 - [passwordless](https://passwordless.net) - Token-based authentication middleware for Express allowing authentication without passwords.
+- [Lockit](https://github.com/zemirco/lockit) - Full featured authentication solution for Express. Supports a variety of databases, predefined routes, email and two-factor authentication.
 
 
 ### Node.js management
