@@ -532,6 +532,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mastering Node](http://visionmedia.github.io/masteringnode/)
 - [Professional Node.js: Building Javascript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
 - [Practical Node.js: Building Real-World Scalable Web Apps](http://practicalnodebook.com)
+- [Mixu's Node book](http://book.mixu.net/node/)
 
 ### Blogs
 
