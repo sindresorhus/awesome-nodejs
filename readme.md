@@ -86,7 +86,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
 - [http-server](https://github.com/nodeapps/http-server) - Simple, zero-config command-line HTTP server.
 - [bcat](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
-- [Slap](https://github.com/slap-editor/slap) - Slap is a Sublime-like terminal-based text editor that strives to make editing from the terminal easier. 
+- [Slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
 
 
 ### Functional programming
@@ -98,7 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 - [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) - The brass buckles on Underscore's utility belt.
 - [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
-- [Lazt.js](https://github.com/dtao/lazy.js/) - Lazy.js is a utility library similar to Underscore and Lo-Dash but with one important difference: lazy evaluation, this can translate to superior performance in many cases.
+- [Lazy.js](https://github.com/dtao/lazy.js/) - Utility library similar to Lo-Dash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
 
 ### HTTP
 
@@ -387,6 +387,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [Mongoose](http://mongoosejs.com) - Elegant MongoDB object modeling.
 	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
     - [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
+	- [Iridium](https://github.com/SierraSoftworks/Iridium) - A high performance MongoDB ORM with support for promises, distributed caching, preprocessing, validation and plugins.
+	- [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
 - Query builder
 	- [Knex](http://knexjs.org) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 
@@ -421,6 +423,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Passport](http://passportjs.org) - Simple, unobtrusive authentication.
 - [everyauth](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, facebook, & more) for your Connect and Express apps.
 - [passwordless](https://passwordless.net) - Token-based authentication middleware for Express allowing authentication without passwords.
+- [Lockit](https://github.com/zemirco/lockit) - Full featured authentication solution for Express. Supports a variety of databases, predefined routes, email and two-factor authentication.
 
 
 ### Node.js management
@@ -530,6 +533,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mastering Node](http://visionmedia.github.io/masteringnode/)
 - [Professional Node.js: Building Javascript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
 - [Practical Node.js: Building Real-World Scalable Web Apps](http://practicalnodebook.com)
+- [Mixu's Node book](http://book.mixu.net/node/)
 
 ### Blogs
 
