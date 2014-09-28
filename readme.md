@@ -71,7 +71,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [pageres](https://github.com/sindresorhus/pageres) - Responsive website screenshots.
 - [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm`.
-- [Yo](https://github.com/yeoman/yo) - Run Yeoman generators.
+- [yo](https://github.com/yeoman/yo) - Run Yeoman generators.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [JSHint](http://jshint.com) - A community-driven tool to detect errors and potential problems in JavaScript code.
 - [JSCS](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
@@ -86,6 +86,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
 - [http-server](https://github.com/nodeapps/http-server) - Simple, zero-config command-line HTTP server.
 - [bcat](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
+- [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
 
 
 ### Functional programming
