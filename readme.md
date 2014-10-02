@@ -353,6 +353,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Metalsmith](http://www.metalsmith.io) - An extremely simple, pluggable static site generator.
 - [Wintersmith](http://wintersmith.io) - Flexible, minimalistic, multi-platform static site generator.
 - [Assemble](http://assemble.io) - Static site generator for Node.js, Grunt.js, and Yeoman.
+- [Hexo](http://hexo.io/) - A fast, simple & powerful blog framework, powered by Node.js.
 
 
 ### Content management systems
