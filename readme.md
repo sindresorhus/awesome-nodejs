@@ -451,6 +451,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [natural](https://github.com/NaturalNode/natural) - A general natural language facility.
 - [retext](https://github.com/wooorm/retext) - An extensible natural language system.
+- [franc](https://github.com/wooorm/franc) - Detect the language of text.
 - [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 
 
