@@ -277,6 +277,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Date
 
 - [Moment.js](http://momentjs.com) - Parse, validate, manipulate, and display dates.
+- [Moment Timezone](http://momentjs.com/timezone/) - IANA Time Zone Database + Moment.js.
 - [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
 
 
