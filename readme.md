@@ -407,6 +407,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [istanbul](https://github.com/gotwarlost/istanbul) - A code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests.
 - [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks.
 - [Karma](http://karma-runner.github.io) - Executes code in multiple real browsers.
+- [Nightmare](http://nightmarejs.org) - High-level PhantomJS wrapper that lets you automate browser tasks.
 
 
 ### Benchmarking
