@@ -224,6 +224,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Drop-in replacement for the `fs` module with various improvements.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
 - [fs-write-stream-atomic](https://github.com/npm/fs-write-stream-atomic) - Like `fs.createWriteStream()`, but atomic.
+- [lnfs](https://github.com/kevva/lnfs) - Force create symlinks like `ln -fs`.
 
 
 ### Control flow
