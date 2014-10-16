@@ -505,6 +505,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
 - [common-errors](https://github.com/shutterstock/node-common-errors) - Common error classes and utility functions.
 - [atom-shell](https://github.com/atom/atom-shell) - Cross-platform desktop application shell.
+- [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 
 
 ## Resources
