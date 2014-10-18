@@ -436,9 +436,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Node.js management
 
-- [n](https://github.com/visionmedia/n) - Node.js version management.
+- [n](https://github.com/visionmedia/n) - Node.js version management. Mac/Linux Only.
 - [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
 - [nodeenv](https://github.com/ekalinin/nodeenv) - A Node.js virtual environment compatible to Python's virtualenv.
+- [nvm](https://github.com/creationix/nvm) - Manage multiple installations (version management) on OSX/Linux.
+- [nvm for Windows](https://github.com/coreybutler/nvm-windows) - Manage multiple installations (version management) on Windows.
 
 
 ### Email
