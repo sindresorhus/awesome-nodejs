@@ -90,6 +90,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
 - [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
 - [pjs](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
+- [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 
 
 ### Functional programming
