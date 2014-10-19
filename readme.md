@@ -88,6 +88,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [http-server](https://github.com/nodeapps/http-server) - Simple, zero-config command-line HTTP server.
 - [bcat](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 - [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
+- [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 
 
 ### Functional programming
@@ -169,7 +170,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
 - [cli-cursor](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
 - [ascii-charts](https://github.com/jstrace/chart) - ACII bar chart in the terminal.
-- [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 
 
 ### Package managers
