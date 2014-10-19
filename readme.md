@@ -89,6 +89,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [bcat](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 - [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
 - [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
+- [pjs](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
 
 
 ### Functional programming
