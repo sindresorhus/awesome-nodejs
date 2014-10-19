@@ -76,6 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [JSHint](http://jshint.com) - A community-driven tool to detect errors and potential problems in JavaScript code.
 - [JSCS](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
+- [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files.
 - [torrent](https://github.com/maxogden/torrent) - Download torrents.
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
