@@ -268,6 +268,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream/) - Fast conversion/scaling of images using a pool of long lived graphicsmagick processes.
 - [readable-stream](https://github.com/isaacs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 - [s3-upload-stream](https://github.com/nathanpeck/s3-upload-stream) - Upload a stream to an Amazon S3 bucket using multipart upload.
+- [through2-concurrent](https://github.com/almost/through2-concurrent) - Transform object streams concurrently.
 
 
 ### Real-time
