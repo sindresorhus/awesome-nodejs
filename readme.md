@@ -513,6 +513,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [common-errors](https://github.com/shutterstock/node-common-errors) - Common error classes and utility functions.
 - [atom-shell](https://github.com/atom/atom-shell) - Cross-platform desktop application shell.
 - [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
+- [node-bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series.
 
 
 ## Resources
