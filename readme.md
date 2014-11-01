@@ -326,6 +326,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [css](https://github.com/reworkcss/css) - CSS parser / stringifier.
 - [strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
 - [marked](https://github.com/chjj/marked) - A markdown parser and compiler built for speed.
+- [remarkable](https://github.com/jonschlinkert/remarkable) - A very fast markdown parser with 100% CommonMark support, extensions and syntax plugins.
 - [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 - [URI.js](https://github.com/medialize/URI.js) - URL mutation.
 - [JSONStream](https://github.com/dominictarr/JSONStream) - Streaming JSON.parse and stringify.
