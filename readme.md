@@ -129,6 +129,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [njsTrace](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
 - [vstream](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
 - [stackman](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
+- [Blanket](http://blanketjs.org/) - Easy to use JavaScript code coverage library that works both in-browser and with nodejs.
 
 
 ### Logging
@@ -149,7 +150,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Restify](http://mcavage.me/node-restify/) - A node framework built specifically to enable you to build correct REST web services.
 - [Derby](https://github.com/derbyjs/derby) - MVC framework, making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
 - [Interfake](https://github.com/basicallydan/interfake) - Rapid prototyping framework for making mock HTTP APIs, with a Node, command-line and HTTP interface.
-
+- [DocPad](http://docpad.org/) - DocPad is built upon Express, handles content management via the file system & provides static site generation.
+- [Harp](http://harpjs.com/) - Static web server with built-in preprocessing.
+- [Hoodie](http://hood.ie/) - Hoodie is an Offline First and noBackend architecture for frontend-only web apps on the web and on iOS.
+- [Feathers](http://feathersjs.com/) - Extends Express with the ability to create shared RESTful web services and real-time APIs using SocketIO & other websocket libraries.
 
 ### Command-line utilities
 
@@ -191,6 +195,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
 - [webpack](https://github.com/webpack/webpack) - Packs CommonJS/AMD modules for the browser.
 - [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
+- [Pint](http://www.pintjs.com/) - Pint is a small, asynchronous, dependency aware wrapper around Grunt.
 
 ### Hardware
 
@@ -280,13 +285,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SocketCluster](https://github.com/topcloud/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 - [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 - [Straw](https://github.com/simonswain/straw) - Real-time dataflow framework.
+- [Bucky](http://github.hubspot.com/bucky/) - Measure the performance of your web app directly from your users' browsers.
 
 
 ### Date
 
 - [Moment.js](http://momentjs.com) - Parse, validate, manipulate, and display dates.
 - [Moment Timezone](http://momentjs.com/timezone/) - IANA Time Zone Database + Moment.js.
-- [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
+- [dateformat](https://github.com/felixge/node-dateformatmat) - Date formatting.
 
 
 ### Image
@@ -374,6 +380,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [KeystoneJS](http://keystonejs.com) - CMS and web application platform built on Express and MongoDB.
 - [Calipso](http://calip.so) - A simple content management system, built along similar themes to Drupal and Wordpress, that is designed to be fast, flexible and simple.
 - [Apostrophe2](http://apostrophenow.org) - A content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
+- [Webhook CMS](http://www.webhook.com/) - Build static sites and a custom CMS using a drag & drop interface. Mac & windows executables also available.
 
 
 ### Forum
@@ -416,8 +423,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [istanbul](https://github.com/gotwarlost/istanbul) - A code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests.
 - [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks.
 - [Karma](http://karma-runner.github.io) - Executes code in multiple real browsers.
-- [Nightmare](http://nightmarejs.org) - High-level PhantomJS wrapper that lets you automate browser tasks.
-
+- [Nightmare](http://nightmarejs.org) - High-level PhantomJS wrapper that lets you automate browser tasks.- 
+- [BusterJS](http://docs.busterjs.org/en/latest/) - It does browser testing with browser automation, QUnit style static HTML page testing, testing in headless browsers, NodeJS testing & more.
 
 ### Benchmarking
 
@@ -447,6 +454,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
 - [nodeenv](https://github.com/ekalinin/nodeenv) - A Node.js virtual environment compatible to Python's virtualenv.
 - [nvm for Windows](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
+- [NVM](https://github.com/creationix/nvm) - Node Version Manager - Simple bash script to manage multiple active node.js versions.
 
 
 ### Email
