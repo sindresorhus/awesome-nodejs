@@ -491,7 +491,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [superb](https://github.com/sindresorhus/superb) - Get superb like words.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
-
+- [JSDecorators](https://github.com/dzautner/JSDecorators) - Python like decorators in JavaScript.
 
 ### Miscellaneous
 
