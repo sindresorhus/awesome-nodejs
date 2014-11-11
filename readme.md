@@ -294,7 +294,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [sharp](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
 - [image-type](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
 - [gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
-
+- [lwip](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
 
 ### Text
 
