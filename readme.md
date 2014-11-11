@@ -104,6 +104,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
 - [Lazy.js](https://github.com/dtao/lazy.js/) - Utility library similar to Lo-Dash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
 
+
 ### HTTP
 
 - [request](https://github.com/mikeal/request) - Simplified HTTP request client.
@@ -192,6 +193,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [webpack](https://github.com/webpack/webpack) - Packs CommonJS/AMD modules for the browser.
 - [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
 
+
 ### Hardware
 
 - [johnny-five](https://github.com/rwaldron/johnny-five) - Firmata based Arduino Framework.
@@ -252,6 +254,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - Other
 	- [zone](https://github.com/strongloop/zone) - Provides a way to group and track resources and errors across asynchronous operations.
 
+
 ### Streams
 
 - [through2](https://github.com/rvagg/through2) - Tiny wrapper around streams2 Transform to avoid explicit subclassing noise.
@@ -295,6 +298,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [image-type](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
 - [gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 - [lwip](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
+
 
 ### Text
 
@@ -525,7 +529,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
 - [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams.
 - [browserify-handbook](https://github.com/substack/browserify-handbook) - The definitive guide for browserify.
-- [module-best-practices](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules. 
+- [module-best-practices](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
 
 ### Discovery
 
