@@ -66,6 +66,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [NodeOS](http://node-os.com) - The first operating system powered by npm.
 - [PDFKit](http://pdfkit.org) - PDF generation library.
 - [turf](https://github.com/Turfjs/turf/) - Modular geospatial processing and analysis engine.
+- [node-webkit](https://github.com/rogerwang/node-webkit) - Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.
+- [nexe](https://github.com/crcn/nexe) - create a single executable out of your node.js apps
 
 
 ### Command-line apps
