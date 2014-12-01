@@ -91,6 +91,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
 - [pjs](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
 - [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
+- [browser-run](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 
 
 ### Functional programming
@@ -340,6 +341,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [htmlparser2](https://github.com/fb55/htmlparser2/) - Forgiving HTML/XML parser.
 - [PostCSS](https://github.com/postcss/postcss) - Framework for CSS postprocessors, to modify CSS.
 - [PEG.js](https://github.com/dmajda/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
+- [binary-extract](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
 
 
 ### Humanize
