@@ -117,6 +117,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Nock](https://github.com/pgte/nock) - A HTTP mocking and expectations library.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
+- [unirest](https://github.com/Mashape/unirest-nodejs) - A set of lightweight HTTP libraries.
 
 
 ### Debugging / Profiling
