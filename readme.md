@@ -103,6 +103,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 - [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) - The brass buckles on Underscore's utility belt.
 - [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
+- [RxJS](http://reactive-extensions.github.io/RxJS/) - Functional reactive library for transforming, composing, and querying various kinds of data.
 - [Lazy.js](https://github.com/dtao/lazy.js/) - Utility library similar to Lo-Dash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
 
 
