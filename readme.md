@@ -540,6 +540,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Articles
 
 - [Error Handling in Node.js](http://www.joyent.com/developers/node/design/errors)
+- [Teach Yourself Node.JS in 10 Steps](http://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
 
 ### Newsletters
 
@@ -549,6 +550,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [LearnAllTheNodes](http://www.learnallthenodes.com) - Series of useful tips, tricks, and packages.
+- [Introduction to Node.js Fundamentals](http://strongloop.com/node-js/videos/#a-video-intro-to-nodejs-fundamentals)
+- [Hands on with Node.js](https://learn.bevry.me/node/preface)
+- [Full Streams Ahead](http://dry.ly/full-streams-ahead) - Introduction to streams.
 
 ### Podcasts
 
