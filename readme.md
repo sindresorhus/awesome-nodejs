@@ -313,6 +313,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [strip-indent](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 - [detect-indent](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 - [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
+- [babelfish](https://github.com/nodeca/babelfish/) - i18n with very easy syntax for plurals.
 - [string-length](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
 - [speakingurl](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
 
