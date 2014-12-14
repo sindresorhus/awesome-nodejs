@@ -362,6 +362,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [decompress-zip](https://github.com/bower/decompress-zip) - Unzip.
 - [tar-stream](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs](https://github.com/mafintosh/tar-fs).
 - [decompress](https://github.com/kevva/decompress) - A pluggable decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
+- [pako](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
 
 
 ### Network
