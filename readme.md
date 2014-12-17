@@ -81,10 +81,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 - [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts.
 - [tmpin](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
+- [empty-trash](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 - [normit](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 - [esformatter](https://github.com/millermedeiros/esformatter) - JavaScript code beautifier/formatter.
 - [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
-- [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
+- [is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
+- [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 - [http-server](https://github.com/nodeapps/http-server) - Simple, zero-config command-line HTTP server.
 - [bcat](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 - [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
@@ -157,6 +159,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Command-line utilities
 
 - [chalk](https://github.com/sindresorhus/chalk) - Terminal string styling done right.
+- [meow](https://github.com/sindresorhus/meow) - CLI app helper.
 - [minimist](https://github.com/substack/minimist) - Parse command-line flags.
 - [get-stdin](https://github.com/sindresorhus/get-stdin) - Easier stdin.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
@@ -474,10 +477,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Natural language processing
 
-- [natural](https://github.com/NaturalNode/natural) - A general natural language facility.
 - [retext](https://github.com/wooorm/retext) - An extensible natural language system.
 - [franc](https://github.com/wooorm/franc) - Detect the language of text.
 - [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
+- [natural](https://github.com/NaturalNode/natural) - A general natural language facility.
 
 
 ### Process management
