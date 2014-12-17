@@ -492,6 +492,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [supervisor](https://github.com/isaacs/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
 - [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager.
 - [Phusion Passenger](https://www.phusionpassenger.com/node_weekly) - Friendly process manager that integrates directly into Nginx.
+- [naught](https://github.com/andrewrk/naught) - Process manager with zero downtime deployment.
 
 
 ### AST
