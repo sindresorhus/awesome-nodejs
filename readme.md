@@ -359,6 +359,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pretty-error](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
 - [humanize](https://github.com/taijinlee/humanize) - Data formatter for human readability.
 - [node-read](https://github.com/bndr/node-read) - Extract readable content from any page.
+- [read-art](https://github.com/Tjatse/node-readability) - Scrape/Crawl article from any site automatically. Make any web page readable, no matter Chinese or English.
 
 
 ### Compression
@@ -492,6 +493,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [forever](https://github.com/nodejitsu/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
 - [supervisor](https://github.com/isaacs/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
 - [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager.
+	- [PM2-GUI](https://github.com/Tjatse/pm2-gui) - An elegant web interface for PM2.
 - [Phusion Passenger](https://www.phusionpassenger.com/node_weekly) - Friendly process manager that integrates directly into Nginx.
 - [naught](https://github.com/andrewrk/naught) - Process manager with zero downtime deployment.
 
