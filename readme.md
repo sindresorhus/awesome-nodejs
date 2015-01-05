@@ -432,6 +432,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Nightmare](http://nightmarejs.org) - High-level PhantomJS wrapper that lets you automate browser tasks.
 
 
+### Computer Science
+ - [Bubble Sort](https://www.npmjs.com/package/bubblesort)
+
+
 ### Benchmarking
 
 - [Benchmark.js](http://benchmarkjs.com) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
