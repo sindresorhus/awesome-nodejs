@@ -435,9 +435,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Computer Science
 
 - [Bubble Sort](https://www.npmjs.com/package/bubblesort)
+- [Merge Sort](https://www.npmjs.com/package/mergesort)
 - [Selection Sort](https://www.npmjs.com/package/selectionsort)
 - [Shell Sort](https://www.npmjs.com/package/shellsort)
-- [Merge Sort](https://www.npmjs.com/package/mergesort)
 
 
 ### Benchmarking
