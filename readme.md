@@ -583,6 +583,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Courses
 
 - [Real Time Web with Node.js](http://node.codeschool.com)
+- [Learn you Node](https://github.com/rvagg/learnyounode)
 
 ### Cheatsheets
 
@@ -591,6 +592,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Tools
 
 - [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json on GitHub.
+- 
+
+
 
 ### Miscellaneous
 
