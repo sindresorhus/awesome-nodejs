@@ -435,6 +435,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Nightmare](http://nightmarejs.org) - High-level PhantomJS wrapper that lets you automate browser tasks.
 
 
+### Computer Science
+
+- [Bubble Sort](https://www.npmjs.com/package/bubblesort)
+- [Merge Sort](https://www.npmjs.com/package/mergesort)
+- [Selection Sort](https://www.npmjs.com/package/selectionsort)
+- [Shell Sort](https://www.npmjs.com/package/shellsort)
+
+
 ### Benchmarking
 
 - [Benchmark.js](http://benchmarkjs.com) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
@@ -586,6 +594,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Courses
 
 - [Real Time Web with Node.js](http://node.codeschool.com)
+- [Learn you Node](https://github.com/rvagg/learnyounode)
 
 ### Cheatsheets
 
@@ -594,6 +603,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Tools
 
 - [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json on GitHub.
+- 
+
+
 
 ### Miscellaneous
 
