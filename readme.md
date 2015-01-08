@@ -142,7 +142,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [winston](https://github.com/flatiron/winston) - A multi-transport async logging library.
 - [Bunyan](https://github.com/trentm/node-bunyan) - A simple and fast JSON logging library.
 - [intel](https://seanmonstar.github.io/intel) - A comprehensive logging library (handlers, filters, formatters, console injection).
-
+- [strong-log-transformer](https://github.com/strongloop/strong-log-transformer) - A lightweight stream filter for performing common log stream 
+transformations like timestamping and joining multi-line messages.
 
 ### Web frameworks
 
