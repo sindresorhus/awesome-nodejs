@@ -455,6 +455,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [everyauth](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, facebook, & more) for your Connect and Express apps.
 - [passwordless](https://passwordless.net) - Token-based authentication middleware for Express allowing authentication without passwords.
 - [Lockit](https://github.com/zemirco/lockit) - Full featured authentication solution for Express. Supports a variety of databases, predefined routes, email and two-factor authentication.
+- [Grant](https://github.com/simov/grant) - OAuth middleware for Express and Koa.
 
 
 ### Node.js management
