@@ -13,6 +13,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [HTTP](#http)
 - [Debugging / Profiling](#debugging--profiling)
 - [Logging](#logging)
+- [Instrumentation](#instrumentation)
 - [Web frameworks](#web-frameworks)
 - [Command-line utilities](#command-line-utilities)
 - [Package managers](#package-managers)
@@ -142,6 +143,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [winston](https://github.com/flatiron/winston) - A multi-transport async logging library.
 - [Bunyan](https://github.com/trentm/node-bunyan) - A simple and fast JSON logging library.
 - [intel](https://seanmonstar.github.io/intel) - A comprehensive logging library (handlers, filters, formatters, console injection).
+
+
+### Instrumentation
+- [strong-agent](https://github.com/strongloop/strong-agent) - An instrumentation module that allows capture of application runtime metrics and expose via StatsD interface.
 
 
 ### Web frameworks
