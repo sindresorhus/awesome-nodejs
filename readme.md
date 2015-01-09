@@ -207,6 +207,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [serialport](https://github.com/voodootikigod/node-serialport) - Access serial ports for reading and writing.
 - [usb](https://github.com/nonolith/node-usb) - USB library.
 - [cylon.js](http://cylonjs.com/) - Next generation robotics framework with support for 26 different platforms.
+- [bonescript](https://github.com/jadonk/bonescript) - The Node.js I/O library for the Beagleboard and Beglebone.
 
 
 ### Templating
