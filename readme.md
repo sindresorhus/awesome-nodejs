@@ -512,6 +512,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cat-names](https://github.com/sindresorhus/cat-names) - Get popular cat names.
 - [dog-names](https://github.com/sindresorhus/dog-names) - Get popular dog names.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - ₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”
 
 
 ### Miscellaneous
