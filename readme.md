@@ -561,6 +561,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Newsletters
 
 - [node weekly](http://nodeweekly.com) - Weekly e-mail round-up of Node.js news and articles.
+- [nmotw](http://nmotw.in) - Node Module Of The Week, weekly dose of hand picked node modules.
 
 ### Videos
 
