@@ -100,6 +100,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Functional programming
 
 - [Lo-Dash](http://lodash.com) - A utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
+- [Ramda](http://ramdajs.com) - A utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
 - [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
 - [mori](http://swannodette.github.io/mori/) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 - [Folktale](http://folktale.github.io) - A suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
