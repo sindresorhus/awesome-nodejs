@@ -256,6 +256,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [native-promise-only](https://github.com/getify/native-promise-only) - A polyfill for native ES6 Promises.
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
 	- [Q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises.
+	- [asynquence](https://github.com/getify/asynquence) - Promise-style async sequence flow-control.
 - Streams
 	- [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 - Channels
