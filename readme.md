@@ -323,6 +323,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [babelfish](https://github.com/nodeca/babelfish/) - i18n with very easy syntax for plurals.
 - [string-length](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
 - [speakingurl](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
+- [linkify-it](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
 
 
 ### Math
