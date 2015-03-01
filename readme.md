@@ -156,7 +156,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Restify](http://mcavage.me/node-restify/) - A node framework built specifically to enable you to build correct REST web services.
 - [Derby](https://github.com/derbyjs/derby) - MVC framework, making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
 - [Interfake](https://github.com/basicallydan/interfake) - Rapid prototyping framework for making mock HTTP APIs, with a Node, command-line and HTTP interface.
-- [Restberry](http://restberry.com) - Framework for setting up a RESTful JSON API by defining database models and applying CRUD APIs to them without needing to write any code.
+- [Restberry](http://restberry.com) - Framework for setting up RESTful JSON APIs, applied to your database models without needing to write any code.
 
 
 ### Command-line utilities
