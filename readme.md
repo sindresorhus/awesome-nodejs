@@ -182,6 +182,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cli-cursor](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
 - [ascii-charts](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
 - [cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
+- [optimist](https://github.com/substack/node-optimist) - Light-weight command-line option parser.
 
 
 ### Package managers
