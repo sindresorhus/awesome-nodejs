@@ -541,6 +541,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [atom-shell](https://github.com/atom/atom-shell) - Cross-platform desktop application shell.
 - [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 - [node-bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series.
+- [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
 
 
 ## Resources
