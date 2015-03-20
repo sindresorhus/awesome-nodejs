@@ -562,7 +562,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [eachr](https://github.com/bevry/eachr) - Like `forEach` but will work on objects and arrays.
 - [extendr](https://github.com/bevry/extendr) - Extend an object with other objects, with support for different extension styles.
 - [ambi](https://github.com/bevry/ambi) - Execute a function ambidextrously (normalizes the differences between synchronous and asynchronous functions). Useful for treating synchronous functions as asynchronous functions (like supporting both synchronous and asynchronous event definitions automatically).
-
+- [csextends](https://github.com/bevry/csextends) - Use the Coffee-Script extends keyword outside of Coffee-Script.
 
 
 ## Resources
