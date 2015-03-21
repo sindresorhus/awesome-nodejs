@@ -557,7 +557,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [atom-shell](https://github.com/atom/atom-shell) - Cross-platform desktop application shell.
 - [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 - [node-bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series.
-- [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file..
+- [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
 - [envfile](https://github.com/bevry/envfile) - Load environment variables from .env file.
 - [eachr](https://github.com/bevry/eachr) - Like `forEach` but will work on objects and arrays.
 - [extendr](https://github.com/bevry/extendr) - Extend an object with other objects, with support for different extension styles.
