@@ -541,7 +541,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 - [node-bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series.
 - [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
-- [regedit](https://github.com/ironSource/node-regedit) - Do all sorts of funky stuff to the windows registry using node.js and windows script host
+- [regedit](https://github.com/ironSource/node-regedit) - Do all sorts of funky stuff to the windows registry using node.js and windows script host.
 
 ## Resources
 
