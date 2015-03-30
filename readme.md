@@ -109,6 +109,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
 - [RxJS](http://reactive-extensions.github.io/RxJS/) - Functional reactive library for transforming, composing, and querying various kinds of data.
 - [Lazy.js](https://github.com/dtao/lazy.js/) - Utility library similar to Lo-Dash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
+- [Chainy](https://github.com/chainyjs/chainy) - Interact with data using an extensible chainable API.
 
 
 ### HTTP
@@ -122,6 +123,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Nock](https://github.com/pgte/nock) - A HTTP mocking and expectations library.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
+- [feedr](https://github.com/bevry/feedr) - Fetch and parse remote data with support for caching.
 
 
 ### Debugging / Profiling
@@ -142,6 +144,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [winston](https://github.com/flatiron/winston) - A multi-transport async logging library.
 - [Bunyan](https://github.com/trentm/node-bunyan) - A simple and fast JSON logging library.
 - [intel](https://seanmonstar.github.io/intel) - A comprehensive logging library (handlers, filters, formatters, console injection).
+- [caterpillar](https://github.com/bevry/caterpillar) - An extensible streams based logging library.
 
 
 ### Web frameworks
@@ -201,7 +204,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [webpack](https://github.com/webpack/webpack) - Packs CommonJS/AMD modules for the browser.
 - [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
 - [strong-build](https://github.com/strongloop/strong-build) - Build a node app package and prepare to deploy it as a package to production or use git to commit to a deploy branch.
-
+- [projectz](https://github.com/bevry/requirefresh) - Automatically maintains your project's readme and package files.
 
 ### Hardware
 
@@ -241,7 +244,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [lnfs](https://github.com/kevva/lnfs) - Force create symlinks like `ln -fs`.
 - [chokidar](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on OS X.
 - [gaze](https://github.com/shama/gaze) - A globbing watch module which uses custom native binaries to listen to filesystem events.
-
+- [safefs](https://github.com/bevry/safefs) - Extends `graceful-fs` module with some extra methods to ensure safe cross-platform execution.
+- [watchr](https://github.com/bevry/watchr) - Watches a directory and its children for changes and emits detailed events.
+- [istextorbinary](https://github.com/bevry/istextorbinary) - Checks if a file is a binary or text file.
 
 ### Control flow
 
@@ -249,6 +254,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
 	- [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronousity.
 	- [after-all-results](https://github.com/watson/after-all-results) - Bundle results of async functions calls into one callback with all the results.
+	- [TaskGroup](https://github.com/bevry/taskgroup) - Group together synchronous and asynchronous tasks and execute them with support for concurrency, naming, and nesting.
 - Generators
 	- [co](https://github.com/visionmedia/co) - The ultimate generator based flow-control goodness.
 	- [suspend](https://github.com/jmar777/suspend) - Generator-based control flow that plays nice with callbacks, promises, and thunks.
@@ -260,6 +266,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 - Channels
 	- [js-csp](https://github.com/jlongster/js-csp) - Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go).
+- Events
+	- [Event Emitter Grouped](https://github.com/bevry/event-emitted-grouped) - Extends the event emitter class to add support for emitting events in serial or parallel, asynchronous and synchronous listeners, and a completion callback when done.
 - Other
 	- [zone](https://github.com/strongloop/zone) - Provides a way to group and track resources and errors across asynchronous operations.
 
@@ -378,6 +386,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [get-port](https://github.com/sindresorhus/get-port) - Get an available port.
 - [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
+- [getmac](https://github.com/bevry/getmac) - Get the computers mac address.
 
 
 ### Static site generators
@@ -385,6 +394,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Metalsmith](http://www.metalsmith.io) - An extremely simple, pluggable static site generator.
 - [Wintersmith](http://wintersmith.io) - Flexible, minimalistic, multi-platform static site generator.
 - [Assemble](http://assemble.io) - Static site generator for Node.js, Grunt.js, and Yeoman.
+- [DocPad](https://github.com/docpad/docpad) - A static site generator with dynamic abilities, huge plugin eco-system
 
 
 ### Content management systems
@@ -423,6 +433,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
 - Query builder
 	- [Knex](http://knexjs.org) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+	- [QueryEngine](https://github.com/bevry/query-engine) - Query Engine allows you to perform advanced queries, filters, searching and paging for javascript arrays and objects as well as Backbone.js Collections.
 - Other
 	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
 
@@ -437,6 +448,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks.
 - [Karma](http://karma-runner.github.io) - Executes code in multiple real browsers.
 - [Nightmare](http://nightmarejs.org) - High-level PhantomJS wrapper that lets you automate browser tasks.
+- [Joe](https://github.com/bevry/joe) - An asynchronous tester that actually works and can just be required.
 
 
 ### Benchmarking
@@ -501,6 +513,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager.
 - [Phusion Passenger](https://www.phusionpassenger.com/node_weekly) - Friendly process manager that integrates directly into Nginx.
 - [naught](https://github.com/andrewrk/naught) - Process manager with zero downtime deployment.
+- [safeps](https://github.com/bevry/safeps) - Safe cross-platform process spawning and execution with many helpers.
 
 
 ### AST
@@ -525,6 +538,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [semver](https://github.com/isaacs/node-semver) - [semver](http://semver.org) parser.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [require-uncached](https://github.com/sindresorhus/require-uncached) - Require a module bypassing the cache.
+- [requirefresh](https://github.com/bevry/requirefresh) - Require a module bypassing the cache.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 - [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
@@ -533,6 +547,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nan](https://github.com/rvagg/nan) - A header file filled with macro and utility goodness for making add-on development for across Node.js versions easier.
 - [ssh2](https://github.com/mscdex/ssh2) - An SSH2 client module.
 - [lazy-req](https://github.com/sindresorhus/lazy-req) - Require modules lazily.
+- [lazy-require](https://github.com/bevry/lazy-require) - Require modules lazily.
+- [extract-opts](https://github.com/bevry/extract-opts) - Extract the options and callback from a function's arguments easily.
+- [typechecker](https://github.com/bevry/typechecker) - A more robust version of `typeof` that will work inside different environments.
 - [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp/) - Makes it easy to publish and install Node.js C++ addons from binaries.
 - [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
@@ -541,6 +558,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 - [node-bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series.
 - [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
+- [envfile](https://github.com/bevry/envfile) - Load environment variables from .env file.
+- [eachr](https://github.com/bevry/eachr) - Like `forEach` but will work on objects and arrays.
+- [extendr](https://github.com/bevry/extendr) - Extend an object with other objects, with support for different extension styles.
+- [ambi](https://github.com/bevry/ambi) - Execute a function ambidextrously (normalizes the differences between synchronous and asynchronous functions). Useful for treating synchronous functions as asynchronous functions (like supporting both synchronous and asynchronous event definitions automatically).
+- [csextends](https://github.com/bevry/csextends) - Use the Coffee-Script extends keyword outside of Coffee-Script.
 
 
 ## Resources
