@@ -114,7 +114,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### HTTP
 
 - [request](https://github.com/mikeal/request) - Simplified HTTP request client.
-- [got](https://github.com/sindresorhus/got) / [sent](https://github.com/floatdrop/sent) - A nicer interface to the built-in `http` module.
+- [got](https://github.com/sindresorhus/got) - A nicer interface to the built-in `http` module.
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client (works in the browser too).
 - [hyperquest](https://github.com/substack/hyperquest) - Streaming HTTP requests.
