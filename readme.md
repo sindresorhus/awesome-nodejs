@@ -428,6 +428,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [Knex](http://knexjs.org) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 - Other
 	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
+	- [PG-Promise](https://github.com/vitaly-t/pg-promise) - Promises/A+ adapter for PostgreSQL.
 
 
 ### Testing
