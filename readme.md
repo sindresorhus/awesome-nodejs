@@ -354,6 +354,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PostCSS](https://github.com/postcss/postcss) - Framework for CSS postprocessors, to modify CSS.
 - [PEG.js](https://github.com/dmajda/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
 - [binary-extract](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
+- [Osmosis](https://github.com/rc0x03/node-osmosis) - An HTML/XML parser and web scraper.
 
 
 ### Humanize
