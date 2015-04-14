@@ -354,7 +354,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [PostCSS](https://github.com/postcss/postcss) - Framework for CSS postprocessors, to modify CSS.
 - [PEG.js](https://github.com/dmajda/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
 - [binary-extract](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
-- [x-ray](https://github.com/lapwinglabs/x-ray) - A web scraping utility to see through the <html> noise.
+- [x-ray](https://github.com/lapwinglabs/x-ray) - A web scraping utility to see through the `<html>` noise.
 
 
 ### Humanize
