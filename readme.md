@@ -477,7 +477,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Email
 
 - [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
-
+- [email.js](http://emailjs.org/) - A suite of node-comptabile, AMD modules for SMTP/IMAP and email parsing
 
 ### Polyfills
 
