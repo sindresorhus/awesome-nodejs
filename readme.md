@@ -336,6 +336,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Data validation
 
 - [joi](https://github.com/spumko/joi) - Object schema description language and validator for JavaScript objects.
+- [is.js](https://github.com/arasatasaygin/is.js) - Micro check library.
 
 
 ### Parsing
