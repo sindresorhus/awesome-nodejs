@@ -96,6 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 - [browser-run](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 - [modhelp](https://github.com/runvnc/modhelp) - Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.
+- [wifi-password](https://github.com/kevva/wifi-password) - Get the current wifi password.
 
 ### Functional programming
 
