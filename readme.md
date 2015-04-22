@@ -73,9 +73,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [pageres](https://github.com/sindresorhus/pageres) - Responsive website screenshots.
 - [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm`.
+- [npm-name](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
 - [yo](https://github.com/yeoman/yo) - Run Yeoman generators.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
-- [JSHint](http://jshint.com) - A community-driven tool to detect errors and potential problems in JavaScript code.
 - [JSCS](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files.
 - [torrent](https://github.com/maxogden/torrent) - Download torrents.
@@ -97,6 +97,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [browser-run](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 - [modhelp](https://github.com/runvnc/modhelp) - Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.
 - [wifi-password](https://github.com/kevva/wifi-password) - Get the current wifi password.
+- [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
+- [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the Dark Mode in OS X 10.10 from the command-line.
+
 
 ### Functional programming
 
@@ -116,6 +119,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [request](https://github.com/mikeal/request) - Simplified HTTP request client.
 - [got](https://github.com/sindresorhus/got) - A nicer interface to the built-in `http` module.
+- [gh-got](https://github.com/sindresorhus/gh-got) - Convenience wrapper for `got` to interact with the GitHub API.
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client (works in the browser too).
 - [hyperquest](https://github.com/substack/hyperquest) - Streaming HTTP requests.
@@ -165,6 +169,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [meow](https://github.com/sindresorhus/meow) - CLI app helper.
 - [minimist](https://github.com/substack/minimist) - Parse command-line flags.
 - [get-stdin](https://github.com/sindresorhus/get-stdin) - Easier stdin.
+- [user-home](https://github.com/sindresorhus/user-home) - Get the path to the user home directory.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
 - [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app.
 - [sudo-block](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
@@ -182,6 +187,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cli-cursor](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
 - [ascii-charts](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
 - [cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
+- [yn](https://github.com/sindresorhus/yn) - Parse yes/no like values.
 
 
 ### Package managers
@@ -243,6 +249,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [chokidar](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on OS X.
 - [gaze](https://github.com/shama/gaze) - A globbing watch module which uses custom native binaries to listen to filesystem events.
 - [istextorbinary](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
+- [filenamify](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
 
 
 ### Control flow
@@ -311,12 +318,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 - [lwip](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
 - [pica](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
+- [is-progressive](https://github.com/sindresorhus/is-progressive) - Check if a JPEG image is progressive.
+
 
 ### Text
 
 - [Underscore.string](https://github.com/epeli/underscore.string) - Collection of string manipulation utilities.
 - [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder.
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
+- [repeating](https://github.com/sindresorhus/repeating) - Repeat a string.
+- [camelcase](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
+- [normalize-url](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
+- [humanize-url](https://github.com/sindresorhus/humanize-url) - Humanize a URL: http://sindresorhus.com → sindresorhus.com.
 - [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
 - [indent-string](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
 - [strip-indent](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
@@ -482,7 +495,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Polyfills
 
-- [object-assign](https://github.com/sindresorhus/object-assign) - ES6 Object.assign() polyfill.
+- [object-assign](https://github.com/sindresorhus/object-assign) - ES6 `Object.assign()` polyfill.
+- [path-is-absolute](https://github.com/sindresorhus/path-is-absolute) - Node.js 0.12 `path.isAbsolute()` polyfill.
+- [debug-log](https://github.com/sindresorhus/debug-log) - Node.js 0.12 `util.debuglog()` ponyfill.
+- [set-immediate-shim](https://github.com/sindresorhus/set-immediate-shim) - Simple setImmediate polyfill.
 - [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 Reflect and Proxy polyfill.
 - [es6-shim](https://github.com/paulmillr/es6-shim) - Collection of ES6 polyfills.
 - More ES6 polyfills at [es6-tools](https://github.com/addyosmani/es6-tools#polyfills).
@@ -546,6 +562,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 - [node-bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series.
 - [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
+- [file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
+- [os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale.
+- [remote-git-tags](https://github.com/sindresorhus/remote-git-tags) - Get tags from a remote git repo.
+- [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
+- [onetime](https://github.com/sindresorhus/onetime) - Only run a function once.
 
 
 ## Resources
