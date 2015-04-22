@@ -634,6 +634,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Miscellaneous
 
 - [nodebots](http://nodebots.io) - Robots powered by JavaScript.
+- [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+- [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 
 
 ## Contribute
