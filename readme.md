@@ -128,6 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Nock](https://github.com/pgte/nock) - A HTTP mocking and expectations library.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
+- [http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured HTTP proxy.
 
 
 ### Debugging / Profiling
