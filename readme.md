@@ -352,6 +352,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Data validation
 
 - [joi](https://github.com/spumko/joi) - Object schema description language and validator for JavaScript objects.
+- [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
 
 
 ### Parsing
