@@ -90,6 +90,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
 - [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 - [http-server](https://github.com/nodeapps/http-server) - Simple, zero-config command-line HTTP server.
+- [mdserver](https://github.com/zhiyelee/mdserver) - Simple http server with markdown supported.
 - [bcat](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 - [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
 - [jsinspect](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
