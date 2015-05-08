@@ -461,6 +461,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks.
 - [Karma](http://karma-runner.github.io) - Executes code in multiple real browsers.
 - [navit](https://github.com/nodeca/navit) - PhantomJS wrapper for easy client tests scripting.
+- [nock](https://github.com/pgte/nock) - HTTP mocking and expectations.
+- [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 
 
 ### Benchmarking
