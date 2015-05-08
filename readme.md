@@ -461,6 +461,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks.
 - [Karma](http://karma-runner.github.io) - Executes code in multiple real browsers.
 - [navit](https://github.com/nodeca/navit) - PhantomJS wrapper for easy client tests scripting.
+- [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
+- [supertest](https://github.com/visionmedia/supertest) - Super-agent driven library for testing node.js HTTP servers using a fluent API.
+- [pioneer](https://github.com/mojotech/pioneer) - Integration Testing.
+- [hipper](https://github.com/vesln/hippie) - End-to-end API testing made easy.
+- [chai-http](https://github.com/chaijs/chai-http) - HTTP Response assertions for the Chai Assertion Library.
 
 
 ### Benchmarking
