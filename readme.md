@@ -563,7 +563,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp/) - Makes it easy to publish and install Node.js C++ addons from binaries.
 - [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
 - [common-errors](https://github.com/shutterstock/node-common-errors) - Common error classes and utility functions.
-- [Electron](https://github.com/atom/atom-shell) - Cross-platform desktop application shell.
+- [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. *(You might like [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
 - [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 - [node-bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series.
 - [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
