@@ -259,6 +259,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - Callbacks
 	- [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
 	- [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronousity.
+	- [async-chainable](https://github.com/hash-bang/async-chainable) - Chainable, pluggable async functionality.
 	- [after-all-results](https://github.com/watson/after-all-results) - Bundle results of async functions calls into one callback with all the results.
 - Generators
 	- [co](https://github.com/visionmedia/co) - The ultimate generator based flow-control goodness.
