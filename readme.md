@@ -503,13 +503,20 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Polyfills
 
-- [object-assign](https://github.com/sindresorhus/object-assign) - ES6 `Object.assign()` polyfill.
-- [path-is-absolute](https://github.com/sindresorhus/path-is-absolute) - Node.js 0.12 `path.isAbsolute()` polyfill.
-- [debug-log](https://github.com/sindresorhus/debug-log) - Node.js 0.12 `util.debuglog()` ponyfill.
-- [set-immediate-shim](https://github.com/sindresorhus/set-immediate-shim) - Simple setImmediate polyfill.
-- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 Reflect and Proxy polyfill.
-- [es6-shim](https://github.com/paulmillr/es6-shim) - Collection of ES6 polyfills.
-- More ES6 polyfills at [es6-tools](https://github.com/addyosmani/es6-tools#polyfills).
+- Node.js
+	- [set-immediate-shim](https://github.com/sindresorhus/set-immediate-shim) - Simple `setImmediate()` ponyfill.
+	- [path-is-absolute](https://github.com/sindresorhus/path-is-absolute) - Node.js 0.12 `path.isAbsolute()` ponyfill.
+	- [os-tmpdir](https://github.com/sindresorhus/os-tmpdir) - Node.js `os.tmpdir()` ponyfill.
+	- [debug-log](https://github.com/sindresorhus/debug-log) - Node.js 0.12 `util.debuglog()` ponyfill.
+	- [buffer-equals](https://github.com/sindresorhus/buffer-equals) - Node.js 0.12 `buffer.equals()` ponyfill.
+	- [buf-indexof](https://github.com/sindresorhus/buf-indexof) - io.js 1.5.0 (Node.js) `buffer.indexOf()` ponyfill.
+	- [buf-compare](https://github.com/sindresorhus/buf-compare) - Node.js 0.12 `Buffer.compare()` ponyfill.
+	- [fs-access](https://github.com/sindresorhus/fs-access) - Node.js 0.12 `fs.access()` & `fs.accessSync()` ponyfill.
+- JavaScript
+	- [object-assign](https://github.com/sindresorhus/object-assign) - ES6 `Object.assign()` ponyfill.
+	- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 `Reflect` and `Proxy` polyfill.
+	- [es6-shim](https://github.com/paulmillr/es6-shim) - Collection of ES6 polyfills.
+	- More ES6 polyfills at [es6-tools](https://github.com/addyosmani/es6-tools#polyfills).
 
 
 ### Natural language processing
