@@ -550,6 +550,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [superb](https://github.com/sindresorhus/superb) - Get superb like words.
 - [cat-names](https://github.com/sindresorhus/cat-names) - Get popular cat names.
 - [dog-names](https://github.com/sindresorhus/dog-names) - Get popular dog names.
+- [superheroes](https://github.com/sindresorhus/superheroes) - Get superhero names.
+- [supervillains](https://github.com/sindresorhus/supervillains) - Get supervillain names.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 - [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - ₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”
 
