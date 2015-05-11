@@ -438,7 +438,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [Redis](https://github.com/mranney/node_redis) - Redis client.
 - ODM / ORM
 	- [Bookshelf](http://bookshelfjs.org) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
-	- [JugglingDB](https://github.com/1602/jugglingdb) - Multi-database ORM with a common API. Supports Redis, PostgreSQL, MongoDB, MySQL, SQLite, Neo4j, memory, and more.
 	- [Mongoose](http://mongoosejs.com) - Elegant MongoDB object modeling.
 	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
 	- [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
