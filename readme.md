@@ -458,7 +458,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
 - [istanbul](https://github.com/gotwarlost/istanbul) - A code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests.
 - [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks.
-- [Karma](http://karma-runner.github.io) - Executes code in multiple real browsers.
 - [navit](https://github.com/nodeca/navit) - PhantomJS wrapper for easy client tests scripting.
 - [nock](https://github.com/pgte/nock) - HTTP mocking and expectations.
 - [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
