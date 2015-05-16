@@ -322,6 +322,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [lwip](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
 - [pica](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
 - [is-progressive](https://github.com/sindresorhus/is-progressive) - Check if a JPEG image is progressive.
+- [favicons](https://github.com/haydenbleasel/favicons) - Favicons generator.
+- [node-identicon](https://github.com/Ajido/node-identicon) - Identicon generator.
+- [fav-identicon](https://github.com/LambertEliott/fav-identicon) - Identicon like favicon generator.
 
 
 ### Text
