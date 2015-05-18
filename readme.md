@@ -190,6 +190,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ascii-charts](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
 - [cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
 - [yn](https://github.com/sindresorhus/yn) - Parse yes/no like values.
+- [commander](https://github.com/tj/commander.js) - Fully featured command line argument parser, inspired by Rubby's [commander](https://github.com/commander-rb/commander)
 
 
 ### Package managers
