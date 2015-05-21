@@ -512,6 +512,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [buf-indexof](https://github.com/sindresorhus/buf-indexof) - io.js 1.5.0 (Node.js) `buffer.indexOf()` ponyfill.
 	- [buf-compare](https://github.com/sindresorhus/buf-compare) - Node.js 0.12 `Buffer.compare()` ponyfill.
 	- [fs-access](https://github.com/sindresorhus/fs-access) - Node.js 0.12 `fs.access()` & `fs.accessSync()` ponyfill.
+	- [exec-file-sync](https://github.com/sindresorhus/exec-file-sync) - Node.js 0.12 `ChildProcess.execFileSync()` ponyfill.
 - JavaScript
 	- [object-assign](https://github.com/sindresorhus/object-assign) - ES6 `Object.assign()` ponyfill.
 	- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 `Reflect` and `Proxy` polyfill.
