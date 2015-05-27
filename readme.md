@@ -72,7 +72,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Command-line apps
 
-- [pageres](https://github.com/sindresorhus/pageres) - Responsive website screenshots.
+- [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
 - [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm`.
 - [npm-name](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
 - [yo](https://github.com/yeoman/yo) - Run Yeoman generators.
