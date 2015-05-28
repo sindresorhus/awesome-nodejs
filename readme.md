@@ -275,6 +275,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [js-csp](https://github.com/jlongster/js-csp) - Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go).
 - Other
 	- [zone](https://github.com/strongloop/zone) - Provides a way to group and track resources and errors across asynchronous operations.
+	- [futoin-asyncsteps](https://github.com/futoin/core-js-ri-asyncsteps) - Adds classical linear program structure exceptions, timeouts, parallel execution, loops and job state/context.
 
 
 ### Streams
