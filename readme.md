@@ -49,6 +49,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Process management](#process-management)
 - [AST](#ast)
 - [Weird](#weird)
+- [Remote calls and distributed systems](#remote-calls-and-distributed-systems)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -556,6 +557,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 - [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - ₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”
 
+### Remote calls and distributed systems
+
+- [FutoIn](https://github.com/futoin/specs/blob/master/final/ftn1_intro.md) - Specifications for generic enterprise grade remote calls with message security, validation and authentication integrated into HTTP, WebSockets, HTML5 (cross-page in-browser)
+	- [futoin-invoker](https://github.com/futoin/core-js-ri-invoker) - Invoker - the peer which manages connections & credentials and makes a call.
+	- [futoin-executor](https://github.com/futoin/core-js-ri-executor) - Executor - the peer which processes requests.
+	- see also [futoin-asyncsteps](https://github.com/futoin/core-js-ri-asyncsteps) in [Control flow](#control-flow) section
 
 ### Miscellaneous
 
