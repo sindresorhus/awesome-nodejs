@@ -509,10 +509,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [os-tmpdir](https://github.com/sindresorhus/os-tmpdir) - Node.js `os.tmpdir()` ponyfill.
 	- [debug-log](https://github.com/sindresorhus/debug-log) - Node.js 0.12 `util.debuglog()` ponyfill.
 	- [buffer-equals](https://github.com/sindresorhus/buffer-equals) - Node.js 0.12 `buffer.equals()` ponyfill.
-	- [buf-indexof](https://github.com/sindresorhus/buf-indexof) - io.js 1.5.0 (Node.js) `buffer.indexOf()` ponyfill.
+	- [buf-indexof](https://github.com/sindresorhus/buf-indexof) - io.js 1.5.0 `buffer.indexOf()` ponyfill.
 	- [buf-compare](https://github.com/sindresorhus/buf-compare) - Node.js 0.12 `Buffer.compare()` ponyfill.
 	- [fs-access](https://github.com/sindresorhus/fs-access) - Node.js 0.12 `fs.access()` & `fs.accessSync()` ponyfill.
-	- [exec-file-sync](https://github.com/sindresorhus/exec-file-sync) - Node.js 0.12 `ChildProcess.execFileSync()` ponyfill.
+	- [exec-file-sync](https://github.com/sindresorhus/exec-file-sync) - Node.js 0.12 `childProcess.execFileSync()` ponyfill.
+	- [child-process-ctor](https://github.com/sindresorhus/child-process-ctor) - io.js 2.2.0 `childProcess.ChildProcess` ponyfill.
 - JavaScript
 	- [object-assign](https://github.com/sindresorhus/object-assign) - ES6 `Object.assign()` ponyfill.
 	- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 `Reflect` and `Proxy` polyfill.
