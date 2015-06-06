@@ -308,6 +308,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SocketCluster](https://github.com/topcloud/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 - [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 - [Straw](https://github.com/simonswain/straw) - Real-time dataflow framework.
+- [tabex](https://github.com/nodeca/tabex) - Cross-tab message bus for browsers. Good companion of client-server realtime buses, to share single connection with multiple tabs for saving resources.
 
 
 ### Date
