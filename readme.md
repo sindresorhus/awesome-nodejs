@@ -305,6 +305,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Socket.io](http://socket.io) - Enables real-time bidirectional event-based communication.
 - [SockJS](https://github.com/sockjs/sockjs-node) - Low latency, full duplex, cross-domain channel browser-server, with WebSockets or without.
+- [Faye](http://faye.jcoglan.com/) - Real-time client-server message bus, based on Bayeux protocol.
 - [SocketCluster](https://github.com/topcloud/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 - [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 - [Straw](https://github.com/simonswain/straw) - Real-time dataflow framework.
