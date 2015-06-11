@@ -591,6 +591,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
 - [onetime](https://github.com/sindresorhus/onetime) - Only run a function once.
 
+### Static code analyzers
+- [plato] (https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool
 
 ## Resources
 
