@@ -276,6 +276,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 - Channels
 	- [js-csp](https://github.com/jlongster/js-csp) - Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go).
+- Events
+	- [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
 - Other
 	- [zone](https://github.com/strongloop/zone) - Provides a way to group and track resources and errors across asynchronous operations.
 
