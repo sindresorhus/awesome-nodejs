@@ -49,6 +49,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Process management](#process-management)
 - [AST](#ast)
 - [Weird](#weird)
+- [Geeky](#geeky)
 - [Miscellaneous](#miscellaneous)
 
 
@@ -560,6 +561,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [supervillains](https://github.com/sindresorhus/supervillains) - Get supervillain names.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 - [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - ₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”
+
+
+### Geeky
+
+- [marvel-api](https://github.com/fiveisprime/marvel-api) - Node.js wrapper for working with the official Marvel Comics API.
+- [node-anime-scraper](https://github.com/roflmuffin/node-anime-scraper) - Scrapes information from KissAnime.com to get Anime, Episode & Video information & urls.
+- [node-tvdb](https://github.com/edwellbrook/node-tvdb) - Node.js library for accessing TheTVDB API.
+- [pomelo](https://github.com/NetEase/pomelo) - A fast,scalable,distributed game server framework for Node.js.
 
 
 ### Miscellaneous
