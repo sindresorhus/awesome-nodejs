@@ -511,6 +511,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [set-immediate-shim](https://github.com/sindresorhus/set-immediate-shim) - Simple `setImmediate()` ponyfill.
 	- [path-is-absolute](https://github.com/sindresorhus/path-is-absolute) - Node.js 0.12 `path.isAbsolute()` ponyfill.
 	- [os-tmpdir](https://github.com/sindresorhus/os-tmpdir) - Node.js `os.tmpdir()` ponyfill.
+	- [os-homedir](https://github.com/sindresorhus/os-homedir) - io.js 2.3.0 `os.homedir()` ponyfill.
 	- [debug-log](https://github.com/sindresorhus/debug-log) - Node.js 0.12 `util.debuglog()` ponyfill.
 	- [buffer-equals](https://github.com/sindresorhus/buffer-equals) - Node.js 0.12 `buffer.equals()` ponyfill.
 	- [buf-indexof](https://github.com/sindresorhus/buf-indexof) - io.js 1.5.0 `buffer.indexOf()` ponyfill.
