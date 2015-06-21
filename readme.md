@@ -128,6 +128,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [hyperquest](https://github.com/substack/hyperquest) - Streaming HTTP requests.
 - [spdy](https://github.com/indutny/node-spdy) - Creates SPDY servers with the same API as the built-in `https` module.
 - [Nock](https://github.com/pgte/nock) - A HTTP mocking and expectations library.
+- [Mitm](https://github.com/moll/node-mitm) - Intercept and mock outgoing network TCP connections and HTTP requests for testing.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured HTTP proxy.
