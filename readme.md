@@ -102,6 +102,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [wifi-password](https://github.com/kevva/wifi-password) - Get the current wifi password.
 - [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the Dark Mode in OS X 10.10 from the command-line.
+- [vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for your live app.
 
 
 ### Functional programming
