@@ -76,7 +76,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
 - [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm`.
-- [vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for live Node apps.
 - [npm-name](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
 - [yo](https://github.com/yeoman/yo) - Run Yeoman generators.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
@@ -103,6 +102,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [wifi-password](https://github.com/kevva/wifi-password) - Get the current wifi password.
 - [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the Dark Mode in OS X 10.10 from the command-line.
+- [vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for your live app.
 
 
 ### Functional programming
