@@ -131,7 +131,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured HTTP proxy.
-- [rocky](https://github.com/h2non/rocky) - Pluggable and middleware-oriented HTTP/S proxy with traffic replay and more
+- [rocky](https://github.com/h2non/rocky) - Pluggable and middleware-oriented HTTP/S proxy with traffic replay and more.
 
 ### Debugging / Profiling
 
@@ -591,7 +591,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [remote-git-tags](https://github.com/sindresorhus/remote-git-tags) - Get tags from a remote git repo.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
 - [onetime](https://github.com/sindresorhus/onetime) - Only run a function once.
-- [nar](https://github.com/h2non/nar) - node.js application archive. Creates self-contained executables binaries of node.js/io.js packages
+- [nar](https://github.com/h2non/nar) - Creates self-contained executables binaries.
 
 ## Resources
 
