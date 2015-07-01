@@ -592,6 +592,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [remote-git-tags](https://github.com/sindresorhus/remote-git-tags) - Get tags from a remote git repo.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
 - [onetime](https://github.com/sindresorhus/onetime) - Only run a function once.
+- [nar](https://github.com/h2non/nar) - Create self-contained executable binaries.
 
 
 ## Resources
