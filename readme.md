@@ -60,7 +60,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dat](http://dat-data.com) - Real-time replication and versioning for data sets.
 - [ipfs](https://github.com/jbenet/node-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 - [stackgl](http://stack.gl) - Open software ecosystem for WebGL, built on top of browserify and npm.
-- [Breach](http://breach.cc) - Modular and hackable browser written in JavaScript.
 - [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 - [peercast](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 - [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
