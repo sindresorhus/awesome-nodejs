@@ -1,6 +1,6 @@
 # Awesome Node.js
 
-> A curated list of delightful Node.js [packages](#packages) and [resources](#resources).
+> A curated list of delightful Node.js [packages](#packages), [resources](#resources) and [community](#community) groups.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
@@ -663,6 +663,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nodebots](http://nodebots.io) - Robots powered by JavaScript.
 - [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
+
+
+## Community
+
+### Events
+
+- [Live help hangouts](http://start.thinkful.com/node/) - Bring questions and pair with other node developers in a live group hangout. Hear about the challenges other developers are running into, or screenshare your own code with the group for feedback.
+
+### Chat rooms
+
+- [nodeslackers.io](http://nodeslackers.io) - A real-time discussion place for literally anything Node.js with over 500 members.
 
 
 ## Contribute
