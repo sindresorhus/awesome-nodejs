@@ -671,7 +671,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Live help hangouts](http://start.thinkful.com/node/) - Bring questions and pair with other node developers in a live group hangout. Hear about the challenges other developers are running into, or screenshare your own code with the group for feedback.
 
-### Chat rooms
+### Discussions
 
 - [nodeslackers.io](http://nodeslackers.io) - A real-time discussion place for literally anything Node.js with over 500 members.
 
