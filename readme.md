@@ -353,6 +353,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [ndarray](https://github.com/mikolalysenko/ndarray) - Multidimensional arrays.
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library.
+- [math-interval-js](https://github.com/vluzrmos/interval-js) - A Simple Math Interval Matcher.
 
 
 ### Data validation
