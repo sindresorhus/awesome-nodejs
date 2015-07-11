@@ -441,7 +441,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 	- [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
 	- [MySQL](https://github.com/felixge/node-mysql) - MySQL client.
-	- [Redis](https://github.com/mranney/node_redis) - Redis client.
+	- [Redis](https://github.com/luin/ioredis) - Redis client.
 - ODM / ORM
 	- [Bookshelf](http://bookshelfjs.org) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
 	- [Mongoose](http://mongoosejs.com) - Elegant MongoDB object modeling.
