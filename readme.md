@@ -241,6 +241,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dox](https://github.com/visionmedia/dox) - JavaScript documentation generator using Markdown and JSDoc.
 - [jsdox](https://github.com/sutoiku/jsdox) - JSDoc3 to Markdown documentation generator.
 - [apiDoc](https://github.com/apidoc/apidoc) - Inline documentation for RESTful web APIs.
+- [FlatDoc](http://ricostacruz.com/flatdoc/) - Flatdoc is the fastest way to create a site for your project. 
 
 
 ### Filesystem
