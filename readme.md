@@ -103,6 +103,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the Dark Mode in OS X 10.10 from the command-line.
 - [vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for your live app.
 - [rtail](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes.
+- [gig](https://github.com/hackrslab/gig) - Helps you create a new .gitignore files for your git project.
 
 
 ### Functional programming
