@@ -382,6 +382,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nearley](https://github.com/Hardmath123/nearley) - Simple, fast, powerful parsing for JavaScript.
 - [json-mask](https://github.com/nemtsov/json-mask) - Tiny language and engine for selecting parts of an object, hiding/masking the rest.
 - [Stylecow](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
+- [node-vcard](https://github.com/jasperla/node-vcard) - Parse vCard files/data into JSON.
 
 ### Humanize
 
