@@ -132,7 +132,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured HTTP proxy.
-- [restler](https://github.com/danwrong/restler) - REST client library for node.js.
+- [restler](https://github.com/danwrong/restler) - REST client library.
 
 
 ### Debugging / Profiling
