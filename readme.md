@@ -524,6 +524,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - JavaScript
 	- [object-assign](https://github.com/sindresorhus/object-assign) - ES6 `Object.assign()` ponyfill.
 	- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 `Reflect` and `Proxy` polyfill.
+	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - ES6 `Promise` ponyfill.
 	- [es6-shim](https://github.com/paulmillr/es6-shim) - Collection of ES6 polyfills.
 	- More ES6 polyfills at [es6-tools](https://github.com/addyosmani/es6-tools#polyfills).
 
