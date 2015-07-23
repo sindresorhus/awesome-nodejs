@@ -47,6 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Polyfills](#polyfills)
 - [Natural language processing](#natural-language-processing)
 - [Process management](#process-management)
+- [Automation](#automation)
 - [AST](#ast)
 - [Weird](#weird)
 - [Miscellaneous](#miscellaneous)
@@ -548,6 +549,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Phusion Passenger](https://www.phusionpassenger.com/node_weekly) - Friendly process manager that integrates directly into Nginx.
 - [naught](https://github.com/andrewrk/naught) - Process manager with zero downtime deployment.
 
+### Automation
+
+- [robotjs](https://github.com/octalmage/robotjs) -  Desktop Automation: control the mouse, keyboard and read the screen.
 
 ### AST
 
