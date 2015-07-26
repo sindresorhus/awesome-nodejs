@@ -259,6 +259,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gaze](https://github.com/shama/gaze) - A globbing watch module which uses custom native binaries to listen to filesystem events.
 - [istextorbinary](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 - [filenamify](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
+- [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
 
 ### Control flow
