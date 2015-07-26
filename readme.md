@@ -522,6 +522,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [fs-access](https://github.com/sindresorhus/fs-access) - Node.js 0.12 `fs.access()` & `fs.accessSync()` ponyfill.
 	- [exec-file-sync](https://github.com/sindresorhus/exec-file-sync) - Node.js 0.12 `childProcess.execFileSync()` ponyfill.
 	- [child-process-ctor](https://github.com/sindresorhus/child-process-ctor) - io.js 2.2.0 `childProcess.ChildProcess` ponyfill.
+	- [node-status-codes](https://github.com/sindresorhus/node-status-codes) - Node.js `http.STATUS_CODES` ponyfill.
 - JavaScript
 	- [object-assign](https://github.com/sindresorhus/object-assign) - ES6 `Object.assign()` ponyfill.
 	- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 `Reflect` and `Proxy` polyfill.
