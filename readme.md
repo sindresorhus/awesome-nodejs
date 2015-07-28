@@ -260,6 +260,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [istextorbinary](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 - [filenamify](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
+- [fsevents](https://github.com/strongloop/fsevents) - Native Access to Mac OS-X FSEvents.
 
 
 ### Control flow
