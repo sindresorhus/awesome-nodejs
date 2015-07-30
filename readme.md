@@ -303,6 +303,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [readable-stream](https://github.com/isaacs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 - [through2-concurrent](https://github.com/almost/through2-concurrent) - Transform object streams concurrently.
 - [stream-combiner2](https://github.com/substack/stream-combiner2) - Turn a pipeline into a single stream.
+- [split2](https://github.com/mcollina/split2) - Break up a stream and reassemble it so that each line is a chunk.
 
 
 ### Real-time
