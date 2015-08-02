@@ -1,4 +1,4 @@
-# Awesome Node.js
+# Awesome Node.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of delightful Node.js [packages](#packages) and [resources](#resources).
 
@@ -47,6 +47,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Polyfills](#polyfills)
 - [Natural language processing](#natural-language-processing)
 - [Process management](#process-management)
+- [Automation](#automation)
 - [AST](#ast)
 - [Weird](#weird)
 - [Miscellaneous](#miscellaneous)
@@ -60,7 +61,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dat](http://dat-data.com) - Real-time replication and versioning for data sets.
 - [ipfs](https://github.com/jbenet/node-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 - [stackgl](http://stack.gl) - Open software ecosystem for WebGL, built on top of browserify and npm.
-- [Breach](http://breach.cc) - Modular and hackable browser written in JavaScript.
 - [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 - [peercast](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 - [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
@@ -102,6 +102,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [wifi-password](https://github.com/kevva/wifi-password) - Get the current wifi password.
 - [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the Dark Mode in OS X 10.10 from the command-line.
+- [vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for your live app.
+- [rtail](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes.
+- [ttystudio](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
 
 
 ### Functional programming
@@ -159,7 +162,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Express](http://expressjs.com) - A minimal and flexible web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 - [Hapi](http://hapijs.com) - A rich framework for building applications and services.
 - [LoopBack](http://loopback.io) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
-- [Meteor](https://www.meteor.com) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
+- [Meteor](https://www.meteor.com) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
 - [SailsJS](http://sailsjs.org) - An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.
 - [Restify](http://mcavage.me/node-restify/) - A node framework built specifically to enable you to build correct REST web services.
 - [Derby](https://github.com/derbyjs/derby) - MVC framework, making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
@@ -199,7 +202,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [npm](https://github.com/npm/npm/) - A package manager for Node.js and the web.
 - [Bower](http://bower.io) - A package manager for the web.
-- [Component](https://github.com/component/component) - A package manager for building better web apps.
 - [Duo](http://duojs.org) - A next-generation package manager for the front-end.
 - [jspm.io](http://jspm.io) - Frictionless browser package management with support for ES6, CommonJS, AMD modules.
 
@@ -221,6 +223,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [serialport](https://github.com/voodootikigod/node-serialport) - Access serial ports for reading and writing.
 - [usb](https://github.com/nonolith/node-usb) - USB library.
 - [cylon.js](http://cylonjs.com/) - Next generation robotics framework with support for 26 different platforms.
+- [i2c-bus](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
 
 
 ### Templating
@@ -256,6 +259,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gaze](https://github.com/shama/gaze) - A globbing watch module which uses custom native binaries to listen to filesystem events.
 - [istextorbinary](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 - [filenamify](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
+- [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 
 
 ### Control flow
@@ -268,6 +272,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - Generators
 	- [co](https://github.com/visionmedia/co) - The ultimate generator based flow-control goodness.
 	- [suspend](https://github.com/jmar777/suspend) - Generator-based control flow that plays nice with callbacks, promises, and thunks.
+	- [bluebird-co](https://github.com/novacrazy/bluebird-co) - A set of high performance yield handlers for Bluebird coroutines.
 - Promises
 	- [native-promise-only](https://github.com/getify/native-promise-only) - A polyfill for native ES6 Promises.
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
@@ -297,7 +302,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [multistream](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 - [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream/) - Fast conversion/scaling of images using a pool of long lived graphicsmagick processes.
 - [readable-stream](https://github.com/isaacs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
-- [s3-upload-stream](https://github.com/nathanpeck/s3-upload-stream) - Upload a stream to an Amazon S3 bucket using multipart upload.
 - [through2-concurrent](https://github.com/almost/through2-concurrent) - Transform object streams concurrently.
 - [stream-combiner2](https://github.com/substack/stream-combiner2) - Turn a pipeline into a single stream.
 
@@ -441,7 +445,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
 	- [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
 	- [MySQL](https://github.com/felixge/node-mysql) - MySQL client.
-	- [Redis](https://github.com/mranney/node_redis) - Redis client.
+	- [Redis](https://github.com/luin/ioredis) - Redis client.
 - ODM / ORM
 	- [Bookshelf](http://bookshelfjs.org) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
 	- [Mongoose](http://mongoosejs.com) - Elegant MongoDB object modeling.
@@ -450,6 +454,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [Iridium](https://github.com/SierraSoftworks/Iridium) - A high performance MongoDB ORM with support for promises, distributed caching, preprocessing, validation and plugins.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
 	- [orm2](https://github.com/dresende/node-orm2) - ORM for PostgreSQL, MariaDB, MySQL, Amazon Redshift, SQLite, MongoDB.
+	- [firenze](https://github.com/fahad19/firenze) - Adapter-based ORM for MySQL, Memory, Redis, localStorage and more.
 - Query builder
 	- [Knex](http://knexjs.org) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 - Other
@@ -464,7 +469,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
 - [istanbul](https://github.com/gotwarlost/istanbul) - A code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests.
 - [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks.
-- [navit](https://github.com/nodeca/navit) - PhantomJS wrapper for easy client tests scripting.
+- [navit](https://github.com/nodeca/navit) - PhantomJS / SlimerJS wrapper to simplify browser test scripting.
 - [nock](https://github.com/pgte/nock) - HTTP mocking and expectations.
 - [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 
@@ -519,9 +524,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [fs-access](https://github.com/sindresorhus/fs-access) - Node.js 0.12 `fs.access()` & `fs.accessSync()` ponyfill.
 	- [exec-file-sync](https://github.com/sindresorhus/exec-file-sync) - Node.js 0.12 `childProcess.execFileSync()` ponyfill.
 	- [child-process-ctor](https://github.com/sindresorhus/child-process-ctor) - io.js 2.2.0 `childProcess.ChildProcess` ponyfill.
+	- [node-status-codes](https://github.com/sindresorhus/node-status-codes) - Node.js `http.STATUS_CODES` ponyfill.
 - JavaScript
 	- [object-assign](https://github.com/sindresorhus/object-assign) - ES6 `Object.assign()` ponyfill.
 	- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 `Reflect` and `Proxy` polyfill.
+	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - ES6 `Promise` ponyfill.
 	- [es6-shim](https://github.com/paulmillr/es6-shim) - Collection of ES6 polyfills.
 	- More ES6 polyfills at [es6-tools](https://github.com/addyosmani/es6-tools#polyfills).
 
@@ -545,6 +552,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Phusion Passenger](https://www.phusionpassenger.com/node_weekly) - Friendly process manager that integrates directly into Nginx.
 - [naught](https://github.com/andrewrk/naught) - Process manager with zero downtime deployment.
 
+### Automation
+
+- [robotjs](https://github.com/octalmage/robotjs) -  Desktop Automation: control the mouse, keyboard and read the screen.
 
 ### AST
 
@@ -634,7 +644,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
 - [Node.js in Practice](http://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939)
-- [Mastering Node](http://tj.github.io/masteringnode/)
+- [Mastering Node](http://visionmedia.github.io/masteringnode/)
 - [Professional Node.js: Building Javascript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
 - [Practical Node.js: Building Real-World Scalable Web Apps](http://practicalnodebook.com)
 - [Mixu's Node book](http://book.mixu.net/node/)
@@ -656,6 +666,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Tools
 
 - [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json, .js, .jsx, .coffee and .md files on GitHub.
+- [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome extension to display npm dependencies at the bottom of a repo's readme.
 
 ### Miscellaneous
 
