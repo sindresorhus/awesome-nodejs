@@ -134,6 +134,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured HTTP proxy.
+- [rocky](https://github.com/h2non/rocky) - Featured, middleware-oriented HTTP proxy with traffic replay and intercept.
 
 
 ### Debugging / Profiling
