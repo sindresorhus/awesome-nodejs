@@ -148,7 +148,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [njsTrace](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
 - [vstream](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
 - [stackman](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
-- [ironNode](https://github.com/s-a/iron-node) - Node.js debugger supporting ES6 out of the box.
+- [ironNode](https://github.com/s-a/iron-node) - Node.js debugger supporting ES2015 out of the box.
 
 
 ### Logging
@@ -205,7 +205,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [npm](https://github.com/npm/npm/) - A package manager for Node.js and the web.
 - [Bower](http://bower.io) - A package manager for the web.
 - [Duo](http://duojs.org) - A next-generation package manager for the front-end.
-- [jspm.io](http://jspm.io) - Frictionless browser package management with support for ES6, CommonJS, AMD modules.
+- [jspm.io](http://jspm.io) - Frictionless browser package management with support for ES2015, CommonJS, AMD modules.
 
 
 ### Build tools
@@ -276,7 +276,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [suspend](https://github.com/jmar777/suspend) - Generator-based control flow that plays nice with callbacks, promises, and thunks.
 	- [bluebird-co](https://github.com/novacrazy/bluebird-co) - A set of high performance yield handlers for Bluebird coroutines.
 - Promises
-	- [native-promise-only](https://github.com/getify/native-promise-only) - A polyfill for native ES6 Promises.
+	- [native-promise-only](https://github.com/getify/native-promise-only) - A polyfill for native ES2015 Promises.
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
 	- [Q](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises.
 - Streams
@@ -528,11 +528,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [child-process-ctor](https://github.com/sindresorhus/child-process-ctor) - io.js 2.2.0 `childProcess.ChildProcess` ponyfill.
 	- [node-status-codes](https://github.com/sindresorhus/node-status-codes) - Node.js `http.STATUS_CODES` ponyfill.
 - JavaScript
-	- [object-assign](https://github.com/sindresorhus/object-assign) - ES6 `Object.assign()` ponyfill.
-	- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES6 `Reflect` and `Proxy` polyfill.
-	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - ES6 `Promise` ponyfill.
-	- [es6-shim](https://github.com/paulmillr/es6-shim) - Collection of ES6 polyfills.
-	- More ES6 polyfills at [es6-tools](https://github.com/addyosmani/es6-tools#polyfills).
+	- [object-assign](https://github.com/sindresorhus/object-assign) - ES2015 `Object.assign()` ponyfill.
+	- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES2015 `Reflect` and `Proxy` polyfill.
+	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - ES2015 `Promise` ponyfill.
+	- [es6-shim](https://github.com/paulmillr/es6-shim) - Collection of ES2015 polyfills.
+	- More ES2015 polyfills at [es6-tools](https://github.com/addyosmani/es6-tools#polyfills).
 
 
 ### Natural language processing
