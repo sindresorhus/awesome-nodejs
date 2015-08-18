@@ -562,6 +562,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Acorn](https://github.com/marijnh/acorn/) - A tiny, fast JavaScript parser.
 - [Rocambole](https://github.com/millermedeiros/rocambole) - Recursively walk and transform JavaScript AST.
+- [Esprima](https://github.com/jquery/esprima) - High performance, standard-compliant ECMAScript parser
 
 
 ### Weird
