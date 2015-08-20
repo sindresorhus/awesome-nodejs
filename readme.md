@@ -235,6 +235,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Jade](https://github.com/visionmedia/jade) - High performance template engine heavily influenced by Haml.
 - [nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
 - [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
+- [marko](https://github.com/marko-js/marko) - A fast and lightweight HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.
 
 
 ### Documentation
