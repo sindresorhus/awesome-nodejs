@@ -105,7 +105,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for your live app.
 - [rtail](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes.
 - [ttystudio](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
-- [tfa](https://www.npmjs.com/package/tfa) - A Two-Factor Auth Client for your cli.
+- [tfa](https://github.com/jasnell/tfa) - Two-factor authentication client.
 
 
 ### Functional programming
