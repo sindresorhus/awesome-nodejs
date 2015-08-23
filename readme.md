@@ -355,6 +355,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [string-length](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
 - [speakingurl](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
 - [linkify-it](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
+- [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings.
 
 
 ### Math
