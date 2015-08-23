@@ -467,6 +467,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [navit](https://github.com/nodeca/navit) - PhantomJS / SlimerJS wrapper to simplify browser test scripting.
 - [nock](https://github.com/pgte/nock) - HTTP mocking and expectations.
 - [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
+- [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate failure scenarios and network conditions.
 
 
 ### Benchmarking
