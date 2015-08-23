@@ -144,7 +144,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured HTTP proxy.
 - [rocky](https://github.com/h2non/rocky) - Featured, middleware-oriented HTTP proxy with traffic replay and intercept.
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
-- [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate failure scenarios and network conditions.
 
 
 ### Debugging / Profiling
@@ -468,6 +467,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [navit](https://github.com/nodeca/navit) - PhantomJS / SlimerJS wrapper to simplify browser test scripting.
 - [nock](https://github.com/pgte/nock) - HTTP mocking and expectations.
 - [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
+- [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate failure scenarios and network conditions.
 
 
 ### Benchmarking
