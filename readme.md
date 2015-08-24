@@ -87,7 +87,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all.
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
-- [vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for your live app.
 - [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts.
 - [tmpin](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
 - [empty-trash](https://github.com/sindresorhus/empty-trash) - Empty the trash.
@@ -320,6 +319,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SocketCluster](https://github.com/topcloud/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 - [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 - [Straw](https://github.com/simonswain/straw) - Real-time dataflow framework.
+- [Vantage](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live app.
 
 
 ### Image
