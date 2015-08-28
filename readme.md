@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Math](#math)
 - [Date](#date)
 - [Data validation](#data-validation)
+- [DOM diffing and patching](#DOM-diffing-and-patching)
 - [Parsing](#parsing)
 - [Humanize](#humanize)
 - [Compression](#compression)
@@ -273,23 +274,23 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Control flow
 
 - Callbacks
-	- [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
-	- [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronousity.
-	- [async-chainable](https://github.com/hash-bang/async-chainable) - Chainable, pluggable async functionality.
-	- [after-all-results](https://github.com/watson/after-all-results) - Bundle results of async functions calls into one callback with all the results.
+    - [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
+    - [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronousity.
+    - [async-chainable](https://github.com/hash-bang/async-chainable) - Chainable, pluggable async functionality.
+    - [after-all-results](https://github.com/watson/after-all-results) - Bundle results of async functions calls into one callback with all the results.
 - Generators
-	- [co](https://github.com/visionmedia/co) - The ultimate generator based flow-control goodness.
-	- [suspend](https://github.com/jmar777/suspend) - Generator-based control flow that plays nice with callbacks, promises, and thunks.
-	- [bluebird-co](https://github.com/novacrazy/bluebird-co) - A set of high performance yield handlers for Bluebird coroutines.
+    - [co](https://github.com/visionmedia/co) - The ultimate generator based flow-control goodness.
+    - [suspend](https://github.com/jmar777/suspend) - Generator-based control flow that plays nice with callbacks, promises, and thunks.
+    - [bluebird-co](https://github.com/novacrazy/bluebird-co) - A set of high performance yield handlers for Bluebird coroutines.
 - Promises
-	- [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
-	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - Promise ponyfill.
+    - [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
+    - [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - Promise ponyfill.
 - Streams
-	- [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
+    - [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 - Channels
-	- [js-csp](https://github.com/jlongster/js-csp) - Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go).
+    - [js-csp](https://github.com/jlongster/js-csp) - Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go).
 - Other
-	- [zone](https://github.com/strongloop/zone) - Provides a way to group and track resources and errors across asynchronous operations.
+    - [zone](https://github.com/strongloop/zone) - Provides a way to group and track resources and errors across asynchronous operations.
 
 
 ### Streams
@@ -384,6 +385,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [joi](https://github.com/spumko/joi) - Object schema description language and validator for JavaScript objects.
 - [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
 
+### DOM diffing and patching
+- [morphdom](https://github.com/patrick-steele-idem/morphdom) - Lightweight module for morphing an existing DOM node tree to match a target DOM node tree. It's fast and works with the real DOM—no virtual DOM here!
+- [virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A JavaScript DOM model supporting element creation, diff computation and patch operations for efficient re-rendering
+
 
 ### Parsing
 
@@ -436,24 +441,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Database
 
 - Drivers
-	- [LevelUP](https://github.com/rvagg/node-levelup) - LevelDB.
-	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
-	- [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
-	- [MySQL](https://github.com/felixge/node-mysql) - MySQL client.
-	- [Redis](https://github.com/luin/ioredis) - Redis client.
+    - [LevelUP](https://github.com/rvagg/node-levelup) - LevelDB.
+    - [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
+    - [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
+    - [MySQL](https://github.com/felixge/node-mysql) - MySQL client.
+    - [Redis](https://github.com/luin/ioredis) - Redis client.
 - ODM / ORM
-	- [Bookshelf](http://bookshelfjs.org) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
-	- [Mongoose](http://mongoosejs.com) - Elegant MongoDB object modeling.
-	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
-	- [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
-	- [Iridium](https://github.com/SierraSoftworks/Iridium) - A high performance MongoDB ORM with support for promises, distributed caching, preprocessing, validation and plugins.
-	- [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
-	- [orm2](https://github.com/dresende/node-orm2) - ORM for PostgreSQL, MariaDB, MySQL, Amazon Redshift, SQLite, MongoDB.
-	- [firenze](https://github.com/fahad19/firenze) - Adapter-based ORM for MySQL, Memory, Redis, localStorage and more.
+    - [Bookshelf](http://bookshelfjs.org) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
+    - [Mongoose](http://mongoosejs.com) - Elegant MongoDB object modeling.
+    - [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
+    - [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
+    - [Iridium](https://github.com/SierraSoftworks/Iridium) - A high performance MongoDB ORM with support for promises, distributed caching, preprocessing, validation and plugins.
+    - [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
+    - [orm2](https://github.com/dresende/node-orm2) - ORM for PostgreSQL, MariaDB, MySQL, Amazon Redshift, SQLite, MongoDB.
+    - [firenze](https://github.com/fahad19/firenze) - Adapter-based ORM for MySQL, Memory, Redis, localStorage and more.
 - Query builder
-	- [Knex](http://knexjs.org) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+    - [Knex](http://knexjs.org) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 - Other
-	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
+    - [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
 
 
 ### Testing
@@ -509,25 +514,25 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Polyfills
 
 - Node.js
-	- [set-immediate-shim](https://github.com/sindresorhus/set-immediate-shim) - Simple `setImmediate()` ponyfill.
-	- [path-is-absolute](https://github.com/sindresorhus/path-is-absolute) - Node.js 0.12 `path.isAbsolute()` ponyfill.
-	- [os-tmpdir](https://github.com/sindresorhus/os-tmpdir) - Node.js `os.tmpdir()` ponyfill.
-	- [os-homedir](https://github.com/sindresorhus/os-homedir) - io.js 2.3.0 `os.homedir()` ponyfill.
-	- [debug-log](https://github.com/sindresorhus/debug-log) - Node.js 0.12 `util.debuglog()` ponyfill.
-	- [buffer-equals](https://github.com/sindresorhus/buffer-equals) - Node.js 0.12 `buffer.equals()` ponyfill.
-	- [buf-indexof](https://github.com/sindresorhus/buf-indexof) - io.js 1.5.0 `buffer.indexOf()` ponyfill.
-	- [buf-compare](https://github.com/sindresorhus/buf-compare) - Node.js 0.12 `Buffer.compare()` ponyfill.
-	- [fs-access](https://github.com/sindresorhus/fs-access) - Node.js 0.12 `fs.access()` & `fs.accessSync()` ponyfill.
-	- [exec-file-sync](https://github.com/sindresorhus/exec-file-sync) - Node.js 0.12 `childProcess.execFileSync()` ponyfill.
-	- [child-process-ctor](https://github.com/sindresorhus/child-process-ctor) - io.js 2.2.0 `childProcess.ChildProcess` ponyfill.
-	- [node-status-codes](https://github.com/sindresorhus/node-status-codes) - Node.js `http.STATUS_CODES` ponyfill.
-	- [exit-code](https://github.com/isaacs/exit-code) - Node.js 0.12 `process.exitCode` polyfill.
+    - [set-immediate-shim](https://github.com/sindresorhus/set-immediate-shim) - Simple `setImmediate()` ponyfill.
+    - [path-is-absolute](https://github.com/sindresorhus/path-is-absolute) - Node.js 0.12 `path.isAbsolute()` ponyfill.
+    - [os-tmpdir](https://github.com/sindresorhus/os-tmpdir) - Node.js `os.tmpdir()` ponyfill.
+    - [os-homedir](https://github.com/sindresorhus/os-homedir) - io.js 2.3.0 `os.homedir()` ponyfill.
+    - [debug-log](https://github.com/sindresorhus/debug-log) - Node.js 0.12 `util.debuglog()` ponyfill.
+    - [buffer-equals](https://github.com/sindresorhus/buffer-equals) - Node.js 0.12 `buffer.equals()` ponyfill.
+    - [buf-indexof](https://github.com/sindresorhus/buf-indexof) - io.js 1.5.0 `buffer.indexOf()` ponyfill.
+    - [buf-compare](https://github.com/sindresorhus/buf-compare) - Node.js 0.12 `Buffer.compare()` ponyfill.
+    - [fs-access](https://github.com/sindresorhus/fs-access) - Node.js 0.12 `fs.access()` & `fs.accessSync()` ponyfill.
+    - [exec-file-sync](https://github.com/sindresorhus/exec-file-sync) - Node.js 0.12 `childProcess.execFileSync()` ponyfill.
+    - [child-process-ctor](https://github.com/sindresorhus/child-process-ctor) - io.js 2.2.0 `childProcess.ChildProcess` ponyfill.
+    - [node-status-codes](https://github.com/sindresorhus/node-status-codes) - Node.js `http.STATUS_CODES` ponyfill.
+    - [exit-code](https://github.com/isaacs/exit-code) - Node.js 0.12 `process.exitCode` polyfill.
 - JavaScript
-	- [object-assign](https://github.com/sindresorhus/object-assign) - ES2015 `Object.assign()` ponyfill.
-	- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES2015 `Reflect` and `Proxy` polyfill.
-	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - ES2015 `Promise` ponyfill.
-	- [es6-shim](https://github.com/paulmillr/es6-shim) - Collection of ES2015 polyfills.
-	- More ES2015 polyfills at [es6-tools](https://github.com/addyosmani/es6-tools#polyfills).
+    - [object-assign](https://github.com/sindresorhus/object-assign) - ES2015 `Object.assign()` ponyfill.
+    - [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES2015 `Reflect` and `Proxy` polyfill.
+    - [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - ES2015 `Promise` ponyfill.
+    - [es6-shim](https://github.com/paulmillr/es6-shim) - Collection of ES2015 polyfills.
+    - More ES2015 polyfills at [es6-tools](https://github.com/addyosmani/es6-tools#polyfills).
 
 
 ### Natural language processing
@@ -582,6 +587,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [KeystoneJS](http://keystonejs.com) - CMS and web application platform built on Express and MongoDB.
 - [Calipso](http://calip.so) - A simple content management system, built along similar themes to Drupal and Wordpress, that is designed to be fast, flexible and simple.
 - [Apostrophe2](http://apostrophenow.org) - A content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
+- [Ghost](https://github.com/tryghost/Ghost) - 
 
 
 ### Forum
