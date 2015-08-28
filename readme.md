@@ -226,6 +226,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [hogan.js](http://twitter.github.io/hogan.js/) - Twitter's small, fast, phase-separated compiler for Mustache templates.
 - [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
 - [Jade](https://github.com/visionmedia/jade) - High performance template engine heavily influenced by Haml.
+- [Dust.js](https://github.com/linkedin/dustjs) - Asynchronous Javascript templating for the browser and server
 
 
 ### Web frameworks
