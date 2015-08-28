@@ -126,7 +126,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) - The brass buckles on Underscore's utility belt.
 - [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
 - [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
-- [RxJS](http://reactive-extensions.github.io/RxJS/) - Functional reactive library for transforming, composing, and querying various kinds of data.
+- [RxJS](http://reactivex.io/) - Functional reactive library for transforming, composing, and querying various kinds of data.
 - [Lazy.js](https://github.com/dtao/lazy.js/) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
 
 
