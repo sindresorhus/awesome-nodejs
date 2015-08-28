@@ -29,6 +29,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Math](#math)
 - [Date](#date)
 - [Data validation](#data-validation)
+- [DOM diffing and patching](#DOM-diffing-and-patching)
 - [Parsing](#parsing)
 - [Humanize](#humanize)
 - [Compression](#compression)
@@ -384,7 +385,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [joi](https://github.com/spumko/joi) - Object schema description language and validator for JavaScript objects.
 - [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
 
-### DOM diffing/patching
+### DOM diffing and patching
 - [morphdom](https://github.com/patrick-steele-idem/morphdom) - Lightweight module for morphing an existing DOM node tree to match a target DOM node tree. It's fast and works with the real DOM—no virtual DOM here!
 - [virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A JavaScript DOM model supporting element creation, diff computation and patch operations for efficient re-rendering
 
