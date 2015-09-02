@@ -114,6 +114,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [tfa](https://github.com/jasnell/tfa) - Two-factor authentication client.
 - [rtail](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
+- [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
 
 
 ### Functional programming
