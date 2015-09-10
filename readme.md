@@ -269,6 +269,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [istextorbinary](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
+- [remy](https://github.com/coderaiser/node-remy) - Remove files with emitter.
 
 
 ### Control flow
