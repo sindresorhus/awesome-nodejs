@@ -28,6 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Number](#number)
 - [Math](#math)
 - [Date](#date)
+- [URL](#url)
 - [Data validation](#data-validation)
 - [Parsing](#parsing)
 - [Humanize](#humanize)
@@ -341,8 +342,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [repeating](https://github.com/sindresorhus/repeating) - Repeat a string.
 - [string-length](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
 - [camelcase](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
-- [normalize-url](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
-- [humanize-url](https://github.com/sindresorhus/humanize-url) - Humanize a URL: http://sindresorhus.com → sindresorhus.com.
 - [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
 - [execall](https://github.com/sindresorhus/execall) - Find multiple RegExp matches in a string.
 - [splice-string](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
@@ -352,10 +351,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder.
 - [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
 - [babelfish](https://github.com/nodeca/babelfish/) - i18n with very easy syntax for plurals.
-- [speakingurl](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
-- [linkify-it](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
 - [parse-columns](https://github.com/sindresorhus/parse-columns) - Parse text columns, like the output of Unix commands.
-- [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
 
 
 ## Number
@@ -379,6 +375,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Moment.js](http://momentjs.com) - Parse, validate, manipulate, and display dates.
 - [Moment Timezone](http://momentjs.com/timezone/) - IANA Time Zone Database + Moment.js.
 - [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
+
+
+### URL
+
+- [normalize-url](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
+- [humanize-url](https://github.com/sindresorhus/humanize-url) - Humanize a URL: http://sindresorhus.com → sindresorhus.com.
+- [speakingurl](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
+- [linkify-it](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
+- [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
 
 
 ### Data validation
