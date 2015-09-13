@@ -703,6 +703,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Cheatsheets
 
 - [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4/index.md)
+- [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
 
 ### Tools
 
