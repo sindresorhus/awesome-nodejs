@@ -130,6 +130,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
 - [RxJS](http://reactivex.io/) - Functional reactive library for transforming, composing, and querying various kinds of data.
 - [Lazy.js](https://github.com/dtao/lazy.js/) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
+- [Kefir.js](http://rpominov.github.io/kefir/) - Kefir is a Reactive Programming library for JavaScript inspired by Bacon.js and RxJS, with focus on high performance and low memory usage.
 
 
 ### HTTP
