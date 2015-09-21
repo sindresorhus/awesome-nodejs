@@ -679,6 +679,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Introduction to Node.js Fundamentals](http://strongloop.com/node-js/videos/#a-video-intro-to-nodejs-fundamentals)
 - [Hands on with Node.js](https://learn.bevry.me/node/preface)
 - [Full Streams Ahead](http://dry.ly/full-streams-ahead) - Introduction to streams.
+- [StrongLoop Talks](https://strongloop.com/node-js/videos/) - Series of talks.
 
 ### Podcasts
 
