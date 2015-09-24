@@ -117,6 +117,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 - [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
 - [pen](https://github.com/noraesae/pen) - Live Markdown preview in the browser from your favorite editor.
+- [subdownloader](https://github.com/beatfreaker/subdownloader) - Subtitle downloader for movies and TV series.
 
 
 ### Functional programming
