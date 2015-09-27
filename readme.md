@@ -98,7 +98,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the Dark Mode in OS X 10.10 from the command-line.
 - [ttystudio](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
-- [http-server](https://github.com/nodeapps/http-server) - Simple, zero-config command-line HTTP server.
 - [bcat](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 - [normit](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 - [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
@@ -615,6 +614,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [supervillains](https://github.com/sindresorhus/supervillains) - Get supervillain names.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 - [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - ₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”
+
+### Web Server
+
+- [http-server](https://github.com/nodeapps/http-server) - Simple, zero-config command-line HTTP server.
+- [Harp](https://github.com/cheeriojs/cheerio) - Static web server with built-in preprocessing like Markdown, Jade, EJS, LESS, Stylus, Sass and CoffeeScript.
+- [Live Server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
+
 
 
 ### Miscellaneous
