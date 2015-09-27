@@ -618,7 +618,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Web Server
 
 - [http-server](https://github.com/nodeapps/http-server) - Simple, zero-config command-line HTTP server.
-- [Harp](https://github.com/cheeriojs/cheerio) - Static web server with built-in preprocessing like Markdown, Jade, EJS, LESS, Stylus, Sass and CoffeeScript.
+- [Harp](http://harpjs.com/) - Static web server with built-in preprocessing like Markdown, Jade, EJS, LESS, Stylus, Sass and CoffeeScript.
 - [Live Server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 
 
