@@ -98,6 +98,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [ttystudio](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 - [http-server](https://github.com/nodeapps/http-server) - Simple, zero-config command-line HTTP server.
+- [Live Server](https://github.com/tapio/live-server) - A simple development HTTP-server with livereload capability.
 - [bcat](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 - [normit](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 - [slap](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
