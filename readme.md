@@ -46,7 +46,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Process management](#process-management)
 - [Automation](#automation)
 - [AST](#ast)
-- [Package managers](#package-managers)
 - [Static site generators](#static-site-generators)
 - [Content management systems](#content-management-systems)
 - [Forum](#forum)
@@ -571,14 +570,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Acorn](https://github.com/marijnh/acorn/) - A tiny, fast JavaScript parser.
 - [Rocambole](https://github.com/millermedeiros/rocambole) - Recursively walk and transform JavaScript AST.
-
-
-### Package managers
-
-- [npm](https://github.com/npm/npm/) - A package manager for Node.js and the web.
-- [jspm.io](http://jspm.io) - Frictionless browser package management with support for ES2015, CommonJS, AMD modules.
-- [Duo](http://duojs.org) - A next-generation package manager for the front-end.
-- [Bower](http://bower.io) - A package manager for the web.
 
 
 ### Static site generators
