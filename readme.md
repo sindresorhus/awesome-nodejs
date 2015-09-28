@@ -78,7 +78,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
 - [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm`.
 - [npm-name](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
-- [xo](https://github.com/sindresorhus/xo) - Enforce strict code style using the JavaScript happiness style.
+- [XO](https://github.com/sindresorhus/xo) - Enforce strict code style using the JavaScript happiness style.
 - [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [yo](https://github.com/yeoman/yo) - Run Yeoman generators.
@@ -228,7 +228,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
 - [hogan.js](http://twitter.github.io/hogan.js/) - Twitter's small, fast, phase-separated compiler for Mustache templates.
 - [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
-- [Jade](https://github.com/visionmedia/jade) - High performance template engine heavily influenced by Haml.
+- [Jade](https://github.com/visionmedia/jade) - High-performance template engine heavily influenced by Haml.
 
 
 ### Web frameworks
@@ -240,10 +240,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Meteor](https://www.meteor.com) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
 - [SailsJS](http://sailsjs.org) - An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.
 - [Restify](http://mcavage.me/node-restify/) - A node framework built specifically to enable you to build correct REST web services.
-- [Interfake](https://github.com/basicallydan/interfake) - Rapid prototyping framework for making mock HTTP APIs, with a Node, command-line and HTTP interface.
+- [Interfake](https://github.com/basicallydan/interfake) - Rapid prototyping framework for making mock HTTP APIs, with a Node.js, command-line and HTTP interface.
 - [Derby](https://github.com/derbyjs/derby) - MVC framework, making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
 - [Restberry](http://restberry.com) - Framework for setting up RESTful JSON APIs, applied to your database models without needing to write any code.
-- [Catberry](http://catberry.org) - Framework with Flux architecture, isomorphic web-components and progressive rendering.
+- [Catberry](http://catberry.org) - Framework with Flux architecture, isomorphic web-components, and progressive rendering.
 
 
 
@@ -312,7 +312,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [stream-combiner2](https://github.com/substack/stream-combiner2) - Turn a pipeline into a single stream.
 - [readable-stream](https://github.com/isaacs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 - [through2-concurrent](https://github.com/almost/through2-concurrent) - Transform object streams concurrently.
-- [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream/) - Fast conversion/scaling of images using a pool of long lived graphicsmagick processes.
+- [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream/) - Fast conversion/scaling of images using a pool of long lived GraphicsMagick processes.
 
 
 ### Real-time
@@ -484,7 +484,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Benchmarking
 
 - [Benchmark.js](http://benchmarkjs.com) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
-- [matcha](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+- [matcha](https://github.com/logicalparadox/matcha) - A caffeine-driven, simplistic approach to benchmarking.
 
 
 ### Minifiers
@@ -501,7 +501,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [everyauth](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, Facebook, etc) for your Connect and Express apps.
 - [passwordless](https://passwordless.net) - Token-based authentication middleware for Express allowing authentication without passwords.
 - [Lockit](https://github.com/zemirco/lockit) - Full featured authentication solution for Express. Supports a variety of databases, predefined routes, email and two-factor authentication.
-- [Grant](https://github.com/simov/grant) - OAuth middleware for Express, Koa and Hapi.
+- [Grant](https://github.com/simov/grant) - OAuth middleware for Express, Koa, and Hapi.
 
 
 ### Email
@@ -535,8 +535,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [exit-code](https://github.com/isaacs/exit-code) - Node.js 0.12 `process.exitCode` polyfill.
 - JavaScript
 	- [object-assign](https://github.com/sindresorhus/object-assign) - ES2015 `Object.assign()` ponyfill.
-	- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES2015 `Reflect` and `Proxy` polyfill.
 	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - ES2015 `Promise` ponyfill.
+	- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES2015 `Reflect` and `Proxy` polyfill.
 	- [es6-shim](https://github.com/paulmillr/es6-shim) - Collection of ES2015 polyfills.
 	- More ES2015 polyfills at [es6-tools](https://github.com/addyosmani/es6-tools#polyfills).
 
