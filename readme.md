@@ -469,6 +469,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Testing
 
+- [AVA](http://ava.li) - Simple concurrent test runner.
 - [tape](https://github.com/substack/tape) - [TAP](http://testanything.org)-producing test harness.
 - [Mocha](http://mochajs.org/) - A feature-rich test framework making asynchronous testing simple and fun.
 - [Mochify](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
