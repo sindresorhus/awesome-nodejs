@@ -332,6 +332,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 - [lwip](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
 - [pica](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
+- [jimp](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
 - [is-progressive](https://github.com/sindresorhus/is-progressive) - Check if a JPEG image is progressive.
 - [probe-image-size](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
 
