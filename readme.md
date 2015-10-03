@@ -662,7 +662,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Articles
 
 - [Error Handling in Node.js](http://www.joyent.com/developers/node/design/errors)
-- [Teach Yourself Node.JS in 10 Steps](http://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
+- [Teach Yourself Node.js in 10 Steps](http://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
+- [Mastering the filesystem in Node.js](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801)
 
 ### Newsletters
 
