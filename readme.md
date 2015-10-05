@@ -378,7 +378,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Moment.js](http://momentjs.com) - Parse, validate, manipulate, and display dates.
 - [Moment Timezone](http://momentjs.com/timezone/) - IANA Time Zone Database + Moment.js.
 - [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
-- [human-readable-time](https://www.npmjs.com/package/human-readable-time) - Date formatting by pattern.
+- [human-readable-time](https://github.com/G07cha/human-readable-time) - Date formatting by pattern.
 
 
 ### URL
