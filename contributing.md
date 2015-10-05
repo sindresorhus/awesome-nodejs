@@ -8,6 +8,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format: `[package](link) - Description.`
 - Additions should be added to the bottom of the relevant category.
 - New categories, or improvements to the existing categorization are welcome.
+- Link to the GitHub repo, not npmjs.com.
 - Keep descriptions short and simple, but descriptive.
 - Don't mention `Node.js` in the description as it's implied.
 - Start the description with a capital and end with a full stop/period.
