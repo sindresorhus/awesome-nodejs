@@ -417,6 +417,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Stylecow](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
 - [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 - [excel-stream](https://github.com/dominictarr/excel-stream) - Streaming Excel spreadsheet to JSON parser.
+- [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
 
 
 ### Humanize
