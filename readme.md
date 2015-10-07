@@ -169,6 +169,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [winston](https://github.com/flatiron/winston) - A multi-transport async logging library.
 - [Bunyan](https://github.com/trentm/node-bunyan) - A simple and fast JSON logging library.
 - [intel](https://seanmonstar.github.io/intel) - A comprehensive logging library (handlers, filters, formatters, console injection).
+- [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 
 
 ### Command-line utilities
