@@ -294,6 +294,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [js-csp](https://github.com/jlongster/js-csp) - Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go).
 - Other
 	- [zone](https://github.com/strongloop/zone) - Provides a way to group and track resources and errors across asynchronous operations.
+	- [orchestrator](https://github.com/orchestrator/orchestrator) Task based. Support callback, promise and stream. [GulpJS](https://github.com/gulpjs/gulp) control flow
 
 
 ### Streams
