@@ -162,6 +162,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [vstream](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
 - [stackman](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 - [TraceGL](https://github.com/traceglMPL/tracegl) - Transforms your JavaScript, injecting monitoring code that produces a log of everything that happens.
+- [locus](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
 
 
 ### Logging
