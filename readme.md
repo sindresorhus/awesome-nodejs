@@ -118,6 +118,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
 - [pen](https://github.com/noraesae/pen) - Live Markdown preview in the browser from your favorite editor.
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - Subtitle downloader for movies and TV series.
+- [vorpal](https://github.com/dthree/vorpal) - A framework for interactive CLI apps.
 
 
 ### Functional programming
