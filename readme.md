@@ -290,6 +290,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - Promises
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
 	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - Promise ponyfill.
+	- [q](https://github.com/kriskowal/q) - A tool for creating and composing asynchronous promises in JavaScript.
 - Streams
 	- [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 - Channels
