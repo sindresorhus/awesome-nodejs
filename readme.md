@@ -71,6 +71,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [webcat](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
 - [NodeOS](http://node-os.com) - The first operating system powered by npm.
+- [limdu](https://github.com/erelsgl/limdu) - Machine-learning framework.
 
 
 ### Command-line apps
