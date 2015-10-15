@@ -515,6 +515,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Email
 
 - [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
+- [Email.js](https://github.com/eleith/emailjs) - HTML e-mails and attachments to any SMTP server.
 
 
 ### Node.js management
