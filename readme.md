@@ -700,6 +700,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mixu's Node book](http://book.mixu.net/node/)
 - [Web Development with Node and Express](http://shop.oreilly.com/product/0636920032977.do)
 - [Pro Express.js](http://proexpressjs.com)
+- [Sails in Action](https://www.manning.com/books/sails-js-in-action)
 
 ### Blogs
 
