@@ -663,6 +663,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams.
 - [browserify-handbook](https://github.com/substack/browserify-handbook) - The definitive guide for browserify.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
+- [The Node Way](http://thenodeway.io) — An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
 
 ### Discovery
 
