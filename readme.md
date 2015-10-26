@@ -491,6 +491,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [trevor](https://github.com/vdemedes/trevor) - Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
 - [istanbul](https://github.com/gotwarlost/istanbul) - A code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests.
+- [nyc](https://github.com/bcoe/nyc) - Code coverage tool built on istanbul that works with subprocesses.
 - [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks.
 - [navit](https://github.com/nodeca/navit) - PhantomJS / SlimerJS wrapper to simplify browser test scripting.
 - [nock](https://github.com/pgte/nock) - HTTP mocking and expectations.
