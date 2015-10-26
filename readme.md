@@ -65,9 +65,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 - [peercast](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 - [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
-- [Bitcore](http://bitcore.io/) - A pure and powerful Bitcoin library.
+- [Bitcore](http://bitcore.io) - A pure and powerful Bitcoin library.
 - [PDFKit](http://pdfkit.org) - PDF generation library.
-- [turf](https://github.com/Turfjs/turf/) - Modular geospatial processing and analysis engine.
+- [turf](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 - [webcat](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
 - [NodeOS](http://node-os.com) - The first operating system powered by npm.
@@ -96,7 +96,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
 - [is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
 - [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address.
-- [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the Dark Mode in OS X 10.10 from the command-line.
+- [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the OS X Dark Mode.
 - [ttystudio](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 - [http-server](https://github.com/nodeapps/http-server) - Simple, zero-config command-line HTTP server.
@@ -120,7 +120,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [alex](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
 - [pen](https://github.com/noraesae/pen) - Live Markdown preview in the browser from your favorite editor.
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - Subtitle downloader for movies and TV series.
-- [vorpal](https://github.com/dthree/vorpal) - A framework for interactive CLI apps.
 - [iponmap](https://github.com/nogizhopaboroda/iponmap) - IP location finder.
 
 
@@ -134,8 +133,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) - The brass buckles on Underscore's utility belt.
 - [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
 - [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
-- [RxJS](http://reactivex.io/) - Functional reactive library for transforming, composing, and querying various kinds of data.
-- [Lazy.js](https://github.com/dtao/lazy.js/) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
+- [RxJS](http://reactivex.io) - Functional reactive library for transforming, composing, and querying various kinds of data.
+- [Lazy.js](https://github.com/dtao/lazy.js) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
 
 
 ### HTTP
@@ -196,6 +195,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [string-width](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
 - [first-run](https://github.com/sindresorhus/first-run) - Check if it's the first time the process is run.
 - [sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
+- [vorpal](https://github.com/dthree/vorpal) - A framework for interactive CLI apps.
 - [blessed](https://github.com/chjj/blessed) - A curses-like library.
 - [yn](https://github.com/sindresorhus/yn) - Parse yes/no like values.
 - [cli-table](https://github.com/LearnBoost/cli-table) - Pretty unicode tables.
@@ -211,12 +211,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Build tools
 
 - [gulp](http://gulpjs.com) - Streaming and fast build system that favors code over config.
-- [grunt](http://gruntjs.com) - Task runner that can perform repetitive tasks like minification, compilation, unit testing, linting, etc.
 - [Broccoli](https://github.com/broccolijs/broccoli) - A fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
 - [webpack](https://github.com/webpack/webpack) - Packs CommonJS/AMD modules for the browser.
 - [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
 - [strong-build](https://github.com/strongloop/strong-build) - Build a node app package and prepare to deploy it as a package to production or use git to commit to a deploy branch.
+- [grunt](http://gruntjs.com) - Task runner that can perform repetitive tasks like minification, compilation, unit testing, linting, etc.
 
 
 ### Hardware
@@ -224,15 +224,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [johnny-five](https://github.com/rwaldron/johnny-five) - Firmata based Arduino Framework.
 - [serialport](https://github.com/voodootikigod/node-serialport) - Access serial ports for reading and writing.
 - [usb](https://github.com/nonolith/node-usb) - USB library.
-- [cylon.js](http://cylonjs.com/) - Next generation robotics framework with support for 26 different platforms.
+- [cylon.js](http://cylonjs.com) - Next generation robotics framework with support for 26 different platforms.
 - [i2c-bus](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
 
 
 ### Templating
 
-- [handlebars.js](https://github.com/wycats/handlebars.js/) - A superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
 - [marko](https://github.com/marko-js/marko) - A fast and lightweight HTML-based templating engine that compiles templates to CommonJS modules and supports streaming, async rendering and custom tags.
 - [nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired).
+- [handlebars.js](https://github.com/wycats/handlebars.js) - A superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
 - [hogan.js](http://twitter.github.io/hogan.js/) - Twitter's small, fast, phase-separated compiler for Mustache templates.
 - [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
 - [Jade](https://github.com/visionmedia/jade) - High-performance template engine heavily influenced by Haml.
@@ -253,7 +253,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Catberry](http://catberry.org) - Framework with Flux architecture, isomorphic web-components, and progressive rendering.
 
 
-
 ### Documentation
 
 - [Docco](http://jashkenas.github.io/docco/) - A quick-and-dirty documentation generator which produces an HTML document that displays your comments intermingled with your code.
@@ -272,16 +271,24 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [mkdirp](https://github.com/substack/node-mkdirp) - Recursively create directories like `mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Drop-in replacement for the `fs` module with various improvements.
 - [chokidar](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on OS X.
+- [find-up](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
+- [load-json-file](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
+- [write-json-file](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
 - [fs-write-stream-atomic](https://github.com/npm/fs-write-stream-atomic) - Like `fs.createWriteStream()`, but atomic.
 - [filenamify](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
 - [lnfs](https://github.com/kevva/lnfs) - Force create symlinks like `ln -fs`.
 - [istextorbinary](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
+- [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of a npm package.
 
 
 ### Control flow
 
+- Promises
+	- [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
+	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - Promise ponyfill.
+	- [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
 - Callbacks
 	- [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
 	- [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronicity.
@@ -291,9 +298,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [co](https://github.com/visionmedia/co) - The ultimate generator based flow-control goodness.
 	- [suspend](https://github.com/jmar777/suspend) - Generator-based control flow that plays nice with callbacks, promises, and thunks.
 	- [bluebird-co](https://github.com/novacrazy/bluebird-co) - A set of high performance yield handlers for Bluebird coroutines.
-- Promises
-	- [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
-	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - Promise ponyfill.
 - Streams
 	- [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 - Channels
@@ -306,6 +310,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [through2](https://github.com/rvagg/through2) - Tiny wrapper around streams2 Transform to avoid explicit subclassing noise.
 - [from2](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`.
+- [get-stream](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
 - [concat-stream](https://github.com/maxogden/concat-stream) - Concatenates a stream into strings or binary data.
 - [into-stream](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
 - [duplexify](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
@@ -319,14 +324,14 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [stream-combiner2](https://github.com/substack/stream-combiner2) - Turn a pipeline into a single stream.
 - [readable-stream](https://github.com/isaacs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 - [through2-concurrent](https://github.com/almost/through2-concurrent) - Transform object streams concurrently.
-- [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream/) - Fast conversion/scaling of images using a pool of long lived GraphicsMagick processes.
+- [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream) - Fast conversion/scaling of images using a pool of long lived GraphicsMagick processes.
 
 
 ### Real-time
 
 - [Socket.io](http://socket.io) - Enables real-time bidirectional event-based communication.
 - [SockJS](https://github.com/sockjs/sockjs-node) - Low latency, full duplex, cross-domain channel browser-server, with WebSockets or without.
-- [Faye](http://faye.jcoglan.com/) - Real-time client-server message bus, based on Bayeux protocol.
+- [Faye](http://faye.jcoglan.com) - Real-time client-server message bus, based on Bayeux protocol.
 - [SocketCluster](https://github.com/topcloud/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 - [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 - [Straw](https://github.com/simonswain/straw) - Real-time dataflow framework.
@@ -410,6 +415,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [parse5](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
 - [strip-json-comments](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
 - [strip-css-comments](https://github.com/sindresorhus/strip-css-comments) - Strip comments from CSS.
+- [parse-json](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 - [URI.js](https://github.com/medialize/URI.js) - URL mutation.
 - [PostCSS](https://github.com/postcss/postcss) - CSS parser / stringifier.
 - [JSONStream](https://github.com/dominictarr/JSONStream) - Streaming JSON.parse and stringify.
@@ -477,10 +483,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Testing
 
-- [AVA](http://ava.li) - Simple concurrent test runner.
-- [tape](https://github.com/substack/tape) - [TAP](http://testanything.org)-producing test harness.
-- [Mocha](http://mochajs.org/) - A feature-rich test framework making asynchronous testing simple and fun.
+- [AVA](https://ava.li) - Futuristic test runner.
+- [tap](https://github.com/isaacs/node-tap) - A TAP test framework.
+- [tape](https://github.com/substack/tape) - TAP-producing test harness.
+- [Mocha](http://mochajs.org) - A feature-rich test framework making asynchronous testing simple and fun.
 - [Mochify](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
+- [trevor](https://github.com/vdemedes/trevor) - Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
 - [istanbul](https://github.com/gotwarlost/istanbul) - A code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests.
 - [Sinon.JS](https://github.com/cjohansen/Sinon.JS) - Test spies, stubs and mocks.
@@ -488,7 +496,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nock](https://github.com/pgte/nock) - HTTP mocking and expectations.
 - [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 - [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate failure scenarios and network conditions.
-- [trevor](https://github.com/vdemedes/trevor) - Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI.
 
 
 ### Benchmarking
@@ -564,12 +571,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Process management
 
+- [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager.
 - [node-windows](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer.
 - [node-mac](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
 - [node-linux](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
 - [forever](https://github.com/nodejitsu/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever).
 - [supervisor](https://github.com/isaacs/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
-- [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager.
 - [Phusion Passenger](https://www.phusionpassenger.com/node_weekly) - Friendly process manager that integrates directly into Nginx.
 - [naught](https://github.com/andrewrk/naught) - Process manager with zero downtime deployment.
 
@@ -581,7 +588,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### AST
 
-- [Acorn](https://github.com/marijnh/acorn/) - A tiny, fast JavaScript parser.
+- [Acorn](https://github.com/marijnh/acorn) - A tiny, fast JavaScript parser.
 - [Rocambole](https://github.com/millermedeiros/rocambole) - Recursively walk and transform JavaScript AST.
 
 
@@ -633,6 +640,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [require-uncached](https://github.com/sindresorhus/require-uncached) - Require a module bypassing the cache.
 - [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
+- [deep-assign](https://github.com/sindresorhus/deep-assign) - Recursive `Object.assign()`.
 - [shelljs](https://github.com/arturadib/shelljs) - Portable Unix shell commands.
 - [os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale.
 - [nan](https://github.com/rvagg/nan) - A header file filled with macro and utility goodness for making add-on development for across Node.js versions easier.
@@ -642,7 +650,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 - [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
-- [node-pre-gyp](https://github.com/mapbox/node-pre-gyp/) - Makes it easy to publish and install Node.js C++ addons from binaries.
+- [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Makes it easy to publish and install Node.js C++ addons from binaries.
 - [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
 - [common-errors](https://github.com/shutterstock/node-common-errors) - Common error classes and utility functions.
 - [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
@@ -667,7 +675,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Discovery
 
-- [node-modules.com](http://node-modules.com/) - An alternative npm search engine with a more intelligent and personal results ranking.
+- [node-modules.com](http://node-modules.com) - An alternative npm search engine with a more intelligent and personal results ranking.
 
 ### Articles
 
