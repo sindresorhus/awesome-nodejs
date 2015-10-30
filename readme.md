@@ -693,6 +693,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Videos
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
+- [thenewboston's Excellent Video Series on Getting Started with Node.js and related technologies](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBMdkKFn3HasZnnAqVjzHn_)
 - [LearnAllTheNodes](http://www.learnallthenodes.com) - Series of useful tips, tricks, and packages.
 - [Introduction to Node.js Fundamentals](http://strongloop.com/node-js/videos/#a-video-intro-to-nodejs-fundamentals)
 - [Hands on with Node.js](https://learn.bevry.me/node/preface)
