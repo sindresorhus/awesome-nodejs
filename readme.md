@@ -664,6 +664,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [nar](https://github.com/h2non/nar) - Create self-contained executable binaries.
 - [node-bell](https://github.com/eleme/node-bell) - Real-time anomalies detection for periodic time series.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
+- [nodegit](https://github.com/nodegit/nodegit) - Native bindings to Git.
 
 
 ## Resources
