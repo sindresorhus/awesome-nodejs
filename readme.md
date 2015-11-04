@@ -368,6 +368,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
 - [babelfish](https://github.com/nodeca/babelfish/) - i18n with very easy syntax for plurals.
 - [parse-columns](https://github.com/sindresorhus/parse-columns) - Parse text columns, like the output of Unix commands.
+- [hanging-indent](https://github.com/codekirei/hanging-indent) - Format a string into a hanging-indented paragraph.
 
 
 ## Number
