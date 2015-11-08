@@ -124,6 +124,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [subdownloader](https://github.com/beatfreaker/subdownloader) - Subtitle downloader for movies and TV series.
 - [iponmap](https://github.com/nogizhopaboroda/iponmap) - IP location finder.
 - [Jsome](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
+- [itunes-remote](https://github.com/mischah/itunes-remote) - Interactively control iTunes.
 
 
 ### Functional programming
