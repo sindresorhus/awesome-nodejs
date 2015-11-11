@@ -731,6 +731,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### Courses
 
 - [Real Time Web with Node.js](http://campus.codeschool.com/auth/codeschool)
+- [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
 
 ### Cheatsheets
 
