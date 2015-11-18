@@ -406,6 +406,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [linkify-it](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
 - [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
 - [embedza](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
+- [urlshortener](https://github.com/khiro/urlshortener) - Create shortened url programmatically using popular services(goo.gl, bit.ly and more)
 
 
 ### Data validation
