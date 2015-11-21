@@ -178,6 +178,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bunyan](https://github.com/trentm/node-bunyan) - A simple and fast JSON logging library.
 - [intel](http://seanmonstar.github.io/intel/) - A comprehensive logging library (handlers, filters, formatters, console injection).
 - [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
+- [log4js](https://github.com/nomiddlename/log4js-node) - A conversion of the log4js framework to work with node.
 
 
 ### Command-line utilities
