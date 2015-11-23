@@ -706,6 +706,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Full Streams Ahead](http://dry.ly/full-streams-ahead) - Introduction to streams.
 - [StrongLoop Talks](https://strongloop.com/node-js/videos/) - Series of talks.
 - [thenewboston's Node.js for Beginners](https://www.thenewboston.com/videos.php?cat=355)
+- [Nodetuts](http://nodetuts.com) - Series of talks, including TCP & HTTP API servers, async programming, and more.
 
 ### Podcasts
 
