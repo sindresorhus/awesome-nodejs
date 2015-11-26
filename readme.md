@@ -170,6 +170,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [stackman](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 - [TraceGL](https://github.com/traceglMPL/tracegl) - Transforms your JavaScript, injecting monitoring code that produces a log of everything that happens.
 - [locus](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
+- [betwixt-js](https://github.com/kdzwinel/betwixt) - Web Debugging Proxy based on Chrome DevTools Network panel.
+
 
 
 ### Logging
