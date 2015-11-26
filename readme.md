@@ -155,6 +155,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured HTTP proxy.
 - [rocky](https://github.com/h2non/rocky) - Featured, middleware-oriented HTTP proxy with traffic replay and intercept.
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
+- [Kong](https://github.com/mashape/kong) - Microservice & API Management Gateway
 
 
 ### Debugging / Profiling
