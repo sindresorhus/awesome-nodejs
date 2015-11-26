@@ -125,6 +125,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [iponmap](https://github.com/nogizhopaboroda/iponmap) - IP location finder.
 - [Jsome](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
 - [itunes-remote](https://github.com/mischah/itunes-remote) - Interactively control iTunes.
+- [TVSort](https://github.com/torrottum/TVSort) - Sorts TV show files into subdirectories.
 
 
 ### Functional programming
