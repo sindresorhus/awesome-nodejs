@@ -474,6 +474,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 	- [Redis](https://github.com/luin/ioredis) - Redis client.
 - ODM / ORM
 	- [Bookshelf](http://bookshelfjs.org) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
+	- [Massive](https://github.com/robconery/massive-js) - PostgreSQL data access tool.
 	- [Mongoose](http://mongoosejs.com) - Elegant MongoDB object modeling.
 	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
 	- [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
