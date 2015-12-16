@@ -219,7 +219,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [gulp](http://gulpjs.com) - Streaming and fast build system that favors code over config.
 - [Broccoli](https://github.com/broccolijs/broccoli) - A fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 - [browserify](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
-- [webpack](https://github.com/webpack/webpack) - Packs CommonJS/AMD modules, styles, images, fonts and other assets for the browser.
+- [webpack](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
 - [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
 - [strong-build](https://github.com/strongloop/strong-build) - Build a node app package and prepare to deploy it as a package to production or use git to commit to a deploy branch.
 - [grunt](http://gruntjs.com) - Task runner that can perform repetitive tasks like minification, compilation, unit testing, linting, etc.
