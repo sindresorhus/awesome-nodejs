@@ -144,6 +144,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### HTTP
 
+- [okhttp](https://github.com/HendrixString/node-okhttp) - most intuitive HTTP library inspired by Square's Android OkHttp Builder patterns and flavours for constructing a legit HTTP requests of all types. Written entirely in EcmaScript 6 (Harmony) and transpiled with Babel.
 - [got](https://github.com/sindresorhus/got) - A nicer interface to the built-in `http` module.
 - [gh-got](https://github.com/sindresorhus/gh-got) - Convenience wrapper for `got` to interact with the GitHub API.
 - [request](https://github.com/request/request) - Simplified HTTP request client.
