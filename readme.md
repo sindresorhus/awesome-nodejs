@@ -672,6 +672,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [node-bell](https://github.com/eleme/bell.js) - Real-time anomalies detection for periodic time series.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 - [nodegit](https://github.com/nodegit/nodegit) - Native bindings to Git.
+- [os.js](https://github.com/andersevenrud/OS.js-v2.git) - Web / Cloud desktop platform for NodeJS.
 
 
 ## Resources
