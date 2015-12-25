@@ -438,6 +438,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 - [excel-stream](https://github.com/dominictarr/excel-stream) - Streaming Excel spreadsheet to JSON parser.
 - [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
+- [Jison](http://zaach.github.io/jison/) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.
 
 
 ### Humanize
