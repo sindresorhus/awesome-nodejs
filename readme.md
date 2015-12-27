@@ -127,6 +127,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [itunes-remote](https://github.com/mischah/itunes-remote) - Interactively control iTunes.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - Generate a text meme.
+- [mobicon](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
 
 
 ### Functional programming
