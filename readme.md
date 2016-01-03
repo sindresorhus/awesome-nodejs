@@ -271,6 +271,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [dox](https://github.com/tj/dox) - JavaScript documentation generator using Markdown and JSDoc.
 - [jsdox](https://github.com/sutoiku/jsdox) - JSDoc3 to Markdown documentation generator.
 - [apiDoc](https://github.com/apidoc/apidoc) - Inline documentation for RESTful web APIs.
+- [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 
 
 ### Filesystem
