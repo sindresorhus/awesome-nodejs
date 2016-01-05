@@ -181,6 +181,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Bunyan](https://github.com/trentm/node-bunyan) - A simple and fast JSON logging library.
 - [intel](http://seanmonstar.github.io/intel/) - A comprehensive logging library (handlers, filters, formatters, console injection).
 - [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
+- [Countly](https://github.com/countly/countly-server) - A comprehensive mobile and web analytics platform with crash logging.
 
 
 ### Command-line utilities
