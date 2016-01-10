@@ -75,6 +75,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [NodeOS](http://node-os.com) - The first operating system powered by npm.
 - [limdu](https://github.com/erelsgl/limdu) - Machine-learning framework.
 - [Cytoscape.js](http://js.cytoscape.org) - Graph theory (a.k.a. network) modeling and analysis.
+- [node-ipc](https://github.com/RIAEvangelist/node-ipc) - Interprocess communication for local or distributed processes.
 
 
 ### Command-line apps
@@ -158,6 +159,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured HTTP proxy.
 - [rocky](https://github.com/h2non/rocky) - Featured, middleware-oriented HTTP proxy with traffic replay and intercept.
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
+- [node-http-server](https://github.com/RIAEvangelist/node-http-server) - A very lightweight server for local or public needs.
 
 
 ### Debugging / Profiling
