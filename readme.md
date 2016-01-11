@@ -758,6 +758,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [RequireBin](http://requirebin.com) - Shareable JavaScript programs powered by npm and browserify.
 - [Tonic](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - Embed a Node.js environment on any website.
 
+### Community
+
+- [`#node.js` on Freenode](http://webchat.freenode.net/?channels=node.js)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/node.js)
+- [Reddit](https://www.reddit.com/r/node)
+- [Twitter](https://twitter.com/nodejs)
+
 ### Miscellaneous
 
 - [nodebots](http://nodebots.io) - Robots powered by JavaScript.
