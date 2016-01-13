@@ -2,7 +2,7 @@
 
 > A curated list of delightful Node.js [packages](#packages) and [resources](#resources).
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
 
 **Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter](https://twitter.com/sindresorhus).**
 
