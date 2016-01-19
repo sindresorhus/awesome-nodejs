@@ -724,6 +724,7 @@
 ### Podcasts
 
 - [NodeUp](http://nodeup.com)
+- [JavaScript Air](http://javascriptair.com) - The live video broadcast podcast all about JavaScript and the Web platform.
 
 ### Books
 
