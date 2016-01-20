@@ -448,6 +448,7 @@
 - [excel-stream](https://github.com/dominictarr/excel-stream) - Streaming Excel spreadsheet to JSON parser.
 - [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
 - [Jison](http://zaach.github.io/jison/) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.
+- [dns-zonefile](https://github.com/elgs/dns-zonefile) - An RFC1035 compliant DNS zone file parser and generator for Node.js and browser.
 
 
 ### Humanize
