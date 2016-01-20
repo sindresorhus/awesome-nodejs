@@ -218,6 +218,7 @@
 - [cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
 - [multispinner](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
 - [omelette](https://github.com/f/omelette) - Shell autocompletion helper.
+- [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 
 
 ### Build tools
