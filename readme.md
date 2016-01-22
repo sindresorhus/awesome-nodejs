@@ -682,6 +682,7 @@
 - [node-bell](https://github.com/eleme/bell.js) - Real-time anomalies detection for periodic time series.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 - [nodegit](https://github.com/nodegit/nodegit) - Native bindings to Git.
+- [json-strictify](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
 
 
 ## Resources
