@@ -682,6 +682,7 @@
 - [node-bell](https://github.com/eleme/bell.js) - Real-time anomalies detection for periodic time series.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 - [nodegit](https://github.com/nodegit/nodegit) - Native bindings to Git.
+- [json-configurator](https://github.com/cmartin81/configurator) - Configuration tool for loading json that contains environment variables
 
 
 ## Resources
