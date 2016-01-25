@@ -296,7 +296,7 @@
 - [istextorbinary](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
-- [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of a npm package.
+- [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 
 
 ### Control flow
