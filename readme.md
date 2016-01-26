@@ -276,6 +276,14 @@
 - [jsdox](https://github.com/sutoiku/jsdox) - JSDoc3 to Markdown documentation generator.
 - [apiDoc](https://github.com/apidoc/apidoc) - Inline documentation for RESTful web APIs.
 - [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
+- [dexy](http://www.dexy.it/) - Free-form literate documentation tool for writing any kind of technical document incorporating code.
+- [Ronn](https://github.com/rtomayko/ronn) - Tool for building manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
+- [jsdox](https://github.com/sutoiku/jsdox) - JSDoc3 to Markdown documentation generator.
+- [YUIDoc](http://yui.github.com/yuidoc/) - Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
+- [coddoc](http://doug-martin.github.com/coddoc/) - JSDoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
+- [sphinx](http://sphinx-doc.org/) - A tool that makes it easy to create intelligent and beautiful documentation
+- [Beautiful docs](http://beautifuldocs.com/) - Documentation viewer based on markdown files.
+- [Daux.io](http://daux.io/) - Documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 
 
 ### Filesystem
