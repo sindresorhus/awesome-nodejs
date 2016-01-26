@@ -406,6 +406,7 @@
 - [Moment.js](http://momentjs.com) - Parse, validate, manipulate, and display dates.
 - [Moment Timezone](http://momentjs.com/timezone/) - IANA Time Zone Database + Moment.js.
 - [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
+- [tz-format](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 
 
 ### URL
