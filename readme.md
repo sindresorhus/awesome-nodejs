@@ -305,6 +305,7 @@
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
 	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - Promise ponyfill.
 	- [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
+	- [rfpify](https://github.com/samverschueren/rfpify) - Promisify a result-first callback-style function.
 - Callbacks
 	- [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
 	- [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronicity.
