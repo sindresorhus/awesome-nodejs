@@ -150,6 +150,7 @@
 
 - [got](https://github.com/sindresorhus/got) - A nicer interface to the built-in `http` module.
 - [gh-got](https://github.com/sindresorhus/gh-got) - Convenience wrapper for `got` to interact with the GitHub API.
+- [travis-got](https://github.com/samverschueren/travis-got) - Convenience wrapper for `got` to interact with the Travis API.
 - [request](https://github.com/request/request) - Simplified HTTP request client.
 - [Nock](https://github.com/pgte/nock) - A HTTP mocking and expectations library.
 - [hyperquest](https://github.com/substack/hyperquest) - Streaming HTTP requests.
