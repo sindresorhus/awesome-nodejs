@@ -753,7 +753,7 @@
 
 ### Cheatsheets
 
-- [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4/index.md)
+- [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4)
 - [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
 
 ### Tools
