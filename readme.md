@@ -54,6 +54,7 @@
 - [Blogging](#blogging)
 - [Weird](#weird)
 - [Miscellaneous](#miscellaneous)
+- [Job queue](#job-queue)
 
 
 ### Mad science
@@ -686,6 +687,9 @@
 - [nodegit](https://github.com/nodegit/nodegit) - Native bindings to Git.
 - [json-strictify](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
 
+### Job queue
+- [kue](https://github.com/Automattic/kue) - Priority job queue backed by redis
+- [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue
 
 ## Resources
 
