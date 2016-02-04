@@ -741,6 +741,10 @@
 - [Web Development with Node and Express](http://shop.oreilly.com/product/0636920032977.do)
 - [Pro Express.js](http://proexpressjs.com)
 
+### Boilerplates
+- [express-mongoose-es6-rest-api](https://github.com/KunalKapadia/express-mongoose-es6-rest-api) -  A boilerplate application for building REST APIs using express and mongoose in ES6 with code coverage.
+- [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+
 ### Blogs
 
 - [Node.js blog](https://nodejs.org/en/blog/)
@@ -774,7 +778,6 @@
 ### Miscellaneous
 
 - [nodebots](http://nodebots.io) - Robots powered by JavaScript.
-- [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 - [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 
