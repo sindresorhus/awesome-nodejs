@@ -276,6 +276,7 @@
 - [jsdox](https://github.com/sutoiku/jsdox) - JSDoc3 to Markdown documentation generator.
 - [apiDoc](https://github.com/apidoc/apidoc) - Inline documentation for RESTful web APIs.
 - [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
+- [Daux.io](http://daux.io/) - Documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 
 
 ### Filesystem
