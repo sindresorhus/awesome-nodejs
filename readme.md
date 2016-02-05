@@ -777,6 +777,7 @@
 - [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 - [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
+- [express-mongoose-es6-rest-api](https://github.com/KunalKapadia/express-mongoose-es6-rest-api) - A boilerplate application for building REST APIs using express and mongoose in ES6 with code coverage.
 
 
 ## Contribute
