@@ -42,6 +42,7 @@
 - [Minifiers](#minifiers)
 - [Authentication](#authentication)
 - [Email](#email)
+- [Job queues](#job-queues)
 - [Node.js management](#nodejs-management)
 - [Polyfills](#polyfills)
 - [Natural language processing](#natural-language-processing)
@@ -549,6 +550,12 @@
 
 - [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
 - [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
+
+
+### Job queues
+
+- [kue](https://github.com/Automattic/kue) - Priority job queue backed by Redis.
+- [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue.
 
 
 ### Node.js management
