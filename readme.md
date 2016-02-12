@@ -4,58 +4,77 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
 
+*Please read the [contribution guidelines](contributing.md) before contributing.*
+
 **Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter](https://twitter.com/sindresorhus).**
 
 
+## Table of Contents
+
+- [Packages](#packages)
+  - [Mad science](#mad-science)
+  - [Command-line apps](#command-line-apps)
+  - [Functional programming](#functional-programming)
+  - [HTTP](#http)
+  - [Debugging / Profiling](#debugging--profiling)
+  - [Logging](#logging)
+  - [Command-line utilities](#command-line-utilities)
+  - [Build tools](#build-tools)
+  - [Hardware](#hardware)
+  - [Templating](#templating)
+  - [Web frameworks](#web-frameworks)
+  - [Documentation](#documentation)
+  - [Filesystem](#filesystem)
+  - [Control flow](#control-flow)
+  - [Streams](#streams)
+  - [Real-time](#real-time)
+  - [Image](#image)
+  - [Text](#text)
+  - [Number](#number)
+  - [Math](#math)
+  - [Date](#date)
+  - [URL](#url)
+  - [Data validation](#data-validation)
+  - [Parsing](#parsing)
+  - [Humanize](#humanize)
+  - [Compression](#compression)
+  - [Network](#network)
+  - [Database](#database)
+  - [Testing](#testing)
+  - [Benchmarking](#benchmarking)
+  - [Minifiers](#minifiers)
+  - [Authentication](#authentication)
+  - [Email](#email)
+  - [Job queues](#job-queues)
+  - [Node.js management](#nodejs-management)
+  - [Polyfills](#polyfills)
+  - [Natural language processing](#natural-language-processing)
+  - [Process management](#process-management)
+  - [Automation](#automation)
+  - [AST](#ast)
+  - [Static site generators](#static-site-generators)
+  - [Content management systems](#content-management-systems)
+  - [Forum](#forum)
+  - [Blogging](#blogging)
+  - [Weird](#weird)
+  - [Miscellaneous](#miscellaneous)
+- [Resources](#resources)
+  - [Tutorials](#tutorials)
+  - [Discovery](#discovery)
+  - [Articles](#articles)
+  - [Newsletters](#newsletters)
+  - [Videos](#videos)
+  - [Podcasts](#podcasts)
+  - [Books](#books)
+  - [Blogs](#blogs)
+  - [Courses](#courses)
+  - [Cheatsheets](#cheatsheets)
+  - [Tools](#tools)
+  - [Community](#community)
+  - [Miscellaneous](#miscellaneous)
+
+
 ## Packages
-
-- [Mad science](#mad-science)
-- [Command-line apps](#command-line-apps)
-- [Functional programming](#functional-programming)
-- [HTTP](#http)
-- [Debugging / Profiling](#debugging--profiling)
-- [Logging](#logging)
-- [Command-line utilities](#command-line-utilities)
-- [Build tools](#build-tools)
-- [Hardware](#hardware)
-- [Templating](#templating)
-- [Web frameworks](#web-frameworks)
-- [Documentation](#documentation)
-- [Filesystem](#filesystem)
-- [Control flow](#control-flow)
-- [Streams](#streams)
-- [Real-time](#real-time)
-- [Image](#image)
-- [Text](#text)
-- [Number](#number)
-- [Math](#math)
-- [Date](#date)
-- [URL](#url)
-- [Data validation](#data-validation)
-- [Parsing](#parsing)
-- [Humanize](#humanize)
-- [Compression](#compression)
-- [Network](#network)
-- [Database](#database)
-- [Testing](#testing)
-- [Benchmarking](#benchmarking)
-- [Minifiers](#minifiers)
-- [Authentication](#authentication)
-- [Email](#email)
-- [Job queues](#job-queues)
-- [Node.js management](#nodejs-management)
-- [Polyfills](#polyfills)
-- [Natural language processing](#natural-language-processing)
-- [Process management](#process-management)
-- [Automation](#automation)
-- [AST](#ast)
-- [Static site generators](#static-site-generators)
-- [Content management systems](#content-management-systems)
-- [Forum](#forum)
-- [Blogging](#blogging)
-- [Weird](#weird)
-- [Miscellaneous](#miscellaneous)
-
 
 ### Mad science
 
@@ -786,11 +805,6 @@
 - [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 - [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
-
-
-## Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 
 ## License
