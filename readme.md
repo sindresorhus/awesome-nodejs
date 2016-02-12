@@ -150,7 +150,7 @@
 - [mobicon](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
 - [mobisplash](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
-
+- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - Download and install Google Web Fonts on your local machine. Both CLI and API available.
 
 ### Functional programming
 
