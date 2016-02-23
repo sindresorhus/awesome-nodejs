@@ -150,6 +150,7 @@
 - [mobicon](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
 - [mobisplash](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+- [Cash](https://github.com/dthree/cash) - Cross-platform Linux commands in straight ES6.
 
 
 ### Functional programming
