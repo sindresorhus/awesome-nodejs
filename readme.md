@@ -240,6 +240,7 @@
 - [multispinner](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
 - [omelette](https://github.com/f/omelette) - Shell autocompletion helper.
 - [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+- [multiline-billboard](https://github.com/codekirei/multiline-billboard) - Turn text into a fancy billboard for the terminal.
 
 
 ### Build tools
