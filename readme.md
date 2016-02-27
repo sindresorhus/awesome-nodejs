@@ -320,6 +320,7 @@
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+- [require-glob](https://github.com/shannonmoeller/require-glob) - Requires modules using globs and combines them into a nested object.
 
 
 ### Control flow
