@@ -241,6 +241,7 @@
 - [multispinner](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
 - [omelette](https://github.com/f/omelette) - Shell autocompletion helper.
 - [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+- [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
 
 
 ### Build tools
@@ -695,7 +696,6 @@
 - [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 - [deep-assign](https://github.com/sindresorhus/deep-assign) - Recursive `Object.assign()`.
-- [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
 - [os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale.
 - [nan](https://github.com/nodejs/nan) - A header file filled with macro and utility goodness for making add-on development for across Node.js versions easier.
 - [multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
