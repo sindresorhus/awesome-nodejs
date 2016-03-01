@@ -543,6 +543,7 @@
 - [tap](https://github.com/isaacs/node-tap) - A TAP test framework.
 - [tape](https://github.com/substack/tape) - TAP-producing test harness.
 - [Mocha](http://mochajs.org) - A feature-rich test framework making asynchronous testing simple and fun.
+- [power-assert](https://github.com/power-assert-js/power-assert) - Provides descriptive assertion messages through the standard assert interface.
 - [Mochify](https://github.com/mantoni/mochify.js) - TDD with Browserify, Mocha, PhantomJS and WebDriver.
 - [trevor](https://github.com/vdemedes/trevor) - Run tests against multiple versions of Node.js without switching versions manually or pushing to Travis CI.
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
