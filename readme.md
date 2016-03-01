@@ -12,66 +12,66 @@
 ## Table of Contents
 
 - [Packages](#packages)
-  - [Mad science](#mad-science)
-  - [Command-line apps](#command-line-apps)
-  - [Functional programming](#functional-programming)
-  - [HTTP](#http)
-  - [Debugging / Profiling](#debugging--profiling)
-  - [Logging](#logging)
-  - [Command-line utilities](#command-line-utilities)
-  - [Build tools](#build-tools)
-  - [Hardware](#hardware)
-  - [Templating](#templating)
-  - [Web frameworks](#web-frameworks)
-  - [Documentation](#documentation)
-  - [Filesystem](#filesystem)
-  - [Control flow](#control-flow)
-  - [Streams](#streams)
-  - [Real-time](#real-time)
-  - [Image](#image)
-  - [Text](#text)
-  - [Number](#number)
-  - [Math](#math)
-  - [Date](#date)
-  - [URL](#url)
-  - [Data validation](#data-validation)
-  - [Parsing](#parsing)
-  - [Humanize](#humanize)
-  - [Compression](#compression)
-  - [Network](#network)
-  - [Database](#database)
-  - [Testing](#testing)
-  - [Benchmarking](#benchmarking)
-  - [Minifiers](#minifiers)
-  - [Authentication](#authentication)
-  - [Email](#email)
-  - [Job queues](#job-queues)
-  - [Node.js management](#nodejs-management)
-  - [Polyfills](#polyfills)
-  - [Natural language processing](#natural-language-processing)
-  - [Process management](#process-management)
-  - [Automation](#automation)
-  - [AST](#ast)
-  - [Static site generators](#static-site-generators)
-  - [Content management systems](#content-management-systems)
-  - [Forum](#forum)
-  - [Blogging](#blogging)
-  - [Weird](#weird)
-  - [Miscellaneous](#miscellaneous)
+	- [Mad science](#mad-science)
+	- [Command-line apps](#command-line-apps)
+	- [Functional programming](#functional-programming)
+	- [HTTP](#http)
+	- [Debugging / Profiling](#debugging--profiling)
+	- [Logging](#logging)
+	- [Command-line utilities](#command-line-utilities)
+	- [Build tools](#build-tools)
+	- [Hardware](#hardware)
+	- [Templating](#templating)
+	- [Web frameworks](#web-frameworks)
+	- [Documentation](#documentation)
+	- [Filesystem](#filesystem)
+	- [Control flow](#control-flow)
+	- [Streams](#streams)
+	- [Real-time](#real-time)
+	- [Image](#image)
+	- [Text](#text)
+	- [Number](#number)
+	- [Math](#math)
+	- [Date](#date)
+	- [URL](#url)
+	- [Data validation](#data-validation)
+	- [Parsing](#parsing)
+	- [Humanize](#humanize)
+	- [Compression](#compression)
+	- [Network](#network)
+	- [Database](#database)
+	- [Testing](#testing)
+	- [Benchmarking](#benchmarking)
+	- [Minifiers](#minifiers)
+	- [Authentication](#authentication)
+	- [Email](#email)
+	- [Job queues](#job-queues)
+	- [Node.js management](#nodejs-management)
+	- [Polyfills](#polyfills)
+	- [Natural language processing](#natural-language-processing)
+	- [Process management](#process-management)
+	- [Automation](#automation)
+	- [AST](#ast)
+	- [Static site generators](#static-site-generators)
+	- [Content management systems](#content-management-systems)
+	- [Forum](#forum)
+	- [Blogging](#blogging)
+	- [Weird](#weird)
+	- [Miscellaneous](#miscellaneous)
 - [Resources](#resources)
-  - [Tutorials](#tutorials)
-  - [Discovery](#discovery)
-  - [Articles](#articles)
-  - [Newsletters](#newsletters)
-  - [Videos](#videos)
-  - [Podcasts](#podcasts)
-  - [Books](#books)
-  - [Blogs](#blogs)
-  - [Courses](#courses)
-  - [Cheatsheets](#cheatsheets)
-  - [Tools](#tools)
-  - [Community](#community)
-  - [Miscellaneous](#miscellaneous)
+	- [Tutorials](#tutorials)
+	- [Discovery](#discovery)
+	- [Articles](#articles)
+	- [Newsletters](#newsletters)
+	- [Videos](#videos)
+	- [Podcasts](#podcasts)
+	- [Books](#books)
+	- [Blogs](#blogs)
+	- [Courses](#courses)
+	- [Cheatsheets](#cheatsheets)
+	- [Tools](#tools)
+	- [Community](#community)
+	- [Miscellaneous](#miscellaneous)
 
 
 ## Packages
@@ -106,6 +106,7 @@
 - [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
 - [np](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [yo](https://github.com/yeoman/yo) - Run Yeoman generators.
+- [Babel](https://babeljs.io/docs/usage/cli/) - Use next generation JavaScript, today.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [JSCS](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all.
@@ -151,6 +152,9 @@
 - [mobisplash](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 - [Cash](https://github.com/dthree/cash) - Cross-platform Unix shell commands in pure JavaScript.
+- [vaca](https://github.com/sindresorhus/vaca) - Get a random ASCII 🐮.
+- [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
+- [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 
 
 ### Functional programming
@@ -191,6 +195,7 @@
 - [longjohn](https://github.com/mattinsler/longjohn) - Long stack traces with configurable call trace length.
 - [debug](https://github.com/visionmedia/debug) - Tiny debugging utility.
 - [jstrace](https://github.com/jstrace/jstrace) - Dynamic tracing for JavaScript, similar to dtrace, ktap etc.
+- [why-is-node-running](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
 - [njsTrace](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
 - [vstream](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
 - [stackman](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
@@ -223,6 +228,7 @@
 - [insight](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
 - [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
+- [boxen](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
 - [string-width](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
 - [first-run](https://github.com/sindresorhus/first-run) - Check if it's the first time the process is run.
 - [sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
@@ -242,6 +248,7 @@
 - [omelette](https://github.com/f/omelette) - Shell autocompletion helper.
 - [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 - [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
+- [loud-rejection](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
 
 
 ### Build tools
@@ -331,6 +338,7 @@
 	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - Promise ponyfill.
 	- [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
 	- [rfpify](https://github.com/samverschueren/rfpify) - Promisify a result-first callback-style function.
+	- [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
 - Callbacks
 	- [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
 	- [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronicity.
@@ -409,6 +417,7 @@
 - [babelfish](https://github.com/nodeca/babelfish/) - i18n with very easy syntax for plurals.
 - [parse-columns](https://github.com/sindresorhus/parse-columns) - Parse text columns, like the output of Unix commands.
 - [hanging-indent](https://github.com/codekirei/hanging-indent) - Format a string into a hanging-indented paragraph.
+- [matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 
 ## Number
@@ -544,6 +553,7 @@
 - [nock](https://github.com/pgte/nock) - HTTP mocking and expectations.
 - [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 - [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate failure scenarios and network conditions.
+- [hook-std](https://github.com/sindresorhus/hook-std) - Hook and modify stdout/stderr.
 
 
 ### Benchmarking
@@ -598,6 +608,7 @@
 	- [os-homedir](https://github.com/sindresorhus/os-homedir) - Node.js 4.0 `os.homedir()` ponyfill.
 	- [debug-log](https://github.com/sindresorhus/debug-log) - Node.js 0.12 `util.debuglog()` ponyfill.
 	- [buffer-equals](https://github.com/sindresorhus/buffer-equals) - Node.js 0.12 `buffer.equals()` ponyfill.
+	- [buffer-includes](https://github.com/sindresorhus/buffer-includes) - Node.js 5.3.0 `buffer.includes()` ponyfill.
 	- [buf-indexof](https://github.com/sindresorhus/buf-indexof) - Node.js 4.0 `buffer.indexOf()` ponyfill.
 	- [buf-compare](https://github.com/sindresorhus/buf-compare) - Node.js 0.12 `Buffer.compare()` ponyfill.
 	- [fs-access](https://github.com/sindresorhus/fs-access) - Node.js 0.12 `fs.access()` & `fs.accessSync()` ponyfill.
@@ -682,16 +693,19 @@
 - [supervillains](https://github.com/sindresorhus/supervillains) - Get supervillain names.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 - [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - ₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”
+- [cows](https://github.com/sindresorhus/cows) - ASCII cows.
 
 
 ### Miscellaneous
 
+- [execa](https://github.com/sindresorhus/execa) - A better `child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. *(You might like [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
 - [opn](https://github.com/sindresorhus/opn) - Opens stuff like websites, files, executables.
 - [hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
 - [onetime](https://github.com/sindresorhus/onetime) - Only run a function once.
+- [mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 - [require-uncached](https://github.com/sindresorhus/require-uncached) - Require a module bypassing the cache.
 - [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
@@ -716,6 +730,8 @@
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 - [nodegit](https://github.com/nodegit/nodegit) - Native bindings to Git.
 - [json-strictify](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
+- [parent-module](https://github.com/sindresorhus/parent-module) - Get the path of the parent module.
+- [resolve-from](https://github.com/sindresorhus/resolve-from) - Resolve the path of a module like `require.resolve()` but from a given path.
 
 
 ## Resources
