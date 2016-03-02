@@ -634,7 +634,7 @@
 - [franc](https://github.com/wooorm/franc) - Detect the language of text.
 - [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [natural](https://github.com/NaturalNode/natural) - A general natural language facility.
-
+- [nodejieba](https://github.com/yanyiwu/nodejieba) - The Jieba Chinese Word Segmentation Implemented By Node.js .
 
 ### Process management
 
