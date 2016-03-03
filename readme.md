@@ -714,7 +714,7 @@
 - [os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale.
 - [nan](https://github.com/nodejs/nan) - A header file filled with macro and utility goodness for making add-on development for across Node.js versions easier.
 - [multiline](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
-- [ssh2](https://github.com/mscdex/ssh2) - An SSH2 client module.
+- [ssh2](https://github.com/mscdex/ssh2) - An SSH2 client and server module.
 - [lazy-req](https://github.com/sindresorhus/lazy-req) - Require modules lazily.
 - [file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
