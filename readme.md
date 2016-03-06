@@ -249,6 +249,7 @@
 - [cross-env](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 - [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
 - [loud-rejection](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
+- [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 
 
 ### Build tools
