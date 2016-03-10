@@ -65,7 +65,7 @@
 	- [Newsletters](#newsletters)
 	- [Videos](#videos)
 	- [Podcasts](#podcasts)
-	- [Books](#books)
+	- [Books](#books)p
 	- [Blogs](#blogs)
 	- [Courses](#courses)
 	- [Cheatsheets](#cheatsheets)
@@ -202,6 +202,7 @@
 - [TraceGL](https://github.com/traceglMPL/tracegl) - Transforms your JavaScript, injecting monitoring code that produces a log of everything that happens.
 - [locus](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
 - [bugger](https://github.com/buggerjs/bugger) - Provides Chrome Devtools bindings to debug programs in Chrome.
+- [0x](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
 
 
 ### Logging
