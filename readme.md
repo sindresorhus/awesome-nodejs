@@ -250,6 +250,7 @@
 - [shelljs](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
 - [loud-rejection](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
 - [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+- [term-img](https://github.com/sindresorhus/term-img) - Display images in your terminal.
 
 
 ### Build tools
