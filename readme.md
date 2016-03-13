@@ -704,6 +704,7 @@
 
 ### Miscellaneous
 
+- [hexu](https://github.com/KingPixil/hexu) - A random hex color generator
 - [execa](https://github.com/sindresorhus/execa) - A better `child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. *(You might like [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
