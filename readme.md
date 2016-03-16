@@ -65,7 +65,7 @@
 	- [Newsletters](#newsletters)
 	- [Videos](#videos)
 	- [Podcasts](#podcasts)
-	- [Books](#books)p
+	- [Books](#books)
 	- [Blogs](#blogs)
 	- [Courses](#courses)
 	- [Cheatsheets](#cheatsheets)
