@@ -155,7 +155,7 @@
 - [vaca](https://github.com/sindresorhus/vaca) - Get a random ASCII 🐮.
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
-
+- [trymodule](https://github.com/VictorBjelkholm/trymodule) - Tool for trying out different npm modules in the terminal.
 
 ### Functional programming
 
