@@ -185,6 +185,7 @@
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) - A full-featured HTTP proxy.
 - [rocky](https://github.com/h2non/rocky) - Featured, middleware-oriented HTTP proxy with traffic replay and intercept.
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
+- [node-fetch](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js.
 
 
 ### Debugging / Profiling
