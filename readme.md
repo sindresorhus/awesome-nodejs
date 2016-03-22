@@ -392,6 +392,7 @@
 - [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable HTTP + WebSocket engine which can run on multiple CPU cores.
 - [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 - [Straw](https://github.com/simonswain/straw) - Real-time dataflow framework.
+- [deepstream.io](https://deepstream.io) - Scalable real-time microservice framework.
 
 
 ### Image
