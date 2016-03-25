@@ -298,6 +298,7 @@
 - [LoopBack](http://loopback.io) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
 - [Meteor](https://www.meteor.com) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
 - [SailsJS](http://sailsjs.org) - An MVC web framework with a modern twist, supporting WebSockets, streams, and a data-driven API.
+- [AdonisJs](http://adonisjs.com/) - A true MVC Framework for NodeJs leveraging Es6, built on solid foundations of Dependency Injection and IoC container.
 - [Restify](http://restify.com) - A node framework built specifically to enable you to build correct REST web services.
 - [Interfake](https://github.com/basicallydan/interfake) - Rapid prototyping framework for making mock HTTP APIs, with a Node.js, command-line and HTTP interface.
 - [Derby](https://github.com/derbyjs/derby) - MVC framework, making it easy to write realtime, collaborative applications that run in both Node.js and browsers.
