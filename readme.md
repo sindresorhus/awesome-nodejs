@@ -439,12 +439,11 @@
 
 ### Math
 
-- [algebra](https://github.com/fibo/algebra) - Vectors, Matrices, Tensors. Real, Complex, Quaternion.
 - [ndarray](https://github.com/scijs/ndarray) - Multidimensional arrays.
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library.
 - [math-sum](https://github.com/sindresorhus/math-sum) - Sum numbers.
 - [math-clamp](https://github.com/sindresorhus/math-clamp) - Clamp a number.
-
+- [algebra](https://github.com/fibo/algebra) - Vectors, Matrices, Tensors. Real, Complex, Quaternion.
 
 ### Date
 
