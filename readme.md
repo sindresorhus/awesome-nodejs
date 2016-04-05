@@ -443,7 +443,7 @@
 - [mathjs](https://github.com/josdejong/mathjs) - An extensive math library.
 - [math-sum](https://github.com/sindresorhus/math-sum) - Sum numbers.
 - [math-clamp](https://github.com/sindresorhus/math-clamp) - Clamp a number.
-- [algebra-group](https://github.com/fibo/algebra-group) - Defines and algebra group structure.
+- [algebra](https://github.com/fibo/algebra) - Algebraic structures.
 
 ### Date
 
