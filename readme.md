@@ -530,6 +530,7 @@
 	- [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
 	- [MySQL](https://github.com/felixge/node-mysql) - MySQL client.
 	- [Redis](https://github.com/luin/ioredis) - Redis client.
+	- [mssql](https://github.com/patriksimek/node-mssql) - Microsoft SQL Server client.
 - ODM / ORM
 	- [Bookshelf](http://bookshelfjs.org) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
 	- [Massive](https://github.com/robconery/massive-js) - PostgreSQL data access tool.
