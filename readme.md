@@ -87,7 +87,7 @@
 - [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 - [peercast](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 - [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
-- [Bitcore](https://bitcore.io/) - A pure and powerful Bitcoin library.
+- [Bitcore](https://bitcore.io) - A pure and powerful Bitcoin library.
 - [PDFKit](http://pdfkit.org) - PDF generation library.
 - [turf](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 - [webcat](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
@@ -160,11 +160,11 @@
 
 ### Functional programming
 
-- [lodash](https://lodash.com/) - A utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
+- [lodash](https://lodash.com) - A utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
 - [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 - [mori](http://swannodette.github.io/mori/) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 - [Ramda](http://ramdajs.com) - A utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
-- [Folktale](http://folktalejs.org/) - A suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
+- [Folktale](http://folktalejs.org) - A suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
 - [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) - The brass buckles on Underscore's utility belt.
 - [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
 - [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
@@ -424,13 +424,13 @@
 - [detect-indent](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 - [he](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder.
 - [i18n-node](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
-- [babelfish](https://github.com/nodeca/babelfish/) - i18n with very easy syntax for plurals.
+- [babelfish](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
 - [parse-columns](https://github.com/sindresorhus/parse-columns) - Parse text columns, like the output of Unix commands.
 - [hanging-indent](https://github.com/codekirei/hanging-indent) - Format a string into a hanging-indented paragraph.
 - [matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 
 
-## Number
+### Number
 
 - [random-int](https://github.com/sindresorhus/random-int) - Generate a random integer.
 - [random-float](https://github.com/sindresorhus/random-float) - Generate a random float.
@@ -445,6 +445,7 @@
 - [math-sum](https://github.com/sindresorhus/math-sum) - Sum numbers.
 - [math-clamp](https://github.com/sindresorhus/math-clamp) - Clamp a number.
 - [algebra](https://github.com/fibo/algebra) - Algebraic structures.
+
 
 ### Date
 
@@ -694,7 +695,7 @@
 ### Blogging
 
 - [ghost](https://ghost.org) - Simple, powerful publishing platform that allows you to share your story with the world.
-- [Hexo](https://hexo.io/) - Fast, simple and powerful blogging framework.
+- [Hexo](https://hexo.io) - Fast, simple and powerful blogging framework.
 
 
 ### Weird
@@ -778,7 +779,7 @@
 ### Videos
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
-- [LearnAllTheNodes](https://www.learnallthenodes.com/) - Series of useful tips, tricks, and packages.
+- [LearnAllTheNodes](https://www.learnallthenodes.com) - Series of useful tips, tricks, and packages.
 - [Introduction to Node.js Fundamentals](http://strongloop.com/node-js/videos/#a-video-intro-to-nodejs-fundamentals)
 - [Hands on with Node.js](https://learn.bevry.me/node/preface)
 - [Full Streams Ahead](http://dry.ly/full-streams-ahead) - Introduction to streams.
