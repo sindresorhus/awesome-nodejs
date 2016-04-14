@@ -256,6 +256,7 @@
 - [ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
 - [term-img](https://github.com/sindresorhus/term-img) - Display images in your terminal.
 - [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
+- [liftoff](https://github.com/js-cli/js-liftoff) - Bootstrapping tool for building command-line app.
 
 
 ### Build tools
