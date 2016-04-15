@@ -748,6 +748,7 @@
 - [json-strictify](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
 - [parent-module](https://github.com/sindresorhus/parent-module) - Get the path of the parent module.
 - [resolve-from](https://github.com/sindresorhus/resolve-from) - Resolve the path of a module like `require.resolve()` but from a given path.
+- [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 
 
 ## Resources
