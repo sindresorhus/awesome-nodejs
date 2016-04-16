@@ -284,6 +284,7 @@
 - [hogan.js](http://twitter.github.io/hogan.js/) - Twitter's small, fast, phase-separated compiler for Mustache templates.
 - [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
 - [Jade](https://github.com/jadejs/jade) - High-performance template engine heavily influenced by Haml.
+- [KAJS](https://github.com/KingPixil/kajs) - Dead-simple Javascript Engine
 
 
 ### Web frameworks
@@ -704,7 +705,6 @@
 
 ### Miscellaneous
 
-- [hexu](https://github.com/KingPixil/hexu) - A random hex color generator
 - [execa](https://github.com/sindresorhus/execa) - A better `child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. *(You might like [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
