@@ -290,6 +290,7 @@
 - [hogan.js](http://twitter.github.io/hogan.js/) - Twitter's small, fast, phase-separated compiler for Mustache templates.
 - [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
 - [Jade](https://github.com/jadejs/jade) - High-performance template engine heavily influenced by Haml.
+- [KAJS](https://github.com/KingPixil/kajs) - Dead-simple Javascript Engine
 
 
 ### Web frameworks
