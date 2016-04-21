@@ -41,6 +41,7 @@
 	- [Network](#network)
 	- [Database](#database)
 	- [Testing](#testing)
+	- [Security](#security)
 	- [Benchmarking](#benchmarking)
 	- [Minifiers](#minifiers)
 	- [Authentication](#authentication)
@@ -570,6 +571,8 @@
 - [hook-std](https://github.com/sindresorhus/hook-std) - Hook and modify stdout/stderr.
 - [testen](https://github.com/egoist/testen) - Run tests for multiple versions of Node.js locally with NVM.
 
+### Security
+- [snyk](https://github.com/Snyk/snyk) - CLI and build-time tool to find & fix vulnerable npm dependencies.
 
 ### Benchmarking
 
