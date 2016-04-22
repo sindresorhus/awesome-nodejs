@@ -290,7 +290,7 @@
 - [handlebars.js](https://github.com/wycats/handlebars.js) - A superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
 - [hogan.js](http://twitter.github.io/hogan.js/) - Twitter's small, fast, phase-separated compiler for Mustache templates.
 - [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
-- [Jade](https://github.com/jadejs/jade) - High-performance template engine heavily influenced by Haml.
+- [Pug](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
 
 
 ### Web frameworks
