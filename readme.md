@@ -340,6 +340,7 @@
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+- [sander](https://github.com/rich-harris/sander) - Promise-based replacement for the `fs` module.
 
 
 ### Control flow
