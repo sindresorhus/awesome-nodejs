@@ -757,6 +757,7 @@
 - [parent-module](https://github.com/sindresorhus/parent-module) - Get the path of the parent module.
 - [resolve-from](https://github.com/sindresorhus/resolve-from) - Resolve the path of a module like `require.resolve()` but from a given path.
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
+- [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 
 
 ## Resources
