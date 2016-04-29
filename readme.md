@@ -782,6 +782,11 @@
 - [Error Handling in Node.js](http://www.joyent.com/developers/node/design/errors)
 - [Teach Yourself Node.js in 10 Steps](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
 - [Mastering the filesystem in Node.js](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801)
+- [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
+- [Semver: Tilde and Caret](https://nodesource.com/blog/semver-tilde-and-caret/)
+- [Why Asynchronous?](https://nodesource.com/blog/why-asynchronous/)
+- [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
+- [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
 
 ### Newsletters
 
