@@ -477,6 +477,7 @@
 - [joi](https://github.com/hapijs/joi) - Object schema description language and validator for JavaScript objects.
 - [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - JSON Schema validator that uses code generation to be extremely fast.
 - [property-validator](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
+- [schema-inspector](https://github.com/Atinux/schema-inspector) - JSON API sanitization and validation.
 
 
 ### Parsing
