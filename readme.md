@@ -102,6 +102,7 @@
 
 ### Command-line apps
 
+- [no-more-secrets](https://github.com/ptkach/no-more-secrets-nodejs) - Nice decrypting effect
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
 - [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm`.
 - [npm-name](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
