@@ -553,6 +553,8 @@
 	- [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
 - Query builder
 	- [Knex](http://knexjs.org) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+- Tool
+	- [elasticdump](https://github.com/taskrabbit/elasticsearch-dump) - A moving and saving indicies tool for elasticsearch.
 - Other
 	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
 
