@@ -812,6 +812,7 @@
 ### Podcasts
 
 - [NodeUp](http://nodeup.com)
+- [Mostly Node](http://mostlynode.com)
 
 ### Books
 
