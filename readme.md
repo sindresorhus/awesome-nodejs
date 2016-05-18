@@ -576,6 +576,7 @@
 - [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate failure scenarios and network conditions.
 - [hook-std](https://github.com/sindresorhus/hook-std) - Hook and modify stdout/stderr.
 - [testen](https://github.com/egoist/testen) - Run tests for multiple versions of Node.js locally with NVM.
+- [Nightwatch](https://github.com/nightwatchjs/nightwatch) - E2E automated testing and continous integration framework based on selenium webdriver.
 
 
 ### Security
