@@ -390,6 +390,7 @@
 - [readable-stream](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 - [through2-concurrent](https://github.com/almost/through2-concurrent) - Transform object streams concurrently.
 - [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream) - Fast conversion/scaling of images using a pool of long lived GraphicsMagick processes.
+- [mississippi](https://github.com/maxogden/mississippi) - Collection of useful stream utility modules for writing better code.
 
 
 ### Real-time
