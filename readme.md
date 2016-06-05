@@ -298,6 +298,7 @@
 
 ### Web frameworks
 
+- [Node.js Framework Overview](http://nodeframework.com/) - Hand-picked registry of Node.js frameworks.
 - [Koa](http://koajs.com) - A new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
 - [Express](http://expressjs.com) - A minimal and flexible web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 - [Feathers](http://feathersjs.com) - A minimal and flexible microservice framework built in the spirit of Express.
@@ -582,7 +583,7 @@
 ### Security
 
 - [snyk](https://github.com/Snyk/snyk) - CLI and build-time tool to find & fix vulnerable npm dependencies.
-
+- [nsp](https://nodesecurity.io/opensource) - CLI to the Node Security Platform.
 
 ### Benchmarking
 
@@ -775,6 +776,8 @@
 - [browserify-handbook](https://github.com/substack/browserify-handbook) - The definitive guide for browserify.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
 - [The Node Way](http://thenodeway.io) — An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
+- [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Quick Intro to Core Features
+- [Node.js for Developers](https://github.com/ellerbrock/node.js-for-developers) - Guide for Node.js Developers
 
 ### Discovery
 
