@@ -298,6 +298,7 @@
 
 ### Web frameworks
 
+- [Node.js Framework Overview](http://nodeframework.com/) - Hand-picked registry of Node.js frameworks.
 - [Koa](http://koajs.com) - A new web framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
 - [Express](http://expressjs.com) - A minimal and flexible web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
 - [Feathers](http://feathersjs.com) - A minimal and flexible microservice framework built in the spirit of Express.
