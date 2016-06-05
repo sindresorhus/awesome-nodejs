@@ -777,6 +777,7 @@
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
 - [The Node Way](http://thenodeway.io) — An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Quick Intro to Core Features
+- [Node.js for Developers](https://github.com/ellerbrock/node.js-for-developers) - Guide for Node.js Developers
 
 ### Discovery
 
