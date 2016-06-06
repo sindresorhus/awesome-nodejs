@@ -582,7 +582,7 @@
 ### Security
 
 - [snyk](https://github.com/Snyk/snyk) - CLI and build-time tool to find & fix vulnerable npm dependencies.
-- [nsp](https://github.com/nodesecurity/nsp) -  CLI tool to help and identify known vulnerabilities in your projects.
+- [nsp](https://github.com/nodesecurity/nsp) - CLI tool to help and identify known vulnerabilities in your projects.
 
 
 ### Benchmarking
