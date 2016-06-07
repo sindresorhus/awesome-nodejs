@@ -175,6 +175,7 @@
 - [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
 - [RxJS](http://reactivex.io) - Functional reactive library for transforming, composing, and querying various kinds of data.
 - [Lazy.js](https://github.com/dtao/lazy.js) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
+- [Kiss!](https://github.com/sixertoy/kiss-cli/) - IDEs agnostic file snippets that can be shared in a project.
 
 
 ### HTTP
