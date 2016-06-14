@@ -123,7 +123,7 @@
 - [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
 - [is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
 - [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address.
-- [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the OS X Dark Mode.
+- [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 - [ttystudio](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 - [http-server](https://github.com/indexzero/http-server) - Simple, zero-config command-line HTTP server.
@@ -335,7 +335,7 @@
 - [rimraf](https://github.com/isaacs/rimraf) - Recursively delete files like `rm -rf`.
 - [mkdirp](https://github.com/substack/node-mkdirp) - Recursively create directories like `mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Drop-in replacement for the `fs` module with various improvements.
-- [chokidar](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on OS X.
+- [chokidar](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
 - [find-up](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
 - [load-json-file](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
 - [write-json-file](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
