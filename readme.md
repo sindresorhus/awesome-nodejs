@@ -114,6 +114,7 @@
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [JSCS](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all.
+- [stylelint](http://stylelint.io/) - The pluggable linting utility for CSS, SCSS, Less and SugarSS.
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for your live app.
