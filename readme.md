@@ -326,6 +326,7 @@
 - [apiDoc](https://github.com/apidoc/apidoc) - Inline documentation for RESTful web APIs.
 - [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 - [YUIDoc](http://yui.github.com/yuidoc/) - Generates API documentation from comments in source.
+- [ESDoc](https://esdoc.org) - Documentation generator targeting ES2015, attaching test code and measuring documentation coverage.
 
 
 ### Filesystem
