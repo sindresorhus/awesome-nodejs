@@ -161,7 +161,7 @@
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 - [trymodule](https://github.com/VictorBjelkholm/trymodule) - Try out npm packages in the terminal.
 - [terminal-recorder](https://github.com/cortezcristian/terminal-recorder) - Record your terminal usage and export it to interactive HTML.
-
+- [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code, supported different languages (JavaScript, TypeScript, CoffeeScript, HTML, CSS, etc.).
 
 ### Functional programming
 
