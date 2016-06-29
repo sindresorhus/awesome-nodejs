@@ -112,7 +112,6 @@
 - [yo](https://github.com/yeoman/yo) - Run Yeoman generators.
 - [Babel](https://babeljs.io/docs/usage/cli/) - Use next generation JavaScript, today.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
-- [JSCS](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all.
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
