@@ -368,6 +368,7 @@
 	- [co](https://github.com/tj/co) - The ultimate generator based flow-control goodness.
 	- [suspend](https://github.com/jmar777/suspend) - Generator-based control flow that plays nice with callbacks, promises, and thunks.
 	- [bluebird-co](https://github.com/novacrazy/bluebird-co) - A set of high performance yield handlers for Bluebird coroutines.
+	- [iterum](https://github.com/xgbuils/iterum) - Building generators using javascript Array method style.
 - Streams
 	- [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 - Channels
