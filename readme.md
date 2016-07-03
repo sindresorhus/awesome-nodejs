@@ -161,6 +161,7 @@
 - [trymodule](https://github.com/VictorBjelkholm/trymodule) - Try out npm packages in the terminal.
 - [terminal-recorder](https://github.com/cortezcristian/terminal-recorder) - Record your terminal usage and export it to interactive HTML.
 - [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
+- [atmo](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 
 
 ### Functional programming
