@@ -11,7 +11,7 @@
 **Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter](https://twitter.com/sindresorhus).**
 
 
-## Table of Contents
+## Contents
 
 - [Packages](#packages)
 	- [Mad science](#mad-science)
