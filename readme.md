@@ -213,6 +213,7 @@
 - [bugger](https://github.com/buggerjs/bugger) - Provides Chrome Devtools bindings to debug programs in Chrome.
 - [0x](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
 - [ctrace](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
+- [Vorlon.JS](http://www.vorlonjs.com/) - Open source tool for remotely debugging and testing your JavaScript.
 
 
 ### Logging
