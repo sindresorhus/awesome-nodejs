@@ -803,7 +803,7 @@
 
 ### Articles
 
-- [Error Handling in Node.js](http://www.joyent.com/developers/node/design/errors)
+- [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
 - [Teach Yourself Node.js in 10 Steps](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
 - [Mastering the filesystem in Node.js](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801)
 - [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
