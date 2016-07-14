@@ -865,6 +865,7 @@
 ### Tools
 
 - [GitHub Linker](https://chrome.google.com/webstore/detail/github-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json, .js, .jsx, .coffee and .md files on GitHub.
+- [NPM & Bower Update Checker](http://node-update-checker.project-webdev.com) -Just upload your package.json or bower.json and see whether there are any updated dependencies.
 - [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome extension to display npm dependencies at the bottom of a repo's readme.
 - [RequireBin](http://requirebin.com) - Shareable JavaScript programs powered by npm and browserify.
 - [Tonic](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - Embed a Node.js environment on any website.
