@@ -98,6 +98,7 @@
 - [NodeOS](http://node-os.com) - The first operating system powered by npm.
 - [limdu](https://github.com/erelsgl/limdu) - Machine-learning framework.
 - [Cytoscape.js](http://js.cytoscape.org) - Graph theory (a.k.a. network) modeling and analysis.
+- [ngraph](https://github.com/anvaka/ngraph) - A set of graph related algorithms and utilities
 - [kad](https://github.com/kadtools/kad) - Kademlia distributed hash table.
 
 
