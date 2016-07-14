@@ -648,15 +648,16 @@
 	- [set-immediate-shim](https://github.com/sindresorhus/set-immediate-shim) - Simple `setImmediate()` ponyfill.
 	- [path-is-absolute](https://github.com/sindresorhus/path-is-absolute) - Node.js 0.12 `path.isAbsolute()` ponyfill.
 	- [os-tmpdir](https://github.com/sindresorhus/os-tmpdir) - Node.js `os.tmpdir()` ponyfill.
-	- [os-homedir](https://github.com/sindresorhus/os-homedir) - Node.js 4.0 `os.homedir()` ponyfill.
+	- [os-homedir](https://github.com/sindresorhus/os-homedir) - Node.js 4 `os.homedir()` ponyfill.
+	- [user-info](https://github.com/sindresorhus/user-info) - Node.js 6 `os.userInfo()` ponyfill.
 	- [debug-log](https://github.com/sindresorhus/debug-log) - Node.js 0.12 `util.debuglog()` ponyfill.
 	- [buffer-equals](https://github.com/sindresorhus/buffer-equals) - Node.js 0.12 `buffer.equals()` ponyfill.
-	- [buffer-includes](https://github.com/sindresorhus/buffer-includes) - Node.js 5.3.0 `buffer.includes()` ponyfill.
-	- [buf-indexof](https://github.com/sindresorhus/buf-indexof) - Node.js 4.0 `buffer.indexOf()` ponyfill.
+	- [buffer-includes](https://github.com/sindresorhus/buffer-includes) - Node.js 5.3 `buffer.includes()` ponyfill.
+	- [buf-indexof](https://github.com/sindresorhus/buf-indexof) - Node.js 4 `buffer.indexOf()` ponyfill.
 	- [buf-compare](https://github.com/sindresorhus/buf-compare) - Node.js 0.12 `Buffer.compare()` ponyfill.
 	- [fs-access](https://github.com/sindresorhus/fs-access) - Node.js 0.12 `fs.access()` & `fs.accessSync()` ponyfill.
 	- [exec-file-sync](https://github.com/sindresorhus/exec-file-sync) - Node.js 0.12 `childProcess.execFileSync()` ponyfill.
-	- [child-process-ctor](https://github.com/sindresorhus/child-process-ctor) - Node.js 4.0 `childProcess.ChildProcess` ponyfill.
+	- [child-process-ctor](https://github.com/sindresorhus/child-process-ctor) - Node.js 4 `childProcess.ChildProcess` ponyfill.
 	- [node-status-codes](https://github.com/sindresorhus/node-status-codes) - Node.js `http.STATUS_CODES` ponyfill.
 	- [exit-code](https://github.com/isaacs/exit-code) - Node.js 0.12 `process.exitCode` polyfill.
 	- [core-assert](https://github.com/sindresorhus/core-assert) - Node.js `assert` as a standalone module.
