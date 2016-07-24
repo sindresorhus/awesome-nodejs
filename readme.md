@@ -59,7 +59,7 @@
 	- [Content management systems](#content-management-systems)
 	- [Forum](#forum)
 	- [Blogging](#blogging)
-	- [Weird](#weird)
+	- [Mock Data](#mock-data)
 	- [Miscellaneous](#miscellaneous)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
@@ -728,7 +728,7 @@
 - [Hexo](https://hexo.io) - Fast, simple and powerful blogging framework.
 
 
-### Weird
+### Mock Data
 
 - [superb](https://github.com/sindresorhus/superb) - Get superb like words.
 - [cat-names](https://github.com/sindresorhus/cat-names) - Get popular cat names.
@@ -738,6 +738,7 @@
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 - [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - ₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”
 - [cows](https://github.com/sindresorhus/cows) - ASCII cows.
+- [nerds](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokemon.
 
 
 ### Miscellaneous
