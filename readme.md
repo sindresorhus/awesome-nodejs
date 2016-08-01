@@ -632,6 +632,7 @@
 
 - [kue](https://github.com/Automattic/kue) - Priority job queue backed by Redis.
 - [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue.
+- [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 
 
 ### Node.js management
@@ -766,7 +767,6 @@
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Makes it easy to publish and install Node.js C++ addons from binaries.
 - [opencv](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
 - [common-errors](https://github.com/shutterstock/node-common-errors) - Common error classes and utility functions.
-- [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 - [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
 - [remote-git-tags](https://github.com/sindresorhus/remote-git-tags) - Get tags from a remote git repo.
 - [semver](https://github.com/npm/node-semver) - [semver](http://semver.org) parser.
