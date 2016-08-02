@@ -200,6 +200,7 @@
 
 - [ironNode](https://github.com/s-a/iron-node) - Node.js debugger supporting ES2015 out of the box.
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
+- [devtool](https://github.com/Jam3/devtool) - Run Node.js programs through Chrome Dev Tools.
 - [Theseus](https://github.com/adobe-research/theseus) - A new type of JavaScript debugger featuring real-time code coverage, retroactive inspection and asynchronous call tree.
 - [longjohn](https://github.com/mattinsler/longjohn) - Long stack traces with configurable call trace length.
 - [debug](https://github.com/visionmedia/debug) - Tiny debugging utility.
