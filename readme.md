@@ -480,7 +480,7 @@
 ### URL
 
 - [normalize-url](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
-- [humanize-url](https://github.com/sindresorhus/humanize-url) - Humanize a URL: http://sindresorhus.com → sindresorhus.com.
+- [humanize-url](https://github.com/sindresorhus/humanize-url) - Humanize a URL: <http://sindresorhus.com> → sindresorhus.com.
 - [url-unshort](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
 - [speakingurl](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
 - [linkify-it](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
