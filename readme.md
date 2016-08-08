@@ -573,6 +573,7 @@
 	- [Knex](http://knexjs.org) - A query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 - Other
 	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
+	- [Moron.js](https://github.com/Vincit/moron.js) - Declarative ORM built around [knex](https://github.com/tgriesser/knex) SQL query builder, similar to Bookshelf but with less Backbone.js style influence.
 
 
 ### Testing
