@@ -252,6 +252,7 @@
 - [sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
 - [vorpal](https://github.com/dthree/vorpal) - A framework for interactive CLI apps.
 - [blessed](https://github.com/chjj/blessed) - A curses-like library.
+- [clui](https://github.com/nathanpeck/clui) - Command Line UI toolkit for Node.js.
 - [yn](https://github.com/sindresorhus/yn) - Parse yes/no like values.
 - [cli-table](https://github.com/Automattic/cli-table) - Pretty unicode tables.
 - [drawille](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
