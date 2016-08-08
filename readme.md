@@ -118,6 +118,7 @@
 - [Babel](https://babeljs.io/docs/usage/cli/) - Use next generation JavaScript, today.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all.
+- [stylelint](http://stylelint.io/) - The pluggable linting utility for CSS, SCSS, Less and SugarSS.
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [vantage](https://github.com/dthree/vantage) - Distributed, realtime CLI for your live app.
