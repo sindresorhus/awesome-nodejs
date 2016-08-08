@@ -759,6 +759,7 @@
 - [onetime](https://github.com/sindresorhus/onetime) - Only run a function once.
 - [mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 - [require-uncached](https://github.com/sindresorhus/require-uncached) - Require a module bypassing the cache.
+- [node-eval] (https://github.com/gulp-bem/node-eval) - Eval JS-expression or require CommonJS modules and JSON files.
 - [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 - [deep-assign](https://github.com/sindresorhus/deep-assign) - Recursive `Object.assign()`.
