@@ -199,6 +199,7 @@
 - [rocky](https://github.com/h2non/rocky) - Featured, middleware-oriented HTTP proxy with traffic replay and intercept.
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
 - [node-fetch](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js.
+- [simple-get](https://github.com/feross/simple-get) - Simplest way to make http `get` requests.
 
 
 ### Debugging / Profiling
