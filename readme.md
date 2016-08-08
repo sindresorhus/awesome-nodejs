@@ -667,6 +667,7 @@
 	- [child-process-ctor](https://github.com/sindresorhus/child-process-ctor) - Node.js 4 `childProcess.ChildProcess` ponyfill.
 	- [node-status-codes](https://github.com/sindresorhus/node-status-codes) - Node.js `http.STATUS_CODES` ponyfill.
 	- [exit-code](https://github.com/isaacs/exit-code) - Node.js 0.12 `process.exitCode` polyfill.
+	- [core-util-is](https://github.com/isaacs/core-util-is) - Node.js 0.12 `util.is*` functions.
 	- [core-assert](https://github.com/sindresorhus/core-assert) - Node.js `assert` as a standalone module.
 	- [deep-strict-equal](https://github.com/sindresorhus/deep-strict-equal) - Test for deep equality - Node.js `assert.deepStrictEqual()` algorithm as a standalone module.
 - JavaScript
