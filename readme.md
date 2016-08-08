@@ -722,6 +722,9 @@
 - [KeystoneJS](http://keystonejs.com) - CMS and web application platform built on Express and MongoDB.
 - [Calipso](http://calip.so) - A simple content management system, built along similar themes to Drupal and Wordpress, that is designed to be fast, flexible and simple.
 - [Apostrophe2](http://apostrophenow.org) - A content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
+- [Relax](https://github.com/relax/relax) - New generation CMS on top of React, Express and MongoDB, which aims for a better way of building websites.
+- [Cody](http://www.cody-cms.org) - Cody is a platform created to build websites and web applications. It is multi-lingual from the ground up.
+- [PencilBlue](https://github.com/pencilblue/pencilblue) - A full featured CMS and blogging platform, with plugins, server cluster management and data-driven pages.
 
 
 ### Forum
