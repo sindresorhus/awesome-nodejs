@@ -473,6 +473,7 @@
 - [Moment Timezone](http://momentjs.com/timezone/) - IANA Time Zone Database + Moment.js.
 - [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
 - [tz-format](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
+- [akamai-time-reference](https://github.com/jucrouzet/akamai-time-reference) - Get time reference using Akamai's time reference service
 
 
 ### URL
