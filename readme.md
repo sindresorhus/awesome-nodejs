@@ -167,6 +167,7 @@
 - [terminal-recorder](https://github.com/cortezcristian/terminal-recorder) - Record your terminal usage and export it to interactive HTML.
 - [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 - [atmo](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
+- [lockscreen-cli](https://github.com/michaelzoidl/lockscreen-cli) - Lock your screen via CLI.
 
 
 ### Functional programming
