@@ -108,6 +108,7 @@
 
 ### Command-line apps
 
+- [note.js](https://www.npmjs.com/package/notejs) - Note-taking & sharing.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
 - [trash](https://github.com/sindresorhus/trash) - A safer alternative to `rm`.
 - [npm-name](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
