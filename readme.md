@@ -356,6 +356,7 @@
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 - [sander](https://github.com/rich-harris/sander) - Promise-based replacement for the `fs` module.
+- [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 
 
 ### Control flow
