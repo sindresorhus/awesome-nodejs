@@ -199,6 +199,7 @@
 - [rocky](https://github.com/h2non/rocky) - Featured, middleware-oriented HTTP proxy with traffic replay and intercept.
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
 - [node-fetch](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js.
+- [flashheart](https://github.com/bbc/flashheart) - A fully-featured REST client built for ease of use and resilience.
 
 
 ### Debugging / Profiling
