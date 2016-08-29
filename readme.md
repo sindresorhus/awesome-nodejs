@@ -4,6 +4,8 @@
 
 > A curated list of delightful Node.js [packages](#packages) and [resources](#resources).
 
+**Just type [`node.cool`](https://node.cool) to go here ✨**
+
 *You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
