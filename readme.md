@@ -824,6 +824,7 @@
 - [Why Asynchronous?](https://nodesource.com/blog/why-asynchronous/)
 - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
+- [Node.js Best Practices](https://www.codementor.io/nodejs/tutorial/nodejs-best-practices)
 
 ### Newsletters
 
