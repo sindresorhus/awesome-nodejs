@@ -721,6 +721,7 @@
 - [Wintersmith](http://wintersmith.io) - Flexible, minimalistic, multi-platform static site generator.
 - [Assemble](http://assemble.io) - Static site generator for Node.js, Grunt.js, and Yeoman.
 - [DocPad](https://github.com/docpad/docpad) - Static site generator with dynamic abilities and huge plugin ecosystem.
+- [Phenomic](https://phenomic.io) - Modern static website generator based on the React and Webpack ecosystem.
 
 
 ### Content management systems
