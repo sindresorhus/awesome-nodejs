@@ -106,6 +106,7 @@
 - [limdu](https://github.com/erelsgl/limdu) - Machine-learning framework.
 - [Cytoscape.js](http://js.cytoscape.org) - Graph theory (a.k.a. network) modeling and analysis.
 - [kad](https://github.com/kadtools/kad) - Kademlia distributed hash table.
+- [lychee.js](https://github.com/Artificial-Engineering/lycheejs) - Peer-to-Peer AI and Engine for isomorphic self-building and self-learning Applications.
 
 
 ### Command-line apps
