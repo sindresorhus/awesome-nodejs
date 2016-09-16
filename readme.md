@@ -421,6 +421,7 @@
 - [Straw](https://github.com/simonswain/straw) - Real-time dataflow framework.
 - [deepstream.io](https://deepstream.io) - Scalable real-time microservice framework.
 - [Kalm](https://github.com/fed135/Kalm) - Modular socket wrapper and optimizer.
+- [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client library for the MQTT that is pub-sub based lightweight messaging protocol for use on top of the TCP/IP.
 
 
 ### Image
