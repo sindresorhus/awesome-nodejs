@@ -525,6 +525,7 @@
 - [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
 - [Jison](http://zaach.github.io/jison/) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.
 - [google-libphonenumber](https://github.com/seegno/google-libphonenumber) - Parse, format, store and validate phone numbers.
+- [ref](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 
 
 ### Humanize
