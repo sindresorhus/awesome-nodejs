@@ -170,6 +170,7 @@
 - [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 - [atmo](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 - [auto-install](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
+- [github-check-cli](https://github.com/sahildua2305/github-check-cli) - CLI for checking GitHub user profile and repositories information.
 
 
 ### Functional programming
@@ -277,7 +278,6 @@
 - [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 - [liftoff](https://github.com/js-cli/js-liftoff) - Bootstrapping tool for building command-line app.
 - [listr](https://github.com/samverschueren/listr) - Terminal task list.
-- [github-check-cli](https://github.com/sahildua2305/github-check-cli) - CLI for checking GitHub user profile and repositories information.
 
 
 ### Build tools
