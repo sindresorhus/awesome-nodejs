@@ -797,6 +797,7 @@
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views.
+- [good-env](https://github.com/recursivefunk/good-env) - Smart and sensible environment variable parsing
 
 
 ## Resources
