@@ -588,6 +588,7 @@
 ### Testing
 
 - [AVA](https://ava.li) - Futuristic test runner.
+- [Jest](https://github.com/facebook/jest) - Painless JavaScript Testing.
 - [tap](https://github.com/isaacs/node-tap) - A TAP test framework.
 - [tape](https://github.com/substack/tape) - TAP-producing test harness.
 - [Mocha](http://mochajs.org) - A feature-rich test framework making asynchronous testing simple and fun.
