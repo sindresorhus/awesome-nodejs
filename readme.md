@@ -606,7 +606,8 @@
 - [testen](https://github.com/egoist/testen) - Run tests for multiple versions of Node.js locally with NVM.
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver.
 - [WebdriverIO](http://webdriver.io) - Automated testing based on the WebDriver protocol.
-- [Jest](https://github.com/facebook/jest) - Painless JavaScript Testing.
+- [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
+
 
 ### Security
 
