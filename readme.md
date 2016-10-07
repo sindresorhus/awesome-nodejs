@@ -291,6 +291,7 @@
 - [start](https://github.com/start-runner/start) - Simple tasks runner powered by composable functions and promise chaining.
 - [ygor](https://github.com/shannonmoeller/ygor) - A promising task runner for when `npm run` isn't enough and everything else is too much.
 - [Fly](https://github.com/bucaran/fly) - Modern build system based in co-routines, generators and promises.
+- [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
 
 
 ### Hardware
