@@ -328,6 +328,7 @@
 - [Restberry](http://restberry.com) - Framework for setting up RESTful JSON APIs, applied to your database models without needing to write any code.
 - [Catberry](http://catberry.org) - Framework with Flux architecture, isomorphic web-components, and progressive rendering.
 - [ThinkJS](https://thinkjs.org) - Framework with ES2015+ support, WebSockets, REST API.
+- [express-openapi](https://github.com/kogosoftwarellc/express-openapi) - Easily add routes and middleware to express apps using openapi documents (f.k.a. swagger documents).
 
 
 ### Documentation
