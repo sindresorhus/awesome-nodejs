@@ -610,6 +610,7 @@
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver.
 - [WebdriverIO](http://webdriver.io) - Automated testing based on the WebDriver protocol.
 - [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
+- [mockirer](https://github.com/ceasbz/mockirer) - Mock the answers of inquirer prompt questions
 
 
 ### Security
