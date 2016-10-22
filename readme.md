@@ -329,6 +329,7 @@
 - [Catberry](http://catberry.org) - Framework with Flux architecture, isomorphic web-components, and progressive rendering.
 - [ThinkJS](https://thinkjs.org) - Framework with ES2015+ support, WebSockets, REST API.
 - [ActionHero](http://www.actionherojs.com) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
+- [MERN](http://mern.io) - Easily build production-ready universal apps with MongoDB, Express, React, and webpack.
 
 
 ### Documentation
