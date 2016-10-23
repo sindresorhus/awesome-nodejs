@@ -106,6 +106,7 @@
 - [limdu](https://github.com/erelsgl/limdu) - Machine-learning framework.
 - [Cytoscape.js](http://js.cytoscape.org) - Graph theory (a.k.a. network) modeling and analysis.
 - [kad](https://github.com/kadtools/kad) - Kademlia distributed hash table.
+- [seedshot](https://github.com/twobucks/seedshot) - Temporary P2P screenshot sharing from your browser.
 
 
 ### Command-line apps
