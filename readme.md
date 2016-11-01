@@ -171,6 +171,7 @@
 - [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 - [atmo](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 - [auto-install](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
+- [make-license](https://github.com/accraze/make-license) - Generate a LICENSE for your open source projects.
 
 
 ### Functional programming
