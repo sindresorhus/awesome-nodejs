@@ -806,6 +806,7 @@
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views.
+- [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices and organizing the business logic of your app.
 
 
 ## Resources
