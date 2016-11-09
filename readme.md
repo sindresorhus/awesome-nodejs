@@ -186,7 +186,7 @@
 - [RxJS](http://reactivex.io) - Functional reactive library for transforming, composing, and querying various kinds of data.
 - [Lazy.js](https://github.com/dtao/lazy.js) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
 - [Kefir.js](https://github.com/rpominov/kefir) - Reactive library with focus on high performance and low memory usage.
-
+- [IMObject](https://github.com/ReedD/node-immutable-object) - A class that allows you to cast standard JavaScript objects into deep/nested immutable objects.
 
 ### HTTP
 
