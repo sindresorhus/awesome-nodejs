@@ -171,6 +171,7 @@
 - [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 - [atmo](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 - [auto-install](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
+- [git-guppy](https://github.com/therealklanni/git-guppy) - Simple git-hook integration for your gulp workflows.
 
 
 ### Functional programming
