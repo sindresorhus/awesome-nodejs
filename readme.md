@@ -204,6 +204,7 @@
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
 - [node-fetch](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js.
 - [flashheart](https://github.com/bbc/flashheart) - A fully-featured REST client built for ease of use and resilience.
+- [http2-serverpush-proxy](https://github.com/n1try/http2-serverpush-proxy) - A reverse proxy that helps to automatically utilize HTTP/2.0's server push mechanism for static websites. Available as middleware and standalone.
 
 
 ### Debugging / Profiling
