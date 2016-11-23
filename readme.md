@@ -104,6 +104,7 @@
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
 - [NodeOS](http://node-os.com) - The first operating system powered by npm.
 - [limdu](https://github.com/erelsgl/limdu) - Machine-learning framework.
+- [skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing engine.
 - [Cytoscape.js](http://js.cytoscape.org) - Graph theory (a.k.a. network) modeling and analysis.
 - [kad](https://github.com/kadtools/kad) - Kademlia distributed hash table.
 - [seedshot](https://github.com/twobucks/seedshot) - Temporary P2P screenshot sharing from your browser.
