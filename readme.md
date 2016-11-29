@@ -661,6 +661,7 @@
 - [kue](https://github.com/Automattic/kue) - Priority job queue backed by Redis.
 - [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue.
 - [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
+- [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 
 
 ### Node.js management
