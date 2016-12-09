@@ -144,7 +144,7 @@
 - [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 - [browser-run](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 - [modhelp](https://github.com/runvnc/modhelp) - Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.
-- [wifi-password](https://github.com/kevva/wifi-password) - Get the current wifi password.
+- [wifi-password](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 - [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [brightness](https://github.com/kevva/brightness-cli) - Change the screen brightness.
 - [torrent](https://github.com/maxogden/torrent) - Download torrents.
