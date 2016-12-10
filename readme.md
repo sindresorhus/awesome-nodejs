@@ -810,6 +810,7 @@
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views.
+- [crawler](https://github.com/bda-research/node-crawler) - Most powerful and popular web crawler for extracting the data you need from websites
 
 
 ## Resources
