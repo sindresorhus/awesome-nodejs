@@ -278,6 +278,10 @@
 - [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 - [liftoff](https://github.com/js-cli/js-liftoff) - Bootstrapping tool for building command-line app.
 - [listr](https://github.com/samverschueren/listr) - Terminal task list.
+- [g3l](https://github.com/svtek/g3l) - Automated git cli tool.
+- [0n](https://github.com/cagataycali/0n) - 0n, checks your awesome sites, when one of them going down 0n'll notify you.
+- [l00g.in](https://github.com/cagataycali/l00g.in) - Ssh management cli tool.
+- [ds-cleaner](https://github.com/cagataycali/ds-cleaner) - Insanely ds store cleaner
 
 
 ### Build tools
