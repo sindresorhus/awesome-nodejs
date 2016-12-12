@@ -886,7 +886,7 @@
 
 ### Courses
 
-- [Real Time Web with Node.js](http://campus.codeschool.com/auth/codeschool)
+- [Real Time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
 - [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
 
 ### Cheatsheets
