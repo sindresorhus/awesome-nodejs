@@ -463,6 +463,7 @@
 - [parse-columns](https://github.com/sindresorhus/parse-columns) - Parse text columns, like the output of Unix commands.
 - [hanging-indent](https://github.com/codekirei/hanging-indent) - Format a string into a hanging-indented paragraph.
 - [matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+- [pys](https://github.com/hustcc/pys) - Simple(~700b) javascript library to engance String.substring / Array.slice.
 
 
 ### Number
@@ -488,6 +489,7 @@
 - [Moment Timezone](http://momentjs.com/timezone/) - IANA Time Zone Database + Moment.js.
 - [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
 - [tz-format](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
+- [timeago.js](https://github.com/hustcc/timeago.js) - Tiny(~2kb) library used to format date with `*** time ago` statement.
 
 
 ### URL
