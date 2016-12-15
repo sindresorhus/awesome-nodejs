@@ -171,6 +171,7 @@
 - [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 - [atmo](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 - [auto-install](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
+- [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
 
 
 ### Functional programming
