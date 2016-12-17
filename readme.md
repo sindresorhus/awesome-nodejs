@@ -144,7 +144,7 @@
 - [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 - [browser-run](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 - [modhelp](https://github.com/runvnc/modhelp) - Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.
-- [wifi-password](https://github.com/kevva/wifi-password) - Get the current wifi password.
+- [wifi-password](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 - [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [brightness](https://github.com/kevva/brightness-cli) - Change the screen brightness.
 - [torrent](https://github.com/maxogden/torrent) - Download torrents.
@@ -171,6 +171,8 @@
 - [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 - [atmo](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 - [auto-install](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
+- [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
+- [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
 
 
@@ -887,7 +889,7 @@
 
 ### Courses
 
-- [Real Time Web with Node.js](http://campus.codeschool.com/auth/codeschool)
+- [Real Time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
 - [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
 
 ### Cheatsheets
