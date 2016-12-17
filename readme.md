@@ -144,7 +144,7 @@
 - [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 - [browser-run](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 - [modhelp](https://github.com/runvnc/modhelp) - Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.
-- [wifi-password](https://github.com/kevva/wifi-password) - Get the current wifi password.
+- [wifi-password](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 - [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [brightness](https://github.com/kevva/brightness-cli) - Change the screen brightness.
 - [torrent](https://github.com/maxogden/torrent) - Download torrents.
@@ -171,6 +171,9 @@
 - [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 - [atmo](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 - [auto-install](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
+- [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
+- [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
+- [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
 
 
 ### Functional programming
@@ -463,6 +466,7 @@
 - [parse-columns](https://github.com/sindresorhus/parse-columns) - Parse text columns, like the output of Unix commands.
 - [hanging-indent](https://github.com/codekirei/hanging-indent) - Format a string into a hanging-indented paragraph.
 - [matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+- [unhomoglyph](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 
 
 ### Number
@@ -488,6 +492,7 @@
 - [Moment Timezone](http://momentjs.com/timezone/) - IANA Time Zone Database + Moment.js.
 - [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
 - [tz-format](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
+- [date-fns](https://github.com/date-fns/date-fns) - Modern date utility.
 - [cctz](https://github.com/floatdrop/node-cctz) - Fast parsing, formatting and timezone conversation for dates.
 
 
@@ -887,7 +892,7 @@
 
 ### Courses
 
-- [Real Time Web with Node.js](http://campus.codeschool.com/auth/codeschool)
+- [Real Time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
 - [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
 
 ### Cheatsheets
