@@ -667,6 +667,8 @@
 - [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue.
 - [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 - [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
+- [bee-queue](https://github.com/LewisJEllis/bee-queue) - Simple, fast, robust job queue backed by Redis.
+
 
 
 ### Node.js management
