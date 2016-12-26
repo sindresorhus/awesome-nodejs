@@ -335,6 +335,7 @@
 - [ActionHero](http://www.actionherojs.com) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
 - [MERN](http://mern.io) - Easily build production-ready universal apps with MongoDB, Express, React, and webpack.
 - [Next.js](https://zeit.co/blog/next) - Minimalistic framework for server-rendered React apps.
+- [krakenjs](http://krakenjs.com/) - A secure and scalable layer that extends Express by providing structure and convention.
 
 
 ### Documentation
