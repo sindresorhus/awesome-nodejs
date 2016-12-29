@@ -207,7 +207,7 @@
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
 - [node-fetch](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js.
 - [flashheart](https://github.com/bbc/flashheart) - A fully-featured REST client built for ease of use and resilience.
-
+- [oboe](https://github.com/jimhigson/oboe.js) - A streaming approach to JSON by providing parsed objects before the response completes.
 
 ### Debugging / Profiling
 
