@@ -816,6 +816,7 @@
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views.
+- [npm-register](https://github.com/dickeyxxx/npm-register) - Easy to configure and maintain custom npm registry.
 
 
 ## Resources
