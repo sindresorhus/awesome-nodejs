@@ -281,6 +281,7 @@
 - [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 - [liftoff](https://github.com/js-cli/js-liftoff) - Bootstrapping tool for building command-line app.
 - [listr](https://github.com/samverschueren/listr) - Terminal task list.
+- [switchit](https://switchit.js.org) - A modern OOP-based, promise-aware CLI app framework.
 
 
 ### Build tools
