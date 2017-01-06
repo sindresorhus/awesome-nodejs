@@ -211,7 +211,6 @@
 
 ### Debugging / Profiling
 
-- [express-routemap](https://github.com/izelnakri/express-routemap) - Display all your express HTTP routes in the terminal!
 - [ironNode](https://github.com/s-a/iron-node) - Node.js debugger supporting ES2015 out of the box.
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
 - [devtool](https://github.com/Jam3/devtool) - Run Node.js programs through Chrome Dev Tools.
@@ -228,6 +227,7 @@
 - [bugger](https://github.com/buggerjs/bugger) - Provides Chrome Devtools bindings to debug programs in Chrome.
 - [0x](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
 - [ctrace](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
+- [express-routemap](https://github.com/izelnakri/express-routemap) - Display all your express HTTP routes in the terminal.
 
 
 ### Logging
