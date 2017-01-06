@@ -211,6 +211,7 @@
 
 ### Debugging / Profiling
 
+- [express-routemap](https://github.com/izelnakri/express-routemap) - Display all your express HTTP routes in the terminal!
 - [ironNode](https://github.com/s-a/iron-node) - Node.js debugger supporting ES2015 out of the box.
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
 - [devtool](https://github.com/Jam3/devtool) - Run Node.js programs through Chrome Dev Tools.
