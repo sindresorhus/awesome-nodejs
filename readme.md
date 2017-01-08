@@ -693,8 +693,6 @@
 	- [core-assert](https://github.com/sindresorhus/core-assert) - Node.js `assert` as a standalone module.
 	- [deep-strict-equal](https://github.com/sindresorhus/deep-strict-equal) - Test for deep equality - Node.js `assert.deepStrictEqual()` algorithm as a standalone module.
 - JavaScript
-	- [object-assign](https://github.com/sindresorhus/object-assign) - ES2015 `Object.assign()` ponyfill.
-	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - ES2015 `Promise` ponyfill.
 	- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES2015 `Reflect` and `Proxy` polyfill.
 	- [es6-shim](https://github.com/paulmillr/es6-shim) - Collection of ES2015 polyfills.
 
