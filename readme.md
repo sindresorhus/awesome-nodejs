@@ -207,6 +207,7 @@
 - [superagent](https://github.com/visionmedia/superagent) - A small progressive HTTP request library.
 - [node-fetch](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js.
 - [flashheart](https://github.com/bbc/flashheart) - A fully-featured REST client built for ease of use and resilience.
+- [http-fake-backend](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
 
 
 ### Debugging / Profiling
