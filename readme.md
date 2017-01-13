@@ -144,7 +144,7 @@
 - [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 - [browser-run](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 - [modhelp](https://github.com/runvnc/modhelp) - Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.
-- [wifi-password](https://github.com/kevva/wifi-password) - Get the current wifi password.
+- [wifi-password](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 - [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [brightness](https://github.com/kevva/brightness-cli) - Change the screen brightness.
 - [torrent](https://github.com/maxogden/torrent) - Download torrents.
@@ -171,6 +171,9 @@
 - [jscpd](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 - [atmo](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 - [auto-install](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
+- [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
+- [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
+- [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
 
 
 ### Functional programming
@@ -332,6 +335,7 @@
 - [ActionHero](http://www.actionherojs.com) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
 - [MERN](http://mern.io) - Easily build production-ready universal apps with MongoDB, Express, React, and webpack.
 - [Next.js](https://zeit.co/blog/next) - Minimalistic framework for server-rendered React apps.
+- [Nuxt.js](https://nuxtjs.org) - Minimalistic framework for server-rendered Vue.js apps.
 - [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
 
 
@@ -430,6 +434,7 @@
 - [deepstream.io](https://deepstream.io) - Scalable real-time microservice framework.
 - [Kalm](https://github.com/fed135/Kalm) - Modular socket wrapper and optimizer.
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - A lightweight pub-sub based messaging protocol for use on top of TCP/IP.
+- [µWebSockets](https://github.com/uWebSockets/uWebSockets) - Highly scalable WebSocket server & client library.
 
 
 ### Image
@@ -463,6 +468,7 @@
 - [parse-columns](https://github.com/sindresorhus/parse-columns) - Parse text columns, like the output of Unix commands.
 - [hanging-indent](https://github.com/codekirei/hanging-indent) - Format a string into a hanging-indented paragraph.
 - [matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
+- [unhomoglyph](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 
 
 ### Number
@@ -488,6 +494,8 @@
 - [Moment Timezone](http://momentjs.com/timezone/) - IANA Time Zone Database + Moment.js.
 - [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
 - [tz-format](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
+- [date-fns](https://github.com/date-fns/date-fns) - Modern date utility.
+- [cctz](https://github.com/floatdrop/node-cctz) - Fast parsing, formatting, and timezone conversation for dates.
 
 
 ### URL
@@ -574,6 +582,7 @@
 	- [Redis](https://github.com/luin/ioredis) - Redis client.
 	- [nano](https://github.com/dscape/nano) - CouchDB client.
 	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
+	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase client.
 - ODM / ORM
 	- [Bookshelf](http://bookshelfjs.org) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
 	- [Massive](https://github.com/robconery/massive-js) - PostgreSQL data access tool.
@@ -615,6 +624,7 @@
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) - Automated UI testing framework based on Selenium WebDriver.
 - [WebdriverIO](http://webdriver.io) - Automated testing based on the WebDriver protocol.
 - [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
+- [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing.
 
 
 ### Security
@@ -659,6 +669,7 @@
 - [kue](https://github.com/Automattic/kue) - Priority job queue backed by Redis.
 - [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue.
 - [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
+- [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 
 
 ### Node.js management
@@ -673,25 +684,16 @@
 
 - Node.js
 	- [set-immediate-shim](https://github.com/sindresorhus/set-immediate-shim) - Simple `setImmediate()` ponyfill.
-	- [path-is-absolute](https://github.com/sindresorhus/path-is-absolute) - Node.js 0.12 `path.isAbsolute()` ponyfill.
 	- [os-tmpdir](https://github.com/sindresorhus/os-tmpdir) - Node.js `os.tmpdir()` ponyfill.
 	- [os-homedir](https://github.com/sindresorhus/os-homedir) - Node.js 4 `os.homedir()` ponyfill.
 	- [user-info](https://github.com/sindresorhus/user-info) - Node.js 6 `os.userInfo()` ponyfill.
-	- [debug-log](https://github.com/sindresorhus/debug-log) - Node.js 0.12 `util.debuglog()` ponyfill.
-	- [buffer-equals](https://github.com/sindresorhus/buffer-equals) - Node.js 0.12 `buffer.equals()` ponyfill.
 	- [buffer-includes](https://github.com/sindresorhus/buffer-includes) - Node.js 5.3 `buffer.includes()` ponyfill.
 	- [buf-indexof](https://github.com/sindresorhus/buf-indexof) - Node.js 4 `buffer.indexOf()` ponyfill.
-	- [buf-compare](https://github.com/sindresorhus/buf-compare) - Node.js 0.12 `Buffer.compare()` ponyfill.
-	- [fs-access](https://github.com/sindresorhus/fs-access) - Node.js 0.12 `fs.access()` & `fs.accessSync()` ponyfill.
-	- [exec-file-sync](https://github.com/sindresorhus/exec-file-sync) - Node.js 0.12 `childProcess.execFileSync()` ponyfill.
 	- [child-process-ctor](https://github.com/sindresorhus/child-process-ctor) - Node.js 4 `childProcess.ChildProcess` ponyfill.
 	- [node-status-codes](https://github.com/sindresorhus/node-status-codes) - Node.js `http.STATUS_CODES` ponyfill.
-	- [exit-code](https://github.com/isaacs/exit-code) - Node.js 0.12 `process.exitCode` polyfill.
 	- [core-assert](https://github.com/sindresorhus/core-assert) - Node.js `assert` as a standalone module.
 	- [deep-strict-equal](https://github.com/sindresorhus/deep-strict-equal) - Test for deep equality - Node.js `assert.deepStrictEqual()` algorithm as a standalone module.
 - JavaScript
-	- [object-assign](https://github.com/sindresorhus/object-assign) - ES2015 `Object.assign()` ponyfill.
-	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - ES2015 `Promise` ponyfill.
 	- [harmony-reflect](https://github.com/tvcutsem/harmony-reflect) - ES2015 `Reflect` and `Proxy` polyfill.
 	- [es6-shim](https://github.com/paulmillr/es6-shim) - Collection of ES2015 polyfills.
 
@@ -873,6 +875,7 @@
 - [Web Development with Node and Express](http://shop.oreilly.com/product/0636920032977.do)
 - [Pro Express.js](http://proexpressjs.com)
 - [Secure Your Node.js Web Application](http://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856)
+- [Express in Action](https://www.manning.com/books/express-in-action)
 
 ### Blogs
 
@@ -882,7 +885,7 @@
 
 ### Courses
 
-- [Real Time Web with Node.js](http://campus.codeschool.com/auth/codeschool)
+- [Real Time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
 - [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
 
 ### Cheatsheets
