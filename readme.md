@@ -332,6 +332,7 @@
 - [ActionHero](http://www.actionherojs.com) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
 - [MERN](http://mern.io) - Easily build production-ready universal apps with MongoDB, Express, React, and webpack.
 - [Next.js](https://zeit.co/blog/next) - Minimalistic framework for server-rendered React apps.
+- [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
 
 
 ### Documentation
@@ -806,7 +807,6 @@
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views.
-- [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices and organizing the business logic of your app.
 
 
 ## Resources
