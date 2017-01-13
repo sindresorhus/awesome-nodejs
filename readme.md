@@ -336,6 +336,7 @@
 - [MERN](http://mern.io) - Easily build production-ready universal apps with MongoDB, Express, React, and webpack.
 - [Next.js](https://zeit.co/blog/next) - Minimalistic framework for server-rendered React apps.
 - [Nuxt.js](https://nuxtjs.org) - Minimalistic framework for server-rendered Vue.js apps.
+- [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
 
 
 ### Documentation
