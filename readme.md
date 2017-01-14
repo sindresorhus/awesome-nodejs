@@ -295,6 +295,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [ygor](https://github.com/shannonmoeller/ygor) - Promising task runner for when `npm run` isn't enough and everything else is too much.
 - [grunt](http://gruntjs.com) - Task runner that can perform repetitive tasks like minification, compilation, unit testing, linting, etc.
 - [Fly](https://github.com/bucaran/fly) - Modern build system based in co-routines, generators and promises.
+- [backpack](https://github.com/palmerhq/backpack) - Minimalistic, zero-config build system focused on developer experience
 
 
 ### Hardware
