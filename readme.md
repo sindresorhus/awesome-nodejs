@@ -811,6 +811,7 @@
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - A service for server-side rendering your JavaScript views.
+- [python-range](https://github.com/Gothdo/range) - JavaScript implementation of the Python's `range()` function.
 
 
 ## Resources
