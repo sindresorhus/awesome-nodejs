@@ -283,6 +283,7 @@
 - [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 - [liftoff](https://github.com/js-cli/js-liftoff) - Bootstrapping tool for building command-line app.
 - [listr](https://github.com/samverschueren/listr) - Terminal task list.
+- [g3l](https://github.com/svtek/g3l) - Automated git cli tool.
 
 
 ### Build tools
