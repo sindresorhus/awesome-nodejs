@@ -380,6 +380,7 @@
 
 - Promises
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - A fully featured promise library with focus on innovative features and performance.
+	- [bluebird-promisell](https://github.com/zhangchiqing/bluebird-promisell) - Practical functional programming library for promises based on bluebird.
 	- [pinkie-promise](https://github.com/floatdrop/pinkie-promise) - Promise ponyfill.
 	- [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
 	- [rfpify](https://github.com/samverschueren/rfpify) - Promisify a result-first callback-style function.
