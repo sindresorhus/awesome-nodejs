@@ -231,7 +231,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 
 ### Logging
 
-- [pino](https://github.com/mcollina/pino) - Extremely fast logger inspired by Bunyan.
+- [pino](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
 - [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library.
 - [Bunyan](https://github.com/trentm/node-bunyan) - JSON logging library.
 - [intel](http://seanmonstar.github.io/intel/) - Logging library (handlers, filters, formatters, console injection).
