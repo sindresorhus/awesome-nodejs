@@ -708,7 +708,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [node-windows](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer.
 - [forever](https://github.com/foreverjs/forever) - Ensures that a given script runs continuously.
 - [supervisor](https://github.com/petruisfan/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
-- [Phusion Passenger](https://www.phusionpassenger.com/node_weekly) - Friendly process manager that integrates directly into Nginx.
+- [Phusion Passenger](https://www.phusionpassenger.com/) - Friendly process manager that integrates directly into Nginx.
 - [naught](https://github.com/andrewrk/naught) - Process manager with zero downtime deployment.
 
 
@@ -735,7 +735,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 ### Content management systems
 
 - [KeystoneJS](http://keystonejs.com) - CMS and web application platform built on Express and MongoDB.
-- [Calipso](http://calip.so) - Content management system, built along similar themes to Drupal and Wordpress, that is designed to be fast, flexible and simple.
+- [Calipso](https://github.com/cliftonc/calipso) - Content management system, built along similar themes to Drupal and Wordpress, that is designed to be fast, flexible and simple.
 - [Apostrophe2](http://apostrophenow.org) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
 
 
