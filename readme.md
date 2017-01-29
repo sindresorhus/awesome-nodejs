@@ -735,7 +735,6 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 ### Content management systems
 
 - [KeystoneJS](http://keystonejs.com) - CMS and web application platform built on Express and MongoDB.
-- [Calipso](http://calip.so) - Content management system, built along similar themes to Drupal and Wordpress, that is designed to be fast, flexible and simple.
 - [Apostrophe2](http://apostrophenow.org) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
 
 
