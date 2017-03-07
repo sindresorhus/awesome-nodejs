@@ -895,6 +895,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/node.js)
 - [Reddit](https://www.reddit.com/r/node)
 - [Twitter](https://twitter.com/nodejs)
+- [Hashnode](https://hashnode.com/n/nodejs)
 
 ### Miscellaneous
 
