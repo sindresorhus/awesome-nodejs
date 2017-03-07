@@ -690,6 +690,10 @@
 - [franc](https://github.com/wooorm/franc) - Detect the language of text.
 - [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [natural](https://github.com/NaturalNode/natural) - A general natural language facility.
+- [node-wit](https://www.npmjs.com/package/node-wit) - Wit AI for NLP NodeJs SDK 
+- [api-ai-javascript](https://www.npmjs.com/package/api-ai-javascript) - API AI for NLP JS SDK
+- [api-ai-node-js](https://github.com/api-ai/api-ai-node-js) - plugin allows integrating agents from the Api.ai natural language processing service with your Node.js application.
+- [Cognitive-LUIS-Node](https://github.com/Microsoft/Cognitive-LUIS-Node.js) - LUIS is a service for language understanding that provides intent classification and entity extraction.
 
 
 ### Process management
