@@ -542,7 +542,8 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [Jison](http://zaach.github.io/jison/) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.
 - [google-libphonenumber](https://github.com/seegno/google-libphonenumber) - Parse, format, store and validate phone numbers.
 - [ref](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
-
+- [busboy](https://www.npmjs.com/package/busboy) - A streaming parser for HTML form data.
+- [body-parser-json](https://www.npmjs.com/package/body-parser-json) -  A module for parsing incoming HTML form data.
 
 ### Humanize
 
@@ -697,7 +698,10 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [franc](https://github.com/wooorm/franc) - Detect the language of text.
 - [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [natural](https://github.com/NaturalNode/natural) - Natural language facility.
-
+- [node-wit](https://www.npmjs.com/package/node-wit) - Wit AI SDK
+- [api-ai-javascript](https://www.npmjs.com/package/api-ai-javascript) - API AI SDK
+- [api-ai-node-js](https://github.com/api-ai/api-ai-node-js) - plugin allows integrating agents from the Api.ai service.
+- [Cognitive-LUIS-Node](https://github.com/Microsoft/Cognitive-LUIS-Node.js) - SDK for using LUIS.
 
 ### Process management
 
