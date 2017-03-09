@@ -830,6 +830,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
 - [Art of README](https://github.com/noffle/art-of-readme) - Learn the art of writing quality READMEs.
+- [Learn Node.js Completely and with Confidence](http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/) - Beginner to master resource path.
 
 ### Newsletters
 
