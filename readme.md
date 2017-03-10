@@ -304,6 +304,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [usb](https://github.com/nonolith/node-usb) - USB library.
 - [cylon.js](http://cylonjs.com) - Next generation robotics framework with support for 26 different platforms.
 - [i2c-bus](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
+- [onoff](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
 
 
 ### Templating
