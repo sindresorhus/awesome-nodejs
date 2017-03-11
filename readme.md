@@ -306,6 +306,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [i2c-bus](https://github.com/fivdi/i2c-bus) - I2C serial bus access.
 - [onoff](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
 - [spi-device](https://github.com/fivdi/spi-device) - SPI serial bus access.
+- [pigpio](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
 
 
 ### Templating
