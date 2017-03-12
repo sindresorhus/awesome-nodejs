@@ -339,6 +339,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [Next.js](https://zeit.co/blog/next) - Minimalistic framework for server-rendered React apps.
 - [Nuxt.js](https://nuxtjs.org) - Minimalistic framework for server-rendered Vue.js apps.
 - [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
+- [Hemera](https://github.com/hemerajs/hemera) - Writing reliable & fault-tolerant microservices with [NATS](https://nats.io/).
 
 
 ### Documentation
