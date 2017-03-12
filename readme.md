@@ -545,7 +545,8 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [Jison](http://zaach.github.io/jison/) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.
 - [google-libphonenumber](https://github.com/seegno/google-libphonenumber) - Parse, format, store and validate phone numbers.
 - [ref](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
-
+- [busboy](https://www.npmjs.com/package/busboy) - For HTML form data.
+- [body-parser-json](https://www.npmjs.com/package/body-parser-json) -  For incoming HTML form data.
 
 ### Humanize
 
