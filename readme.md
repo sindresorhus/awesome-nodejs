@@ -890,6 +890,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome extension to display npm dependencies at the bottom of a repo's readme.
 - [RunKit](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - Embed a Node.js environment on any website.
 - [RequireBin](http://requirebin.com) - Shareable JavaScript programs powered by npm and browserify.
+- [NW.js](https://nwjs.io/) - Complete suite for creating desktop app on all os, with nodejs embed, npm packages available, and power of web implementation
 
 ### Community
 
