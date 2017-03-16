@@ -892,7 +892,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome extension to display npm dependencies at the bottom of a repo's readme.
 - [RunKit](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - Embed a Node.js environment on any website.
 - [RequireBin](http://requirebin.com) - Shareable JavaScript programs powered by npm and browserify.
-- [Nanobox](https://nanobox.io) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere.
+- [Nanobox](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
 
 ### Community
 
