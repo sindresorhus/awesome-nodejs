@@ -9,11 +9,12 @@
 *You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
 *Please read the [contribution guidelines](contributing.md) before contributing.*
 
--
+---
 
-<p align="center"><b>🌈 Want to strengthen your core JavaScript skills and master ES6?</b><br>I would recommend this awesome <a href="https://ES6.io/friend/AWESOME" title="Sponsored link, but excellent regardless">ES6 course</a> by Wes Bos. You might also like his <a href="https://ReactForBeginners.com/friend/AWESOME">React course</a>.</p>
+<p align="center">🐱</p>
+<p align="center"><b>Support this project and improve your JavaScript skills with this awesome <a href="https://ES6.io/friend/AWESOME">ES6 course</a> by Wes Bos.</b><br>Try his free <a href="https://javascript30.com/friend/AWESOME">JavaScript 30 course</a> for a taste of what to expect. You might also like his <a href="https://ReactForBeginners.com/friend/AWESOME">React course</a>.</p>
 
--
+---
 
 Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter](https://twitter.com/sindresorhus).
 
