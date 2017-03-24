@@ -341,6 +341,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [Next.js](https://zeit.co/blog/next) - Minimalistic framework for server-rendered React apps.
 - [Nuxt.js](https://nuxtjs.org) - Minimalistic framework for server-rendered Vue.js apps.
 - [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
+- [Expressa](https://github.com/thomas4019/expressa) - Middleware for making RESTFUL apis from JSON schema, with Django-like Admin interface.
 
 
 ### Documentation
