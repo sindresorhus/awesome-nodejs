@@ -281,6 +281,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [sparkly](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
 - [term-img](https://github.com/sindresorhus/term-img) - Display images in your terminal.
 - [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
+- [DraftLog](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
 
 
 ### Build tools
