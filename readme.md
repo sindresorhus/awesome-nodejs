@@ -441,6 +441,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [deepstream.io](https://deepstream.io) - Scalable real-time microservice framework.
 - [Kalm](https://github.com/fed135/Kalm) - Modular socket wrapper and optimizer.
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
+- [jsonrpc-bidirectional](https://github.com/oxygens/jsonrpc-bidirectional) - Bidirectional JSON-RPC over the same WebSocket, with framework-like extensibility. 
 
 
 ### Image
