@@ -727,6 +727,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 
 - [Acorn](https://github.com/ternjs/acorn) - Tiny, fast JavaScript parser.
 - [Rocambole](https://github.com/millermedeiros/rocambole) - Recursively walk and transform JavaScript AST.
+- [Esprima](https://github.com/jquery/esprima) - High performance, standard-compliant ECMAScript parser
 
 
 ### Static site generators
