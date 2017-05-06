@@ -825,6 +825,8 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [node-modules.com](http://node-modules.com) - An alternative npm search engine with a more intelligent and personal results ranking.
 - [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
 - [npmcompare.com](https://npmcompare.com) - Compare and discover npm packages.
+- [Awesome Node.js @LibHunt](https://nodejs.libhunt.com) - Your go-to Node.js Toolbox
+
 
 ### Articles
 
