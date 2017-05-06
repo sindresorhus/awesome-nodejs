@@ -888,6 +888,12 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4)
 - [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
 
+
+### Cheatsheets
+
+- [Express.js 4.x Cheatsheet](https://github.com/azat-co/cheatsheets/blob/master/express4/index.md)
+
+
 ### Tools
 
 - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json, .js, .jsx, .coffee and .md files on GitHub.
