@@ -638,6 +638,8 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [nsp](https://github.com/nodesecurity/nsp) - CLI tool to identify known vulnerabilities in your project.
 - [RegEx-DoS](https://github.com/jagracey/RegEx-DoS) - CLI tool to identify possible regex denial of service (ReDos) vulnerabilities in your project.
 
+### Security
+- [snyk](https://github.com/Snyk/snyk) - CLI and build-time tool to find & fix vulnerable npm dependencies.
 
 ### Benchmarking
 
