@@ -656,6 +656,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 
 ### Authentication
 
+- [Grant](https://github.com/simov/grant) - OAuth middleware for Express and Koa.
 - [Passport](http://passportjs.org) - Simple, unobtrusive authentication.
 - [everyauth](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, Facebook, etc) for your Connect and Express apps.
 - [passwordless](https://passwordless.net) - Token-based authentication middleware for Express allowing authentication without passwords.
