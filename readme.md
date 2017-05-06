@@ -760,6 +760,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 
 - [cows](https://github.com/sindresorhus/cows) - ASCII cows.
 - [superb](https://github.com/sindresorhus/superb) - Get superb like words.
+- [thecat](https://github.com/coderaiser/thecat) -  Simple cat server. Get new cat on every request.
 - [cat-names](https://github.com/sindresorhus/cat-names) - Get popular cat names.
 - [dog-names](https://github.com/sindresorhus/dog-names) - Get popular dog names.
 - [superheroes](https://github.com/sindresorhus/superheroes) - Get superhero names.
