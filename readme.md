@@ -668,7 +668,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 
 - [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
 - [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
-
+- [Node Email Verification](https://github.com/whitef0x0/node-email-verification) - Add email-based user account verification to any MEAN server.
 
 ### Job queues
 
