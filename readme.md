@@ -805,6 +805,8 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
 
+### Static code analyzers
+- [plato] (https://github.com/es-analysis/plato) - JavaScript source code visualization, static analysis, and complexity tool
 
 ## Resources
 
