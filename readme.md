@@ -872,6 +872,10 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [Secure Your Node.js Web Application](http://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856)
 - [Express in Action](https://www.manning.com/books/express-in-action)
 
+### Boilerplates
+- [express-mongoose-es6-rest-api](https://github.com/KunalKapadia/express-mongoose-es6-rest-api) -  A boilerplate application for building REST APIs using express and mongoose in ES6 with code coverage.
+- [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+
 ### Blogs
 
 - [Node.js blog](https://nodejs.org/en/blog/)
@@ -907,7 +911,6 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 ### Miscellaneous
 
 - [nodebots](http://nodebots.io) - Robots powered by JavaScript.
-- [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 - [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
