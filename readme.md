@@ -773,6 +773,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 
 - [execa](https://github.com/sindresorhus/execa) - Better `child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [NW.js](http://nwjs.io) - Cross-plaform desktop apps. Supports more OS's than Electron, is better documented, more stable (5 years older), updated faster, smaller distribution files, and [WAY easier to get started with](http://thejaredwilcurt.github.io/website/quickstart.html).
 - [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. *(You might like [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
 - [opn](https://github.com/sindresorhus/opn) - Opens stuff like websites, files, executables.
 - [hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
