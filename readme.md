@@ -859,6 +859,10 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [NodeUp](http://nodeup.com)
 - [Mostly Node](http://mostlynode.com)
 
+### Registries / Lists
+
+- [Node Frameworks](http://nodeframeworks.com): Hand-picked registry of Node.js frameworks.
+
 ### Books
 
 - [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
