@@ -319,6 +319,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [hogan.js](http://twitter.github.io/hogan.js/) - Twitter's small, fast, phase-separated compiler for Mustache templates.
 - [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
 - [Pug](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
+- [Twig.js](https://github.com/twigjs/twig.js) - Twig.js is a pure JavaScript implementation of the Twig PHP templating language
 
 
 ### Web frameworks
