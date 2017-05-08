@@ -342,6 +342,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Next.js](https://zeit.co/blog/next) - Minimalistic framework for server-rendered React apps.
 - [Nuxt.js](https://nuxtjs.org) - Minimalistic framework for server-rendered Vue.js apps.
 - [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
+- [Total.js](https://github.com/totaljs/framework) - Framework similar to PHP's Laravel or Python's Django or ASP.NET MVC. It can be used for web, desktop, service and IoT applications.
 
 
 ### Documentation
