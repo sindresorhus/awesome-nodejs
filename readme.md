@@ -342,6 +342,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Next.js](https://zeit.co/blog/next) - Minimalistic framework for server-rendered React apps.
 - [Nuxt.js](https://nuxtjs.org) - Minimalistic framework for server-rendered Vue.js apps.
 - [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
+- [AdonisJs](http://adonisjs.com) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 
 
 ### Documentation
