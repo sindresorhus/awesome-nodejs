@@ -586,7 +586,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
 	- [Redis](https://github.com/luin/ioredis) - Redis client.
 	- [LevelUP](https://github.com/Level/levelup) - LevelDB.
-	- [MySQL](https://github.com/felixge/node-mysql) - MySQL client.
+	- [MySQL](https://github.com/mysqljs/mysql) - MySQL client.
 	- [nano](https://github.com/dscape/nano) - CouchDB client.
 	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
 	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase client.
