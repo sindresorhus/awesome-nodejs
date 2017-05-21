@@ -781,13 +781,13 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
 - [onetime](https://github.com/sindresorhus/onetime) - Only run a function once.
 - [mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
-- [require-uncached](https://github.com/sindresorhus/require-uncached) - Require a module bypassing the cache.
+- [import-fresh](https://github.com/sindresorhus/import-fresh) - Import a module while bypassing the cache.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 - [os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale.
 - [nan](https://github.com/nodejs/nan) - Makes native add-on development for across Node.js versions easier.
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server module.
 - [adit](https://github.com/markelog/adit) - SSH tunneling made simple.
-- [lazy-req](https://github.com/sindresorhus/lazy-req) - Require modules lazily.
+- [import-lazy](https://github.com/sindresorhus/import-lazy) - Import a module lazily.
 - [file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
 - [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
