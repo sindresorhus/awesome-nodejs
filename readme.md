@@ -914,6 +914,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 - [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
+- [Bit](https://github.com/teambit/bit) - Management and reuse for small modules and components.
 
 
 ## License
