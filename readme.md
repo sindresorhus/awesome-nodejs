@@ -229,6 +229,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [bugger](https://github.com/buggerjs/bugger) - Provides Chrome Devtools bindings to debug programs in Chrome.
 - [0x](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
 - [ctrace](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
+- [express-routemap](https://github.com/izelnakri/express-routemap) - Display all your express HTTP routes in the terminal.
 
 
 ### Logging
