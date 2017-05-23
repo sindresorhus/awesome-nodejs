@@ -322,6 +322,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [hogan.js](http://twitter.github.io/hogan.js/) - Twitter's small, fast, phase-separated compiler for Mustache templates.
 - [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
 - [Pug](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
+- [Saker](https://github.com/eshengsky/saker) - The new template engine which enables a fast, fluid coding workflow. Unlike most template syntaxes, you do not need to interrupt your coding to explicitly denote server blocks within your HTML.
 
 
 ### Web frameworks
