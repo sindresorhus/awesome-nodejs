@@ -429,6 +429,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [readable-stream](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 - [through2-concurrent](https://github.com/almost/through2-concurrent) - Transform object streams concurrently.
 - [graphicsmagick-stream](https://github.com/e-conomic/graphicsmagick-stream) - Fast conversion/scaling of images using a pool of long lived GraphicsMagick processes.
+- [oboe](https://github.com/jimhigson/oboe.js) - Streaming approach to JSON by parsing objects in the source stream before it completes.
 
 
 ### Real-time
