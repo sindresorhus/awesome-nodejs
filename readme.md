@@ -83,8 +83,9 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [Cheatsheets](#cheatsheets)
 	- [Tools](#tools)
 	- [Community](#community)
+	
 	- [Miscellaneous](#miscellaneous)
-
+	
 
 ## Packages
 
@@ -441,7 +442,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 - [Straw](https://github.com/simonswain/straw) - Real-time dataflow framework.
 - [deepstream.io](https://deepstream.io) - Scalable real-time microservice framework.
-- [Kalm](https://github.com/fed135/Kalm) - Modular socket wrapper and optimizer.
+- [Kalm](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 
 
@@ -806,6 +807,13 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
+
+### Serialization
+
+- [msgpack-lite](https://github.com/kawanet/msgpack-lite) - Pure js implementation of the msgpack5 protocol.
+- [snappy](https://github.com/kesla/node-snappy) - Bindings for Google's serializer/ compressor.
+- [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Google's Protocol Buffers.
+- [compactr](https://github.com/compactr/compactr.js) - The fastest schema-based pure-js serializer.
 
 
 ## Resources
