@@ -69,6 +69,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [Forum](#forum)
 	- [Blogging](#blogging)
 	- [Weird](#weird)
+	- [Serialization](#serialization)
 	- [Miscellaneous](#miscellaneous)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
@@ -83,7 +84,6 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [Cheatsheets](#cheatsheets)
 	- [Tools](#tools)
 	- [Community](#community)
-	
 	- [Miscellaneous](#miscellaneous)
 	
 
@@ -772,6 +772,14 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [nerds](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
 
 
+### Serialization
+
+- [msgpack-lite](https://github.com/kawanet/msgpack-lite) - Pure js implementation of the msgpack5 protocol.
+- [snappy](https://github.com/kesla/node-snappy) - Bindings for Google's serializer/ compressor.
+- [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Google's Protocol Buffers.
+- [compactr](https://github.com/compactr/compactr.js) - The fastest schema-based pure-js serializer.
+
+
 ### Miscellaneous
 
 - [execa](https://github.com/sindresorhus/execa) - Better `child_process`.
@@ -807,13 +815,6 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
-
-### Serialization
-
-- [msgpack-lite](https://github.com/kawanet/msgpack-lite) - Pure js implementation of the msgpack5 protocol.
-- [snappy](https://github.com/kesla/node-snappy) - Bindings for Google's serializer/ compressor.
-- [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Google's Protocol Buffers.
-- [compactr](https://github.com/compactr/compactr.js) - The fastest schema-based pure-js serializer.
 
 
 ## Resources
