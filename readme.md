@@ -283,6 +283,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [term-img](https://github.com/sindresorhus/term-img) - Display images in your terminal.
 - [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 - [DraftLog](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
+- [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
 
 
 ### Build tools
@@ -914,7 +915,6 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 - [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
-- [Bit](https://github.com/teambit/bit) - Management and reuse for small modules and components.
 
 
 ## License
