@@ -379,6 +379,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 - [sander](https://github.com/rich-harris/sander) - Promise-based replacement for the `fs` module.
 - [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
+- [commandir](https://github.com/fvgs/commandir) - Mkdir and rmdir that are responsible, idempotent, promise based, and a delight to use.
 
 
 ### Control flow
