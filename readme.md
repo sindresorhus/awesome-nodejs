@@ -651,6 +651,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 - [babili](https://github.com/babel/babili) - ES2015+ aware minifier based on the Babel toolchain.
 - [UglifyJS2](http://lisperator.net/uglifyjs/) - JavaScript minifier.
+- [Butternut](https://github.com/Rich-Harris/butternut) - Fast and future-friendly JavaScript minifier.
 - [clean-css](https://github.com/jakubpawlowicz/clean-css) - CSS minifier.
 - [minimize](https://github.com/Swaagie/minimize) - HTML minifier.
 - [imagemin](https://github.com/imagemin/imagemin) - Image minifier.
