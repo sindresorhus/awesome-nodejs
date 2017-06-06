@@ -441,7 +441,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 - [Straw](https://github.com/simonswain/straw) - Real-time dataflow framework.
 - [deepstream.io](https://deepstream.io) - Scalable real-time microservice framework.
-- [Kalm](https://github.com/fed135/Kalm) - Modular socket wrapper and optimizer.
+- [Kalm](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 
 
