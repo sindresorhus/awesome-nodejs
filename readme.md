@@ -707,7 +707,10 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [franc](https://github.com/wooorm/franc) - Detect the language of text.
 - [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [natural](https://github.com/NaturalNode/natural) - Natural language facility.
-
+- [node-wit](https://www.npmjs.com/package/node-wit) - Wit AI SDK
+- [api-ai-javascript](https://www.npmjs.com/package/api-ai-javascript) - API AI SDK
+- [api-ai-node-js](https://github.com/api-ai/api-ai-node-js) - plugin allows integrating agents from the Api.ai service.
+- [Cognitive-LUIS-Node](https://github.com/Microsoft/Cognitive-LUIS-Node.js) - SDK for using LUIS.
 
 ### Process management
 
