@@ -390,6 +390,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [promise-memoize](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
 	- [valvelet](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
 	- [p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
+	- [mz](https://github.com/normalize/mz) - Modernize node.js to current ECMAScript standards.
 	- [More…](https://github.com/wbinnssmith/awesome-promises)
 - Observables
 	- [zen-observable](https://github.com/zenparsing/zen-observable) - Implementation of Observables.
