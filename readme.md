@@ -806,6 +806,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
+- [module-invalidate](https://github.com/FranckFreiburger/module-invalidate) - Invalidate modules loaded through `require()` and automatically reload them on further access.
 
 
 ## Resources
