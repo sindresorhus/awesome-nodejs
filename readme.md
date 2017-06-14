@@ -445,6 +445,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [deepstream.io](https://deepstream.io) - Scalable real-time microservice framework.
 - [Kalm](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
+- [jsonrpc-bidirectional](https://github.com/oxygen/jsonrpc-bidirectional) - Bidirectional JSON-RPC over the same WebSocket, with framework-like extensibility. 
 
 
 ### Image
