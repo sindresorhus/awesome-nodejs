@@ -285,6 +285,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 - [DraftLog](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
 - [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
+- [jp](https://github.com/therealklanni/jp) - Simply parse and drill into JSON on the commandline, with jsonpath and stdin stream support (jq compatible, not a replacement)
 
 
 ### Build tools
