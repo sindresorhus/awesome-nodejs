@@ -580,6 +580,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
 - [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
 - [polo](https://github.com/mafintosh/polo) - Zero-config service discovery.
+- [netcat](https://github.com/roccomuso/netcat) - Fully tested Netcat port to pure js.
 
 
 ### Database
