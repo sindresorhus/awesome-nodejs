@@ -177,7 +177,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
 - [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
-
+- [transfer-owner-cli](https://github.com/ceasbz/transfer-owner-cli) - Transfer npm package property to another user
 
 ### Functional programming
 
