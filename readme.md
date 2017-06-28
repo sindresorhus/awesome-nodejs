@@ -688,6 +688,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
 - [nodeenv](https://github.com/ekalinin/nodeenv) - Node.js virtual environment compatible to Python's virtualenv.
 - [nvm for Windows](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
+- [v](https://github.com/corpix/v) - Portable Node.js version management.
 
 
 ### Polyfills
