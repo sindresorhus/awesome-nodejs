@@ -552,6 +552,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [google-libphonenumber](https://github.com/seegno/google-libphonenumber) - Parse, format, store and validate phone numbers.
 - [ref](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
+- [PHP-Parser](https://github.com/glayzzle/php-parser) - Extracts AST or Tokens for PHP5 and PHP7.
 
 
 ### Humanize
