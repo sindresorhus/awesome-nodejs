@@ -913,6 +913,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 - [nodebots](http://nodebots.io) - Robots powered by JavaScript.
 - [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
+- [nodejs-api-starter](https://github.com/kriasoft/nodejs-api-starter) - Boilerplate for creating API backends with Docker, Node.js, Redis, PostgreSQL and GraphQL
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 - [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
