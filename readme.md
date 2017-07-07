@@ -682,6 +682,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 - [node-resque](https://github.com/taskrabbit/node-resque) - Redis-backed job queue.
 
+
 ### Node.js management
 
 - [n](https://github.com/tj/n) - Node.js version management.
