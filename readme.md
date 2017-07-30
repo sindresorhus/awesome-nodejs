@@ -853,7 +853,6 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 ### Videos
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
-- [Introduction to Node.js Fundamentals](http://strongloop.com/node-js/videos/#a-video-intro-to-nodejs-fundamentals)
 - [Hands on with Node.js](https://learn.bevry.me/node/preface)
 - [Full Streams Ahead](http://dry.ly/full-streams-ahead) - Introduction to streams.
 - [StrongLoop Talks](https://strongloop.com/node-js/videos/) - Series of talks.
