@@ -177,6 +177,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
 - [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
+- [getnews.tech](https://github.com/omgimanerd/getnews.tech) - See news from different news outlets from your terminal.
 
 
 ### Functional programming
