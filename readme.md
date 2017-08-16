@@ -683,6 +683,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 - [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 - [node-resque](https://github.com/taskrabbit/node-resque) - Redis-backed job queue.
+- [bee-queue](https://github.com/bee-queue/bee-queue) - High-performance job queue backed by Redis.
 
 
 ### Node.js management
