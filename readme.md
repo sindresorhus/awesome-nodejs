@@ -674,6 +674,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 - [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
 - [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
+- [Node Email Templates](https://github.com/niftylettuce/node-email-templates) - Node.js module for rendering beautiful emails with ejs templates and email-friendly inline CSS using juice.
 
 
 ### Job queues
