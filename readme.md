@@ -240,6 +240,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [intel](http://seanmonstar.github.io/intel/) - Logging library (handlers, filters, formatters, console injection).
 - [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 - [storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
+- [Bugsnag](https://docs.bugsnag.com/platforms/nodejs/express/) - Logs errors. Includes useful diagnostic info like stack-trace, session, release, etc. Has a free-tier.
 
 
 ### Command-line utilities
