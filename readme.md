@@ -872,6 +872,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
 - [Node.js in Practice](http://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939)
 - [Mastering Node](http://visionmedia.github.io/masteringnode/)
+- [Node.js 8 the Right Way](https://pragprog.com/book/jwnode2/node-js-8-the-right-way)
 - [Professional Node.js: Building Javascript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
 - [Practical Node.js: Building Real-World Scalable Web Apps](http://practicalnodebook.com)
 - [Mixu's Node book](http://book.mixu.net/node/)
