@@ -495,6 +495,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [math-sum](https://github.com/sindresorhus/math-sum) - Sum numbers.
 - [math-clamp](https://github.com/sindresorhus/math-clamp) - Clamp a number.
 - [algebra](https://github.com/fibo/algebra) - Algebraic structures.
+- [multimath](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
 
 
 ### Date
