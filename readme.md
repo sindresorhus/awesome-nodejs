@@ -870,6 +870,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 ### Books
 
 - [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
+- [Node.js in Action, Second Edition](https://www.manning.com/books/node-js-in-action-second-edition)
 - [Node.js in Practice](http://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939)
 - [Mastering Node](http://visionmedia.github.io/masteringnode/)
 - [Node.js 8 the Right Way](https://pragprog.com/book/jwnode2/node-js-8-the-right-way)
@@ -880,6 +881,8 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Pro Express.js](http://proexpressjs.com)
 - [Secure Your Node.js Web Application](http://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856)
 - [Express in Action](https://www.manning.com/books/express-in-action)
+- [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js) - Early access
+- [Cross-Platform Desktop Applications](https://www.manning.com/books/cross-platform-desktop-applications)
 
 ### Blogs
 
