@@ -110,6 +110,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [seedshot](https://github.com/twobucks/seedshot) - Temporary P2P screenshot sharing from your browser.
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
 - [skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing engine.
+- [SheetJS](https://github.com/sheetjs/js-xlsx) - Pure JS Excel Spreadsheet reader and writer
 
 
 ### Command-line apps
