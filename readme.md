@@ -239,7 +239,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [intel](http://seanmonstar.github.io/intel/) - Logging library (handlers, filters, formatters, console injection).
 - [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 - [storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
-
+- [likit](https://github.com/indatawetrust/likit) - Realtime request/response monitoring middleware for Koa, Koa2 and Express
 
 ### Command-line utilities
 
@@ -612,7 +612,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - Other
 	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
 	- [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
-
+	- [mongo-to-elastic](https://github.com/indatawetrust/mongo-to-elastic) Elasticsearch transfer tool for MongoDB database
 
 ### Testing
 
@@ -813,7 +813,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
-
+- [reporter-cli](https://github.com/indatawetrust/reporter) - Crawler queue creation tool for paging
 
 ## Resources
 
