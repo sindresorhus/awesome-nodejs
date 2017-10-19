@@ -798,7 +798,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
-
+- [mocker-data-generator](https://github.com/danibram/mocker-data-generator) - Generate masive mock data based on a schema, using the best generators: FakerJs, ChanceJs, CasualJs and RandExpJs
 
 ## Resources
 
