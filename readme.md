@@ -236,6 +236,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [pino](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
 - [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library.
 - [Bunyan](https://github.com/trentm/node-bunyan) - JSON logging library.
+- [Morgan](https://github.com/expressjs/morgan) - Powerfull logger middleware for node.js 
 - [intel](http://seanmonstar.github.io/intel/) - Logging library (handlers, filters, formatters, console injection).
 - [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 - [storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
