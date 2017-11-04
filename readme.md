@@ -346,6 +346,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
 - [AdonisJs](http://adonisjs.com) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 - [Hemera](https://github.com/hemerajs/hemera) - Write reliable and fault-tolerant microservices with [NATS](https://nats.io).
+- [Micro](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach.
 
 
 ### Documentation
