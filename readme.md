@@ -613,6 +613,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - Other
 	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
 	- [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
+	- [Finale](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
 
 
 ### Testing
