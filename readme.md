@@ -895,6 +895,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Real Time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
 - [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
 - [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Video course by Wes Bos.
+- [Node.js in Motion](https://www.manning.com/livevideo/nodejs-in-motion) - Video course by PJ Evans
 
 ### Cheatsheets
 
