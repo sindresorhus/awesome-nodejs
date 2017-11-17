@@ -210,6 +210,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [node-fetch](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js.
 - [flashheart](https://github.com/bbc/flashheart) - REST client.
 - [http-fake-backend](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
+- [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 
 
 ### Debugging / Profiling
