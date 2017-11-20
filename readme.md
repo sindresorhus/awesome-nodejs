@@ -675,6 +675,10 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk) - Unified API for social authentication (Facebook, Twitter, Slack, Instagram, …).
 
 
+### Authorization
+
+- [CASL](https://stalniy.github.io/casl/) - Easy isomorphic authorization for UI and API.
+
 ### Email
 
 - [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
@@ -849,6 +853,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
 - [Art of README](https://github.com/noffle/art-of-readme) - Learn the art of writing quality READMEs.
+- [ACL in Expressjs](https://medium.com/netscape/authorization-with-casl-in-express-app-d94eb2e2b73b)
 
 ### Newsletters
 
