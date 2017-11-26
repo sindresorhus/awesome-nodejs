@@ -756,6 +756,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 - [KeystoneJS](http://keystonejs.com) - CMS and web application platform built on Express and MongoDB.
 - [Apostrophe2](http://apostrophenow.org) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
+- [Tipe](https://tipe.io) - Content management system build for developers in Node.js giving users GraphQL and REST API endpoints.
 
 
 ### Forum
