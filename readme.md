@@ -527,6 +527,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [property-validator](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
 - [schema-inspector](https://github.com/Atinux/schema-inspector) - JSON API sanitization and validation.
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema validator. Supports v5 proposals.
+- [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 
 
 ### Parsing
