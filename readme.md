@@ -304,6 +304,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [FuseBox](https://github.com/fuse-box/fuse-box) - Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support.
 - [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable.
 - [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler
+- [microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
 
 
 ### Hardware
