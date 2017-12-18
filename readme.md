@@ -305,6 +305,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable.
 - [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero configuration web application bundler
 - [microbundle](https://github.com/developit/microbundle) - Zero-configuration bundler for tiny modules.
+- [sfo](https://github.com/btholt/sfo) - Instant build process
 
 
 ### Hardware
