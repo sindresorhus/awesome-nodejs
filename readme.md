@@ -729,7 +729,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [supervisor](https://github.com/petruisfan/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
 - [Phusion Passenger](https://www.phusionpassenger.com) - Friendly process manager that integrates directly into Nginx.
 - [naught](https://github.com/andrewrk/naught) - Process manager with zero downtime deployment.
-
+- [service-systemd](https://github.com/braceslab/service-systemd) - Setup app as systemd service.
 
 ### Automation
 
