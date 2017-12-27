@@ -348,6 +348,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [AdonisJs](http://adonisjs.com) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 - [Hemera](https://github.com/hemerajs/hemera) - Write reliable and fault-tolerant microservices with [NATS](https://nats.io).
 - [Micro](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach.
+- [NestJs](https://github.com/nestjs/nest) - Angular inspired Node.js framework for server-side applications using TypeScript & JavaScript (ES6+).
 
 
 ### Documentation
