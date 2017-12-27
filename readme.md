@@ -480,6 +480,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [hanging-indent](https://github.com/codekirei/hanging-indent) - Format a string into a hanging-indented paragraph.
 - [matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
+- [i18next](https://github.com/i18next/i18next) - Learn once - Translate everywhere: internationalization ecosystem
 
 
 ### Number
