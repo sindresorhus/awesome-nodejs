@@ -212,6 +212,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [flashheart](https://github.com/bbc/flashheart) - REST client.
 - [http-fake-backend](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
 - [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
+- [gotQL](https://github.com/khaosdoctor/gotql) - Better implementation of the GraphQL request, created as a wrapper of [Got](https://github.com/sindresorhus/got).
 
 
 ### Debugging / Profiling
