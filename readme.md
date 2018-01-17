@@ -177,6 +177,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
 - [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
+- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
 
 
 ### Functional programming
@@ -210,6 +211,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [node-fetch](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js.
 - [flashheart](https://github.com/bbc/flashheart) - REST client.
 - [http-fake-backend](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
+- [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 
 
 ### Debugging / Profiling
@@ -218,7 +220,6 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
 - [devtool](https://github.com/Jam3/devtool) - Run Node.js programs through Chrome Dev Tools.
 - [Theseus](https://github.com/adobe-research/theseus) - JavaScript debugger featuring real-time code coverage, retroactive inspection and asynchronous call tree.
-- [longjohn](https://github.com/mattinsler/longjohn) - Long stack traces with configurable call trace length.
 - [debug](https://github.com/visionmedia/debug) - Tiny debugging utility.
 - [jstrace](https://github.com/jstrace/jstrace) - Dynamic tracing for JavaScript, similar to dtrace, ktap etc.
 - [why-is-node-running](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
@@ -229,6 +230,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [bugger](https://github.com/buggerjs/bugger) - Provides Chrome Devtools bindings to debug programs in Chrome.
 - [0x](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
 - [ctrace](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
+- [leakage](https://github.com/andywer/leakage) - Write memory leak tests.
 
 
 ### Logging
@@ -283,6 +285,8 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [term-img](https://github.com/sindresorhus/term-img) - Display images in your terminal.
 - [yargs](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 - [DraftLog](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
+- [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
+- [gradient-string](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
 
 ### Build tools
@@ -339,10 +343,12 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [ThinkJS](https://thinkjs.org) - Framework with ES2015+ support, WebSockets, REST API.
 - [ActionHero](http://www.actionherojs.com) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
 - [MERN](http://mern.io) - Easily build production-ready universal apps with MongoDB, Express, React, and webpack.
-- [Next.js](https://zeit.co/blog/next) - Minimalistic framework for server-rendered React apps.
+- [Next.js](https://zeit.co/blog/next) - Minimalistic framework for server-rendered universal JavaScript web apps.
 - [Nuxt.js](https://nuxtjs.org) - Minimalistic framework for server-rendered Vue.js apps.
 - [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
 - [AdonisJs](http://adonisjs.com) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
+- [Hemera](https://github.com/hemerajs/hemera) - Write reliable and fault-tolerant microservices with [NATS](https://nats.io).
+- [Micro](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach.
 
 
 ### Documentation
@@ -363,7 +369,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [globby](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files.
 - [rimraf](https://github.com/isaacs/rimraf) - Recursively delete files like `rm -rf`.
-- [mkdirp](https://github.com/substack/node-mkdirp) - Recursively create directories like `mkdir -p`.
+- [make-dir](https://github.com/sindresorhus/make-dir) - Recursively create directories like `mkdir -p`.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) - Drop-in replacement for the `fs` module with various improvements.
 - [chokidar](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
 - [find-up](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
@@ -406,7 +412,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [each-async](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
 	- [async](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronicity.
 - Channels
-	- [js-csp](https://github.com/jlongster/js-csp) - Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go).
+	- [js-csp](https://github.com/ubolonton/js-csp) - Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go).
 - Other
 	- [zone](https://github.com/strongloop/zone) - Provides a way to group and track resources and errors across asynchronous operations.
 
@@ -441,7 +447,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Primus](https://github.com/primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 - [Straw](https://github.com/simonswain/straw) - Real-time dataflow framework.
 - [deepstream.io](https://deepstream.io) - Scalable real-time microservice framework.
-- [Kalm](https://github.com/fed135/Kalm) - Modular socket wrapper and optimizer.
+- [Kalm](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 
 
@@ -578,6 +584,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
 - [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
 - [polo](https://github.com/mafintosh/polo) - Zero-config service discovery.
+- [DHCP](https://github.com/infusion/node-dhcp) - DHCP client and server.
 
 
 ### Database
@@ -586,7 +593,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [PostgreSQL](https://github.com/brianc/node-postgres) - PostgreSQL client. Pure JavaScript and native libpq bindings.
 	- [Redis](https://github.com/luin/ioredis) - Redis client.
 	- [LevelUP](https://github.com/Level/levelup) - LevelDB.
-	- [MySQL](https://github.com/felixge/node-mysql) - MySQL client.
+	- [MySQL](https://github.com/mysqljs/mysql) - MySQL client.
 	- [nano](https://github.com/dscape/nano) - CouchDB client.
 	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
 	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase client.
@@ -608,6 +615,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - Other
 	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
 	- [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
+	- [Keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends.
 
 
 ### Testing
@@ -632,6 +640,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [WebdriverIO](http://webdriver.io) - Automated testing based on the WebDriver protocol.
 - [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing.
+- [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 
 ### Security
@@ -639,6 +648,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [snyk](https://github.com/Snyk/snyk) - CLI and build-time tool to find & fix vulnerable npm dependencies.
 - [nsp](https://github.com/nodesecurity/nsp) - CLI tool to identify known vulnerabilities in your project.
 - [RegEx-DoS](https://github.com/jagracey/RegEx-DoS) - CLI tool to identify possible regex denial of service (ReDos) vulnerabilities in your project.
+- [credential-plus](https://github.com/simonepri/credential-plus) - Password hashing and verification made easy.
 
 
 ### Benchmarking
@@ -670,6 +680,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 - [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
 - [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
+- [email-templates](https://github.com/niftylettuce/email-templates) - Create, preview, and send custom email templates.
 
 
 ### Job queues
@@ -678,6 +689,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue.
 - [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
 - [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
+- [node-resque](https://github.com/taskrabbit/node-resque) - Redis-backed job queue.
 
 
 ### Node.js management
@@ -781,13 +793,13 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
 - [onetime](https://github.com/sindresorhus/onetime) - Only run a function once.
 - [mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
-- [require-uncached](https://github.com/sindresorhus/require-uncached) - Require a module bypassing the cache.
+- [import-fresh](https://github.com/sindresorhus/import-fresh) - Import a module while bypassing the cache.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 - [os-locale](https://github.com/sindresorhus/os-locale) - Get the system locale.
 - [nan](https://github.com/nodejs/nan) - Makes native add-on development for across Node.js versions easier.
 - [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server module.
 - [adit](https://github.com/markelog/adit) - SSH tunneling made simple.
-- [lazy-req](https://github.com/sindresorhus/lazy-req) - Require modules lazily.
+- [import-lazy](https://github.com/sindresorhus/import-lazy) - Import a module lazily.
 - [file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
 - [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
@@ -797,7 +809,6 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [dotenv](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
 - [remote-git-tags](https://github.com/sindresorhus/remote-git-tags) - Get tags from a remote git repo.
 - [semver](https://github.com/npm/node-semver) - [semver](http://semver.org) parser.
-- [nar](https://github.com/h2non/nar) - Create self-contained executable binaries.
 - [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 - [nodegit](https://github.com/nodegit/nodegit) - Native bindings to Git.
 - [json-strictify](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.
@@ -848,7 +859,6 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 ### Videos
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
-- [Introduction to Node.js Fundamentals](http://strongloop.com/node-js/videos/#a-video-intro-to-nodejs-fundamentals)
 - [Hands on with Node.js](https://learn.bevry.me/node/preface)
 - [Full Streams Ahead](http://dry.ly/full-streams-ahead) - Introduction to streams.
 - [StrongLoop Talks](https://strongloop.com/node-js/videos/) - Series of talks.
@@ -866,6 +876,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
 - [Node.js in Practice](http://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939)
 - [Mastering Node](http://visionmedia.github.io/masteringnode/)
+- [Node.js 8 the Right Way](https://pragprog.com/book/jwnode2/node-js-8-the-right-way)
 - [Professional Node.js: Building Javascript Based Scalable Software](http://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
 - [Practical Node.js: Building Real-World Scalable Web Apps](http://practicalnodebook.com)
 - [Mixu's Node book](http://book.mixu.net/node/)
@@ -897,6 +908,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome extension to display npm dependencies at the bottom of a repo's readme.
 - [RunKit](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - Embed a Node.js environment on any website.
 - [RequireBin](http://requirebin.com) - Shareable JavaScript programs powered by npm and browserify.
+- [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - Chrome extension that displays npm download stats on GitHub.
 
 ### Community
 
