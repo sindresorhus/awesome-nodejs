@@ -613,6 +613,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - Query builder
 	- [Knex](http://knexjs.org) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 - Other
+    - [database-js](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a promise-based syntax and a JDBC-like connection.
 	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
 	- [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
 	- [Keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends.
