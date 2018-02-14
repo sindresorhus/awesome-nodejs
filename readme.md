@@ -128,7 +128,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 - [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
 - [ttystudio](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
-- [XO](https://github.com/sindresorhus/xo) - Enforce strict code style using the JavaScript happiness style.
+- [XO](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
