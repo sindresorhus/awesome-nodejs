@@ -774,10 +774,10 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 ### Serialization
 
-- [msgpack-lite](https://github.com/kawanet/msgpack-lite) - Pure js implementation of the msgpack5 protocol.
+- [msgpack-lite](https://github.com/kawanet/msgpack-lite) - Implementation of the msgpack5 protocol.
 - [snappy](https://github.com/kesla/node-snappy) - Bindings for Google's serializer/ compressor.
 - [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Google's Protocol Buffers.
-- [compactr](https://github.com/compactr/compactr.js) - Pure-js, schema-based serializer focused on performance.
+- [compactr](https://github.com/compactr/compactr.js) - Implementation of the Compactr Protocol.
 
 
 ### Miscellaneous
