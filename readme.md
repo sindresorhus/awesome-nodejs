@@ -203,6 +203,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client (works in the browser too).
 - [request](https://github.com/request/request) - Simplified HTTP request client.
 - [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations library.
+- [Stubmatic](https://github.com/NaturalIntelligence/Stubmatic) - HTTP(s) mocking and expectations library. Designed specially for QA.
 - [spdy](https://github.com/indutny/node-spdy) - Creates SPDY servers with the same API as the built-in `https` module.
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
@@ -482,7 +483,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [hanging-indent](https://github.com/codekirei/hanging-indent) - Format a string into a hanging-indented paragraph.
 - [matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
-
+- [fast-lorem-ipsum](https://github.com/amitguptagwl/fast-lorem-ipsum) - fast lorem ipsum generator for npm, cli, and browsers.
 
 ### Number
 
