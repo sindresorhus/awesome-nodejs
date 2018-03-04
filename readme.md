@@ -288,6 +288,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [DraftLog](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
 - [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
 - [gradient-string](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+- [wily-cli](https://gitlab.com/jsonsonson/wily-cli) - All-in-one and easy to use command-line parser tool.
 
 
 ### Build tools
