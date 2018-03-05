@@ -822,7 +822,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 ### Bot
 
-- [SSB](https://github.com/airbnb/hypernova) - It is a complete platform for creating bots for slack.
+- [SSB](https://github.com/agoalofalife/ssb) - It is a complete platform for creating bots for slack.
 
 
 ## Resources
