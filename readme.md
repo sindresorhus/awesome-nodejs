@@ -70,6 +70,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [Blogging](#blogging)
 	- [Weird](#weird)
 	- [Miscellaneous](#miscellaneous)
+	- [Bot](#bot)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
 	- [Discovery](#discovery)
@@ -818,6 +819,10 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
+
+### Bot
+
+- [SSB](https://github.com/airbnb/hypernova) - It is a complete platform for creating bots for slack.
 
 
 ## Resources
