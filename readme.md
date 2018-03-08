@@ -831,6 +831,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
 - [The Node Way](http://thenodeway.io) - An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
+- [Community Curated NodeJs Resources](https://hackr.io/tutorials/learn-node-js) - Learn Node.js online from the best Node.js tutorials & courses recommended by the programming community.
 
 
 ### Discovery
