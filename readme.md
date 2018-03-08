@@ -818,6 +818,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
+- [mahsan](https://github.com/Trax-retail/mahsan) - Fast and simple caching library with distributed invalidation policy.
 
 
 ## Resources
