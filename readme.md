@@ -306,6 +306,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Fly](https://github.com/bucaran/fly) - Modern build system based in co-routines, generators and promises.
 - [FuseBox](https://github.com/fuse-box/fuse-box) - Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support.
 - [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable.
+- [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
 
 
 ### Hardware
