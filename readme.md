@@ -687,11 +687,12 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 ### Job queues
 
-- [kue](https://github.com/Automattic/kue) - Priority job queue backed by Redis.
+- [kue](https://github.com/Automattic/kue) - Redis-backed priority job queue.
 - [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue.
-- [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
+- [agenda](https://github.com/rschmukler/agenda) - MonoDB-backed job scheduling.
 - [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 - [node-resque](https://github.com/taskrabbit/node-resque) - Redis-backed job queue.
+- [rsmq](https://github.com/smrchy/rsmq) - Redis-backed message queue.
 
 
 ### Node.js management
