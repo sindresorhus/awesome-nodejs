@@ -203,6 +203,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client (works in the browser too).
 - [request](https://github.com/request/request) - Simplified HTTP request client.
 - [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations library.
+- [Stubmatic](https://github.com/NaturalIntelligence/Stubmatic) - HTTP(s) mocking and expectations library. Designed specially for QA.
 - [spdy](https://github.com/indutny/node-spdy) - Creates SPDY servers with the same API as the built-in `https` module.
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
@@ -484,7 +485,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [hanging-indent](https://github.com/codekirei/hanging-indent) - Format a string into a hanging-indented paragraph.
 - [matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
-
+- [fast-lorem-ipsum](https://github.com/amitguptagwl/fast-lorem-ipsum) - fast lorem ipsum generator for npm, cli, and browsers.
 
 ### Number
 
@@ -554,6 +555,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Stylecow](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
 - [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 - [excel-stream](https://github.com/dominictarr/excel-stream) - Streaming Excel spreadsheet to JSON parser.
+- [fast xml parser](https://github.com/NaturalIntelligence/fast-xml-parser) - A very fast XML to JavaScript/JSON and JSON/Javascript to XML converter. It can validate XML syntax and can work from CLI as well.
 - [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
 - [Jison](http://zaach.github.io/jison/) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.
 - [google-libphonenumber](https://github.com/seegno/google-libphonenumber) - Parse, format, store and validate phone numbers.
