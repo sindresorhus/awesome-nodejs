@@ -552,7 +552,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Stylecow](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
 - [js-yaml](https://github.com/nodeca/js-yaml) - Very fast YAML parser.
 - [excel-stream](https://github.com/dominictarr/excel-stream) - Streaming Excel spreadsheet to JSON parser.
-- [fast xml parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Very fast XML to Js Obj/JSON or Nimn and JSON/Js obj to XML converter. It can validate XML syntax and can work from CLI as well.
+- [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Very fast XML to Js Obj/JSON or Nimn and JSON/Js obj to XML converter & validator.
 - [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) - XML to JavaScript object converter.
 - [Jison](http://zaach.github.io/jison/) - Friendly JavaScript parser generator. It shares genes with Bison, Yacc and family.
 - [google-libphonenumber](https://github.com/seegno/google-libphonenumber) - Parse, format, store and validate phone numbers.
