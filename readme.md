@@ -203,7 +203,6 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [gh-got](https://github.com/sindresorhus/gh-got) - Convenience wrapper for `got` to interact with the GitHub API.
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client (works in the browser too).
 - [request](https://github.com/request/request) - Simplified HTTP request client.
-- [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations library.
 - [spdy](https://github.com/indutny/node-spdy) - Creates SPDY servers with the same API as the built-in `https` module.
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
@@ -635,7 +634,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
 - [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
 - [navit](https://github.com/nodeca/navit) - PhantomJS / SlimerJS wrapper to simplify browser test scripting.
-- [nock](https://github.com/pgte/nock) - HTTP mocking and expectations.
+- [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations.
 - [intern](https://github.com/theintern/intern) - Code testing stack.
 - [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate failure scenarios and network conditions.
 - [hook-std](https://github.com/sindresorhus/hook-std) - Hook and modify stdout/stderr.
