@@ -56,6 +56,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [Benchmarking](#benchmarking)
 	- [Minifiers](#minifiers)
 	- [Authentication](#authentication)
+	- [Authorization](#authorization)
 	- [Email](#email)
 	- [Job queues](#job-queues)
 	- [Node.js management](#nodejs-management)
@@ -677,6 +678,11 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Lockit](https://github.com/zemirco/lockit) - Full featured authentication solution for Express. Supports a variety of databases, predefined routes, email and two-factor authentication.
 - [Grant](https://github.com/simov/grant) - OAuth middleware for Express, Koa, and Hapi.
 - [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk) - Unified API for social authentication (Facebook, Twitter, Slack, Instagram, …).
+
+
+### Authorization
+
+- [Aclify](https://github.com/Aclify/aclify) - Node Access Control Lists (ACL).
 
 
 ### Email
