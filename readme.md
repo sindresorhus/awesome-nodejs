@@ -352,6 +352,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [AdonisJs](http://adonisjs.com) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 - [Hemera](https://github.com/hemerajs/hemera) - Write reliable and fault-tolerant microservices with [NATS](https://nats.io).
 - [Micro](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach.
+- [OnixJs](https://github.com/onixjs/core) - Framework (SOA, MSA, MVC) that implements Industry Standards and Patterns in order to provide Connectivity, Stability, High-Availability and High-Performance, it will allow you to decide which ORM / Front-End Framework to use.
 
 
 ### Documentation
