@@ -1,23 +1,28 @@
-# Awesome Node.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-[<img src="https://cdn.rawgit.com/gilbarbara/logos/e7b1dc2666c3dabe6c1276abd0a767b6ebd6af43/logos/nodejs-icon.svg" align="right" width="70">](https://nodejs.org)
-
-> A curated list of delightful Node.js [packages](#packages) and [resources](#resources).
-
-Just type [`node.cool`](https://node.cool) to go here ✨
-
-*You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
-*Please read the [contribution guidelines](contributing.md) before contributing.*
-
-
----
-
-<p align="center"><sup>🦄 Support <a href="https://github.com/sindresorhus">my open-source work</a> by buying this awesome video course:</sup><br><b><a href="https://learnnode.com/friend/AWESOME">Learn to build apps and APIs with Node.js</a> by Wes Bos</b><br><sub>Try his free <a href="https://javascript30.com/friend/AWESOME">JavaScript 30</a> course for a taste of what to expect & check out his <a href="https://ES6.io/friend/AWESOME">ES6</a>, <a href="https://ReactForBeginners.com/friend/AWESOME">React</a>, <a href="https://SublimeTextBook.com/friend/AWESOME">Sublime</a> courses.</sub></p>
-
----
-
-
-<sub>Check out my [blog](https://blog.sindresorhus.com) and say "hi" on [Twitter](https://twitter.com/sindresorhus).</sub>
+<div align="center">
+	<div>
+		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
+	</div>
+	<br>
+	<p>
+		<a href="https://www.patreon.com/sindresorhus">My open source work is supported by the community</a>
+	</p>
+	<p>
+		<sup>Special thanks to:</sup>
+		<br>
+		<a href="https://github.com/wtgtybhertgeghgtwtg">
+			<img src="https://cdn.rawgit.com/sindresorhus/stuff/daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260" alt="wtgtybhertgeghgtwtg">
+		</a>
+	</p>
+	<br>
+	<br>
+	<a href="https://awesome.re">
+		<img src="https://awesome.re/badge.svg" alt="Awesome">
+	</a>
+	<p>
+		<sub>Just type <a href="https://node.cool"><code>node.cool</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	</p>
+	<br>
+</div>
 
 
 ## Contents
@@ -928,8 +933,13 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [nodebots](http://nodebots.io) - Robots powered by JavaScript.
 - [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
-- [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
+
+
+## Related lists
+
+- [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
+- [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 
 
 ## License
