@@ -739,7 +739,7 @@
 - [supervisor](https://github.com/petruisfan/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
 - [Phusion Passenger](https://www.phusionpassenger.com) - Friendly process manager that integrates directly into Nginx.
 - [naught](https://github.com/andrewrk/naught) - Process manager with zero downtime deployment.
-
+- [service-systemd](https://github.com/braceslab/service-systemd) - Setup app as systemd service.
 
 ### Automation
 
@@ -826,6 +826,7 @@
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
+- [json-stringify-extended](https://github.com/braceslab/json-stringify-extended) - JSON.stringify any data types.
 
 
 ## Resources
