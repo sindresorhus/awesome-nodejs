@@ -357,6 +357,7 @@
 - [AdonisJs](http://adonisjs.com) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 - [Hemera](https://github.com/hemerajs/hemera) - Write reliable and fault-tolerant microservices with [NATS](https://nats.io).
 - [Micro](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach.
+- [Egg.js](https://eggjs.org/en/index.html) - better enterprise frameworks and apps with Node.js & Koa
 
 
 ### Documentation
