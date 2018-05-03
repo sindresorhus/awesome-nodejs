@@ -569,6 +569,7 @@
 - [google-libphonenumber](https://github.com/seegno/google-libphonenumber) - Parse, format, store and validate phone numbers.
 - [ref](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
+- [Chevrotain](https://github.com/SAP/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
 
 
 ### Humanize
