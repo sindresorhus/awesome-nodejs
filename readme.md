@@ -56,6 +56,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [Benchmarking](#benchmarking)
 	- [Minifiers](#minifiers)
 	- [Authentication](#authentication)
+	- [Authorization](#authorization)
 	- [Email](#email)
 	- [Job queues](#job-queues)
 	- [Node.js management](#nodejs-management)
@@ -677,7 +678,8 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 ### Authorization
 
-- [CASL](https://stalniy.github.io/casl/) - Easy isomorphic authorization for UI and API.
+- [CASL](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+
 
 ### Email
 
@@ -853,7 +855,6 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
 - [Art of README](https://github.com/noffle/art-of-readme) - Learn the art of writing quality READMEs.
-- [ACL in Expressjs](https://medium.com/netscape/authorization-with-casl-in-express-app-d94eb2e2b73b)
 
 ### Newsletters
 
