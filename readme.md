@@ -352,7 +352,6 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [AdonisJs](http://adonisjs.com) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 - [Hemera](https://github.com/hemerajs/hemera) - Write reliable and fault-tolerant microservices with [NATS](https://nats.io).
 - [Micro](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach.
-- [Strapi](https://strapi.io/overview) - The advanced open-source Content Management Framework to build powerful API with no effort.
 
 
 ### Documentation
@@ -762,6 +761,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 - [KeystoneJS](http://keystonejs.com) - CMS and web application platform built on Express and MongoDB.
 - [Apostrophe2](http://apostrophenow.org) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
+- [Strapi](https://strapi.io) - Content Management Framework (headless-CMS) to build powerful APIs.
 
 
 ### Forum
