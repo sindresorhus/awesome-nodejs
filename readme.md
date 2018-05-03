@@ -363,6 +363,7 @@
 - [Micro](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach.
 - [Moleculer](https://moleculer.services) - Fast & powerful microservices framework.
 - [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework.
+- [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 
 
 ### Documentation
