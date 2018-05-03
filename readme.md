@@ -655,7 +655,7 @@
 - [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing.
 - [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
-
+- [EyeJS](https://eye.js.org) - Testing framework for the real world
 
 ### Security
 
