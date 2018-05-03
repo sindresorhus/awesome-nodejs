@@ -545,7 +545,7 @@
 - [property-validator](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
 - [schema-inspector](https://github.com/Atinux/schema-inspector) - JSON API sanitization and validation.
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema validator. Supports v5 proposals.
-
+- [valify](https://github.com/fabioricali/valify) - Validates data in a very simple way.
 
 ### Parsing
 
