@@ -855,6 +855,7 @@
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - Event driven web crawler.
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
+- [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
 
 
 ## Resources
