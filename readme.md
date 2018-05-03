@@ -462,6 +462,7 @@
 - [deepstream.io](https://deepstream.io) - Scalable real-time microservice framework.
 - [Kalm](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
+- [Kuzzle](https://github.com/kuzzleio/kuzzle) - Open-source real-time backend for Web, Mobile and IoT that uses ElasticSearch as a database.
 
 
 ### Image
