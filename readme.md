@@ -464,6 +464,7 @@
 - [deepstream.io](https://deepstream.io) - Scalable real-time microservice framework.
 - [Kalm](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
+- [Pomelo](https://github.com/NetEase/pomelo) - Scalable real-time game server framework.
 
 
 ### Image
