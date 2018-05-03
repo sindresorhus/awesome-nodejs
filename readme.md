@@ -593,6 +593,7 @@
 - [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
 - [polo](https://github.com/mafintosh/polo) - Zero-config service discovery.
 - [DHCP](https://github.com/infusion/node-dhcp) - DHCP client and server.
+- [netcat](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
 
 
 ### Database
