@@ -814,6 +814,7 @@
 
 ### Miscellaneous
 
+- [currency-symbol](https://github.com/atomicman57/currency-symbol) - A simple zero dependency lightweight package that returns a country currency numeric symbol and can also list all countries currency.
 - [execa](https://github.com/sindresorhus/execa) - Better `child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. *(You might like [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
