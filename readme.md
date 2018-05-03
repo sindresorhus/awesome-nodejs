@@ -115,6 +115,7 @@
 - [seedshot](https://github.com/twobucks/seedshot) - Temporary P2P screenshot sharing from your browser.
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
 - [skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing engine.
+- [TensorFlow.js](https://github.com/tensorflow/tfjs) - Javascript version of the Google Deep Learning Framework, TensorFlow.
 
 
 ### Command-line apps
