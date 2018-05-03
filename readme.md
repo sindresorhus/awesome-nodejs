@@ -74,6 +74,7 @@
 	- [Forum](#forum)
 	- [Blogging](#blogging)
 	- [Weird](#weird)
+	- [Serialization](#serialization)
 	- [Miscellaneous](#miscellaneous)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
@@ -795,6 +796,13 @@
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 - [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - ₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”
 - [nerds](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
+
+
+### Serialization
+
+- [snappy](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
+- [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Protocol Buffers.
+- [compactr](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
 
 
 ### Miscellaneous
