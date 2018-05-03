@@ -1,23 +1,28 @@
-# Awesome Node.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-[<img src="https://cdn.rawgit.com/gilbarbara/logos/e7b1dc2666c3dabe6c1276abd0a767b6ebd6af43/logos/nodejs-icon.svg" align="right" width="70">](https://nodejs.org)
-
-> A curated list of delightful Node.js [packages](#packages) and [resources](#resources).
-
-Just type [`node.cool`](https://node.cool) to go here ✨
-
-*You might also like [awesome-npm](https://github.com/sindresorhus/awesome-npm).*
-*Please read the [contribution guidelines](contributing.md) before contributing.*
-
-
----
-
-<p align="center"><sup>🦄 Support <a href="https://github.com/sindresorhus">my open-source work</a> by buying this awesome video course:</sup><br><b><a href="https://learnnode.com/friend/AWESOME">Learn to build apps and APIs with Node.js</a> by Wes Bos</b><br><sub>Try his free <a href="https://javascript30.com/friend/AWESOME">JavaScript 30</a> course for a taste of what to expect & check out his <a href="https://ES6.io/friend/AWESOME">ES6</a>, <a href="https://ReactForBeginners.com/friend/AWESOME">React</a>, <a href="https://SublimeTextBook.com/friend/AWESOME">Sublime</a> courses.</sub></p>
-
----
-
-
-<sub>Check out my [blog](https://blog.sindresorhus.com) and say "hi" on [Twitter](https://twitter.com/sindresorhus).</sub>
+<div align="center">
+	<div>
+		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
+	</div>
+	<br>
+	<p>
+		<a href="https://www.patreon.com/sindresorhus">My open source work is supported by the community</a>
+	</p>
+	<p>
+		<sup>Special thanks to:</sup>
+		<br>
+		<a href="https://github.com/wtgtybhertgeghgtwtg">
+			<img src="https://cdn.rawgit.com/sindresorhus/stuff/daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260" alt="wtgtybhertgeghgtwtg">
+		</a>
+	</p>
+	<br>
+	<br>
+	<a href="https://awesome.re">
+		<img src="https://awesome.re/badge.svg" alt="Awesome">
+	</a>
+	<p>
+		<sub>Just type <a href="https://node.cool"><code>node.cool</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	</p>
+	<br>
+</div>
 
 
 ## Contents
@@ -69,6 +74,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [Forum](#forum)
 	- [Blogging](#blogging)
 	- [Weird](#weird)
+	- [Serialization](#serialization)
 	- [Miscellaneous](#miscellaneous)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
@@ -110,6 +116,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [seedshot](https://github.com/twobucks/seedshot) - Temporary P2P screenshot sharing from your browser.
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
 - [skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing engine.
+- [xlsx](https://github.com/sheetjs/js-xlsx) - Pure JS Excel spreadsheet reader and writer.
 
 
 ### Command-line apps
@@ -128,7 +135,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 - [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
 - [ttystudio](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
-- [XO](https://github.com/sindresorhus/xo) - Enforce strict code style using the JavaScript happiness style.
+- [XO](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
@@ -177,6 +184,9 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [lessmd](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
 - [cost-of-modules](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
+- [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
+- [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
+- [themer](https://github.com/mjswensen/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
 
 
 ### Functional programming
@@ -185,13 +195,13 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 - [mori](http://swannodette.github.io/mori/) - Library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 - [Ramda](http://ramdajs.com) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
-- [Folktale](http://folktalejs.org) - Suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
+- [Folktale](http://folktale.origamitower.com) - Suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
 - [underscore-contrib](http://documentcloud.github.io/underscore-contrib/) - The brass buckles on Underscore's utility belt.
 - [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
 - [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
 - [RxJS](http://reactivex.io) - Functional reactive library for transforming, composing, and querying various kinds of data.
 - [Lazy.js](https://github.com/dtao/lazy.js) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
-- [Kefir.js](https://github.com/rpominov/kefir) - Reactive library with focus on high performance and low memory usage.
+- [Kefir.js](https://github.com/kefirjs/kefir) - Reactive library with focus on high performance and low memory usage.
 
 
 ### HTTP
@@ -200,7 +210,6 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [gh-got](https://github.com/sindresorhus/gh-got) - Convenience wrapper for `got` to interact with the GitHub API.
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client (works in the browser too).
 - [request](https://github.com/request/request) - Simplified HTTP request client.
-- [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations library.
 - [spdy](https://github.com/indutny/node-spdy) - Creates SPDY servers with the same API as the built-in `https` module.
 - [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
 - [download](https://github.com/kevva/download) - Download and extract files effortlessly.
@@ -210,6 +219,8 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [node-fetch](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js.
 - [flashheart](https://github.com/bbc/flashheart) - REST client.
 - [http-fake-backend](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
+- [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
+- [gotql](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got](https://github.com/sindresorhus/got).
 
 
 ### Debugging / Profiling
@@ -285,6 +296,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [DraftLog](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
 - [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
 - [gradient-string](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+- [oclif](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 
 
 ### Build tools
@@ -302,6 +314,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Fly](https://github.com/bucaran/fly) - Modern build system based in co-routines, generators and promises.
 - [FuseBox](https://github.com/fuse-box/fuse-box) - Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support.
 - [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable.
+- [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
 
 
 ### Hardware
@@ -314,6 +327,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [onoff](https://github.com/fivdi/onoff) - GPIO access and interrupt detection.
 - [spi-device](https://github.com/fivdi/spi-device) - SPI serial bus access.
 - [pigpio](https://github.com/fivdi/pigpio) - Fast GPIO, PWM, servo control, state change notification, and interrupt handling on the Raspberry Pi.
+- [gps](https://github.com/infusion/GPS.js) - NMEA parser for handling GPS receivers.
 
 
 ### Templating
@@ -347,6 +361,9 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [AdonisJs](http://adonisjs.com) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 - [Hemera](https://github.com/hemerajs/hemera) - Write reliable and fault-tolerant microservices with [NATS](https://nats.io).
 - [Micro](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach.
+- [Moleculer](https://moleculer.services) - Fast & powerful microservices framework.
+- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework.
+- [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 
 
 ### Documentation
@@ -496,6 +513,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [math-sum](https://github.com/sindresorhus/math-sum) - Sum numbers.
 - [math-clamp](https://github.com/sindresorhus/math-clamp) - Clamp a number.
 - [algebra](https://github.com/fibo/algebra) - Algebraic structures.
+- [multimath](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
 
 
 ### Date
@@ -554,6 +572,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [google-libphonenumber](https://github.com/seegno/google-libphonenumber) - Parse, format, store and validate phone numbers.
 - [ref](https://github.com/TooTallNate/ref) - Read/write structured binary data in Buffers.
 - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
+- [Chevrotain](https://github.com/SAP/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
 
 
 ### Humanize
@@ -583,6 +602,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
 - [polo](https://github.com/mafintosh/polo) - Zero-config service discovery.
 - [DHCP](https://github.com/infusion/node-dhcp) - DHCP client and server.
+- [netcat](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
 
 
 ### Database
@@ -608,11 +628,13 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [firenze](https://github.com/fahad19/firenze) - Adapter-based ORM for MySQL, Memory, Redis, localStorage and more.
 	- [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
 	- [Objection.js](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
+	- [TypeORM](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
 - Query builder
 	- [Knex](http://knexjs.org) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 - Other
 	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
 	- [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
+	- [Keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends.
 	- [Finale](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
 
 
@@ -629,7 +651,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [loadtest](https://github.com/alexfernandez/loadtest) - Run load tests for your web application, with an API for automation.
 - [Sinon.JS](https://github.com/sinonjs/sinon) - Test spies, stubs and mocks.
 - [navit](https://github.com/nodeca/navit) - PhantomJS / SlimerJS wrapper to simplify browser test scripting.
-- [nock](https://github.com/pgte/nock) - HTTP mocking and expectations.
+- [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations.
 - [intern](https://github.com/theintern/intern) - Code testing stack.
 - [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy to simulate failure scenarios and network conditions.
 - [hook-std](https://github.com/sindresorhus/hook-std) - Hook and modify stdout/stderr.
@@ -646,7 +668,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [snyk](https://github.com/Snyk/snyk) - CLI and build-time tool to find & fix vulnerable npm dependencies.
 - [nsp](https://github.com/nodesecurity/nsp) - CLI tool to identify known vulnerabilities in your project.
 - [RegEx-DoS](https://github.com/jagracey/RegEx-DoS) - CLI tool to identify possible regex denial of service (ReDos) vulnerabilities in your project.
-- [credential-plus](https://github.com/simonepri/credential-plus) - Password hashing and verification made easy.
+- [upash](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 
 
 ### Benchmarking
@@ -683,11 +705,12 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 ### Job queues
 
-- [kue](https://github.com/Automattic/kue) - Priority job queue backed by Redis.
+- [kue](https://github.com/Automattic/kue) - Redis-backed priority job queue.
 - [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue.
-- [agenda](https://github.com/rschmukler/agenda) - Lightweight job scheduling on MongoDB.
+- [agenda](https://github.com/rschmukler/agenda) - MonoDB-backed job scheduling.
 - [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 - [node-resque](https://github.com/taskrabbit/node-resque) - Redis-backed job queue.
+- [rsmq](https://github.com/smrchy/rsmq) - Redis-backed message queue.
 
 
 ### Node.js management
@@ -754,7 +777,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 ### Content management systems
 
 - [KeystoneJS](http://keystonejs.com) - CMS and web application platform built on Express and MongoDB.
-- [Apostrophe2](http://apostrophenow.org) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
+- [ApostropheCMS](https://apostrophecms.org) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
 
 
 ### Forum
@@ -779,6 +802,13 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - Get some cool ascii faces.
 - [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - ₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”
 - [nerds](https://github.com/SkyHacks/nerds) - Get data from nerdy topics like Harry Potter, Star Wars, and Pokémon.
+
+
+### Serialization
+
+- [snappy](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
+- [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Protocol Buffers.
+- [compactr](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
 
 
 ### Miscellaneous
@@ -871,7 +901,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 ### Books
 
-- [Node.js in Action](http://www.amazon.com/Node-js-Action-Mike-Cantelon/dp/1617290572)
+- [Node.js in Action](https://www.manning.com/books/node-js-in-action-second-edition)
 - [Node.js in Practice](http://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939)
 - [Mastering Node](http://visionmedia.github.io/masteringnode/)
 - [Node.js 8 the Right Way](https://pragprog.com/book/jwnode2/node-js-8-the-right-way)
@@ -922,8 +952,15 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [nodebots](http://nodebots.io) - Robots powered by JavaScript.
 - [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) - Boilerplate to kickstart creating a node module.
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
-- [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
+- [Module Requests & Ideas](https://github.com/sindresorhus/module-requests) - 
+Request a JavaScript module you wish existed or get ideas for modules.
+
+
+## Related lists
+
+- [awesome-npm](https://github.com/sindresorhus/awesome-npm) - Resources and tips for using npm.
+- [awesome-cross-platform-nodejs](https://github.com/bcoe/awesome-cross-platform-nodejs) - Resources for writing and testing cross-platform code.
 
 
 ## License
