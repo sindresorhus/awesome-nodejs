@@ -296,7 +296,7 @@
 - [DraftLog](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
 - [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
 - [gradient-string](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
-
+- [prompts](https://github.com/terkelg/prompts) - Lightweight, beautiful and user-friendly interactive prompts
 
 ### Build tools
 
@@ -541,6 +541,7 @@
 - [property-validator](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
 - [schema-inspector](https://github.com/Atinux/schema-inspector) - JSON API sanitization and validation.
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema validator. Supports v5 proposals.
+- [yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 
 
 ### Parsing
