@@ -616,7 +616,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
 	- [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
 	- [Keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends.
-	- [database-js](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a promise-based syntax and a JDBC-like connection.	
+	- [database-js](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.	
 
 
 ### Testing
