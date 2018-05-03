@@ -635,6 +635,7 @@
 	- [NeDB](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
 	- [Lowdb](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
 	- [Keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends.
+	- [Finale](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
 
 
 ### Testing
