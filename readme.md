@@ -346,7 +346,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
 - [AdonisJs](http://adonisjs.com) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 - [Hemera](https://github.com/hemerajs/hemera) - Write reliable and fault-tolerant microservices with [NATS](https://nats.io).
-- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js.
+- [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework.
 
 
 ### Documentation
