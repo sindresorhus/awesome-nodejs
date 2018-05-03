@@ -8,7 +8,7 @@ Ensure your pull request adheres to the following guidelines:
 
 - **If you just created something, wait at least 30 days before submitting.** This is to give it some time to mature and ensure it's not just a publish-and-forget type of project.
 - Keep in mind that the list is very mature by now, so the bar of getting something accepted is high. Only submit something unique and generally useful. The world (and this list) doesn't need yet another ORM or framework. For CLI tools, the bar is especially high, and unless it's something very awesome, I would suggest submitting to [awesome-cli-apps](https://github.com/aharris88/awesome-cli-apps) instead.
-- If you submit a project that is similar to an existing project in the list, argument how it's better.
+- If you submit a project that is similar to an existing project in the list, argue how it's better.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Suggested packages should be tested and documented.
 - Make an individual pull request for each suggestion.
