@@ -856,6 +856,7 @@
 - [jsdom](https://github.com/tmpvar/jsdom) - JavaScript implementation of HTML and the DOM.
 - [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
+- [telnet-client](https://github.com/mkozjak/node-telnet-client) - A simple telnet client.
 
 
 ## Resources
