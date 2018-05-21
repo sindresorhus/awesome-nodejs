@@ -335,6 +335,7 @@
 - [Moleculer](https://moleculer.services) - Fast & powerful microservices framework.
 - [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework.
 - [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+- [routing-controllers](https://github.com/typestack/routing-controllers) -  Typescript controllers and routing with heavy usage of decorators, REST-ready, validation included, Express.js and Koa.js supported.  
 
 
 ### Documentation
