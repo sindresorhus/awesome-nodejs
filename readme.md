@@ -125,6 +125,7 @@
 - [npm-name](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+- [gitlink-cli](https://github.com/bitbonsai/gitlink-cli) - Open the github|gitlab|bitbucket repo|commit page in default browser
 - [trash](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
 - [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
 - [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
