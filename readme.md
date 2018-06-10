@@ -203,6 +203,7 @@
 - [superagent](https://github.com/visionmedia/superagent) - HTTP request library.
 - [node-fetch](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js.
 - [flashheart](https://github.com/bbc/flashheart) - REST client.
+- [snekfetch](https://github.com/devsnek/snekfetch) - Fast, efficient, and user-friendly HTTP requests.
 - [http-fake-backend](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
 - [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 - [gotql](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got](https://github.com/sindresorhus/got).
