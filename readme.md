@@ -256,7 +256,7 @@
 - [blessed](https://github.com/chjj/blessed) - Curses-like library.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
 - [yn](https://github.com/sindresorhus/yn) - Parse yes/no like values.
-- [cli-table](https://github.com/Automattic/cli-table) - Pretty unicode tables.
+- [cli-table3](https://github.com/cli-table/cli-table3) - Pretty unicode tables.
 - [drawille](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
 - [update-notifier](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app.
 - [ascii-charts](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
