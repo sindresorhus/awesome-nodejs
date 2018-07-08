@@ -370,6 +370,8 @@
 
 ### Control flow
 
+- General
+	- [Flowa](https://github.com/faressoft/flowa) - Service level flow controller, like API services with `promises` or `callbacks`.
 - Promises
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - Promise library with focus on innovative features and performance.
 	- [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
