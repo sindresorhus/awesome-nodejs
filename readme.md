@@ -370,6 +370,7 @@
 
 ### Control flow
 
+- General
 - Promises
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - Promise library with focus on innovative features and performance.
 	- [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
