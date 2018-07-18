@@ -335,6 +335,8 @@
 - [Moleculer](https://moleculer.services) - Fast & powerful microservices framework.
 - [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework.
 - [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+- [Mariner](https://github.com/radenkovic/mariner) - Mariner is a framework agnostic library that contains independent modules for building web apps in Node.js.
+- [SailsJS](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js.
 
 
 ### Documentation
