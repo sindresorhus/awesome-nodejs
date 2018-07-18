@@ -130,6 +130,7 @@
 - [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files.
+- [gass](https://github.com/tacnoman/gass) - Search css query and find the line in scss files.
 - [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts.
 - [empty-trash](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 - [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
