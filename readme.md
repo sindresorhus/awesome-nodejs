@@ -335,7 +335,7 @@
 - [Moleculer](https://moleculer.services) - Fast & powerful microservices framework.
 - [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework.
 - [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
-
+- [Soda](https://github.com/solid-soda/create-soda-app) - Creator for reliable projects powered by Express and other awesome packages.
 
 ### Documentation
 
