@@ -210,6 +210,7 @@
 
 ### Debugging / Profiling
 
+- [ndb](https://github.com/GoogleChromeLabs/ndb) - Improved debugging experience, enabled by Chrome DevTools.
 - [ironNode](https://github.com/s-a/iron-node) - Node.js debugger supporting ES2015 out of the box.
 - [node-inspector](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
 - [debug](https://github.com/visionmedia/debug) - Tiny debugging utility.
