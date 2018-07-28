@@ -176,6 +176,7 @@
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 - [themer](https://github.com/mjswensen/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
+- [lcommit](https://github.com/yasaricli/lcommit) - Commit to the git location.
 
 
 ### Functional programming
