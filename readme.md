@@ -176,6 +176,7 @@
 - [svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG.
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 - [themer](https://github.com/mjswensen/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
 
 
 ### Functional programming
