@@ -9,8 +9,14 @@
 	<p>
 		<sup>Special thanks to:</sup>
 		<br>
+		<br>
 		<a href="https://github.com/wtgtybhertgeghgtwtg">
-			<img src="https://cdn.rawgit.com/sindresorhus/stuff/daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260" alt="wtgtybhertgeghgtwtg">
+			<img src="https://cdn.rawgit.com/sindresorhus/stuff/daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260"  alt="wtgtybhertgeghgtwtg">
+		</a>
+		<br>
+		<br>
+		<a href="https://github.com/botpress/botpress">
+			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="240" alt="Botpress">
 		</a>
 	</p>
 	<br>
