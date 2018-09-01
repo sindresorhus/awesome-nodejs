@@ -183,6 +183,7 @@
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 - [themer](https://github.com/mjswensen/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
+- [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 
 
 ### Functional programming
