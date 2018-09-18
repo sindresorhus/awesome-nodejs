@@ -88,7 +88,6 @@
 	- [Articles](#articles)
 	- [Newsletters](#newsletters)
 	- [Videos](#videos)
-	- [Podcasts](#podcasts)
 	- [Books](#books)
 	- [Blogs](#blogs)
 	- [Courses](#courses)
