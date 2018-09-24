@@ -848,6 +848,8 @@
 - [Pro Express.js](http://proexpressjs.com)
 - [Secure Your Node.js Web Application](http://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856)
 - [Express in Action](https://www.manning.com/books/express-in-action)
+- [Practical Modern JavaScript](https://amzn.to/2DtkjTE)
+- [Mastering Modular JavaScript](https://amzn.to/2DsvlZb)
 
 ### Blogs
 
