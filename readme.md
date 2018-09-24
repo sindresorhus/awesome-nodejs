@@ -804,7 +804,7 @@
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
 - [The Node Way](http://thenodeway.io) - An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
-
+- [The Modern JavaScript Tutorial](https://javascript.info) - A complete and modern Javascript course, from beginner to advance.
 
 ### Discovery
 
@@ -848,6 +848,7 @@
 - [Pro Express.js](http://proexpressjs.com)
 - [Secure Your Node.js Web Application](http://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856)
 - [Express in Action](https://www.manning.com/books/express-in-action)
+- [Eloquent Javascript](https://eloquentjavascript.net/)
 
 ### Blogs
 
