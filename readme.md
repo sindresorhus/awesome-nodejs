@@ -284,6 +284,7 @@
 - [gradient-string](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 - [oclif](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 - [term-size](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
+- [magicli](https://github.com/DiegoZoracKy/magicli) - Automagically generates command-line interfaces for any module, or, execute any module via CLI.
 
 
 ### Build tools
