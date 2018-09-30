@@ -148,6 +148,7 @@
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 - [http-server](https://github.com/indexzero/http-server) - Simple, zero-config command-line HTTP server.
 - [Live Server](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
+- [Solid Server](https://github.com/solid/node-solid-server) - Lets you run a Solid server on top of the file-system.
 - [bcat](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 - [normit](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 - [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
