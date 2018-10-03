@@ -342,6 +342,7 @@
 - [Moleculer](https://moleculer.services) - Fast & powerful microservices framework.
 - [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework.
 - [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
+- [Fabrix](https://github.com/fabrix-app/fabrix) - A strongly typed modern web application framework built on the pedigree of Rails and Grails to accelerate development by adhering to a straightforward, convention-based, API-driven design philosophy.
 
 
 ### Documentation
