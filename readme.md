@@ -228,6 +228,7 @@
 - [0x](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
 - [ctrace](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
 - [leakage](https://github.com/andywer/leakage) - Write memory leak tests.
+- [purdy](https://github.com/danielb2/purdy.js) - Pretty printing objects (a better console.log) to see what's going on.
 
 
 ### Logging
