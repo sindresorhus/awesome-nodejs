@@ -139,6 +139,7 @@
 - [empty-trash](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 - [is-up](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
 - [is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
+- [net-check-win10](https://github.com/Syed-Umair/net-check-win10) - Native Internet access check for Windows 10.
 - [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 - [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
 - [XO](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
