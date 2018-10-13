@@ -656,6 +656,7 @@
 ### Authorization
 
 - [CASL](https://github.com/stalniy/casl) - Isomorphic authorization for UI and API.
+- [node-casbin](https://github.com/casbin/node-casbin) - Authorization library that supports access control models like ACL, RBAC and ABAC.
 
 
 ### Email
