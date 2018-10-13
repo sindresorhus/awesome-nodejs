@@ -599,6 +599,7 @@
 	- [Keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends.
 	- [Finale](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
 	- [database-js](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
+	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
 
 
 ### Testing
