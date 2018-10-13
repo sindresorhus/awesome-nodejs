@@ -182,6 +182,7 @@
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 - [themer](https://github.com/mjswensen/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
+- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
 
 
 ### Functional programming
