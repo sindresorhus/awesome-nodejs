@@ -648,7 +648,7 @@
 - [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication.
 - [Grant](https://github.com/simov/grant) - OAuth middleware for Express, Koa, and Hapi.
 - [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk) - Unified API for social authentication (Facebook, Twitter, Slack, Instagram, …).
-
+- [Twofa](https://github.com/paulovitin/twofa) - Two Factor Authentication Generator for CLI
 
 ### Authorization
 
