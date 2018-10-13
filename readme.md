@@ -260,7 +260,6 @@
 - [string-width](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
 - [first-run](https://github.com/sindresorhus/first-run) - Check if it's the first time the process is run.
-- [vorpal](https://github.com/dthree/vorpal) - Interactive CLI apps.
 - [blessed](https://github.com/chjj/blessed) - Curses-like library.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
 - [yn](https://github.com/sindresorhus/yn) - Parse yes/no like values.
@@ -285,6 +284,7 @@
 - [gradient-string](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 - [oclif](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 - [term-size](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
+- [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 
 
 ### Build tools
