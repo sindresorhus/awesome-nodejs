@@ -183,6 +183,7 @@
 - [themer](https://github.com/mjswensen/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
+- [taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat.
 
 
 ### Functional programming
