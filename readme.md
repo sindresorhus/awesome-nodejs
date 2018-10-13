@@ -563,7 +563,7 @@
 - [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
 - [DHCP](https://github.com/infusion/node-dhcp) - DHCP client and server.
 - [netcat](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
-
+- [stick](https://github.com/lvgithub/stick) - The solution of sticky package problem of TCP for Node.Js.
 
 ### Database
 
