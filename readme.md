@@ -82,6 +82,7 @@
 	- [Weird](#weird)
 	- [Serialization](#serialization)
 	- [Miscellaneous](#miscellaneous)
+	- [InAppPurchase](#inapppurchase)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
 	- [Discovery](#discovery)
@@ -802,6 +803,8 @@
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
 - [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
 
+### InAppPurchase
+- [node-apple-receipt-verify](https://github.com/ladeiko/node-apple-receipt-verify) - Module for Apple In-App-Purchase receipt validation for iOS
 
 ## Resources
 
