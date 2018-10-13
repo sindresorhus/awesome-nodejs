@@ -878,6 +878,7 @@
 - [RunKit](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - Embed a Node.js environment on any website.
 - [RequireBin](http://requirebin.com) - Shareable JavaScript programs powered by npm and browserify.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - Chrome extension that displays npm download stats on GitHub.
+- [nodebootstrap](http://nodebootstrap.io) - Powerful Node.js + Express project scaffolding that is unobtrusive
 
 ### Community
 
