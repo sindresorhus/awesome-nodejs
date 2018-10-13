@@ -183,7 +183,7 @@
 - [gtop](https://github.com/aksakalli/gtop) - System monitoring dashboard for the terminal.
 - [themer](https://github.com/mjswensen/themer) - Generate themes for your editor, terminal, wallpaper, Slack, and more.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - Beautiful images of your code — from right inside your terminal.
-- [Discharge](https://github.com/brandonweiss/discharge) - Simple, easy way to deploy static websites to Amazon S3.
+- [Discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 
 
 ### Functional programming
