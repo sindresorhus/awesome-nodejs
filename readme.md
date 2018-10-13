@@ -800,6 +800,7 @@
 - [hypernova](https://github.com/airbnb/hypernova) - Server-side rendering your JavaScript views.
 - [@sindresorhus/is](https://github.com/sindresorhus/is) - Type check values.
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
+- [telnet-client](https://github.com/mkozjak/node-telnet-client) - A simple telnet client.
 - [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
 
 
