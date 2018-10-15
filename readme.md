@@ -716,7 +716,7 @@
 - [KeystoneJS](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
 - [Strapi](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
-- [Tipe](https://tipe.io) - Developer-first content management system built with Node.js giving users a GraphQL and REST API.
+- [Tipe](https://github.com/tipeio/tipe) - Developer-first content management system built with Node.js giving users a GraphQL and REST API from a Schema file.
 
 ### Forum
 
