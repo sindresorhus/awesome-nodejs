@@ -435,6 +435,7 @@
 - [Kalm](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 - [rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
+- [Aedes](https://github.com/mcollina/aedes) - Barebone MQTT server that can run on any stream server.
 
 
 ### Image
