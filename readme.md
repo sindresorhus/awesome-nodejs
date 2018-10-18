@@ -803,6 +803,7 @@
 - [@sindresorhus/is](https://github.com/sindresorhus/is) - Type check values.
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
 - [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
+- [json-rules-engine](https://github.com/CacheControl/json-rules-engine) - A rules engine expressed in JSON.
 
 
 ## Resources
