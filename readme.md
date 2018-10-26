@@ -765,6 +765,7 @@
 - [snappy](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
 - [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Protocol Buffers.
 - [compactr](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
+- [jsonapi-serializer](https://github.com/seyz/jsonapi-serializer.js) - Framework agnostic library for (de)serializing JSON API data.
 
 
 ### Miscellaneous
