@@ -323,6 +323,7 @@
 - [handlebars.js](https://github.com/wycats/handlebars.js) - Superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
 - [EJS](https://github.com/mde/ejs) - Simple unopinionated templating language.
 - [Pug](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
+- [Squirrelly](https://github.com/nebrelbug/squirrelly) - Blazing fast and lightweight template engine that supports partials, helpers, custom tags, and isn't whitespace sensitive.
 
 
 ### Web frameworks
