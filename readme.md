@@ -105,7 +105,7 @@
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 - [dat](http://dat-data.com) - Real-time replication and versioning for data sets.
 - [ipfs](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
-- [stackgl](http://stack.gl) - Open software ecosystem for WebGL, built on top of browserify and npm.
+- [stackgl](https://stackgl.github.io) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 - [peercast](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - Clean, readable, proven Bitcoin library.
