@@ -466,7 +466,7 @@
 - [matcher](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 - [i18next](https://github.com/i18next/i18next) - Internationalization framework.
-- [randexp.js](http://fent.github.io/randexp.js) - Create random strings that match a given regular expression.
+- [randexp.js](https://github.com/fent/randexp.js) - Create random strings that match a given regular expression.
 
 
 ### Number
