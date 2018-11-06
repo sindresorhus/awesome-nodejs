@@ -288,6 +288,7 @@
 - [oclif](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 - [term-size](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
 - [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+- [sade](https://github.com/lukeed/sade) - Smooth (CLI) Operator 🎶, small but powerful tool for building command-line interface (CLI) applications for Node.js.
 
 
 ### Build tools
