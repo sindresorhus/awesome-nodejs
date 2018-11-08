@@ -379,6 +379,7 @@
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 - [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
+- [move-file](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 
 
 ### Control flow
@@ -588,7 +589,7 @@
 	- [Massive](https://github.com/robconery/massive-js) - PostgreSQL data access tool.
 	- [Mongoose](https://github.com/Automattic/mongoose) - Elegant MongoDB object modeling.
 	- [Waterline](https://github.com/balderdashy/waterline) - Datastore-agnostic tool that dramatically simplifies interaction with one or more databases.
-	- [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.	
+	- [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
 	- [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
 	- [Objection.js](https://github.com/Vincit/objection.js) - Lightweight ORM built on the SQL query builder Knex.
 	- [TypeORM](https://github.com/typeorm/typeorm) - ORM for PostgreSQL, MariaDB, MySQL, SQLite, and more.
