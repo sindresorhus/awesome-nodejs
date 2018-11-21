@@ -634,6 +634,7 @@
 - [snyk](https://github.com/Snyk/snyk) - CLI and build-time tool to find & fix vulnerable npm dependencies.
 - [upash](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 - [themis](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
+- [zaproxy](https://github.com/zaproxy/zap-api-nodejs) - OWASP ZAP API: Established and officially maintained API for consuming ZAP, useful for security regression testing.
 
 
 ### Benchmarking
