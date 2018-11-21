@@ -627,7 +627,7 @@
 - [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing.
 - [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
-- [mocksse](https://github.com/binarymist/mocksse) - Unit test Server-Sent Events (AKA EventSource).
+- [mocksse](https://github.com/binarymist/mocksse) - Mock out Server-Sent Events (AKA EventSource) in unit tests.
 
 
 ### Security
