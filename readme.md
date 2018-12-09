@@ -844,7 +844,7 @@
 ### Videos
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
-- [Hands on with Node.js](https://learn.bevry.me/node/preface)
+- [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
 - [Nodetuts](http://nodetuts.com) - Series of talks, including TCP & HTTP API servers, async programming, and more.
 
 ### Books
@@ -915,4 +915,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Sindre Sorhus](https://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
