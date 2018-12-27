@@ -862,6 +862,7 @@
 - [Express in Action](https://www.manning.com/books/express-in-action)
 - [Practical Modern JavaScript](https://www.amazon.com/Practical-Modern-JavaScript-Dive-Future/dp/149194353X)
 - [Mastering Modular JavaScript](https://www.amazon.com/Mastering-Modular-JavaScript-Nicolas-Bevacqua/dp/1491955686/)
+- [Node.js • Apprendre par la pratique](https://www.amazon.fr/dp/2212139934/) (in French)
 
 ### Blogs
 
