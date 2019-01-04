@@ -33,6 +33,7 @@
 
 ## Contents
 
+- [Contents](#contents)
 - [Packages](#packages)
 	- [Mad science](#mad-science)
 	- [Command-line apps](#command-line-apps)
@@ -94,7 +95,9 @@
 	- [Cheatsheets](#cheatsheets)
 	- [Tools](#tools)
 	- [Community](#community)
-	- [Miscellaneous](#miscellaneous)
+	- [Miscellaneous](#miscellaneous-1)
+- [Related lists](#related-lists)
+- [License](#license)
 
 
 ## Packages
@@ -302,6 +305,7 @@
 - [ygor](https://github.com/shannonmoeller/ygor) - Promising task runner for when `npm run` isn't enough and everything else is too much.
 - [FuseBox](https://github.com/fuse-box/fuse-box) - Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support.
 - [pkg](https://github.com/zeit/pkg) - Package your Node.js project into an executable.
+- [foy](https://github.com/zaaack/foy) - A simple, light-weight and modern task runner / build tool for general purpose, with first-class TypeScript support.
 
 
 ### Hardware
