@@ -185,7 +185,7 @@
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
 - [taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
-
+- [release-it](https://github.com/webpro/release-it) - Automate releases for Git repositories and/or npm packages. Changelog generation, GitHub/GitLab releases, etc.
 
 ### Functional programming
 
