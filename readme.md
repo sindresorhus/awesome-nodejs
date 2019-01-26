@@ -805,6 +805,7 @@
 - [@sindresorhus/is](https://github.com/sindresorhus/is) - Type check values.
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
 - [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
+- [opencvjs](https://github.com/peterbraden/node-opencv) - Native JavaScript OpenCV.
 
 
 ## Resources
