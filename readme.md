@@ -33,6 +33,7 @@
 
 ## Contents
 
+- [Contents](#contents)
 - [Packages](#packages)
 	- [Mad science](#mad-science)
 	- [Command-line apps](#command-line-apps)
@@ -94,7 +95,9 @@
 	- [Cheatsheets](#cheatsheets)
 	- [Tools](#tools)
 	- [Community](#community)
-	- [Miscellaneous](#miscellaneous)
+	- [Miscellaneous](#miscellaneous-1)
+- [Related lists](#related-lists)
+- [License](#license)
 
 
 ## Packages
@@ -635,6 +638,7 @@
 - [upash](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 - [themis](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 - [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
+- [FunctionShield](https://www.puresec.io/function-shield) - A free serverless security protection library for AWS Lambda and Google Cloud Functions.
 
 
 ### Benchmarking
