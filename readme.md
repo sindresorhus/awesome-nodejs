@@ -847,6 +847,7 @@
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
 - [Nodetuts](http://nodetuts.com) - Series of talks, including TCP & HTTP API servers, async programming, and more.
+- [CI/CD Pipeline with Node.js and GitHub Actions](https://dtr.ee/2DURIVu) - Building a dev pipeline using GitHub Actions, Node.js, and AWS ECS Fargate.
 
 ### Books
 
