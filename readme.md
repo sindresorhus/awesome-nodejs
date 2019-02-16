@@ -114,6 +114,7 @@
 - [turf](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 - [webcat](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 - [NodeOS](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
+- [YodaOS](https://github.com/yodaos-project/yodaos) - AI operating system.
 - [Brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework.
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
 - [Kadence](https://kadence.github.io/) - Kademlia distributed hash table.
