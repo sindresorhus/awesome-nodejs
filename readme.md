@@ -806,6 +806,7 @@
 - [@sindresorhus/is](https://github.com/sindresorhus/is) - Type check values.
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
 - [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
+- [basic-ftp](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
 
 
 ## Resources
