@@ -294,7 +294,6 @@
 ### Build tools
 
 - [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
-- [webpack](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
 - [gulp](http://gulpjs.com) - Streaming and fast build system that favors code over config.
 - [Broccoli](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
