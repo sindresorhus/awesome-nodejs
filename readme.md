@@ -242,6 +242,7 @@
 - [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 - [storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 - [signale](https://github.com/klauscfhq/signale) - Hackable console logger with beautiful output.
+- [Morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware.
 
 
 ### Command-line utilities
