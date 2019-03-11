@@ -186,6 +186,7 @@
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
 - [taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+- [node-changes](https://github.com/vladimirdev93/noder) - Get the Node.js changelog in your terminal.
 
 
 ### Functional programming
