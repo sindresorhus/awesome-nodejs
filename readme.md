@@ -820,6 +820,7 @@
 - [The Node Way](http://thenodeway.io) - An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
+- [A Guide to Node.js E-Commerce](https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial) - A guide to using Node.js to build an online store with a KOA.js tutorial. 
 
 ### Discovery
 
