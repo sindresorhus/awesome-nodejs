@@ -694,11 +694,11 @@
 
 ### Natural language processing
 
-- [nlp.js aka node-nlp](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more.
 - [retext](https://github.com/wooorm/retext) - An extensible natural language system.
 - [franc](https://github.com/wooorm/franc) - Detect the language of text.
 - [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [natural](https://github.com/NaturalNode/natural) - Natural language facility.
+- [nlp.js aka node-nlp](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more.
 
 
 ### Process management
