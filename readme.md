@@ -242,6 +242,7 @@
 - [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 - [storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 - [signale](https://github.com/klauscfhq/signale) - Hackable console logger with beautiful output.
+- [morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 
 
 ### Command-line utilities
@@ -357,6 +358,7 @@
 - [ESDoc](https://github.com/esdoc/esdoc) - Documentation generator targeting ES2015, attaching test code and measuring documentation coverage.
 - [Docco](http://jashkenas.github.io/docco/) - Documentation generator which produces an HTML document that displays your comments intermingled with your code.
 - [JSDoc](http://usejsdoc.org) - API documentation generator similar to JavaDoc or PHPDoc.
+- [apiDoc](https://github.com/apidoc/apidoc) - Creates a documentation from API annotations in your source code.
 
 
 ### Filesystem
