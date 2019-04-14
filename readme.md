@@ -686,7 +686,7 @@
 
 ### Node.js management
 
-- [n](https://github.com/tj/n) - Node.js version management.
+- [n](https://github.com/tj/n) / [nvm](https://github.com/creationix/nvm) - Node.js version management.
 - [nave](https://github.com/isaacs/nave) - Virtual Environments for Node.js.
 - [nodeenv](https://github.com/ekalinin/nodeenv) - Node.js virtual environment compatible to Python's virtualenv.
 - [nvm for Windows](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
