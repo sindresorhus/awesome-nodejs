@@ -381,6 +381,7 @@
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 - [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 - [move-file](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
+- [fs-mktemp](https://github.com/honzahommer/node-fs-mktemp) - Create temporary file or directory, like `mktemp`.
 
 
 ### Control flow
