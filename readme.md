@@ -492,6 +492,7 @@
 - [Luxon](https://github.com/moment/luxon) - Library for working with dates and times.
 - [date-fns](https://github.com/date-fns/date-fns) - Modern date utility.
 - [Moment.js](http://momentjs.com) - Parse, validate, manipulate, and display dates.
+- [Day.js](https://github.com/iamkun/dayjs) - Minimalist library that parses, validates, manipulates, and displays dates and times.
 - [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
 - [tz-format](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 - [cctz](https://github.com/floatdrop/node-cctz) - Fast parsing, formatting, and timezone conversation for dates.
