@@ -889,6 +889,7 @@
 - [RunKit](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - Embed a Node.js environment on any website.
 - [RequireBin](http://requirebin.com) - Shareable JavaScript programs powered by npm and browserify.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - Chrome extension that displays npm download stats on GitHub.
+- [npm semver calculator](https://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 
 ### Community
 
