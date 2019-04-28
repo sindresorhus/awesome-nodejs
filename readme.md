@@ -636,6 +636,7 @@
 - [upash](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 - [themis](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 - [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
+- [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 
 
 ### Benchmarking
