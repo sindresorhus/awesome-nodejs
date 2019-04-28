@@ -720,6 +720,7 @@
 
 - [Acorn](https://github.com/ternjs/acorn) - Tiny, fast JavaScript parser.
 - [babel-parser](https://github.com/babel/babel/tree/master/packages/babel-parser) - JavaScript parser used in Babel.
+- [cherow](https://github.com/cherow/cherow) - JavaScript parser with focus on performance and stability.
 
 
 ### Static site generators
