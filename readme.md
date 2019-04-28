@@ -884,6 +884,7 @@
 
 - [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4)
 - [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
+- [Strong Node.js](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
 
 ### Tools
 
