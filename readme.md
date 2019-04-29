@@ -685,6 +685,7 @@
 - [node-resque](https://github.com/taskrabbit/node-resque) - Redis-backed job queue.
 - [rsmq](https://github.com/smrchy/rsmq) - Redis-backed message queue.
 - [bee-queue](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
+- [RedisSMQ](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
 
 
 ### Node.js management
