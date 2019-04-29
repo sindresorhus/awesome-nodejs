@@ -128,7 +128,7 @@
 ### Command-line apps
 
 - [np](https://github.com/sindresorhus/np) - Better `npm publish`.
-- [npm-name](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
+- [npm-name](https://github.com/sindresorhus/npm-name) - Check a package name's availability on npm.
 - [gh-home](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
 - [npm-home](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 - [trash](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
