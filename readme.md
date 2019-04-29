@@ -895,8 +895,7 @@
 - [Reddit](https://www.reddit.com/r/node)
 - [Twitter](https://twitter.com/nodejs)
 - [Hashnode](https://hashnode.com/n/nodejs)
-- [NodeJS Discord](https://discord.gg/96WGtJt) - The 🔮 Magic NodeJS Discord Server
-
+- [Discord](https://discordapp.com/invite/96WGtJt)
 
 ### Miscellaneous
 
