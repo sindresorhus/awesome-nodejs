@@ -909,6 +909,7 @@
 - [Reddit](https://www.reddit.com/r/node)
 - [Twitter](https://twitter.com/nodejs)
 - [Hashnode](https://hashnode.com/n/nodejs)
+- [Discord](https://discordapp.com/invite/96WGtJt)
 
 ### Miscellaneous
 
