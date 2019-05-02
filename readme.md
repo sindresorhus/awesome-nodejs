@@ -630,7 +630,7 @@
 - [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing.
 - [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
-- [codeceptjs](https://github.com/Codeception/CodeceptJS) - Effective End 2 End Testing for NodeJS
+- [codeceptjs](https://github.com/Codeception/CodeceptJS) - Effective End 2 End Testing.
 
 
 ### Security
