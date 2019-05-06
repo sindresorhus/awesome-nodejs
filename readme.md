@@ -186,6 +186,7 @@
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
 - [taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
+- [swagit](https://github.com/jigsawye/swagit) - No more typo when using git checkout.
 
 
 ### Functional programming
