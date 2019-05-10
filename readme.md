@@ -682,7 +682,7 @@
 - [node-resque](https://github.com/taskrabbit/node-resque) - Redis-backed job queue.
 - [rsmq](https://github.com/smrchy/rsmq) - Redis-backed message queue.
 - [bee-queue](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
-- [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build SQS-based Node.js applications without the boilerplate.
+- [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based applications without the boilerplate.
 
 
 ### Node.js management
