@@ -382,6 +382,7 @@
 - [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 - [move-file](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 - [tempy](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+- [shutil.js](https://github.com/moriyalb/shutil.js) - A Lightweight File Operating Library.
 
 
 ### Control flow
