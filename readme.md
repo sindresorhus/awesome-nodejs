@@ -912,6 +912,7 @@
 - [Twitter](https://twitter.com/nodejs)
 - [Hashnode](https://hashnode.com/n/nodejs)
 - [Discord](https://discordapp.com/invite/96WGtJt)
+- [Bookmarks.dev](https://www.bookmarks.dev/tagged/nodejs)
 
 ### Miscellaneous
 
