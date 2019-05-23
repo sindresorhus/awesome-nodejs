@@ -3,26 +3,10 @@
 		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
 	</div>
 	<br>
-	<p>
-		<a href="https://www.patreon.com/sindresorhus">My open source work is supported by the community</a>
-	</p>
-	<p>
-		<sup>Special thanks to:</sup>
-		<br>
-		<br>
-		<a href="https://github.com/wtgtybhertgeghgtwtg">
-			<img src="https://cdn.jsdelivr.net/gh/sindresorhus/stuff@daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260"  alt="wtgtybhertgeghgtwtg">
-		</a>
-		<br>
-		<br>
-		<a href="https://github.com/botpress/botpress">
-			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="240" alt="Botpress">
-		</a>
-	</p>
 	<br>
 	<br>
 	<a href="https://awesome.re">
-		<img src="https://awesome.re/badge.svg" alt="Awesome">
+		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
 	<p>
 		<sub>Just type <a href="https://node.cool"><code>node.cool</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
