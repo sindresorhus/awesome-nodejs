@@ -672,6 +672,7 @@
 - [rsmq](https://github.com/smrchy/rsmq) - Redis-backed message queue.
 - [bee-queue](https://github.com/bee-queue/bee-queue) - High-performance Redis-backed job queue.
 - [RedisSMQ](https://github.com/weyoss/redis-smq) - Simple high-performance Redis message queue with real-time monitoring.
+- [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
 
 
 ### Node.js management
