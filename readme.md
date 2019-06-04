@@ -815,6 +815,7 @@
 - [The Node Way](http://thenodeway.io) - An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
+- [Bulletproof node.js project architecture ](https://softwareontheroad.com/ideal-nodejs-project-structure/) - How to structure your node.js project to get it ready for scalability.
 
 ### Discovery
 
@@ -833,6 +834,7 @@
 - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
 - [Art of README](https://github.com/noffle/art-of-readme) - Learn the art of writing quality READMEs.
+- [You don't need passport.js](https://softwareontheroad.com/nodejs-jwt-authentication-oauth/) - In deep guide to rolling out your own authentication service.
 
 ### Newsletters
 
@@ -867,6 +869,7 @@
 
 - [Node.js blog](https://nodejs.org/en/blog/)
 - [webapplog.com](http://webapplog.com/tag/node-js/) - Blog posts on Node.js and JavaScript from the author of Practical Node.js and Pro Express.js Azat Mardan.
+- [softwareontheroad.com](https://softwareontheroad.com/) - In deep guide to advance topics on Node.js such as authentication, scalability, design patterns, and more...
 
 ### Courses
 
