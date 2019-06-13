@@ -461,7 +461,7 @@
 - [random-float](https://github.com/sindresorhus/random-float) - Generate a random float.
 - [unique-random](https://github.com/sindresorhus/unique-random) - Generate random numbers that are consecutively unique.
 - [round-to](https://github.com/sindresorhus/round-to) - Round a number to a specific number of decimal places: `1.234` → `1.2`.
-
+- [ziffer](https://github.com/dresende/node-ziffer) - Format and extract a number in any representation
 
 ### Math
 
