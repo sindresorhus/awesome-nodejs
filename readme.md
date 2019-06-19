@@ -832,6 +832,7 @@
 - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
 - [Art of README](https://github.com/noffle/art-of-readme) - Learn the art of writing quality READMEs.
+- [Using Express to Quickly Build a GraphQL Server](https://snipcart.com/blog/graphql-nodejs-express-tutorial)
 
 ### Newsletters
 
