@@ -501,6 +501,7 @@
 - [property-validator](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
 - [schema-inspector](https://github.com/Atinux/schema-inspector) - JSON API sanitization and validation.
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema validator. Supports v5 proposals.
+- [podengjs](https://github.com/slaveofcode/podeng) - Advanced JSON value parser & validator to have consistent result data 
 
 
 ### Parsing
@@ -529,6 +530,8 @@
 - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
 - [Chevrotain](https://github.com/SAP/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
 - [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
+- [jkt](https://github.com/slaveofcode/jkt) - Handy JSON value parser object via text literal
+- [podengjs](https://github.com/slaveofcode/podeng) - Advanced JSON value parser & validator to have consistent result data 
 
 
 ### Humanize
