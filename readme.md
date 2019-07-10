@@ -65,6 +65,7 @@
 	- [Blogging](#blogging)
 	- [Weird](#weird)
 	- [Serialization](#serialization)
+	- [Financial](#financial)
 	- [Miscellaneous](#miscellaneous)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
@@ -765,6 +766,11 @@
 - [snappy](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
 - [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Protocol Buffers.
 - [compactr](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
+
+
+### Financial
+
+- [square-sdk](https://github.com/square/connect-nodejs-sdk/) - SDK for payments and other Square APIs.
 
 
 ### Miscellaneous
