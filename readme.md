@@ -547,6 +547,7 @@
 
 - [yazl](https://github.com/thejoshwolfe/yazl) - Zip.
 - [yauzl](https://github.com/thejoshwolfe/yauzl) - Unzip.
+- [gzipper](https://github.com/gios/gzipper) - CLI for compressing files.
 - [Archiver](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
 - [pako](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
 - [tar-stream](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs](https://github.com/mafintosh/tar-fs).
