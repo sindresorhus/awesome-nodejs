@@ -663,6 +663,7 @@
 - [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
 - [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
 - [email-templates](https://github.com/niftylettuce/email-templates) - Create, preview, and send custom email templates.
+- [mjml](https://github.com/mjmlio/mjml) - A framework that makes responsive-email easy.
 
 
 ### Job queues
