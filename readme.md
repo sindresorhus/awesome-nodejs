@@ -3,6 +3,19 @@
 		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
 	</div>
 	<br>
+	<p>
+		<sup>Special thanks to:</sup>
+		<br>
+		<br>
+		<a href="https://segment.com">
+			<img src="media/segment-logo.svg" width="160" alt="Segment">
+		</a>
+	</p>
+	<p>
+		<sup>
+			Save time setting up analytics with Segment. <a href="https://segment.com/jobs">We're hiring!</a>
+		</sup>
+	</p>
 	<br>
 	<br>
 	<a href="https://awesome.re">
