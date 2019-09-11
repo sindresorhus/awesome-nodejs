@@ -663,6 +663,7 @@
 - [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication.
 - [Grant](https://github.com/simov/grant) - OAuth middleware for Express, Koa, and Hapi.
 - [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk) - Unified API for social authentication (Facebook, Twitter, Slack, Instagram, …).
+- [Authing](https://github.com/authing/authing.js) - A universal authentication & authorization platform for web, mobile and legacy applications.
 
 
 ### Authorization
