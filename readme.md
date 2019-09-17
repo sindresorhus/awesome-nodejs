@@ -120,6 +120,7 @@
 - [skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing engine.
 - [xlsx](https://github.com/sheetjs/js-xlsx) - Pure JS Excel spreadsheet reader and writer.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
+- [nanoid](https://github.com/ai/nanoid) - A tiny, secure, URL-friendly, unique string ID generator.
 
 
 ### Command-line apps
