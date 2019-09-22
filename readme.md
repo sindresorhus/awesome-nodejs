@@ -641,6 +641,7 @@
 - [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
+- [jose-simple](https://github.com/davesag/jose-simple) — Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
 
 
 ### Benchmarking
