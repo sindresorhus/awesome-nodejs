@@ -632,6 +632,7 @@
 - [TestCafe](https://github.com/DevExpress/testcafe) - Automated browser testing.
 - [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - End-to-end testing.
+- [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome.
 
 
 ### Security
