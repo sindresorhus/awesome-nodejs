@@ -588,6 +588,7 @@
 	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
 	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase client.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) - MongoDB driver.
+	- [NeDB](https://github.com/louischatriot/nedb/) - Lightweight, self-contained database that uses MongoDB's syntax.
 - ODM / ORM
 	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
 	- [Bookshelf](https://github.com/bookshelf/bookshelf) - ORM for PostgreSQL, MySQL and SQLite3 in the style of Backbone.js.
