@@ -215,7 +215,7 @@
 - [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 - [gotql](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got](https://github.com/sindresorhus/got).
 - [global-agent](https://github.com/gajus/global-agent) – Global HTTP/HTTPS proxy agent that is configurable using environment variables.
-
+- [request-promise](https://www.npmjs.com/package/request-promise) – Simplified HTTP request client 'request' with Promise support. Powered by Bluebird.
 
 ### Debugging / Profiling
 
