@@ -441,6 +441,7 @@
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 - [rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 - [Aedes](https://github.com/mcollina/aedes) - Barebone MQTT server that can run on any stream server.
+- [ws](https://github.com/websockets/ws) - Simple to use, blazing fast, and thoroughly tested WebSocket client and server implementation.
 
 
 ### Image
