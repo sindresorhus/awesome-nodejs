@@ -609,6 +609,7 @@
 	- [Finale](https://github.com/tommybananas/finale) - RESTful endpoint generator for your Sequelize models.
 	- [database-js](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
+	- [Endb](https://github.com/chroventer/endb) - Simple key-value database with multi adapter support.
 
 
 ### Testing
