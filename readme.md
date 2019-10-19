@@ -480,6 +480,7 @@
 - [random-float](https://github.com/sindresorhus/random-float) - Generate a random float.
 - [unique-random](https://github.com/sindresorhus/unique-random) - Generate random numbers that are consecutively unique.
 - [round-to](https://github.com/sindresorhus/round-to) - Round a number to a specific number of decimal places: `1.234` → `1.2`.
+- [big.js](https://github.com/MikeMcl/big.js/) - A small, fast JavaScript library for arbitrary-precision decimal arithmetic.
 
 
 ### Math
