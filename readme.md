@@ -20,6 +20,8 @@
 	<br>
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+	</a> <a href="https://app.releasly.co/sites/sindresorhus/awesome-nodejs?utm_source=github_badge&utm_campaign=awesome-nodejs">
+		<img src="https://app.releasly.co/assets/badges/badge-awesome-blue.svg" alt="Subscribe to new links">
 	</a>
 	<p>
 		<sub>Just type <a href="https://node.cool"><code>node.cool</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
