@@ -665,8 +665,10 @@
 
 ### Authentication
 
-- [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication.
+- [Bearer](https://github.com/Bearer/bearer-js/tree/master/packages/node) - The fatest way to use an OAuth API
 - [Grant](https://github.com/simov/grant) - OAuth middleware for Express, Koa, and Hapi.
+- [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication.
+
 
 
 ### Authorization
