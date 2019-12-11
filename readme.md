@@ -646,6 +646,7 @@
 - [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - End-to-end testing.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome.
+- [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 
 
 ### Security
