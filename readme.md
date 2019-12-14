@@ -739,6 +739,7 @@
 ### Automation
 
 - [robotjs](https://github.com/octalmage/robotjs) - Desktop Automation: control the mouse, keyboard and read the screen.
+- [n8n](https://github.com/n8n-io/n8n) - Free node based Workflow Automation Tool (Zapier/Tray.io alternative). Easily automate tasks across different services.
 
 
 ### AST
