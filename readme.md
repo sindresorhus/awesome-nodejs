@@ -250,6 +250,7 @@
 - [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 - [storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 - [signale](https://github.com/klauscfhq/signale) - Hackable console logger with beautiful output.
+- [consola](https://github.com/nuxt/consola) - Elegant Console Logger for Node.js and Browser
 
 ### Command-line utilities
 
