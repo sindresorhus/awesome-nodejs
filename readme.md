@@ -392,6 +392,7 @@
 	- [promise-memoize](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
 	- [valvelet](https://github.com/lpinca/valvelet) - Limit the execution rate of a promise-returning function.
 	- [p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently.
+	- [of](https://github.com/r37r0m0d3l/of) - Promise wrapper with error handling, retry, timeout, default value and error override.
 	- [More…](https://github.com/sindresorhus/promise-fun)
 - Observables
 	- [zen-observable](https://github.com/zenparsing/zen-observable) - Implementation of Observables.
