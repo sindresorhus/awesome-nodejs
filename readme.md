@@ -620,8 +620,8 @@
 - [abstruse](https://github.com/bleenco/abstruse) - Continuous Integration server.
 - [CodeceptJS](https://github.com/Codeception/CodeceptJS) - End-to-end testing.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome.
+- [Playwright](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 - [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
-- [Playwright](https://github.com/microsoft/playwright) - Automated UI testing for Chromium, WebKit and Firefox browsers with a single API.
 
 ### Security
 
