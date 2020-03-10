@@ -251,6 +251,7 @@
 - [storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 - [signale](https://github.com/klauscfhq/signale) - Console logger.
 - [consola](https://github.com/nuxt/consola) - Console logger.
+- [log4js-node](https://github.com/log4js-node/log4js-node) - log4js-node
 
 ### Command-line utilities
 
