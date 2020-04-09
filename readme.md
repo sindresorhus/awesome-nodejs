@@ -795,6 +795,7 @@
 - [basic-ftp](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
 - [cashify](https://github.com/xxczaki/cashify) - Currency conversion.
 - [genepi](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
+- [husky](https://github.com/typicode/husky) - Create Git hook scripts.
 
 ## Resources
 
