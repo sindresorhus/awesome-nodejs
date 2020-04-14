@@ -42,6 +42,7 @@
 
 ## Contents
 
+- [Contents](#contents)
 - [Packages](#packages)
 	- [Mad science](#mad-science)
 	- [Command-line apps](#command-line-apps)
@@ -103,7 +104,7 @@
 	- [Cheatsheets](#cheatsheets)
 	- [Tools](#tools)
 	- [Community](#community)
-	- [Miscellaneous](#miscellaneous)
+	- [Miscellaneous](#miscellaneous-1)
 - [Related lists](#related-lists)
 
 ## Packages
@@ -797,6 +798,7 @@
 - [cashify](https://github.com/xxczaki/cashify) - Currency conversion.
 - [genepi](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 - [husky](https://github.com/typicode/husky) - Create Git hook scripts.
+- [patch-package](https://github.com/ds300/patch-package) - Lets app authors instantly make and keep fixes to npm dependencies.
 
 ## Resources
 
