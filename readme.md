@@ -449,7 +449,7 @@
 - [jimp](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
 - [probe-image-size](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
 - [qrcode](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
-* [imgix-core-js](https://docs.imgix.com/libraries/imgix-core-js) - Easily update image urls to be fast and responsive via srcsets.
+* [imgix-core-js](https://github.com/imgix/imgix-core-js) - Easily update image urls to be fast and responsive via srcsets.
 
 ### Text
 
