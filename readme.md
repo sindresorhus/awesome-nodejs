@@ -636,6 +636,10 @@
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 - [jose-simple](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
 
+### Steganography
+
+- [stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in strings securely using passwords.
+
 ### Benchmarking
 
 - [Benchmark.js](https://github.com/bestiejs/benchmark.js) - Benchmarking library that supports high-resolution timers and returns statistically significant results.
@@ -756,10 +760,6 @@
 - [snappy](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
 - [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Protocol Buffers.
 - [compactr](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
-
-### Steganography
-
-- [stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in strings securely using passwords.
 
 ### Miscellaneous
 
