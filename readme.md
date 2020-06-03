@@ -133,6 +133,7 @@
 - [xlsx](https://github.com/sheetjs/js-xlsx) - Pure JS Excel spreadsheet reader and writer.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
 
+
 ### Command-line apps
 
 - [np](https://github.com/sindresorhus/np) - Better `npm publish`.
@@ -755,6 +756,10 @@
 - [snappy](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
 - [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Protocol Buffers.
 - [compactr](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
+
+### Steganography
+
+- [stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in strings securely using passwords.
 
 ### Miscellaneous
 
