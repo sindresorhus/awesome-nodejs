@@ -625,6 +625,7 @@
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome.
 - [Playwright](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 - [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
+- [Cypress](https://github.com/cypress-io/cypress) - Fast, easy and reliable testing for anything that runs in a browser.
 
 ### Security
 
