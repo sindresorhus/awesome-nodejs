@@ -469,6 +469,7 @@
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 - [i18next](https://github.com/i18next/i18next) - Internationalization framework.
 - [nanoid](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
+- [stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible Unicode characters in strings using passwords.
 
 ### Number
 
@@ -635,10 +636,6 @@
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 - [jose-simple](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
-
-### Steganography
-
-- [stegcloak](https://github.com/KuroLabs/stegcloak) - Hide secrets with invisible characters in strings securely using passwords.
 
 ### Benchmarking
 
