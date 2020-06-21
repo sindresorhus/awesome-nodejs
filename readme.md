@@ -468,6 +468,7 @@
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 - [i18next](https://github.com/i18next/i18next) - Internationalization framework.
 - [nanoid](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
+- [stegcloak](https://github.com/kurolabs/stegcloak) - Hide secrets with invisible characters in strings securely using passwords
 
 ### Number
 
