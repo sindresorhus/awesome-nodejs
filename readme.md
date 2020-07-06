@@ -604,6 +604,7 @@
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome.
 - [Playwright](https://github.com/microsoft/playwright) - Headless Chromium, WebKit, and Firefox with a single API.
 - [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
+- [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 
 ### Security
 
