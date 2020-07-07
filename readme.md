@@ -103,6 +103,7 @@
 - [NodeOS](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
 - [YodaOS](https://github.com/yodaos-project/yodaos) - AI operating system.
 - [Brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework.
+- [Pipcook](https://github.com/alibaba/pipcook) - Front-end algorithm framework to create a machine learning pipeline.
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
 - [Kadence](https://gitlab.com/deadcanaries/kadence) - Kademlia distributed hash table.
 - [seedshot](https://github.com/twobucks/seedshot) - Temporary P2P screenshot sharing from your browser.
