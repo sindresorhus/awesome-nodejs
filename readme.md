@@ -111,6 +111,7 @@
 - [skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing engine.
 - [xlsx](https://github.com/sheetjs/js-xlsx) - Pure JS Excel spreadsheet reader and writer.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
+- [mineflayer](https://github.com/PrismarineJS/mineflayer) - Create Minecraft bots with a powerful, stable, and high level JavaScript API.
 
 ### Command-line apps
 
