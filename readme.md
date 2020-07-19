@@ -331,7 +331,7 @@
 - [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
 - [Zeronode](https://github.com/sfast/zeronode) - Minimal building block for reliable and fault-tolerant microservices.
 - [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
-- [Tinyhttp](https://github.com/talentlessguy/tinyhttp) - Modern modern Express-like web framework compiled to native ESM and using a bare minimum amount of dependencies trying to avoid legacy hell.
+- [Tinyhttp](https://github.com/talentlessguy/tinyhttp) - Modern Express-like web framework compiled to native ESM and written in TypeScript that uses a bare minimum amount of dependencies trying to avoid legacy hell.
 
 ### Documentation
 
