@@ -632,7 +632,7 @@
 ### Authentication
 
 - [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication.
-- [Grant](https://github.com/simov/grant) - 200+ OAuth providers for Express, Koa, Hapi, Fastify, AWS Lambda, Azure, Google Cloud, Vercel.
+- [Grant](https://github.com/simov/grant) - OAuth providers for Express, Koa, Hapi, Fastify, AWS Lambda, Azure, Google Cloud, Vercel, and many more.
 
 ### Authorization
 
