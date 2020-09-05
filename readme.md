@@ -615,6 +615,7 @@
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 - [jose-simple](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+- [express-rate-limit](https://github.com/nfriedly/express-rate-limit) - API rate-limiting middleware for Express. It Use to limit repeated requests during DDos attack to public APIs.
 
 ### Benchmarking
 
