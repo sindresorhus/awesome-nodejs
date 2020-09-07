@@ -189,6 +189,7 @@
 
 ### HTTP
 
+- [Pizzly](https://github.com/bearer/pizzly) - API Integrations Manager made super fast and easy.
 - [got](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
 - [gh-got](https://github.com/sindresorhus/gh-got) - Convenience wrapper for `got` to interact with the GitHub API.
 - [axios](https://github.com/mzabriskie/axios) - Promise based HTTP client (works in the browser too).
