@@ -505,6 +505,7 @@
 - [property-validator](https://github.com/nettofarah/property-validator) - Easy property validation for Express.
 - [schema-inspector](https://github.com/Atinux/schema-inspector) - JSON API sanitization and validation.
 - [ajv](https://github.com/epoberezkin/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
+- [yup](https://github.com/jquense/yup) - Yup is a JavaScript schema builder for value parsing and validation built with client-side validation as its primary use-case
 
 ### Parsing
 
