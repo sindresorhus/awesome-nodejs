@@ -904,6 +904,7 @@
 - [generator-nm](https://github.com/sindresorhus/generator-nm) - Scaffold out a node module.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 - [Module Requests & Ideas](https://github.com/sindresorhus/module-requests) - Request a JavaScript module you wish existed or get ideas for modules.
+- [express-decorator-router](https://github.com/LucasMendesl/express-decorator-router) -  Use decorators in a simple way without transpiling javascript code
 
 ## Related lists
 
