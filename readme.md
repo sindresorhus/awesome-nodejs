@@ -5,6 +5,7 @@
 	<br>
 	<p>
 		<p>
+			<sub>sambhav<sub>
 			<sup>
 				<a href="https://github.com/sponsors/sindresorhus">My open source work is supported by the community</a>
 			</sup>
