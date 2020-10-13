@@ -324,7 +324,8 @@
 - [Pug](https://github.com/pugjs/pug) - High-performance template engine heavily influenced by Haml.
 
 ### Web frameworks
-
+- [Egg](https://eggjs.org) - Born to build better enterprise frameworks and apps with Node.js & Koa.
+- [Deno](https://deno.land) - A secure runtime for JavaScript and TypeScript.
 - [Hapi](https://github.com/hapijs/hapi) - Framework for building applications and services.
 - [Koa](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
 - [Express](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
