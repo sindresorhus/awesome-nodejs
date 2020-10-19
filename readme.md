@@ -32,6 +32,12 @@
 	<br>
 </div>
 
+---
+
+A friend of mine [@ehmicky](https://github.com/ehmicky) is looking for a senior/expert Node.js backend engineer to join their fully remote, international, diverse (44% women and non-binary) and friendly team at Netlify. The job description is [here](https://boards.greenhouse.io/netlify/jobs/4832483002).
+
+---
+
 ## Contents
 
 - [Packages](#packages)
