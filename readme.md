@@ -34,7 +34,7 @@
 
 ---
 
-A friend of mine (@ehmicky) is looking for a senior/expert Node.js backend engineer to join their fully remote, international, diverse (44% women and non-binary) and friendly team at Netlify. The job description is [here](https://boards.greenhouse.io/netlify/jobs/4832483002).
+A friend of mine [@ehmicky](https://github.com/ehmicky) is looking for a senior/expert Node.js backend engineer to join their fully remote, international, diverse (44% women and non-binary) and friendly team at Netlify. The job description is [here](https://boards.greenhouse.io/netlify/jobs/4832483002).
 
 This is not an ad. A friend of mine works on this team and I know Netlify is a good place to work. - Sindre
 ---
