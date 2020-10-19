@@ -34,7 +34,7 @@
 
 ---
 
-Netlify is looking for a senior/expert Node.js backend engineer to join a fully remote, international, diverse (44% women and non-binary) and friendly team. The job description is [here](https://boards.greenhouse.io/netlify/jobs/4832483002).
+A friend of mine is looking for a senior/expert Node.js backend engineer to join their fully remote, international, diverse (44% women and non-binary) and friendly team at Netlify. The job description is [here](https://boards.greenhouse.io/netlify/jobs/4832483002).
 
 ---
 
