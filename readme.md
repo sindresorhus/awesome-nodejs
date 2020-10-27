@@ -892,6 +892,7 @@ A friend of mine [@ehmicky](https://github.com/ehmicky) is looking for a senior/
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - Chrome extension that displays npm download stats on GitHub.
 - [npm semver calculator](https://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 - [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - Online IDE and prototyping.
+- [icons-font-customization](https://github.com/uuware/icons-font-customization) - &#x1F536;A tool powered by Node.js for generating customized icon font. It contains over 33,000 high-quality free svg icons and you can choose a few of them to create your own webfonts. Open [All icons](https://uuware.github.io/icons-font-customization/dist/), to view all of them.
 
 ### Community
 
