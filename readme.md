@@ -724,6 +724,7 @@ A friend of mine [@ehmicky](https://github.com/ehmicky) is looking for a senior/
 - [Phenomic](https://github.com/phenomic/phenomic) - Modern static website generator based on the React and Webpack ecosystem.
 - [docsify](https://github.com/QingWei-Li/docsify) - Markdown documentation site generator with no statically built HTML files.
 - [Charge](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
+- [Generic Static Site Generator](https://github.com/theabbie/Generic-Static-Site-Generator) - A Generic Static Site Generator written in JavaScript.
 
 ### Content management systems
 
