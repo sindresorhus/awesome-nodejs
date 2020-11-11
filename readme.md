@@ -803,6 +803,7 @@ A friend of mine [@ehmicky](https://github.com/ehmicky) is looking for a senior/
 - [genepi](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 - [husky](https://github.com/typicode/husky) - Create Git hook scripts.
 - [patch-package](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
+- [editly](https://github.com/mifi/editly) - Declarative video editing API.
 
 ## Resources
 
