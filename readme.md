@@ -703,6 +703,7 @@
 ### Automation
 
 - [robotjs](https://github.com/octalmage/robotjs) - Desktop Automation: control the mouse, keyboard and read the screen.
+- [nut.js](https://github.com/nut-tree/nut.js) - `nut.js` is a cross-platform native UI automation / testing tool. It allows for native UI interactions via keyboard / mouse and additionally gives you the possibility to navigate the screen based on image matching.
 
 ### AST
 
