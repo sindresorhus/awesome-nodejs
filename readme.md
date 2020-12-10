@@ -32,6 +32,8 @@
 	<br>
 </div>
 
+**You can now [discuss Node.js and ask questions](https://github.com/sindresorhus/awesome-nodejs/discussions) right in this repo.**
+
 ## Contents
 
 - [Packages](#packages)
