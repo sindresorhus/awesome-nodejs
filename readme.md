@@ -218,6 +218,7 @@
 - [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 - [gotql](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got](https://github.com/sindresorhus/got).
 - [global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+- [smoke](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
 
 ### Debugging / Profiling
 
