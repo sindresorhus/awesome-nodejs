@@ -687,6 +687,7 @@
 - [nodeenv](https://github.com/ekalinin/nodeenv) - Node.js virtual environment compatible to Python's virtualenv.
 - [nvm for Windows](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
 - [nodenv](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
+- [fnm](https://github.com/Schniz/fnm) - Fast and simple Node.js version manager with cross-platform support (Mac, Windows, Linux), built in Rust.
 
 ### Natural language processing
 
