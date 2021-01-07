@@ -598,6 +598,7 @@
 	- [database-js](https://github.com/mlaanderson/database-js) - Wrapper for multiple databases with a JDBC-like connection.
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
 	- [@databases](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
+	- [pg-mem](https://github.com/oguimbal/pg-mem) - In-Memory PostgreSQL instance for your tests.
 
 ### Testing
 
