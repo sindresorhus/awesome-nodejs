@@ -19,6 +19,11 @@
 	<br>
 	<br>
 	<br>
+	<h3>
+		<a href="https://blog.sindresorhus.com/get-ready-for-esm-aa53530b3f77">Node.js package maintainers → Get ready for ESM!</a>
+	</h3>
+	<br>
+	<br>
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
