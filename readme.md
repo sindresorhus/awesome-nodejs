@@ -363,6 +363,7 @@
 - [Docco](https://github.com/jashkenas/docco) - Documentation generator which produces an HTML document that displays your comments intermingled with your code.
 - [JSDoc](https://github.com/jsdoc3/jsdoc) - API documentation generator similar to JavaDoc or PHPDoc.
 - [Docusaurus](https://github.com/facebook/docusaurus) - Documentation website generator that leverages React and Markdown, and comes with translation and versioning features.
+- [Log4brains](https://github.com/thomvaill/log4brains) - Architecture knowledge base to manage and publish Architecture Decision Records (ADR) as a static website from Markdown files.
 
 ### Filesystem
 
