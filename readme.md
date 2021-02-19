@@ -303,6 +303,7 @@
 - [oclif](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 - [term-size](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
 - [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+- [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for finding i18n keys in JavaScript/TypeScript projects.
 
 ### Build tools
 
