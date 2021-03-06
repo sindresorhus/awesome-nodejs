@@ -46,6 +46,7 @@
 
 ## Contents
 
+- [Official](#official)
 - [Packages](#packages)
 	- [Mad science](#mad-science)
 	- [Command-line apps](#command-line-apps)
@@ -109,6 +110,12 @@
 	- [Community](#community)
 	- [Miscellaneous](#miscellaneous-1)
 - [Related lists](#related-lists)
+
+## Official
+
+- [Website](https://nodejs.org)
+- [Documentation](https://nodejs.org/dist/latest/docs/api/)
+- [Repository](https://github.com/nodejs/node)
 
 ## Packages
 
