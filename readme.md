@@ -649,13 +649,13 @@
 
 ### Security
 
-- [Cloudmersive Virus Scan](https://cloudmersive.com/virus-api) - Unified and free API for virus scanning.
 - [upash](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 - [themis](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 - [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 - [jose-simple](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+- [CloudmersiveVirusScan](https://github.com/Cloudmersive/Cloudmersive.APIClient.NodeJS.Virus) - Unified and free API for virus scanning.
 
 ### Benchmarking
 
