@@ -737,6 +737,7 @@
 - [node-windows](https://github.com/coreybutler/node-windows) - Run scripts as a native Windows service and log to the Event viewer.
 - [supervisor](https://github.com/petruisfan/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
 - [Phusion Passenger](https://github.com/phusion/passenger) - Friendly process manager that integrates directly into Nginx.
+- [supervizer](https://github.com/oOthkOo/supervizer) - Simple process manager with RESTful API.
 
 ### Automation
 
