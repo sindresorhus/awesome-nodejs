@@ -851,6 +851,7 @@
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - A set of video tutorials/livestreams to help you build and deploy a real, live web app using a handful of simple libraries and the core Node.js modules.
+- [A Guide to Node.js for E-Commerce [With Koa.js Tutorial]](https://snipcart.com/blog/node-js-ecommerce-koa-js-tutorial) - Learn how to use Node.js for e-commerce. Follow this in-depth Koa.js tutorial for a quick, minimalistic e-commerce setup.
 
 ### Discovery
 
