@@ -157,6 +157,7 @@
 - [skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing engine.
 - [xlsx](https://github.com/sheetjs/js-xlsx) - Pure JS Excel spreadsheet reader and writer.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
+[⬆️ back to top](#packages)
 
 ### Command-line apps
 
@@ -220,6 +221,7 @@
 - [taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
+[⬆️ back to top](#packages)
 
 ### Functional programming
 
@@ -232,6 +234,7 @@
 - [RxJS](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data.
 - [Lazy.js](https://github.com/dtao/lazy.js) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
 - [Kefir.js](https://github.com/kefirjs/kefir) - Reactive library with focus on high performance and low memory usage.
+[⬆️ back to top](#packages)
 
 ### HTTP
 
@@ -249,6 +252,7 @@
 - [gotql](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got](https://github.com/sindresorhus/got).
 - [global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 - [smoke](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
+[⬆️ back to top](#packages)
 
 ### Debugging / Profiling
 
