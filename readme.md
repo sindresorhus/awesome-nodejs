@@ -323,6 +323,7 @@
 - [oclif](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
 - [term-size](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
 - [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
+- [build-node-app](https://github.com/hackersdotmu/build-node-app) - Create a minimal node API using one command! :)
 
 ### Build tools
 
