@@ -601,7 +601,6 @@
 	- [Redis](https://github.com/luin/ioredis) - Redis client.
 	- [LevelUP](https://github.com/Level/levelup) - LevelDB.
 	- [MySQL](https://github.com/mysqljs/mysql) - MySQL client.
-	- [MariaDB](https://github.com/mariadb-corporation/mariadb-connector-nodejs) - MariaDB client. Supports MariaDB and MySQL.
 	- [couchdb-nano](https://github.com/apache/couchdb-nano) - CouchDB client.
 	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
 	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase client.
@@ -630,6 +629,7 @@
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
 	- [@databases](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
 	- [pg-mem](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
+ 	- [MariaDB](https://github.com/mariadb-corporation/mariadb-connector-nodejs) - MariaDB client. Supports MariaDB and MySQL.
 
 ### Testing
 
