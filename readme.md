@@ -601,6 +601,7 @@
 	- [Redis](https://github.com/luin/ioredis) - Redis client.
 	- [LevelUP](https://github.com/Level/levelup) - LevelDB.
 	- [MySQL](https://github.com/mysqljs/mysql) - MySQL client.
+	- [MariaDB](https://github.com/mariadb-corporation/mariadb-connector-nodejs) - MariaDB client. Supports MariaDB and MySQL.
 	- [couchdb-nano](https://github.com/apache/couchdb-nano) - CouchDB client.
 	- [Aerospike](https://github.com/aerospike/aerospike-client-nodejs) - Aerospike client.
 	- [Couchbase](https://github.com/couchbase/couchnode) - Couchbase client.
