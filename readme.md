@@ -3,6 +3,7 @@
 		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
 	</div>
 	<br>
+	<hr>
 	<p>
 		<p>
 			<sup>
@@ -33,7 +34,20 @@
 				<sup>and avoiding access controls. Keep your team and servers in sync with Doppler.</sup>
 			</div>
 		</a>
+		<br>
+		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-nodejs&utm_source=github">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/workos-logo-white-bg.svg" width="200" alt="WorkOS">
+			</div>
+			<b>Your app, enterprise-ready.</b>
+			<div>
+				<sub>Start selling to enterprise customers with just a few lines of code.</sub>
+				<br>
+				<sup>Add Single Sign-On (and more) in minutes instead of months.</sup>
+			</div>
+		</a>
 	</p>
+	<hr>
 	<br>
 	<br>
 	<br>
