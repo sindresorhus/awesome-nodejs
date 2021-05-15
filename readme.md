@@ -394,6 +394,7 @@
 - [TypeGraphQL](https://github.com/19majkel94/type-graphql) - Modern framework for creating GraphQL APIs with TypeScript, using classes and decorators.
 - [Tinyhttp](https://github.com/talentlessguy/tinyhttp) - Modern and fast Express-like web framework.
 - [Marble.js](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
+- [Blitz](https://github.com/blitz-js/blitz) - The Fullstack React Framework — built on Next.js.
 
 ### Documentation
 
