@@ -582,6 +582,7 @@
 - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
 - [Chevrotain](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
 - [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
+- [bbob](https://github.com/jilizart/bbob) - Blazing fast BBCode parser with AST and plugins support
 
 ### Humanize
 
