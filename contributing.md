@@ -6,7 +6,8 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 Ensure your pull request adheres to the following guidelines:
 
-- **If you just created something, wait at least 30 days before submitting.** This is to give it some time to mature and ensure it's not just a publish-and-forget type of project.
+- **The submitted project should be more than 30 days old and the repo should have at least 40 stars.**
+- Don't open a Draft / WIP pull request while you work on the guidelines. A pull request should be 100% ready and should adhere to all the guidelines when you open it.
 - Keep in mind that the list is very mature by now, so the bar of getting something accepted is high. Only submit something unique and generally useful. The world (and this list) doesn't need yet another ORM or framework. For CLI tools, the bar is especially high, and unless it's something very awesome, I would suggest submitting to [awesome-cli-apps](https://github.com/aharris88/awesome-cli-apps) instead.
 - If you submit a project that is similar to an existing project in the list, argue how it's better.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
@@ -14,8 +15,10 @@ Ensure your pull request adheres to the following guidelines:
 - Make an individual pull request for each suggestion.
 - Use the following format: `[package](link) - Description.`
 - Additions should be added to the bottom of the relevant category.
-- Link to the GitHub repo, not npmjs.com.
+- Link to the GitHub repo, not npmjs.com or its website.
 - Keep descriptions short and simple, but descriptive.
+- Descriptions should not be marketing taglines.
+- Descriptions should not be title-case.
 - Don't mention `Node.js` in the description as it's implied.
 - Start the description with a capital and end with a full stop/period.
 - Don't start the description with `A` or `An`.
