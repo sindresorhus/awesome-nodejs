@@ -932,6 +932,8 @@
 - [Practical Modern JavaScript](https://www.amazon.com/Practical-Modern-JavaScript-Dive-Future/dp/149194353X)
 - [Mastering Modular JavaScript](https://www.amazon.com/Mastering-Modular-JavaScript-Nicolas-Bevacqua/dp/1491955686/)
 - [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
+- [Node.js Cookbook](https://www.amazon.com/dp/1838558756)
+- [Node.js Design Patterns](https://www.nodejsdesignpatterns.com)
 
 ### Blogs
 
