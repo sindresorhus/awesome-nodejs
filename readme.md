@@ -56,14 +56,37 @@
 				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
 			</div>
 		</a>
+		<br>
+		<a href="https://oss.capital">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/oss-capital-logo-white-bg.svg" width="300" alt="OSS Capital">
+			</div>
+			<div>
+				<sup><b>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</b></sup>
+			</div>
+		</a>
+		<br>
+		<br>
+		<a href="https://www.gitpod.io/?utm_campaign=sindresorhus&utm_medium=referral&utm_content=awesome&utm_source=github">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/gitpod-logo-white-bg.svg" width="220" alt="Gitpod">
+			</div>
+			<b>Dev environments built for the cloud</b>
+			<div>
+				<sub>
+				Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev
+				<br>
+				environments for all your branches. As a result team members can instantly start coding with fresh dev environments
+				<br>
+				for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.
+				</sub>
+			</div>
+		</a>
 	</p>
 	<hr>
 	<br>
 	<br>
 	<br>
-	<h3>
-		<a href="https://blog.sindresorhus.com/get-ready-for-esm-aa53530b3f77">Node.js package maintainers → Get ready for ESM!</a>
-	</h3>
 	<br>
 	<br>
 	<a href="https://awesome.re">
@@ -78,8 +101,6 @@
 	</p>
 	<br>
 </div>
-
-**You can now [discuss Node.js and ask questions](https://github.com/sindresorhus/awesome-nodejs/discussions) right in this repo.**
 
 ## Contents
 
