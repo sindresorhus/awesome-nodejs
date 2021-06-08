@@ -56,14 +56,23 @@
 				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
 			</div>
 		</a>
+		<br>
+		<a href="https://oss.capital">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/oss-capital-logo-white-bg.svg" width="300" alt="OSS Capital">
+			</div>
+			<div>
+				<sup><b>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</b></sup>
+			</div>
+		</a>
 	</p>
 	<hr>
 	<br>
 	<br>
 	<br>
-	<h3>
-		<a href="https://blog.sindresorhus.com/get-ready-for-esm-aa53530b3f77">Node.js package maintainers → Get ready for ESM!</a>
-	</h3>
+	<h2>
+		<a href="https://www.producthunt.com/posts/system-color-picker">My color picker app is on Product Hunt</a>
+	</h2>
 	<br>
 	<br>
 	<a href="https://awesome.re">
