@@ -494,6 +494,7 @@
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 - [rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 - [Aedes](https://github.com/mcollina/aedes) - Barebone MQTT server that can run on any stream server.
+- [Fluid Framework](https://fluidframework.com) - Open source real-time framework from Microsoft for building real time collaborative experiences.
 
 ### Image
 
