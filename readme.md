@@ -822,6 +822,10 @@
 - [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Protocol Buffers.
 - [compactr](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
 
+### Scheduling
+- [Spurwing](https://www.spurwing.io/) - Scheduling API and Booking API for Enterprise
+- [Cronofy](https://www.cronofy.com/) - Scheduling API for integrations
+
 ### Miscellaneous
 
 - [execa](https://github.com/sindresorhus/execa) - Better `child_process`.
