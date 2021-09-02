@@ -882,6 +882,7 @@
 - [husky](https://github.com/typicode/husky) - Create Git hook scripts.
 - [patch-package](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 - [editly](https://github.com/mifi/editly) - Declarative video editing API.
+- [express-actuator](https://github.com/rcruzper/express-actuator) - Provide endpoints for Express to monitor your API when it's on production.
 
 ## Resources
 
