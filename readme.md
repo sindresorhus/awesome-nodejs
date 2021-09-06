@@ -265,6 +265,7 @@
 - [taskbook](https://github.com/klauscfhq/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
+- [iola](https://github.com/pvarentsov/iola) - Socket client with REST API.
 
 ### Functional programming
 
