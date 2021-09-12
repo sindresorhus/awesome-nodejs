@@ -1,6 +1,8 @@
 <div align="center">
 	<div>
 		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
+		<h3><a href="https://www.producthunt.com/posts/plash-2">My macOS app Plash is on Product Hunt</a></h3>
+		<br>
 	</div>
 	<br>
 	<hr>
