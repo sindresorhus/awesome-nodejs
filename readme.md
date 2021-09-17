@@ -521,6 +521,7 @@
 - [jimp](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
 - [probe-image-size](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
 - [qrcode](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
+- [ImageScript](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
 ### Text
 
