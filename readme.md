@@ -403,7 +403,7 @@
 
 ### Web frameworks
 
-- [Lad](https://github.com/ladjs/lad) - Framework for full-stack apps and API's. Bundles a web server ([@ladjs/web](https://github.com/ladjs/web)), API server ([@ladjs/api](https://github.com/ladjs/api)), job scheduler ([bree](https://github.com/breejs/bree)), and proxy server ([@ladjs/proxy](https://github.com/ladjs/proxy)) with a full-stack MVC framework. Made by former Express TC and Koa team member [@niftylettuce](https://github.com/niftylettuce).
+- [Lad](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
 - [Hapi](https://github.com/hapijs/hapi) - Framework for building applications and services.
 - [Koa](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
 - [Express](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
