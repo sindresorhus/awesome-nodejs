@@ -294,6 +294,7 @@
 - [gotql](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got](https://github.com/sindresorhus/got).
 - [global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 - [smoke](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
+- [undici](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
 
 ### Debugging / Profiling
 
