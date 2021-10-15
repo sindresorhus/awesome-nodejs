@@ -295,6 +295,7 @@
 - [global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 - [smoke](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
 - [undici](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
+- [petitio](https://github.com/helperdiscord/petitio) - Performance focused HTTP client library designed to be simple, fast, and type-strong.
 
 ### Debugging / Profiling
 
