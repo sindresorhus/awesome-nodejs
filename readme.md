@@ -544,6 +544,7 @@
 - [i18next](https://github.com/i18next/i18next) - Internationalization framework.
 - [nanoid](https://github.com/ai/nanoid) - Tiny, secure, URL-friendly, unique string ID generator.
 - [StegCloak](https://github.com/kurolabs/stegcloak) - Conceal secrets within strings, in plain sight.
+- [morse-decoder](https://github.com/ozdemirburak/morse-decoder) - Convert text to Morse code and vice-versa.
 
 ### Number
 
