@@ -745,7 +745,7 @@
 - [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
 - [email-templates](https://github.com/niftylettuce/email-templates) - Create, preview, and send custom email templates.
 - [MJML](https://github.com/mjmlio/mjml) - Markup language designed to reduce the pain of creating responsive emails.
-- [Notifire](https://github.com/notifirehq/notifire) - Notification system simplified.
+- [Notifire](https://github.com/notifirehq/notifire) - Open-Source Notification infrastructure..
 
 ### Job queues
 
