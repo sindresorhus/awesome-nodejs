@@ -1,6 +1,12 @@
 <div align="center">
 	<div>
 		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
+		<br>
+		<br>
+		<br>
+		<h3><a href="https://www.producthunt.com/posts/pandan">My macOS app Pandan is on Product Hunt</a></h3>
+		<br>
+		<br>
 	</div>
 	<br>
 	<hr>
