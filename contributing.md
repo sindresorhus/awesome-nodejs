@@ -6,9 +6,11 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 
 Ensure your pull request adheres to the following guidelines:
 
-- **The submitted project should be more than 30 days old and the repo should have at least 40 stars.**
+- **The submitted project should be more than 30 days old and the repo should have at least 60 stars.**
+- The intent of this list is to gather awesome packages *that most users would need*. This is not the place for niche things, except in the “Mad science” category.
 - Don't open a Draft / WIP pull request while you work on the guidelines. A pull request should be 100% ready and should adhere to all the guidelines when you open it.
 - Keep in mind that the list is very mature by now, so the bar of getting something accepted is high. Only submit something unique and generally useful. The world (and this list) doesn't need yet another ORM or framework. For CLI tools, the bar is especially high, and unless it's something very awesome, I would suggest submitting to [awesome-cli-apps](https://github.com/aharris88/awesome-cli-apps) instead.
+- Boilerplates are not accepted as most boilerplates are too opinionated and low-quality and I don't have time to comment on everything they need to improve.
 - If you submit a project that is similar to an existing project in the list, argue how it's better.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Suggested packages should be tested and documented.
