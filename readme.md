@@ -914,6 +914,12 @@
 - [Introduction to libuv: What's a Unicorn Velociraptor?](https://www.youtube.com/watch?v=_c51fcXRLGw) - `libuv` architecture, thread pool, and event loop, with its source code.
 - [libuv Cross platform asynchronous i/o](https://www.youtube.com/watch?v=kCJ3PFU8Ke8) - `libuv` architecture in detail, such as where it's actually using threads.
 - [You Don't Know Node - ForwardJS San Francisco](https://www.youtube.com/watch?v=oPo4EQmkjvY) - Explaining Node.js internals with quizzes about V8, libuv, event loop, module, stream, and cluster.
+- [Node Web Applications and How to Use NPM](https://www.youtube.com/watch?v=YOc4J-HCPio) - Jonathan Wexler explains how Node relates to Web Applications in general and where NPM find its role.
+- [Teach your parents how to build an API server in Node.js](https://www.youtube.com/watch?v=FuBbNvRlFJU) - Jonathan Wexler gets you (and your parents!) programming in Node.js with tips & tricks you will need for building Node apps.
+- [The Key Concepts of Node.js](https://www.youtube.com/watch?v=8IazqslV-bY) - A preview of the video course Node.js in Motion by PJ Evans.
+- [Debugging in Node.js](https://www.youtube.com/watch?v=zS50lIBtmkE) - A preview of the video course Node.js in Motion by PJ Evans.
+- [Node Modules: part one](https://www.youtube.com/watch?v=u6BHdfJkHlI) - A preview of the video course Node.js in Motion by PJ Evans.
+- [Node Modules: part two](https://www.youtube.com/watch?v=sljzOYf6vzc) - A preview of the video course Node.js in Motion by PJ Evans.
 
 ### Books
 
@@ -932,6 +938,7 @@
 - [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
 - [Node.js Cookbook](https://www.amazon.com/dp/1838558756)
 - [Node.js Design Patterns](https://www.nodejsdesignpatterns.com)
+- [Serverless Applications with Node.js](https://www.manning.com/books/serverless-applications-with-node-js)
 
 ### Blogs
 
@@ -943,6 +950,8 @@
 - [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Video course by Wes Bos.
 - [Real Time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
 - [Learn and Understand Node.js](https://www.udemy.com/understand-nodejs)
+- [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) - Video course by Tamar Piros.
+- [Node.js in Motion](https://www.manning.com/livevideo/nodejs-in-motion) - Video course by PJ Evans.
 
 ### Cheatsheets
 
