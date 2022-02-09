@@ -2,11 +2,6 @@
 	<div>
 		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
 		<br>
-		<br>
-		<br>
-		<h3><a href="https://sindresorhus.com/one-thing">Check out my new One Thing app</a></h3>
-		<br>
-		<br>
 	</div>
 	<br>
 	<hr>
