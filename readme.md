@@ -4,7 +4,7 @@
 		<br>
 		<br>
 		<br>
-		<h3><a href="https://sindresorhus.com/one-thing">Check out my new One Thing app</a></h3>
+		<h1><a href="https://posthog.com/blog/send-love-to-open-source">Send love to open-source projects</a></h1>
 		<br>
 		<br>
 	</div>
