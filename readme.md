@@ -831,6 +831,7 @@
 - [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 - [hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
+- [hays](https://github.com/massivefermion/hays) - find the dot path and value of a key of a specific name or pattern deep inside an object and transform or replace it.
 - [onetime](https://github.com/sindresorhus/onetime) - Only run a function once.
 - [mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
