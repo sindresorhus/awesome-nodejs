@@ -2,6 +2,11 @@
 	<div>
 		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
 		<br>
+    <br>
+		<br>
+		<h1><a href="https://posthog.com/blog/send-love-to-open-source">Send love to open-source projects</a></h1>
+		<br>
+		<br>
 	</div>
 	<br>
 	<hr>
@@ -498,6 +503,7 @@
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 - [rpc-websockets](https://github.com/elpheria/rpc-websockets) - JSON-RPC 2.0 implementation over WebSockets.
 - [Aedes](https://github.com/mcollina/aedes) - Barebone MQTT server that can run on any stream server.
+- [Rivalis](https://github.com/rivalis/rivalis) - Framework for building real-time application and game servers.
 
 ### Image
 
