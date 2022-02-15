@@ -2,7 +2,7 @@
 	<div>
 		<img width="500" src="media/logo.svg" alt="Awesome Node.js">
 		<br>
-		<br>
+    <br>
 		<br>
 		<h1><a href="https://posthog.com/blog/send-love-to-open-source">Send love to open-source projects</a></h1>
 		<br>
