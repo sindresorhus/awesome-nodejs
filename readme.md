@@ -423,7 +423,7 @@
 - [Tinyhttp](https://github.com/talentlessguy/tinyhttp) - Modern and fast Express-like web framework.
 - [Marble.js](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
 - [Lad](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
-- [Ts.ED](https://github.com/typedproject/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js. 
+- [Ts.ED](https://github.com/typedproject/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js.
 
 ### Documentation
 
@@ -818,6 +818,15 @@
 - [snappy](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
 - [protobuf](https://github.com/dcodeIO/protobuf.js) - Implementation of Protocol Buffers.
 - [compactr](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
+
+### Dependency injection
+
+- [containor](https://ngerritsen.gitlab.io/containor) - Simple DI container for Javascript with Typescript support.
+- [Brandi](https://brandi.js.org/) - The dependency injection container powered by TypeScript.
+- [InversifyJS](https://inversify.io/) - A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript.
+- [typed-inject](https://github.com/nicojs/typed-inject) - Typesafe dependency injection for TypeScript
+- [TSyringe](https://github.com/Microsoft/tsyringe) - A lightweight dependency injection container for TypeScript/JavaScript for constructor injection.
+- [TypeDI](https://github.com/typestack/typedi) - TypeDI is a dependency injection tool for TypeScript and JavaScript. With it you can build well-structured and easily testable applications in Node or in the browser.
 
 ### Miscellaneous
 
