@@ -220,7 +220,6 @@
 - [Pipcook](https://github.com/alibaba/pipcook) - Front-end algorithm framework to create a machine learning pipeline.
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
 - [Kadence](https://gitlab.com/deadcanaries/kadence) - Kademlia distributed hash table.
-- [seedshot](https://github.com/twobucks/zapsnap) - Temporary P2P screenshot sharing from your browser.
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
 - [skale](https://github.com/skale-me/skale) - High performance distributed data processing engine.
 - [xlsx](https://github.com/SheetJS/sheetjs) - Pure JS Excel spreadsheet reader and writer.
