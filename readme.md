@@ -219,7 +219,6 @@
 - [Brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework.
 - [Pipcook](https://github.com/alibaba/pipcook) - Front-end algorithm framework to create a machine learning pipeline.
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
-- [Kadence](https://gitlab.com/deadcanaries/kadence) - Kademlia distributed hash table.
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
 - [xlsx](https://github.com/SheetJS/sheetjs) - Pure JS Excel spreadsheet reader and writer.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
@@ -785,7 +784,6 @@
 - [KeystoneJS](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
 - [Strapi](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
-- [Tipe](https://github.com/tipeio/tipe) - Developer-first content management system with GraphQL and REST API from a schema file.
 - [Factor](https://github.com/FactorJS/factor) - Vue.js dashboard framework and headless CMS.
 - [AdminBro](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
 
@@ -887,7 +885,6 @@
 ### Newsletters
 
 - [Node Weekly](https://nodeweekly.com) - Weekly e-mail round-up of Node.js news and articles.
-- [Node Module Of The Week!](https://nmotw.in) - Weekly dose of hand picked node modules.
 
 ### Videos
 
@@ -932,7 +929,7 @@
 ### Courses
 
 - [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Video course by Wes Bos.
-- [Real Time Web with Node.js](https://www.codeschool.com/courses/real-time-web-with-node-js)
+- [Real Time Web with Node.js](https://www.pluralsight.com/courses/code-school-real-time-web-with-nodejs)
 - [Learn and Understand Node.js](https://www.udemy.com/course/understand-nodejs/)
 
 ### Cheatsheets
