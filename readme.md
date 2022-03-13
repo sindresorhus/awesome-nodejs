@@ -222,6 +222,7 @@
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
 - [xlsx](https://github.com/SheetJS/sheetjs) - Pure JS Excel spreadsheet reader and writer.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
+- [SolverJS](https://github.com/suryapratapsinghsuryavanshi/solverjs) - A package to reduce web development time.
 
 ### Command-line apps
 
