@@ -301,6 +301,7 @@
 
 ### Debugging / Profiling
 
+- [clinic.js](https://clinicjs.org/) - Tools to help diagnose and pinpoint Node.js performance issues
 - [debug](https://github.com/debug-js/debug) - Tiny debugging utility.
 - [why-is-node-running](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
 - [njsTrace](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
