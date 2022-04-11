@@ -946,9 +946,7 @@
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - Chrome extension that displays npm download stats on GitHub.
 - [npm semver calculator](https://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 - [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - Online IDE and prototyping.
-- [Amplication](https://github.com/amplication/amplication) - Amplication auto-generates backend apps built with TypeScript and Node.js, and a client built with React.
-
-
+- [Amplication](https://github.com/amplication/amplication) - Amplication is a low code devtool which auto-generates fully functional human-readable and editable apps. Apps include NestJS, Prisma, REST API, GraphQL API, a React admin UI, authentication, authorization, and logging.
 
 ### Community
 
