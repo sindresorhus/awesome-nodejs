@@ -274,6 +274,7 @@
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
+- [cz-git](https://github.com/Zhengqbbb/cz-git/) - 🔨 A more engineered, highly customizable commitizen adapter.
 
 ### Functional programming
 
