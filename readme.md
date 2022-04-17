@@ -892,7 +892,6 @@
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
-- [Nodetuts](https://nodetuts.com) - Series of talks, including TCP & HTTP API servers, async programming, and more.
 - [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - Trash talk about the V8 garbage collector.
 - [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Insightful talk by the creator of Node.js about some of its limitions.
 - [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) - Video course on how to make REST APIs using Node.js.
@@ -912,9 +911,6 @@
 - [Mastering Node](https://visionmedia.github.io/masteringnode/)
 - [Node.js 8 the Right Way](https://pragprog.com/book/jwnode2/node-js-8-the-right-way/)
 - [Professional Node.js: Building JavaScript Based Scalable Software](https://www.amazon.com/Professional-Node-js-Building-Javascript-Scalable-ebook/dp/B009L7QETY/)
-- [Practical Node.js: Building Real-World Scalable Web Apps](https://practicalnodebook.com)
-- [Mixu's Node book](https://book.mixu.net/node/)
-- [Pro Express.js](https://proexpressjs.com)
 - [Secure Your Node.js Web Application](https://www.amazon.com/Secure-Your-Node-js-Web-Application/dp/1680500856)
 - [Express in Action](https://www.manning.com/books/express-in-action)
 - [Practical Modern JavaScript](https://www.amazon.com/Practical-Modern-JavaScript-Dive-Future/dp/149194353X)
@@ -944,14 +940,13 @@
 
 - [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension that linkifies dependencies in package.json, .js, .jsx, .coffee and .md files on GitHub.
 - [npm-hub](https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome extension to display npm dependencies at the bottom of a repo's readme.
-- [RunKit](https://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - Embed a Node.js environment on any website.
+- [RunKit](https://runkit.com) - Embed a Node.js environment on any website.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - Chrome extension that displays npm download stats on GitHub.
 - [npm semver calculator](https://semver.npmjs.com) - Visually explore what versions of a package a semver range matches.
 - [CodeSandbox](https://codesandbox.io/s/node-http-server-node) - Online IDE and prototyping.
 
 ### Community
 
-- [`#node.js` on Freenode](https://webchat.freenode.net/?channels=node.js)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/node.js)
 - [Reddit](https://www.reddit.com/r/node)
 - [Twitter](https://twitter.com/nodejs)
