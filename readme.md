@@ -553,6 +553,7 @@
 
 ### URL
 
+- [url-state-machine](https://github.com/anonrig/url-js) - Super fast spec-compliant URL state machine for Node.js.
 - [normalize-url](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
 - [humanize-url](https://github.com/sindresorhus/humanize-url) - Humanize a URL: https://sindresorhus.com → sindresorhus.com.
 - [url-unshort](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
