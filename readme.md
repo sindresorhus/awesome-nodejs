@@ -85,7 +85,6 @@
 		</a>
 		<br>
 		<br>
-		<br>
 		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="220" alt="Stream">
@@ -102,6 +101,40 @@
 			<br>
 			<div>
 				<b>Build Scalable Feeds & Chat Applications with Powerful APIs and Front End Components</b>
+			</div>
+		</a>
+		<br>
+		<br>
+		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-light.svg" width="200" alt="neverinstall">
+			</div>
+			<br>
+			<b>All your favourite IDE's now available on the cloud</b>
+			<div>
+				<sub>
+				Neverinstall gives you an uninterrupted development experience and improved accessibility,
+				<br>
+				allowing you to code faster, better and on-the-go on your favourite IDEs like
+				<br>
+				Android Studio, VS Code, Jupyter and PyCharm using your browser.
+				</sub>
+			</div>
+		</a>
+		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-dark.svg" width="200" alt="neverinstall">
+			</div>
+			<br>
+			<b>All your favourite IDE's now available on the cloud</b>
+			<div>
+				<sub>
+				Neverinstall gives you an uninterrupted development experience and improved accessibility,
+				<br>
+				allowing you to code faster, better and on-the-go on your favourite IDEs like
+				<br>
+				Android Studio, VS Code, Jupyter and PyCharm using your browser.
+				</sub>
 			</div>
 		</a>
 		<br>
