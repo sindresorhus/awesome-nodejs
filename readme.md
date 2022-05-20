@@ -443,6 +443,7 @@
 - [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
 - [FuseBox](https://github.com/fuse-box/fuse-box) - Fast build system that combines the power of webpack, JSPM and SystemJS, with first-class TypeScript support.
 - [pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable.
+- [vite](https://github.com/vitejs/vite) - Front-end build tool and dev server supporting lightning fast hot module replacement and highly optimized, pre-configured static asset bundling.
 
 ### Hardware
 
