@@ -974,6 +974,7 @@
 - [Introduction to libuv: What's a Unicorn Velociraptor?](https://www.youtube.com/watch?v=_c51fcXRLGw) - `libuv` architecture, thread pool, and event loop, with its source code.
 - [libuv Cross platform asynchronous i/o](https://www.youtube.com/watch?v=kCJ3PFU8Ke8) - `libuv` architecture in detail, such as where it's actually using threads.
 - [You Don't Know Node - ForwardJS San Francisco](https://www.youtube.com/watch?v=oPo4EQmkjvY) - Explaining Node.js internals with quizzes about V8, libuv, event loop, module, stream, and cluster.
+- [Free Node.js online courses](https://skillcombo.com/topic/node/free/)
 
 ### Books
 
