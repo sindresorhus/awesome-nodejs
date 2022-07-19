@@ -492,6 +492,7 @@
 - [Marble.js](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
 - [Lad](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
 - [Ts.ED](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js. 
+- [@egomobile/http-server](https://github.com/egomobile/node-http-server) - Very fast HTTP server with similar API to [Express](https://github.com/expressjs/express), TypeScript opimized and built-in [controller framework](https://github.com/egomobile/node-http-server/wiki/Controllers), [GraphQL](https://github.com/egomobile/node-http-server/wiki/GraphQL) and OpenAPI support out of the box.
 
 ### Documentation
 
