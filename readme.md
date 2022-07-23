@@ -675,6 +675,7 @@
 - [ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
 - [pretty-error](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
 - [read-art](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
+- [human-signals](https://github.com/ehmicky/human-signals) - Human-friendly process signals.
 
 ### Compression
 
