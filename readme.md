@@ -5,7 +5,16 @@
 	</div>
 	<br>
 	<br>
-	<h2><a href="https://www.producthunt.com/posts/folder-peek">Check out my latest app</a></h2>
+	<br>
+	<div>
+		<sub>Check out my latest app</sub>
+		<br>
+		<h2>
+			<a href="https://www.producthunt.com/products/favorites-widget">Favorites Widget</a>
+			<br>
+			<sup>Call your favorite people directly from the iPhone Lock Screen</sup>
+		</h2>
+	</div>
 	<br>
 	<br>
 	<br>
@@ -28,18 +37,6 @@
 			<img src="https://sindresorhus.com/assets/thanks/retool-logo.svg" width="210"/>
 		</a>
 		<br>
-		<br>
-		<a href="https://doppler.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-node&utm_source=github">
-			<div>
-				<img src="https://dashboard.doppler.com/imgs/logo-long.svg" width="240" alt="Doppler">
-			</div>
-			<b>All your environment variables, in one place</b>
-			<div>
-				<sub>Stop struggling with scattered API keys, hacking together home-brewed tools,</sub>
-				<br>
-				<sup>and avoiding access controls. Keep your team and servers in sync with Doppler.</sup>
-			</div>
-		</a>
 		<br>
 		<a href="https://workos.com/?utm_campaign=github_repo&utm_medium=referral&utm_content=awesome-nodejs&utm_source=github">
 			<div>
@@ -73,24 +70,6 @@
 		</a>
 		<br>
 		<br>
-		<a href="https://www.gitpod.io/?utm_campaign=sindresorhus&utm_medium=referral&utm_content=awesome&utm_source=github">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/gitpod-logo-white-bg.svg" width="220" alt="Gitpod">
-			</div>
-			<b>Dev environments built for the cloud</b>
-			<div>
-				<sub>
-				Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev
-				<br>
-				environments for all your branches. As a result team members can instantly start coding with fresh dev environments
-				<br>
-				for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.
-				</sub>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
 		<a href="https://getstream.io/chat/sdk/ios/?utm_source=Github&utm_medium=Github_Repo_Content_Ad&utm_content=Developer&utm_campaign=Github_Jan2022_iOSChatSDK&utm_term=Sindresorhus#gh-light-mode-only">
 			<div>
 				<img src="https://sindresorhus.com/assets/thanks/stream-logo.svg" width="220" alt="Stream">
@@ -107,41 +86,6 @@
 			<br>
 			<div>
 				<b>Build Scalable Feeds & Chat Applications with Powerful APIs and Front End Components</b>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
-		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-light-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-light.svg" width="200" alt="neverinstall">
-			</div>
-			<br>
-			<b>All your favourite IDE's now available on the cloud</b>
-			<div>
-				<sub>
-				Neverinstall gives you an uninterrupted development experience and improved accessibility,
-				<br>
-				allowing you to code faster, better and on-the-go on your favourite IDEs like
-				<br>
-				Android Studio, VS Code, Jupyter and PyCharm using your browser.
-				</sub>
-			</div>
-		</a>
-		<a href="https://neverinstall.com/spaces/devtools?utm_source=github&utm_medium=sponsor&utm_campaign=sindre#gh-dark-mode-only">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/neverinstall-logo-dark.svg" width="200" alt="neverinstall">
-			</div>
-			<br>
-			<b>All your favourite IDE's now available on the cloud</b>
-			<div>
-				<sub>
-				Neverinstall gives you an uninterrupted development experience and improved accessibility,
-				<br>
-				allowing you to code faster, better and on-the-go on your favourite IDEs like
-				<br>
-				Android Studio, VS Code, Jupyter and PyCharm using your browser.
-				</sub>
 			</div>
 		</a>
 		<br>
@@ -550,7 +494,6 @@
 - [first-chunk-stream](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
 - [pad-stream](https://github.com/sindresorhus/pad-stream) - Pad each line in a stream.
 - [multistream](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
-- [stream-combiner2](https://github.com/substack/stream-combiner2) - Turn a pipeline into a single stream.
 - [readable-stream](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 - [through2-concurrent](https://github.com/almost/through2-concurrent) - Transform object streams concurrently.
 
@@ -931,7 +874,6 @@
 - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
 - [Nodeschool](https://github.com/nodeschool) - Learn Node.js with interactive lessons.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
-- [stream-handbook](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
 - [The Node Way](https://thenodeway.io) - An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
