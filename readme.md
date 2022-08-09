@@ -402,6 +402,7 @@
 - [term-size](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
 - [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 - [zx](https://github.com/google/zx) - Write shell scripts JavaScript.
+- [minimist](https://github.com/substack/minimist) - parse argument options.
 
 ### Build tools
 
