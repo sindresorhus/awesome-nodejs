@@ -485,6 +485,7 @@
 - [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 - [move-file](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 - [tempy](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+- [graceful-fs](https://github.com/isaacs/node-graceful-fs) - fs with incremental backoff on EMFILE.
 
 ### Control flow
 
