@@ -5,10 +5,6 @@
 	</div>
 	<br>
 	<br>
-	<h2><a href="https://www.producthunt.com/posts/one-thing">Check out my latest app — One Thing</a></h2>
-	<br>
-	<br>
-	<br>
 	<hr>
 	<p>
 		<p>
@@ -137,6 +133,21 @@
 				Easy APIs for paperwork. PDF generation, e-signature and embeddable no-code webforms.
 				<br>
 				The easiest way to build paperwork automation into your product.
+				</sub>
+			</div>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://sizzy.co/?utm_campaign=github_repo&utm_source=github&utm_medium=referral&utm_content=awesome-nodejs&utm_term=sindre">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/sizzy-logo.png" width="240" alt="Sizzy">
+			</div>
+			<div>
+				<sub>
+				<b>Before Sizzy:</b> web development is stressing you out, responsive design is hard, you have an overwhelming amount of opened tabs & apps.
+				<br>
+				<b>After Sizzy:</b> all the tools you need in one place, responsive design is a breeze, no more context switching.
 				</sub>
 			</div>
 		</a>
@@ -310,7 +321,6 @@
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
-- [nano-app](https://github.com/jinnatul/nano-app) - Node.js template generator, Ex: `npx nano-app project_name`.
 
 ### Functional programming
 
