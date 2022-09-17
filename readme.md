@@ -977,6 +977,8 @@
 - [Learn to build apps and APIs with Node.js](https://learnnode.com/friend/AWESOME) - Video course by Wes Bos.
 - [Real Time Web with Node.js](https://www.pluralsight.com/courses/code-school-real-time-web-with-nodejs)
 - [Learn and Understand Node.js](https://www.udemy.com/course/understand-nodejs/)
+- [A curated list of free Node.js courses](https://skillcombo.com/topic/node/free/)
+
 
 ### Cheatsheets
 
