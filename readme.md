@@ -939,6 +939,7 @@
 - [Node.js Cookbook](https://www.amazon.com/dp/1838558756)
 - [Node.js Design Patterns](https://www.nodejsdesignpatterns.com)
 - [Serverless Applications with Node.js](https://www.manning.com/books/serverless-applications-with-node-js)
+- [Tiny Nide Projects](https://www.manning.com/books/tiny-node-projects)
 
 ### Blogs
 
