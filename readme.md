@@ -897,6 +897,7 @@
 - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
 - [Using Express to Quickly Build a GraphQL Server](https://snipcart.com/blog/graphql-nodejs-express-tutorial)
+- [Hashing a Password in NodeJs](https://mojoauth.com/blog/hashing-passwords-in-nodejs/)
 
 ### Newsletters
 
