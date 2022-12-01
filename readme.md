@@ -925,6 +925,7 @@
 - [Error Handling in Node.js](https://www.joyent.com/node-js/production/design/errors)
 - [Teach Yourself Node.js in 10 Steps](https://ponyfoo.com/articles/teach-yourself-nodejs-in-10-steps)
 - [Mastering the filesystem in Node.js](https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801)
+- [Node.js Projects for Fun and Profit](https://freecontent.manning.com/node-js-projects-for-fun-and-profit/)
 - [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
 - [Semver: Tilde and Caret](https://nodesource.com/blog/semver-tilde-and-caret/)
 - [Why Asynchronous?](https://nodesource.com/blog/why-asynchronous/)
