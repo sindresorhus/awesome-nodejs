@@ -7,7 +7,7 @@
 	<br>
 	<br>
 	<div>
-		<sub>Check out my latest app 2</sub>
+		<sub>Check out my latest app 23124</sub>
 		<br>
 		<h2>
 			<a href="https://www.producthunt.com/products/favorites-widget">Favorites Widget</a>
