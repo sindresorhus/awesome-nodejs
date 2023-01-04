@@ -618,6 +618,7 @@
 - [ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility.
 - [pretty-error](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
 - [read-art](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
+- [n2words](https://github.com/forzagreen/n2words) - Convert numerical numbers to written numbers, in 25+ languages: `123` → `one hundred and twenty-three`.
 
 ### Compression
 
