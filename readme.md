@@ -888,6 +888,7 @@
 - [Understanding the Node.js Event Loop](https://nodesource.com/blog/understanding-the-nodejs-event-loop/)
 - [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
 - [Using Express to Quickly Build a GraphQL Server](https://snipcart.com/blog/graphql-nodejs-express-tutorial)
+- [14+ Best Node js Open Source Projects](https://flatlogic.com/blog/14-best-node-js-open-source-projects)
 
 ### Newsletters
 
