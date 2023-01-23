@@ -742,6 +742,7 @@
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
 - [better-queue](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 - [bullmq](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
+- [quirrel](https://github.com/quirrel-dev/quirrel) - Job Queueing for serverless.
 
 ### Node.js management
 
