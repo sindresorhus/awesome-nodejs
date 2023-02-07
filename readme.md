@@ -197,6 +197,7 @@
 	- [Tools](#tools)
 	- [Community](#community)
 	- [Miscellaneous](#miscellaneous-1)
+	- [Roadmaps](#roadmap)
 - [Related lists](#related-lists)
 
 ## Official
@@ -968,6 +969,9 @@
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - Tips, tricks, and resources for working with Node.js on Microsoft platforms.
 - [Module Requests & Ideas](https://github.com/sindresorhus/project-ideas) - Request a JavaScript module you wish existed or get ideas for modules.
 - [v8-perf](https://github.com/thlorenz/v8-perf) - Notes and resources related to V8 and thus Node.js performance.
+
+### Roadmap
+- [Node.js Developer Roadmap](#https://roadmap.sh/nodejs)
 
 ## Related lists
 
