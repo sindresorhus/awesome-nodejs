@@ -971,7 +971,7 @@
 - [v8-perf](https://github.com/thlorenz/v8-perf) - Notes and resources related to V8 and thus Node.js performance.
 
 ### Roadmap
-- [Node.js Developer Roadmap](#https://roadmap.sh/nodejs)
+- [Node.js Developer Roadmap](https://roadmap.sh/nodejs) - Roadmap for becoming a Node.js Developer.
 
 ## Related lists
 
