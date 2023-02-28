@@ -184,7 +184,7 @@
 	- [Weird](#weird)
 	- [Serialization](#serialization)
 	- [Miscellaneous](#miscellaneous)
-- [Packages Manager](#packages-manager)
+- [Package Manager](#package-manager)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
 	- [Discovery](#discovery)
