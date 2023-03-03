@@ -419,6 +419,7 @@
 - [ThinkJS](https://github.com/thinkjs/thinkjs) - Framework with ES2015+ support, WebSockets, REST API.
 - [ActionHero](https://github.com/actionhero/actionhero) - Framework for making reusable & scalable APIs for TCP sockets, WebSockets, and HTTP clients.
 - [seneca](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
+- [FoalTS](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. rocket Simple and easy to use, TypeScript-based and well-documented.
 - [AdonisJs](https://github.com/adonisjs/core) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 - [Moleculer](https://github.com/moleculerjs/moleculer) - Fast & powerful microservices framework.
 - [Nest](https://github.com/nestjs/nest) - Angular-inspired framework for building efficient and scalable server-side apps.
