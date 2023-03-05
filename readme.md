@@ -10,9 +10,9 @@
 		<sub>Check out my latest app</sub>
 		<br>
 		<h2>
-			<a href="https://www.producthunt.com/products/favorites-widget">Favorites Widget</a>
+			<a href="https://www.producthunt.com/posts/today-14">Today</a>
 			<br>
-			<sup>Call your favorite people directly from the iPhone Lock Screen</sup>
+			<sup>Quickly view your schedule in the macOS menu bar</sup>
 		</h2>
 	</div>
 	<br>
@@ -57,15 +57,6 @@
 			<b>Strapi is the leading open-source headless CMS.</b>
 			<div>
 				<sup>It’s 100% JavaScript, fully customizable, and developer-first.</sup>
-			</div>
-		</a>
-		<br>
-		<a href="https://oss.capital">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/oss-capital-logo-white-bg.svg" width="300" alt="OSS Capital">
-			</div>
-			<div>
-				<sup><b>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</b></sup>
 			</div>
 		</a>
 		<br>
@@ -583,6 +574,7 @@
 - [schema-inspector](https://github.com/schema-inspector/schema-inspector) - JSON API sanitization and validation.
 - [ajv](https://github.com/ajv-validator/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
 - [Superstruct](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
+- [yup](https://github.com/jquense/yup) - Object schema validation.
 
 ### Parsing
 
