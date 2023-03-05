@@ -862,9 +862,9 @@
 
 ## Package Manager
 
-- [npm](https://docs.npmjs.com/about-npm) - Npm is the default package manager.
-- [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
-- [pnpm](https://pnpm.io/) - Fast, disk space efficient package manager.
+- [npm](https://docs.npmjs.com/about-npm) - The default package manager.
+- [pnpm](https://pnpm.io) - Disk space efficient package manager.
+- [yarn](https://yarnpkg.com) - Alternative package manager.
 
 ## Resources
 
