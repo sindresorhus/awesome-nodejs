@@ -184,6 +184,7 @@
 	- [Weird](#weird)
 	- [Serialization](#serialization)
 	- [Miscellaneous](#miscellaneous)
+- [Package Manager](#package-manager)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
 	- [Discovery](#discovery)
@@ -858,6 +859,12 @@
 - [patch-package](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 - [editly](https://github.com/mifi/editly) - Declarative video editing API.
 - [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
+
+## Package Manager
+
+- [npm](https://docs.npmjs.com/about-npm) - The default package manager.
+- [pnpm](https://pnpm.io) - Disk space efficient package manager.
+- [yarn](https://yarnpkg.com) - Alternative package manager.
 
 ## Resources
 
