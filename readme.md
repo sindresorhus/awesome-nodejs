@@ -112,6 +112,34 @@
 		</a>
 		<br>
 		<br>
+		<br>
+		<a href="https://serpapi.com#gh-light-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-light.svg" width="130" alt="SerpApi">
+			</div>
+			<b>API to get search engine results with ease.</b>
+		</a>
+		<a href="https://serpapi.com#gh-dark-mode-only">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" width="130" alt="SerpApi">
+			</div>
+			<b>API to get search engine results with ease.</b>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://dashcam.io?ref=sindresorhus_awesome_nodejs">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/dashcam-logo.png" width="280" alt="Dashcam">
+			</div>
+			<b>Never miss another bug</b>
+			<div>
+				<sup>Capture the steps to reproduce every bug, every time, with Dashcam for desktop.</sup>
+			</div>
+		</a>
+		<br>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
