@@ -162,6 +162,7 @@
 
 ## Contents
 
+- [Contents](#contents)
 - [Official](#official)
 - [Packages](#packages)
 	- [Mad science](#mad-science)
@@ -575,6 +576,8 @@
 - [math-clamp](https://github.com/sindresorhus/math-clamp) - Clamp a number.
 - [algebra](https://github.com/fibo/algebra) - Algebraic structures.
 - [multimath](https://github.com/nodeca/multimath) - Core to create fast image math in WebAssembly and JS.
+- [eigen-js](https://github.com/BertrandBev/eigen-js) Comprehensive and blazing fast linear algebra library.
+
 
 ### Date
 
