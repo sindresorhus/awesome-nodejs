@@ -257,6 +257,7 @@
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
 - [xlsx](https://github.com/SheetJS/sheetjs) - Pure JS Excel spreadsheet reader and writer.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
+- [IntelliNode](https://github.com/Barqawiz/IntelliNode) -  lightning-fast access to the latest AI models.
 
 ### Command-line apps
 
