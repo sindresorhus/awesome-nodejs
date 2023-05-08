@@ -976,6 +976,7 @@
 - [Express.js](https://github.com/azat-co/cheatsheets/tree/master/express4)
 - [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
 - [Strong Node.js](https://github.com/jesusprubio/strong-node) - Checklist for source code security analysis of a Node.js web service.
+- [Node.js Developer Roadmap](https://roadmap.sh/nodejs) - Roadmap for becoming a Node.js Developer.
 
 ### Tools
 
