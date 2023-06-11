@@ -764,6 +764,10 @@
 - [docsify](https://github.com/docsifyjs/docsify) - Markdown documentation site generator with no statically built HTML files.
 - [Charge](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
 
+### ERP / CRM
+- [IDURAR ERP/CRM](https://github.com/idurar/idurar-erp-crm) - IDURAR is Open Source ERP/CRM (Invoice / Inventory / Accounting / HR) Based on Mern Stack (Node.js / Express.js / MongoDb / React.js ) with Ant Design (AntD) and Redux
+- [twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce
+
 ### Content management systems
 
 - [KeystoneJS](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
