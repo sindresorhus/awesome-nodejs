@@ -11,6 +11,7 @@ Ensure your pull request adheres to the following guidelines:
 - Don't open a Draft / WIP pull request while you work on the guidelines. A pull request should be 100% ready and should adhere to all the guidelines when you open it.
 - Keep in mind that the list is very mature by now, so the bar of getting something accepted is high. Only submit something unique and generally useful. The world (and this list) doesn't need yet another ORM or framework. For CLI tools, the bar is especially high, and unless it's something very awesome, I would suggest submitting to [awesome-cli-apps](https://github.com/aharris88/awesome-cli-apps) instead.
 - Boilerplates are not accepted as most boilerplates are too opinionated and low-quality and I don't have time to comment on everything they need to improve.
+- SDKs and deploy tools for SaaS' are not accepted.
 - If you submit a project that is similar to an existing project in the list, argue how it's better.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Suggested packages should be tested and documented.

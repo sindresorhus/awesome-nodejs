@@ -76,18 +76,6 @@
 		<br>
 		<br>
 		<br>
-		<a href="https://dashcam.io?ref=sindresorhus_awesome_nodejs">
-			<div>
-				<img src="https://sindresorhus.com/assets/thanks/dashcam-logo.png" width="280" alt="Dashcam">
-			</div>
-			<b>Never miss another bug</b>
-			<div>
-				<sup>Capture the steps to reproduce every bug, every time, with Dashcam for desktop.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
 	</p>
 	<hr>
 	<br>
