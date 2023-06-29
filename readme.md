@@ -257,6 +257,7 @@
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
+- [genezio](https://github.com/Genez-io/genezio) - Deploy your JS/TS/Dart website (backend + frontend) to [genez.io](https://genez.io)'s serverless infrastructure for free.
 
 ### Functional programming
 
