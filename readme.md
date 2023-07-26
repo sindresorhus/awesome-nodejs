@@ -6,17 +6,6 @@
 	<br>
 	<br>
 	<br>
-	<div>
-		<sub>Check out my latest app</sub>
-		<br>
-		<h2>
-			<a href="https://www.producthunt.com/posts/hyperduck">Hyperduck</a>
-			<br>
-			<sup>Send links from your iOS devices to your Mac (better than AirDrop)</sup>
-		</h2>
-	</div>
-	<br>
-	<br>
 	<br>
 	<hr>
 	<p>
@@ -72,6 +61,16 @@
 				<img src="https://sindresorhus.com/assets/thanks/serpapi-logo-dark.svg" width="130" alt="SerpApi">
 			</div>
 			<b>API to get search engine results with ease.</b>
+		</a>
+		<br>
+		<br>
+		<br>
+		<a href="https://transloadit.com?utm_source=sindresorhus&utm_medium=referral&utm_campaign=sponsorship&utm_content=awesome-nodejs">
+			<picture>
+				<source width="320" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo-dark.svg">
+				<source width="320" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo.svg">
+				<img width="320" src="https://sindresorhus.com/assets/thanks/transloadit-logo.svg" alt="Transloadit logo">
+			</picture>
 		</a>
 		<br>
 		<br>
