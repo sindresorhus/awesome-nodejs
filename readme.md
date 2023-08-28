@@ -755,6 +755,7 @@
 
 ### Content management systems
 
+- [Graphweaver](https://github.com/exogee-technology/graphweaver) - CMS and GraphQL Gateway - Turn multiple data sources into a single GraphQL API.
 - [KeystoneJS](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
 - [Strapi](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
