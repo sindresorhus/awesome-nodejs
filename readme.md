@@ -755,12 +755,12 @@
 
 ### Content management systems
 
-- [Graphweaver](https://github.com/exogee-technology/graphweaver) - CMS and GraphQL Gateway - Turn multiple data sources into a single GraphQL API.
 - [KeystoneJS](https://github.com/keystonejs/keystone) - CMS and web application platform built on Express and MongoDB.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - Content management system with an emphasis on intuitive front end content editing and administration built on Express and MongoDB.
 - [Strapi](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
 - [Factor](https://github.com/FactorJS/factor) - Vue.js dashboard framework and headless CMS.
 - [AdminBro](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
+- [Graphweaver](https://github.com/exogee-technology/graphweaver) - CMS and Headless GraphQL API - Instant GraphQL API on Postgres, MySQL, SQLite and More.
 
 ### Forum
 
