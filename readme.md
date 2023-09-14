@@ -136,6 +136,7 @@
 	- [Email](#email)
 	- [Job queues](#job-queues)
 	- [Node.js management](#nodejs-management)
+        - [Cross-platform integration](#cross-platform-integration)
 	- [Natural language processing](#natural-language-processing)
 	- [Process management](#process-management)
 	- [Automation](#automation)
@@ -721,7 +722,7 @@
 
 ### Cross-platform integration
 
-- [napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API.
+- [napi-rs](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
 
 ### Natural language processing
 
