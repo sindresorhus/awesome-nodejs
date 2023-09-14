@@ -136,7 +136,7 @@
 	- [Email](#email)
 	- [Job queues](#job-queues)
 	- [Node.js management](#nodejs-management)
-        - [Cross-platform integration](#cross-platform-integration)
+	- [Cross-platform integration](#cross-platform-integration)
 	- [Natural language processing](#natural-language-processing)
 	- [Process management](#process-management)
 	- [Automation](#automation)
