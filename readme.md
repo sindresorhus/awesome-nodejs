@@ -719,6 +719,10 @@
 - [nodenv](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
 - [fnm](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
 
+### Cross-platform integration
+
+- [napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API.
+
 ### Natural language processing
 
 - [retext](https://github.com/retextjs/retext) - An extensible natural language system.
