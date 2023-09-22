@@ -136,6 +136,7 @@
 	- [Email](#email)
 	- [Job queues](#job-queues)
 	- [Node.js management](#nodejs-management)
+	- [Cross-platform integration](#cross-platform-integration)
 	- [Natural language processing](#natural-language-processing)
 	- [Process management](#process-management)
 	- [Automation](#automation)
@@ -718,6 +719,13 @@
 - [nvm for Windows](https://github.com/coreybutler/nvm-windows) - Version management for Windows.
 - [nodenv](https://github.com/nodenv/nodenv) - Version manager that is similar to Ruby's rbenv. It supports auto version switching.
 - [fnm](https://github.com/Schniz/fnm) - Cross-platform Node.js version manager built in Rust.
+
+### Cross-platform integration
+
+- [napi-rs](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
+- [Neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
+- [Edge.js](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
+- [DotNetJS](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
 
 ### Natural language processing
 
