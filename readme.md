@@ -724,7 +724,7 @@
 
 - [napi-rs](https://github.com/napi-rs/napi-rs) - Framework for building compiled Node.js add-ons in Rust via Node-API.
 - [Neon](https://github.com/neon-bindings/neon) - Rust bindings for writing safe and fast native Node.js modules.
-- [Edge.js](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in the same process on Windows, MacOS, and Linux.
+- [Edge.js](https://github.com/tjanczuk/edge) - Run .NET and Node.js code in the same process on Windows, macOS, and Linux.
 - [DotNetJS](https://github.com/Elringus/DotNetJS) - Consume .NET libraries in Node.js using this .NET interoperability layer.
 
 ### Natural language processing
