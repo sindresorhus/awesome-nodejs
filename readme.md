@@ -304,7 +304,7 @@
 - [get-stdin](https://github.com/sindresorhus/get-stdin) - Easier stdin.
 - [log-update](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
 - [Ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
-- [listr](https://github.com/samverschueren/listr) - Terminal task list.
+- [listr2](https://github.com/listr2/listr2) - Terminal task list.
 - [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
 - [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
