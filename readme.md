@@ -838,6 +838,7 @@
 - [npm](https://docs.npmjs.com/about-npm) - The default package manager.
 - [pnpm](https://pnpm.io) - Disk space efficient package manager.
 - [yarn](https://yarnpkg.com) - Alternative package manager.
+- [bun](https://bun.sh) - All-in-one toolkit for JavaScript and TypeScript apps. 
 
 ## Resources
 
