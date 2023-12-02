@@ -346,6 +346,7 @@
 - [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
 - [webpack](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
+- [esbuild](https://github.com/evanw/esbuild) - Bundler for the web with extremely fast speed.
 - [gulp](https://github.com/gulpjs/gulp) - Streaming and fast build system that favors code over config.
 - [Broccoli](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 - [Brunch](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
@@ -378,6 +379,7 @@
 - [Fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework.
 - [Next.js](https://github.com/vercel/next.js) - Minimalistic framework for server-rendered universal JavaScript web apps.
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) - Minimalistic framework for server-rendered Vue.js apps.
+- [nitro](https://github.com/unjs/nitro) - Create, build and deploy universal web servers.
 - [Hapi](https://github.com/hapijs/hapi) - Framework for building applications and services.
 - [Micro](https://github.com/vercel/micro) - Minimalistic microservice framework with an async approach.
 - [Koa](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
@@ -396,7 +398,7 @@
 - [Tinyhttp](https://github.com/tinyhttp/tinyhttp) - Modern and fast Express-like web framework.
 - [Marble.js](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
 - [Lad](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
-- [Ts.ED](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js. 
+- [Ts.ED](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js.
 
 ### Documentation
 
@@ -533,6 +535,7 @@
 - [linkify-it](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
 - [url-pattern](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for URLs and other strings.
 - [embedza](https://github.com/nodeca/embedza) - Create HTML snippets/embeds from URLs using info from oEmbed, Open Graph, meta tags.
+- [ufo](https://github.com/unjs/ufo) - Full-featured URL utils.
 
 ### Data validation
 
@@ -594,6 +597,7 @@
 - [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
 - [DHCP](https://github.com/infusion/node-dhcp) - DHCP client and server.
 - [netcat](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
+- [h3](https://github.com/unjs/h3) Minimal HTTP framework built for high performance and portability.
 
 ### Database
 
@@ -659,6 +663,7 @@
 - [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 - [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 - [testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [Vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 
 ### Security
 
@@ -760,6 +765,9 @@
 - [DocPad](https://github.com/docpad/docpad) - Static site generator with dynamic abilities and huge plugin ecosystem.
 - [docsify](https://github.com/docsifyjs/docsify) - Markdown documentation site generator with no statically built HTML files.
 - [Charge](https://github.com/brandonweiss/charge) - Opinionated, zero-config static site generator using JSX and MDX.
+- [Vuepress](https://github.com/vuepress/vuepress-next) - Vue-powered Static Site Generator.
+- [Vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+- [Nuxt Content](https://github.com/nuxt/content) - File-based CMS built on Nuxt, powered by Markdown and Vue components.
 
 ### Content management systems
 
