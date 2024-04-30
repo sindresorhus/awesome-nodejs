@@ -714,6 +714,7 @@
 
 ### Job queues
 
+- [bree](https://github.com/breejs/bree) - Job task scheduler with worker threads, cron, Date, and human syntax support
 - [bull](https://github.com/OptimalBits/bull) - Persistent job and message queue.
 - [agenda](https://github.com/agenda/agenda) - MongoDB-backed job scheduling.
 - [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
