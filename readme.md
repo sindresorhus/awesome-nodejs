@@ -919,6 +919,9 @@
 - [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
 - [Node.js Cookbook](https://www.amazon.com/dp/1838558756)
 - [Node.js Design Patterns](https://www.nodejsdesignpatterns.com)
+- [Node.js: The Comprehensive Guide to Server-Side JavaScript Programming](https://www.amazon.com/dp/1493222929)
+- [Tao of Node](https://www.taoofnode.com)
+- [Distributed Systems with Node.js](https://www.amazon.com/dp/1492077291)
 
 ### Blogs
 
@@ -931,6 +934,7 @@
 - [Real Time Web with Node.js](https://www.pluralsight.com/courses/code-school-real-time-web-with-nodejs)
 - [Learn and Understand Node.js](https://www.udemy.com/course/understand-nodejs/)
 - [Node.js Full Stack Developer Course](https://kinsta.com/academy/course/node-js-full-stack-developer/)
+- [Understanding Node.js: Core Concepts](https://www.udemy.com/course/understanding-nodejs-core-concepts)
 
 ### Cheatsheets
 
