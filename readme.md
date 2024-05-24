@@ -931,6 +931,7 @@
 - [Real Time Web with Node.js](https://www.pluralsight.com/courses/code-school-real-time-web-with-nodejs)
 - [Learn and Understand Node.js](https://www.udemy.com/course/understand-nodejs/)
 - [Node.js Full Stack Developer Course](https://kinsta.com/academy/course/node-js-full-stack-developer/)
+- [Understanding Node.js: Core Concepts](https://www.udemy.com/course/understanding-nodejs-core-concepts/)
 
 ### Cheatsheets
 
