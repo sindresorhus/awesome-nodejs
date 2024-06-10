@@ -866,6 +866,7 @@
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
 - [Portable Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - Practical guide on how to write portable/cross-platform Node.js code.
 - [Build a real web app with no frameworks](https://frameworkless.js.org/course) - A set of video tutorials/livestreams to help you build and deploy a real, live web app using a handful of simple libraries and the core Node.js modules.
+- [Roadmap.sh](https://roadmap.sh/nodejs) - Community created learning roadmap for Node.JS.
 
 ### Discovery
 
