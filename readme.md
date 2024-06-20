@@ -724,7 +724,7 @@
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
 - [better-queue](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 - [bullmq](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
-- [bree](https://github.com/breejs/bree) - Job task scheduler with worker threads, cron, Date, and human syntax support
+- [bree](https://github.com/breejs/bree) - Job task scheduler with worker threads, cron, Date, and human syntax support.
 
 ### Node.js management
 
