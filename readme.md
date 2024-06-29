@@ -75,6 +75,22 @@
 		<br>
 		<br>
 		<br>
+		<a href="https://logto.io/?ref=sindre">
+			<div>
+				<picture>
+					<source width="200" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/logto-logo-dark.svg?x">
+					<source width="200" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/logto-logo-light.svg?x">
+					<img width="200" src="https://sindresorhus.com/assets/thanks/logto-logo-light.svg?x" alt="Logto logo">
+				</picture>
+			</div>
+			<b>The better identity infrastructure for developers</b>
+			<div>
+				<sup>Logto is an open-source Auth0 alternative designed for every app.</sup>
+			</div>
+		</a>
+		<br>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
@@ -176,7 +192,7 @@
 
 - [webtorrent](https://github.com/webtorrent/webtorrent) - Streaming torrent client for Node.js and the browser.
 - [peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client.
-- [ipfs](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
+- [ipfs](https://github.com/ipfs/helia) - Distributed file system that seeks to connect all computing devices with the same system of files.
 - [stackgl](https://github.com/stackgl) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [peerwiki](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 - [peercast](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
@@ -222,7 +238,6 @@
 - [license-checker](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 - [browser-run](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 - [tmpin](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-- [wifi-password](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 - [wallpaper](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [pen](https://github.com/hatashiro/pen) - Live Markdown preview in the browser from your favorite editor.
 - [dark-mode](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
@@ -304,7 +319,7 @@
 - [get-stdin](https://github.com/sindresorhus/get-stdin) - Easier stdin.
 - [log-update](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
 - [Ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
-- [listr](https://github.com/samverschueren/listr) - Terminal task list.
+- [listr2](https://github.com/listr2/listr2) - Terminal task list.
 - [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
 - [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
@@ -334,7 +349,7 @@
 - [Bit](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
 - [gradient-string](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 - [oclif](https://github.com/oclif/oclif) - CLI framework complete with parser, automatic documentation, testing, and plugins.
-- [term-size](https://github.com/sindresorhus/term-size) - Reliably get the terminal window size.
+- [terminal-size](https://github.com/sindresorhus/terminal-size) - Reliably get the terminal window size.
 - [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 - [zx](https://github.com/google/zx) - Write shell scripts JavaScript.
 
@@ -393,7 +408,8 @@
 - [Tinyhttp](https://github.com/tinyhttp/tinyhttp) - Modern and fast Express-like web framework.
 - [Marble.js](https://github.com/marblejs/marble) - Functional reactive framework for building server-side apps, based on TypeScript and RxJS.
 - [Lad](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
-- [Ts.ED](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js. 
+- [Ts.ED](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js.
+- [Hono](https://github.com/honojs/hono) - Small and fast web framework.
 
 ### Documentation
 
@@ -406,7 +422,6 @@
 
 - [del](https://github.com/sindresorhus/del) - Delete files/folders using globs.
 - [globby](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
-- [cpy](https://github.com/sindresorhus/cpy) - Copy files.
 - [chokidar](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
 - [find-up](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
 - [proper-lockfile](https://github.com/moxystudio/node-proper-lockfile) - Inter-process and inter-machine lockfile utility.
@@ -414,7 +429,6 @@
 - [write-json-file](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
 - [fs-write-stream-atomic](https://github.com/npm/fs-write-stream-atomic) - Like `fs.createWriteStream()`, but atomic.
 - [filenamify](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
-- [lnfs](https://github.com/kevva/lnfs) - Force create symlinks like `ln -fs`.
 - [istextorbinary](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
@@ -434,7 +448,7 @@
 	- [More…](https://github.com/sindresorhus/promise-fun)
 - Observables
 	- [RxJS](https://github.com/ReactiveX/RxJS) - Reactive programming.
-	- [observable-to-promise](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
+	- [observable-to-promise](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
 	- [More…](https://github.com/sindresorhus/awesome-observables)
 - Streams
 	- [Highland.js](https://github.com/caolan/highland) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
@@ -471,12 +485,12 @@
 ### Image
 
 - [sharp](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
-- [image-type](https://github.com/sindresorhus/image-type) - Detect the image type of a Buffer/Uint8Array.
+- [image-type](https://github.com/sindresorhus/image-type) - Detect the type of an image.
+- [image-dimensions](https://github.com/sindresorhus/image-dimensions) - Get the dimensions of an image.
 - [gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 - [lwip](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
 - [pica](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
 - [jimp](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
-- [probe-image-size](https://github.com/nodeca/probe-image-size) - Get the size of most image formats without a full download.
 - [qrcode](https://github.com/soldair/node-qrcode) - QR code and bar code generator.
 - [ImageScript](https://github.com/matmen/ImageScript) - Image processing in JavaScript, utilizing WebAssembly for performance.
 
@@ -542,6 +556,7 @@
 - [ajv](https://github.com/ajv-validator/ajv) - The fastest JSON Schema validator. Supports v5, v6 and v7 proposals.
 - [Superstruct](https://github.com/ianstormtaylor/superstruct) - Simple and composable way to validate data in JavaScript (and TypeScript).
 - [yup](https://github.com/jquense/yup) - Object schema validation.
+- [zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference.
 
 ### Parsing
 
@@ -585,7 +600,6 @@
 - [Archiver](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
 - [pako](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
 - [tar-stream](https://github.com/mafintosh/tar-stream) - Streaming tar parser and generator. Also see [tar-fs](https://github.com/mafintosh/tar-fs).
-- [decompress](https://github.com/kevva/decompress) - Decompression module with support for `tar`, `tar.gz` and `zip` files out of the box.
 
 ### Network
 
@@ -619,6 +633,7 @@
 	- [MikroORM](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, PostgreSQL, MySQL and SQLite.
 	- [Prisma](https://github.com/prisma/prisma) - Modern database access (ORM alternative). Auto-generated and type-safe query builder in TypeScript. Supports PostgreSQL, MySQL & SQLite.
  	- [Entity Access](https://github.com/Entity-Access/entity-access/actions) - Inspired from Entity Framework Core, Entity Access is ORM with Arrow Function to SQL Translator helps you write small readable queries.
+ 	- [Drizzle ORM](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that supports various databases such as PostgreSQL.
 - Query builder
 	- [Knex](https://github.com/knex/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 - Other
@@ -711,6 +726,7 @@
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) - Build Amazon Simple Queue Service (SQS) based apps without the boilerplate.
 - [better-queue](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 - [bullmq](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
+- [bree](https://github.com/breejs/bree) - Job task scheduler with worker threads, cron, date, and human syntax support.
 
 ### Node.js management
 
@@ -769,6 +785,7 @@
 - [Strapi](https://github.com/strapi/strapi) - Content Management Framework (headless-CMS) to build powerful APIs.
 - [Factor](https://github.com/FactorJS/factor) - Vue.js dashboard framework and headless CMS.
 - [AdminBro](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
+- [Graphweaver](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
 
 ### Forum
 
@@ -812,7 +829,6 @@
 - [adit](https://github.com/markelog/adit) - SSH tunneling made simple.
 - [file-type](https://github.com/sindresorhus/file-type) - Detect the file type of a Buffer.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - Rate limiter that makes throttling easy.
-- [ow](https://github.com/sindresorhus/ow) - Function argument validation for humans.
 - [webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) - Access the system clipboard (copy/paste).
 - [node-pre-gyp](https://github.com/mapbox/node-pre-gyp) - Makes it easy to publish and install Node.js C++ addons from binaries.
@@ -824,21 +840,22 @@
 - [jsdom](https://github.com/jsdom/jsdom) - JavaScript implementation of HTML and the DOM.
 - [@sindresorhus/is](https://github.com/sindresorhus/is) - Type check values.
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - Get, set, or delete nested properties of process.env using a dot path.
-- [emittery](https://github.com/sindresorhus/emittery) - Simple and modern async event emitter.
 - [node-video-lib](https://github.com/gkozlenko/node-video-lib) - Pure JavaScript library for working with MP4 and FLV video files and creating MPEG-TS chunks for HLS streaming.
-- [basic-ftp](https://github.com/patrickjuchli/basic-ftp) – FTP/FTPS client.
+- [basic-ftp](https://github.com/patrickjuchli/basic-ftp) - FTP/FTPS client.
 - [cashify](https://github.com/xxczaki/cashify) - Currency conversion.
 - [genepi](https://github.com/Geode-solutions/genepi) - Automatically generate a native Node.js addon from C++ code.
 - [husky](https://github.com/typicode/husky) - Create Git hook scripts.
 - [patch-package](https://github.com/ds300/patch-package) - Make and preserve fixes to npm dependencies.
 - [editly](https://github.com/mifi/editly) - Declarative video editing API.
 - [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
+- [uint8array-extras](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
 
 ## Package Manager
 
 - [npm](https://docs.npmjs.com/about-npm) - The default package manager.
 - [pnpm](https://pnpm.io) - Disk space efficient package manager.
 - [yarn](https://yarnpkg.com) - Alternative package manager.
+- [bun](https://bun.sh) - All-in-one toolkit for JavaScript and TypeScript apps.
 
 ## Resources
 
