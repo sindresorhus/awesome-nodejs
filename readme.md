@@ -410,6 +410,7 @@
 - [Lad](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
 - [Ts.ED](https://github.com/tsedio/tsed) - Intituive TypeScript framework for building server-side apps on top of Express.js or Koa.js.
 - [Hono](https://github.com/honojs/hono) - Small and fast web framework.
+- [Eicrud](https://github.com/honojs/hono) - Opinionated framework extending Nest with CRUD services, user management commands, and role-based access control.
 
 ### Documentation
 
