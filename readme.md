@@ -620,6 +620,7 @@
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
 	- [@databases](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
 	- [pg-mem](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
+ 	- [Liam ERD](https://github.com/liam-hq/liam) - Beautiful Database Visualizer for your PostgreSQL, MySQL, SQLite and Prisma schema.
 
 ### Testing
 
