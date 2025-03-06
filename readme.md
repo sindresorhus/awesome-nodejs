@@ -849,7 +849,6 @@
 
 - [npms](https://npms.io) - Superb package search with deep analysis of package quality using a [myriad of metrics](https://npms.io/about).
 - [npm addict](https://npmaddict.com) - Your daily injection of npm packages.
-- [npm-compare.com](https://npm-compare.com) - Compare and discover npm packages.
 
 ### Articles
 
