@@ -702,6 +702,7 @@
 - [better-queue](https://github.com/diamondio/better-queue) - Simple and efficient job queue when you cannot use Redis.
 - [bullmq](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
 - [bree](https://github.com/breejs/bree) - Job task scheduler with worker threads, cron, date, and human syntax support.
+- [pg-boss](https://github.com/timgit/pg-boss) - Job queue built on top of PostgreSQL. offers workers and cron jobs
 
 ### Node.js management
 
