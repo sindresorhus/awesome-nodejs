@@ -328,6 +328,7 @@
 - [terminal-size](https://github.com/sindresorhus/terminal-size) - Reliably get the terminal window size.
 - [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 - [zx](https://github.com/google/zx) - Write shell scripts JavaScript.
+- [auto-dep-install](https://github.com/sarthakNITT/auto-dep-install) - Automate installation of missing dependencies in JavaScript/TypeScript projects based on import analysis.
 
 ### Build tools
 
