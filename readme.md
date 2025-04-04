@@ -30,16 +30,6 @@
 		</a>
 		<br>
 		<br>
-		<a href="https://transloadit.com?utm_source=sindresorhus&utm_medium=referral&utm_campaign=sponsorship&utm_content=awesome-nodejs">
-			<picture>
-				<source width="320" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo-dark.svg">
-				<source width="320" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/transloadit-logo.svg">
-				<img width="320" src="https://sindresorhus.com/assets/thanks/transloadit-logo.svg" alt="Transloadit logo">
-			</picture>
-		</a>
-		<br>
-		<br>
-		<br>
 		<a href="https://logto.io/?ref=sindre">
 			<div>
 				<picture>
