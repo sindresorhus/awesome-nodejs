@@ -453,7 +453,6 @@
 - [sharp](https://github.com/lovell/sharp) - The fastest module for resizing JPEG, PNG, WebP and TIFF images.
 - [image-type](https://github.com/sindresorhus/image-type) - Detect the type of an image.
 - [image-dimensions](https://github.com/sindresorhus/image-dimensions) - Get the dimensions of an image.
-- [gm](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick wrapper.
 - [lwip](https://github.com/EyalAr/lwip) - Lightweight image processor which does not require ImageMagick.
 - [pica](https://github.com/nodeca/pica) - High quality & fast resize (lanczos3) in pure JS. Alternative to canvas drawImage(), when no pixelation allowed.
 - [jimp](https://github.com/oliver-moran/jimp) - Image processing in pure JavaScript.
