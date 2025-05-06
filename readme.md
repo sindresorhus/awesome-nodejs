@@ -750,6 +750,7 @@
 - [Factor](https://github.com/FactorJS/factor) - Vue.js dashboard framework and headless CMS.
 - [AdminBro](https://github.com/SoftwareBrothers/adminjs) - Auto-generated admin panel with CRUD for all your resources.
 - [Graphweaver](https://github.com/exogee-technology/graphweaver) - CMS and headless GraphQL API.
+- [Kottster](https://github.com/kottster/kottster) - Low-code admin panel for easy viewing and managing data in the database.
 
 ### Forum
 
