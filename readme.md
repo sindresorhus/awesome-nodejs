@@ -145,6 +145,7 @@
 - [Pipcook](https://github.com/alibaba/pipcook) - Front-end algorithm framework to create a machine learning pipeline.
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
+- [creatify-mcp](https://github.com/TSavo/creatify-mcp) - Model Context Protocol server that exposes Creatify AI's video generation capabilities to AI assistants, enabling natural language video creation workflows.
 - [xlsx](https://github.com/SheetJS/sheetjs) - Pure JS Excel spreadsheet reader and writer.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
 
@@ -218,6 +219,7 @@
 - [superagent](https://github.com/visionmedia/superagent) - HTTP request library.
 - [http-fake-backend](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
 - [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
+- [creatify-api-ts](https://github.com/TSavo/creatify-api-ts) - TypeScript client library for Creatify AI's video generation API, providing type-safe access to avatar videos, URL-to-video conversion, text-to-speech, and AI editing tools.
 - [gotql](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got](https://github.com/sindresorhus/got).
 - [global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 - [smoke](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
