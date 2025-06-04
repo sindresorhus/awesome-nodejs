@@ -332,6 +332,7 @@
 - [Micro](https://github.com/vercel/micro) - Minimalistic microservice framework with an async approach.
 - [Koa](https://github.com/koajs/koa) - Framework designed by the team behind Express, which aims to be a smaller, more expressive, and more robust foundation for web applications and APIs.
 - [Express](https://github.com/expressjs/express) - Web application framework, providing a robust set of features for building single and multi-page, and hybrid web applications.
+- [Ultimate Express](https://github.com/dimdenGD/ultimate-express) - Fastest http server with full Express compatibility, based on µWebSockets.
 - [Feathers](https://github.com/feathersjs/feathers) - Microservice framework built in the spirit of Express.
 - [LoopBack](https://github.com/loopbackio/loopback-next) - Powerful framework for creating REST APIs and easily connecting to backend data sources.
 - [Meteor](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework. *(You might like [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
