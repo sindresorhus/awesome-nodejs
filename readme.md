@@ -614,6 +614,7 @@
 
 ### Security
 
+- [snaf](https://github.com/sarp75/snaf) - Framework-agnostic XSS protection middleware for Node.js with zero dependencies.
 - [upash](https://github.com/simonepri/upash) - Unified API for all password hashing algorithms.
 - [themis](https://github.com/cossacklabs/themis) - Multilanguage framework for making typical encryption schemes easy to use: data at rest, authenticated data exchange, transport protection, authentication, and so on.
 - [GuardRails](https://github.com/apps/guardrails) - GitHub app that provides security feedback in pull requests.
