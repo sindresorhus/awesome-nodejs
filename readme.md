@@ -753,7 +753,7 @@
 
 ### Feature management
 
-- [Featurevisor](https://github.com/featurevisor/featurevisor] - Feature flags management, a/b tests, and remote configuration with Git
+- [Featurevisor](https://github.com/featurevisor/featurevisor] - Feature flags management, a/b tests, and remote configuration with Git.
 
 ### Miscellaneous
 
