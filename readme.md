@@ -347,6 +347,7 @@
 - [Lad](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
 - [Ts.ED](https://github.com/tsedio/tsed) - Intuitive  TypeScript framework for building server-side apps on top of Express.js or Koa.js.
 - [Hono](https://github.com/honojs/hono) - Small and fast web framework.
+- [Gaman](https://github.com/7TogkID/gaman) - Modern backend framework built for resilience, scalability, and simplicity
 
 ### Documentation
 
