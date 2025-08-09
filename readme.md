@@ -785,7 +785,8 @@
 - [editly](https://github.com/mifi/editly) - Declarative video editing API.
 - [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 - [uint8array-extras](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
-
+- [file-routing-expressjs](https://github.com/Yassine2052/file-routing-express) - File-based routing for Express.js with automatic middleware and error handling.
+  
 ## Package Manager
 
 - [npm](https://docs.npmjs.com/about-npm) - The default package manager.
