@@ -1,0 +1,35 @@
+name: Validate URLs
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'  # Every Monday at 9 AM UTC
+  workflow_dispatch:     # Allow manual trigger
+  pull_request:          # Just to make sure the initial PR works, this can
+                         # later be removed
+
+jobs:
+  validate-urls:
+    runs-on: ubuntu-latest
+    name: Validate repository URLs
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate URLs
+        id: validate-urls
+        uses: simeg/urlsup-action@v2.1
+        with:
+          files: '.'                       # Check here
+          recursive: true                  # Include sub-dirs
+          include-extensions: 'md'         # File types to check
+
+          timeout-seconds: 5               # Request timeout in seconds
+          retry: 2                         # Number of retries
+          concurrency: 10                  # Concurrent requests
+
+          allow-status: '200,202,204,429'  # Allowed HTTP status codes
+          allowlist: 'http://localhost'    # Trusted domains
+
+          user-agent: 'awesome-nodejs/1.0'
+
