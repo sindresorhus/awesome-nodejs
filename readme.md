@@ -63,8 +63,9 @@
 	- [Build tools](#build-tools)
 	- [Hardware](#hardware)
 	- [Templating](#templating)
-	- [Web frameworks](#web-frameworks)
-	- [Documentation](#documentation)
+- [Web frameworks](#web-frameworks)
+- [Express middleware](#express-middleware)
+- [Documentation](#documentation)
 	- [Filesystem](#filesystem)
 	- [Control flow](#control-flow)
 	- [Streams](#streams)
@@ -349,6 +350,15 @@
 - [Ts.ED](https://github.com/tsedio/tsed) - Intuitive  TypeScript framework for building server-side apps on top of Express.js or Koa.js.
 - [Hono](https://github.com/honojs/hono) - Small and fast web framework.
 
+### Express middleware
+
+- [helmet](https://github.com/helmetjs/helmet) - Set security-related HTTP headers.
+- [cors](https://github.com/expressjs/cors) - Enable CORS with various options.
+- [morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware.
+- [compression](https://github.com/expressjs/compression) - Compress response bodies for all requests.
+- [express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for Express.
+- [express-validator](https://github.com/express-validator/express-validator) - Middleware for validation and sanitization.
+
 ### Documentation
 
 - [documentation.js](https://github.com/documentationjs/documentation) - API documentation generator with support for ES2015+ and flow annotation.
@@ -622,6 +632,7 @@
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 - [jose-simple](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+- [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - Native bcrypt implementation for Node.js.
 
 ### Monitoring
 
@@ -646,6 +657,7 @@
 - [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication.
 - [Grant](https://github.com/simov/grant) - OAuth providers for Express, Koa, Hapi, Fastify, AWS Lambda, Azure, Google Cloud, Vercel, and many more.
 - [NextAuth.js](https://github.com/nextauthjs/next-auth) - Complete open source authentication solution for Next.js applications.
+- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JSON Web Token implementation for Node.js.
 
 ### Authorization
 
@@ -764,6 +776,7 @@
 
 - [execa](https://github.com/sindresorhus/execa) - Better `child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript.
 - [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 - [hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
