@@ -349,6 +349,8 @@
 - [Lad](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
 - [Ts.ED](https://github.com/tsedio/tsed) - Intuitive  TypeScript framework for building server-side apps on top of Express.js or Koa.js.
 - [Hono](https://github.com/honojs/hono) - Small and fast web framework.
+- [SvelteKit](https://github.com/sveltejs/kit) - Full-stack framework for building web applications with Svelte.
+- [Remix](https://github.com/remix-run/remix) - Full stack web framework focused on web fundamentals and modern UX.
 
 ### Express middleware
 
@@ -358,6 +360,10 @@
 - [compression](https://github.com/expressjs/compression) - Compress response bodies for all requests.
 - [express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for Express.
 - [express-validator](https://github.com/express-validator/express-validator) - Middleware for validation and sanitization.
+- [express-session](https://github.com/expressjs/session) - Simple session middleware for Express.
+- [cookie-parser](https://github.com/expressjs/cookie-parser) - Parse Cookie header and populate req.cookies.
+- [express-json](https://github.com/expressjs/express) - Built-in JSON parsing middleware.
+- [express.urlencoded](https://github.com/expressjs/express) - Built-in URL-encoded data parsing middleware.
 
 ### Documentation
 
@@ -592,6 +598,9 @@
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
 	- [@databases](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
 	- [pg-mem](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
+- Cloud services
+	- [Supabase](https://github.com/supabase/supabase) - Open source Firebase alternative with PostgreSQL.
+	- [PlanetScale](https://github.com/planetscale/planetscale-node) - Serverless MySQL platform.
 
 ### Testing
 
@@ -623,6 +632,8 @@
 - [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 - [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 - [testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [supertest](https://github.com/visionmedia/supertest) - HTTP assertion library for testing HTTP servers.
+- [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for Node.js and the browser.
 
 ### Security
 
@@ -777,6 +788,7 @@
 - [execa](https://github.com/sindresorhus/execa) - Better `child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript.
+- [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates and times.
 - [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 - [hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
