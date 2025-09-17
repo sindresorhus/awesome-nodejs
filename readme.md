@@ -585,6 +585,7 @@
 
 - [AVA](https://github.com/avajs/ava) - Futuristic test runner.
 - [Mocha](https://github.com/mochajs/mocha) - Feature-rich test framework making asynchronous testing simple and fun.
+- [Vitest](https://github.com/vitest-dev/vitest) - Blazing fast unit test framework powered by Vite.
 - [nyc](https://github.com/istanbuljs/nyc) - Code coverage tool built on istanbul that works with subprocesses.
 - [tap](https://github.com/tapjs/node-tap) - TAP test framework.
 - [tape](https://github.com/substack/tape) - TAP-producing test harness.
@@ -636,6 +637,7 @@
 
 - [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication.
 - [Grant](https://github.com/simov/grant) - OAuth providers for Express, Koa, Hapi, Fastify, AWS Lambda, Azure, Google Cloud, Vercel, and many more.
+- [NextAuth.js](https://github.com/nextauthjs/next-auth) - Complete open source authentication solution for Next.js applications.
 
 ### Authorization
 
@@ -832,7 +834,7 @@
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
 - [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - Trash talk about the V8 garbage collector.
-- [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Insightful talk by the creator of Node.js about some of its limitions.
+- [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Insightful talk by the creator of Node.js about some of its limitations.
 - [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) - Video course on how to make REST APIs using Node.js.
 - [Make a vanilla Node.js REST API](https://www.youtube.com/watch?v=_1xa8Bsho6A) - Building a REST API without using a framework like Express.
 - [Google I/O 2009 - V8: High Performance JavaScript Engine](https://www.youtube.com/watch?v=FrufJFBSoQY) - The basics of V8 architecture and how it optimizes JavaScript execution.
