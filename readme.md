@@ -82,8 +82,9 @@
 	- [Network](#network)
 	- [Database](#database)
 	- [Testing](#testing)
-	- [Security](#security)
-	- [Benchmarking](#benchmarking)
+- [Security](#security)
+- [Monitoring](#monitoring)
+- [Benchmarking](#benchmarking)
 	- [Minifiers](#minifiers)
 	- [Authentication](#authentication)
 	- [Authorization](#authorization)
@@ -373,6 +374,7 @@
 - [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 - [move-file](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 - [tempy](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+- [multer](https://github.com/expressjs/multer) - Middleware for handling multipart/form-data, primarily used for uploading files.
 
 ### Control flow
 
@@ -620,6 +622,12 @@
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 - [jose-simple](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+
+### Monitoring
+
+- [Sentry](https://github.com/getsentry/sentry-javascript) - Error tracking and performance monitoring.
+- [New Relic](https://github.com/newrelic/node-newrelic) - Application performance monitoring and observability platform.
+- [DataDog](https://github.com/DataDog/dd-trace-js) - APM and distributed tracing for Node.js applications.
 
 ### Benchmarking
 
