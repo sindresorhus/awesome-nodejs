@@ -63,8 +63,9 @@
 	- [Build tools](#build-tools)
 	- [Hardware](#hardware)
 	- [Templating](#templating)
-	- [Web frameworks](#web-frameworks)
-	- [Documentation](#documentation)
+- [Web frameworks](#web-frameworks)
+- [Express middleware](#express-middleware)
+- [Documentation](#documentation)
 	- [Filesystem](#filesystem)
 	- [Control flow](#control-flow)
 	- [Streams](#streams)
@@ -82,8 +83,9 @@
 	- [Network](#network)
 	- [Database](#database)
 	- [Testing](#testing)
-	- [Security](#security)
-	- [Benchmarking](#benchmarking)
+- [Security](#security)
+- [Monitoring](#monitoring)
+- [Benchmarking](#benchmarking)
 	- [Minifiers](#minifiers)
 	- [Authentication](#authentication)
 	- [Authorization](#authorization)
@@ -347,6 +349,21 @@
 - [Lad](https://github.com/ladjs/lad) - Framework made by a former Express TC and Koa member that bundles web, API, job, and proxy servers.
 - [Ts.ED](https://github.com/tsedio/tsed) - Intuitive  TypeScript framework for building server-side apps on top of Express.js or Koa.js.
 - [Hono](https://github.com/honojs/hono) - Small and fast web framework.
+- [SvelteKit](https://github.com/sveltejs/kit) - Full-stack framework for building web applications with Svelte.
+- [Remix](https://github.com/remix-run/remix) - Full stack web framework focused on web fundamentals and modern UX.
+
+### Express middleware
+
+- [helmet](https://github.com/helmetjs/helmet) - Set security-related HTTP headers.
+- [cors](https://github.com/expressjs/cors) - Enable CORS with various options.
+- [morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware.
+- [compression](https://github.com/expressjs/compression) - Compress response bodies for all requests.
+- [express-rate-limit](https://github.com/express-rate-limit/express-rate-limit) - Basic rate-limiting middleware for Express.
+- [express-validator](https://github.com/express-validator/express-validator) - Middleware for validation and sanitization.
+- [express-session](https://github.com/expressjs/session) - Simple session middleware for Express.
+- [cookie-parser](https://github.com/expressjs/cookie-parser) - Parse Cookie header and populate req.cookies.
+- [express-json](https://github.com/expressjs/express) - Built-in JSON parsing middleware.
+- [express.urlencoded](https://github.com/expressjs/express) - Built-in URL-encoded data parsing middleware.
 
 ### Documentation
 
@@ -373,6 +390,7 @@
 - [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 - [move-file](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 - [tempy](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+- [multer](https://github.com/expressjs/multer) - Middleware for handling multipart/form-data, primarily used for uploading files.
 
 ### Control flow
 
@@ -580,11 +598,15 @@
 	- [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) - Populate MongoDB databases with JavaScript and JSON files.
 	- [@databases](https://github.com/ForbesLindesay/atdatabases) - Query PostgreSQL, MySQL and SQLite3 with plain SQL without risking SQL injection.
 	- [pg-mem](https://github.com/oguimbal/pg-mem) - In-memory PostgreSQL instance for your tests.
+- Cloud services
+	- [Supabase](https://github.com/supabase/supabase) - Open source Firebase alternative with PostgreSQL.
+	- [PlanetScale](https://github.com/planetscale/planetscale-node) - Serverless MySQL platform.
 
 ### Testing
 
 - [AVA](https://github.com/avajs/ava) - Futuristic test runner.
 - [Mocha](https://github.com/mochajs/mocha) - Feature-rich test framework making asynchronous testing simple and fun.
+- [Vitest](https://github.com/vitest-dev/vitest) - Blazing fast unit test framework powered by Vite.
 - [nyc](https://github.com/istanbuljs/nyc) - Code coverage tool built on istanbul that works with subprocesses.
 - [tap](https://github.com/tapjs/node-tap) - TAP test framework.
 - [tape](https://github.com/substack/tape) - TAP-producing test harness.
@@ -611,6 +633,8 @@
 - [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 - [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 - [testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [supertest](https://github.com/visionmedia/supertest) - HTTP assertion library for testing HTTP servers.
+- [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for Node.js and the browser.
 
 ### Security
 
@@ -620,6 +644,13 @@
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 - [jose-simple](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+- [bcrypt](https://github.com/kelektiv/node.bcrypt.js) - Native bcrypt implementation for Node.js.
+
+### Monitoring
+
+- [Sentry](https://github.com/getsentry/sentry-javascript) - Error tracking and performance monitoring.
+- [New Relic](https://github.com/newrelic/node-newrelic) - Application performance monitoring and observability platform.
+- [DataDog](https://github.com/DataDog/dd-trace-js) - APM and distributed tracing for Node.js applications.
 
 ### Benchmarking
 
@@ -637,6 +668,8 @@
 
 - [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication.
 - [Grant](https://github.com/simov/grant) - OAuth providers for Express, Koa, Hapi, Fastify, AWS Lambda, Azure, Google Cloud, Vercel, and many more.
+- [NextAuth.js](https://github.com/nextauthjs/next-auth) - Complete open source authentication solution for Next.js applications.
+- [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JSON Web Token implementation for Node.js.
 
 ### Authorization
 
@@ -755,6 +788,8 @@
 
 - [execa](https://github.com/sindresorhus/execa) - Better `child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+- [uuid](https://github.com/uuidjs/uuid) - Generate RFC-compliant UUIDs in JavaScript.
+- [moment](https://github.com/moment/moment) - Parse, validate, manipulate, and display dates and times.
 - [open](https://github.com/sindresorhus/open) - Opens stuff like websites, files, executables.
 - [hasha](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
@@ -833,7 +868,7 @@
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
 - [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - Trash talk about the V8 garbage collector.
-- [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Insightful talk by the creator of Node.js about some of its limitions.
+- [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Insightful talk by the creator of Node.js about some of its limitations.
 - [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) - Video course on how to make REST APIs using Node.js.
 - [Make a vanilla Node.js REST API](https://www.youtube.com/watch?v=_1xa8Bsho6A) - Building a REST API without using a framework like Express.
 - [Google I/O 2009 - V8: High Performance JavaScript Engine](https://www.youtube.com/watch?v=FrufJFBSoQY) - The basics of V8 architecture and how it optimizes JavaScript execution.
