@@ -82,8 +82,9 @@
 	- [Network](#network)
 	- [Database](#database)
 	- [Testing](#testing)
-	- [Security](#security)
-	- [Benchmarking](#benchmarking)
+- [Security](#security)
+- [Monitoring](#monitoring)
+- [Benchmarking](#benchmarking)
 	- [Minifiers](#minifiers)
 	- [Authentication](#authentication)
 	- [Authorization](#authorization)
@@ -373,6 +374,7 @@
 - [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 - [move-file](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 - [tempy](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
+- [multer](https://github.com/expressjs/multer) - Middleware for handling multipart/form-data, primarily used for uploading files.
 
 ### Control flow
 
@@ -585,6 +587,7 @@
 
 - [AVA](https://github.com/avajs/ava) - Futuristic test runner.
 - [Mocha](https://github.com/mochajs/mocha) - Feature-rich test framework making asynchronous testing simple and fun.
+- [Vitest](https://github.com/vitest-dev/vitest) - Blazing fast unit test framework powered by Vite.
 - [nyc](https://github.com/istanbuljs/nyc) - Code coverage tool built on istanbul that works with subprocesses.
 - [tap](https://github.com/tapjs/node-tap) - TAP test framework.
 - [tape](https://github.com/substack/tape) - TAP-producing test harness.
@@ -621,6 +624,12 @@
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 - [jose-simple](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
 
+### Monitoring
+
+- [Sentry](https://github.com/getsentry/sentry-javascript) - Error tracking and performance monitoring.
+- [New Relic](https://github.com/newrelic/node-newrelic) - Application performance monitoring and observability platform.
+- [DataDog](https://github.com/DataDog/dd-trace-js) - APM and distributed tracing for Node.js applications.
+
 ### Benchmarking
 
 - [Benchmark.js](https://github.com/bestiejs/benchmark.js) - Benchmarking library that supports high-resolution timers and returns statistically significant results.
@@ -637,6 +646,7 @@
 
 - [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication.
 - [Grant](https://github.com/simov/grant) - OAuth providers for Express, Koa, Hapi, Fastify, AWS Lambda, Azure, Google Cloud, Vercel, and many more.
+- [NextAuth.js](https://github.com/nextauthjs/next-auth) - Complete open source authentication solution for Next.js applications.
 
 ### Authorization
 
@@ -833,7 +843,7 @@
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
 - [V8 Garbage Collector](https://v8.dev/blog/trash-talk) - Trash talk about the V8 garbage collector.
-- [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Insightful talk by the creator of Node.js about some of its limitions.
+- [10 Things I Regret About Node.js by Ryan Dahl](https://www.youtube.com/watch?v=M3BM9TB-8yA) - Insightful talk by the creator of Node.js about some of its limitations.
 - [Mastering REST APIs in Node.js: Zero-To-Hero](https://www.manning.com/livevideo/mastering-rest-apis-in-nodejs) - Video course on how to make REST APIs using Node.js.
 - [Make a vanilla Node.js REST API](https://www.youtube.com/watch?v=_1xa8Bsho6A) - Building a REST API without using a framework like Express.
 - [Google I/O 2009 - V8: High Performance JavaScript Engine](https://www.youtube.com/watch?v=FrufJFBSoQY) - The basics of V8 architecture and how it optimizes JavaScript execution.
