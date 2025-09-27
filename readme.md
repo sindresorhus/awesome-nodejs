@@ -29,6 +29,20 @@
 		</a>
 		<br>
 		<br>
+		<br>
+		<div>
+			<a href="https://ref.wisprflow.ai/VjA6dYR">
+				<div>
+					<img width="150" src="https://sindresorhus.com/assets/thanks/flow-logo.svg" alt="Wispr Flow logo">
+				</div>
+			</a>
+			<b>Talk to code, stay in the Flow.</b>
+			<div>
+				<sup>Flow is built for devs who live in their tools. Speak and give more context, get better results.</sup>
+			</div>
+		</div>
+		<br>
+		<br>
 	</p>
 	<hr>
 	<br>
@@ -369,7 +383,7 @@
 - [istextorbinary](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 - [fs-jetpack](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 - [fs-extra](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
-- [pkg-dir](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+- [package-directory](https://github.com/sindresorhus/package-directory) - Find the root directory of an npm package.
 - [filehound](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 - [move-file](https://github.com/sindresorhus/move-file) - Move a file, even works across devices.
 - [tempy](https://github.com/sindresorhus/tempy) - Get a random temporary file or directory path.
