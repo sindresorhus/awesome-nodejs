@@ -303,6 +303,8 @@
 - [terminal-size](https://github.com/sindresorhus/terminal-size) - Reliably get the terminal window size.
 - [Cliffy](https://github.com/drew-y/cliffy) - Framework for interactive CLIs.
 - [zx](https://github.com/google/zx) - Write shell scripts JavaScript.
+- [Universal Comment Fixer](https://github.com/chahuadev/chahuadev-fix-comments) - A professional comment standardization tool with an AI-friendly format.
+- [Universal Emoji Cleaner](https://github.com/chahuadev/chahuadev-emoji-cleaner-tool) - A universal tool to safely remove emojis from code in over 50 languages.
 
 ### Build tools
 
