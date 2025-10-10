@@ -31,7 +31,7 @@
 		<br>
 		<br>
 		<h3>
-			<a href="https://ref.wisprflow.ai/VjA6dYR">Wispr Flow</a>
+			<a href="https://ref.wisprflow.ai/VjA6dYR">Whisper Flow</a>
 		</h3>
 		<a href="https://ref.wisprflow.ai/VjA6dYR">
 			<div>
