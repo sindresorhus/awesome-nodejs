@@ -157,6 +157,7 @@
 - [NodeOS](https://github.com/NodeOS/NodeOS) - The first operating system powered by npm.
 - [YodaOS](https://github.com/yodaos-project/yodaos) - AI operating system.
 - [Brain.js](https://github.com/BrainJS/brain.js) - Machine-learning framework.
+- [Neurolink](https://github.com/juspay/neurolink) - Universal AI development platform unifying 12+ providers (OpenAI, Anthropic, Google, Bedrock, Azure) with MCP support and production-ready enterprise features.
 - [Pipcook](https://github.com/alibaba/pipcook) - Front-end algorithm framework to create a machine learning pipeline.
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - Graph theory (a.k.a. network) modeling and analysis.
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
