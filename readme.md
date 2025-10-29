@@ -664,6 +664,7 @@
 - [emailjs](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
 - [email-templates](https://github.com/forwardemail/email-templates) - Create, preview, and send custom email templates.
 - [MJML](https://github.com/mjmlio/mjml) - Markup language designed to reduce the pain of creating responsive emails.
+- [Forward Email](https://github.com/forwardemail/forwardemail.net) - Open-source and self-hostable email service.
 
 ### Job queues
 
