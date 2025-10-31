@@ -680,6 +680,7 @@
 - [bullmq](https://github.com/taskforcesh/bullmq) - Persistent job and message queue.
 - [bree](https://github.com/breejs/bree) - Job task scheduler with worker threads, cron, date, and human syntax support.
 - [graphile-worker](https://github.com/graphile/worker) - High performance PostgreSQL job queue.
+- [pg Boss](https://github.com/timgit/pg-boss) - job queue, background jobs and cron jobs based on PostgreSQL
 
 ### Node.js management
 
