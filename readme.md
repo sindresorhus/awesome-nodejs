@@ -117,6 +117,7 @@
 	- [Weird](#weird)
 	- [Serialization](#serialization)
 	- [Miscellaneous](#miscellaneous)
+    - [Release Manager](#release-manager)
 - [Package Manager](#package-manager)
 - [Resources](#resources)
 	- [Tutorials](#tutorials)
@@ -802,6 +803,10 @@
 - [editly](https://github.com/mifi/editly) - Declarative video editing API.
 - [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 - [uint8array-extras](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
+
+### Release Manager
+
+- [Relizy](https://github.com/louismazel/relizy) -  Release manager CLI - automated bump, tags, beautiful changelog generation, publish packages, and create git provider releases.
 
 ## Package Manager
 
