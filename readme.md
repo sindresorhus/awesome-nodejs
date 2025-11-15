@@ -217,10 +217,12 @@
 
 - [lodash](https://github.com/lodash/lodash) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
 - [immutable](https://github.com/immutable-js/immutable-js) - Immutable data collections.
+- - [Effect](https://github.com/Effect-TS/effect) - Powerful TypeScript library for building robust, scalable applications with functional programming.
 - [Ramda](https://github.com/ramda/ramda) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
 - [Mout](https://github.com/mout/mout) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
 - [RxJS](https://github.com/reactivex/rxjs) - Functional reactive library for transforming, composing, and querying various kinds of data.
-- [Kefir.js](https://github.com/kefirjs/kefir) - Reactive library with focus on high performance and low memory usage.
+- [Kefir.js](https://github.com/kefirjs/kefir) - Reactive library with focus on high
+- - [XState](https://github.com/statelyai/xstate) - State machines and statecharts for modern web applications.performance and low memory usage.
 
 ### HTTP
 
