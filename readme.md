@@ -481,6 +481,7 @@
 
 ### Date
 
+- [Chronox](https://github.com/iAn-P1nt0/chronox) - ChronoX is a modern date/time library designed to replace legacy solutions like Moment.js and overcome performance limitations in date-fns. It combines ultra-lightweight bundle size with cutting-edge optimizations.
 - [Luxon](https://github.com/moment/luxon) - Library for working with dates and times.
 - [date-fns](https://github.com/date-fns/date-fns) - Modern date utility.
 - [Day.js](https://github.com/iamkun/dayjs) - Immutable date library alternative to Moment.js.
