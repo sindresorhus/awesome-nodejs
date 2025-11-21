@@ -704,6 +704,7 @@
 - [leven](https://github.com/sindresorhus/leven) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [natural](https://github.com/NaturalNode/natural) - Natural language facility.
 - [nlp.js](https://github.com/axa-group/nlp.js) - Building bots, with entity extraction, sentiment analysis, automatic language identify, and more.
+- [whatsapp-chatbot](https://github.com/bibinprathap/whatsapp-chatbot) - Open-source WhatsApp chatbot.
 
 ### Process management
 
