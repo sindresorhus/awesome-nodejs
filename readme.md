@@ -225,6 +225,7 @@
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
+- [yamlresume](https://github.com/yamlresume/yamlresume) - Create and version control resumes as code in yaml.
 
 ### Functional programming
 
