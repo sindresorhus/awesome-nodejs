@@ -129,6 +129,7 @@
 	- [Blogging](#blogging)
 	- [Weird](#weird)
 	- [Serialization](#serialization)
+	- [Feature management](#feature-management)
 	- [Miscellaneous](#miscellaneous)
 - [Package Manager](#package-manager)
 - [Resources](#resources)
@@ -779,6 +780,10 @@
 - [snappy](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
 - [protobuf](https://github.com/protobufjs/protobuf.js) - Implementation of Protocol Buffers.
 - [compactr](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
+
+### Feature management
+
+- [Featurevisor](https://github.com/featurevisor/featurevisor] - Feature flags management, a/b tests, and remote configuration with Git.
 
 ### Miscellaneous
 
