@@ -320,6 +320,7 @@
 
 ### Build tools
 
+- [PushEnv](https://github.com/shahnoor-mujawar/pushenv) - Simple, secure, end-to-end encrypted .env sync for teams with a lightweight CLI.
 - [parcel](https://github.com/parcel-bundler/parcel) - Blazing fast, zero config web app bundler.
 - [webpack](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
 - [rollup](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
