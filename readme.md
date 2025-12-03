@@ -829,6 +829,7 @@
 
 - [Node.js Best Practices](https://github.com/goldbergyoni/nodebestpractices) - Summary and curation of the top-ranked content on Node.js best practices, available in multiple languages.
 - [Nodeschool](https://github.com/nodeschool) - Learn Node.js with interactive lessons.
+- [Node.js Crash Course — Traversy Media](https://www.youtube.com/watch?v=fBNz5xF-Kx4)
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
 - [The Node Way](https://github.com/FredKSchott/the-node-way) - An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
