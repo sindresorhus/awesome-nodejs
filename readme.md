@@ -648,6 +648,7 @@
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 - [jose-simple](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+- [shai-hulud-scanner](https://github.com/nxgn-kd01/shai-hulud-scanner) - Detect Shai Hulud 2.0 npm supply chain attack indicators in 796+ compromised packages.
 
 ### Benchmarking
 
