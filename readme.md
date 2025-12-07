@@ -129,6 +129,7 @@
 	- [Blogging](#blogging)
 	- [Weird](#weird)
 	- [Serialization](#serialization)
+	- [AI](#ai)
 	- [Miscellaneous](#miscellaneous)
 - [Package Manager](#package-manager)
 - [Resources](#resources)
@@ -779,6 +780,10 @@
 - [snappy](https://github.com/kesla/node-snappy) - Native bindings for Google's Snappy compression library.
 - [protobuf](https://github.com/protobufjs/protobuf.js) - Implementation of Protocol Buffers.
 - [compactr](https://github.com/compactr/compactr.js) - Implementation of the Compactr protocol.
+
+### AI
+
+- [MastraAI](https://github.com/mastra-ai/mastra) - An opinionated TypeScript framework that helps you build AI applications and features quickly.
 
 ### Miscellaneous
 
