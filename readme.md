@@ -652,6 +652,7 @@
 ### Benchmarking
 
 - [Benchmark.js](https://github.com/bestiejs/benchmark.js) - Benchmarking library that supports high-resolution timers and returns statistically significant results.
+- [Bencher](https://github.com/bencherdev/bencher) - Suite of continuous benchmarking tools designed to catch performance regressions in CI.
 
 ### Minifiers
 
