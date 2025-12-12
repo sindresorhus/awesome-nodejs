@@ -648,6 +648,7 @@
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 - [jose-simple](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+- [pdf-encrypt-lite](https://github.com/pdfsmaller/pdf-encrypt-lite) - Ultra-lightweight (7KB) PDF encryption with RC4 128-bit. Works in edge runtimes.
 
 ### Benchmarking
 
