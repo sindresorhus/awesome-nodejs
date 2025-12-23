@@ -639,7 +639,7 @@
 - [nve](https://github.com/ehmicky/nve) - Run any command on multiple versions of Node.js locally.
 - [axe-core](https://github.com/dequelabs/axe-core) - Accessibility engine for automated Web UI testing.
 - [testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Provides lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-- [Cypress](https://github.com/cypress-io/cypress) - Test runner built for the modern web.
+- [Cypress](https://github.com/cypress-io/cypress) - End-to-end testing framework that runs in the browser.
 
 ### Security
 
