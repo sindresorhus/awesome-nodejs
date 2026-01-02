@@ -259,6 +259,7 @@
 - [stackman](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 - [locus](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
 - [0x](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
+- [breakinto](https://github.com/learningyogendra-netizen/breakinto) - Interactive debugger with hot-reloading, REPL-driven development, and test snapshotting
 - [ctrace](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
 - [leakage](https://github.com/andywer/leakage) - Write memory leak tests.
 - [llnode](https://github.com/nodejs/llnode) - Post-mortem analysis tool which allows you to inspect objects and get insights from a crashed Node.js process.
