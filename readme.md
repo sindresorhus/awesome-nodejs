@@ -151,6 +151,7 @@
 - [Website](https://nodejs.org)
 - [Documentation](https://nodejs.org/dist/latest/docs/api/)
 - [Repository](https://github.com/nodejs/node)
+- [Vedika API](https://vedika.io) - REST API for Vedic astrology with AI chatbot, 108+ endpoints for birth charts, horoscopes, kundali matching, panchang, numerology, and more
 
 ## Packages
 
