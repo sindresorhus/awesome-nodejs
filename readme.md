@@ -192,6 +192,7 @@
 - [is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
 - [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 - [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+- [codesyncer](https://github.com/bitjaru/codesyncer) - AI collaboration CLI that maintains project context for Claude, Cursor, and Copilot.
 - [XO](https://github.com/xojs/xo) - Enforce strict code style using the JavaScript happiness style.
 - [ESLint](https://github.com/eslint/eslint) - The pluggable linting utility for JavaScript.
 - [David](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
