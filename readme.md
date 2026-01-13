@@ -175,6 +175,7 @@
 - [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
 - [xlsx](https://github.com/SheetJS/sheetjs) - Pure JS Excel spreadsheet reader and writer.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
+- [anofox-regression](https://github.com/sipemu/anofox-regression) - Statistical regression models (OLS, Elastic Net, GLM, Quantile & Isotonic) with R-like inference (p-values, confidence & prediction intervals).
 
 ### Command-line apps
 
