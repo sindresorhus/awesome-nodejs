@@ -249,6 +249,7 @@
 - [global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 - [smoke](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
 - [purest](https://github.com/simov/purest) - REST client.
+- [Lynkr](https://github.com/Fast-Editor/Lynkr) - Intelligent LLM proxy router for Claude Code that optimizes costs by hierarchically routing requests through local models first without losing any features offered by claude.
 
 ### Debugging / Profiling
 
