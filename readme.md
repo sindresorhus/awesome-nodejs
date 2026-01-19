@@ -185,6 +185,7 @@
 - [trash](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
 - [speed-test](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
 - [pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots.
+- [Heroshot](https://github.com/omachala/heroshot) - Automate documentation screenshots with config-based workflows.
 - [cpy](https://github.com/sindresorhus/cpy) - Copy files.
 - [vtop](https://github.com/MrRio/vtop) - More better top, with nice charts.
 - [empty-trash](https://github.com/sindresorhus/empty-trash) - Empty the trash.
