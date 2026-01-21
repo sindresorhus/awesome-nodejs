@@ -274,6 +274,7 @@
 - [console-log-level](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 - [storyboard](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 - [consola](https://github.com/unjs/consola) - Console logger.
+- [LogTape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for every JavaScript runtime.
 
 ### Command-line utilities
 
