@@ -648,6 +648,7 @@
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 - [jose-simple](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+- [pompelmi](https://github.com/pompelmi/pompelmi) - File upload malware scanning toolkit with pluggable engines (YARA, heuristics, ZIP bomb detection) and web framework adapters.
 
 ### Benchmarking
 
