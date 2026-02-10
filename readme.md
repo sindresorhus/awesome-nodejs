@@ -249,6 +249,7 @@
 - [global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
 - [smoke](https://github.com/sinedied/smoke) - File-based HTTP mock server with recording abilities.
 - [purest](https://github.com/simov/purest) - REST client.
+- [soundcloud-api-ts](https://github.com/twin-paws/soundcloud-api-ts) - Zero-dependency SoundCloud API client with OAuth 2.1, PKCE, typed errors, automatic retry, and CLI.
 
 ### Debugging / Profiling
 
