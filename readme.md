@@ -732,6 +732,7 @@
 
 - [robotjs](https://github.com/octalmage/robotjs) - Desktop Automation: control the mouse, keyboard and read the screen.
 - [nut.js](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
+- [Taskade MCP Server](https://github.com/taskade/mcp) - MCP server for AI-powered project management with 62+ tools for workspaces, projects, tasks, and AI agents.
 
 ### AST
 
