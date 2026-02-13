@@ -500,6 +500,7 @@
 - [dateformat](https://github.com/felixge/node-dateformat) - Date formatting.
 - [tz-format](https://github.com/samverschueren/tz-format) - Format a date with timezone: `2015-11-30T10:40:35+01:00`.
 - [cctz](https://github.com/floatdrop/node-cctz) - Fast parsing, formatting, and timezone conversion for dates.
+- [temporal-parser](https://github.com/taskade/temporal-parser) - Lexer and parser for ISO 8601, RFC 3339, and IXDTF temporal expressions.
 
 ### URL
 
