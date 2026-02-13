@@ -732,6 +732,7 @@
 
 - [robotjs](https://github.com/octalmage/robotjs) - Desktop Automation: control the mouse, keyboard and read the screen.
 - [nut.js](https://github.com/nut-tree/nut.js) - Cross-platform native GUI automation / testing framework with image matching capabilities which integrates with Jest.
+- [AgentSys](https://github.com/avifenesh/agentsys) - Plugin-based agent orchestration runtime for AI coding assistants.
 
 ### AST
 
