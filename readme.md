@@ -572,6 +572,7 @@
 - [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
 - [DHCP](https://github.com/infusion/node-dhcp) - DHCP client and server.
 - [netcat](https://github.com/roccomuso/netcat) - Netcat port in pure JS.
+- [beacon-skill](https://github.com/Scottcjn/beacon-skill) - Agent-to-agent orchestration with multi-transport messaging, DNS discovery, heartbeat monitoring, and distributed coordination.
 
 ### Database
 
