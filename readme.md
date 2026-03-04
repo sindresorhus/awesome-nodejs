@@ -225,6 +225,7 @@
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
+- [LynxPrompt](https://github.com/GeiserX/LynxPrompt) - Generate, sync, and share AI coding assistant configuration files across 30+ tools via a federated blueprint marketplace.
 
 ### Functional programming
 
