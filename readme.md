@@ -266,6 +266,7 @@
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
 - [NiM](https://github.com/june07/nim) - Manages DevTools debugging workflow.
 - [dats](https://github.com/immobiliare/dats) - Minimalistic and zero-dependencies [StatsD](https://github.com/statsd/statsd) client.
+- [TestDino](https://github.com/TestDinoHQ) - Unifies noisy Playwright runs into live views, evidence, and AI insights so you debug failures faster.
 
 ### Logging
 
