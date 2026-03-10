@@ -238,6 +238,7 @@
 ### HTTP
 
 - [got](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
+- [Spectrawl](https://github.com/FayAndXan/spectrawl) - Unified web layer for AI agents with search (8 engines), stealth browsing, cookie auth, and 24 platform adapters.
 - [undici](https://github.com/nodejs/undici) - High performance HTTP client written from scratch with zero dependencies.
 - [ky-universal](https://github.com/sindresorhus/ky-universal) - Universal HTTP client based on Fetch.
 - [node-fetch](https://github.com/node-fetch/node-fetch) - `window.fetch` for Node.js.
