@@ -815,6 +815,7 @@
 - [editly](https://github.com/mifi/editly) - Declarative video editing API.
 - [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 - [uint8array-extras](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
+- [oss-maintenance-log](https://github.com/dusan-maintains/oss-maintenance-log) - Automated public evidence log for OSS maintenance. Tracks PR SLA, npm health, and repo metrics. Self-updates every 6h via GitHub Actions.
 
 ## Package Manager
 
