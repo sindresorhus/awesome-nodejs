@@ -815,6 +815,7 @@
 - [editly](https://github.com/mifi/editly) - Declarative video editing API.
 - [wild-wild-path](https://github.com/ehmicky/wild-wild-path) - Object property paths with wildcards and regexes.
 - [uint8array-extras](https://github.com/sindresorhus/uint8array-extras) - Useful utilities for working with Uint8Array and Buffer.
+- [better-swagger-types](https://www.npmjs.com/package/better-swagger-types) - Prisma-style TypeScript type generation for Swagger/OpenAPI APIs.
 
 ## Package Manager
 
