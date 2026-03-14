@@ -225,6 +225,7 @@
 - [taskbook](https://github.com/klaussinani/taskbook) - Tasks, boards & notes for the command-line habitat.
 - [discharge](https://github.com/brandonweiss/discharge) - Easily deploy static websites to Amazon S3.
 - [npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules folders.
+- [kbot](https://github.com/isaacsight/kernel) - AI agent for the terminal with 39 specialists, 167 tools, and self-evolution.
 
 ### Functional programming
 
