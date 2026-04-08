@@ -560,6 +560,7 @@
 - [xlsx-populate](https://github.com/dtjohnson/xlsx-populate) - Read/write Excel XLSX.
 - [Chevrotain](https://github.com/Chevrotain/chevrotain) - Very fast and feature rich parser building toolkit for JavaScript.
 - [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate and parse XML.
+- [kreuzberg](https://github.com/kreuzberg-dev/kreuzberg) - Document intelligence library that extracts text, tables, and metadata from 62+ formats including PDF, Office, images with OCR, HTML, email, and archives.
 
 ### Humanize
 
