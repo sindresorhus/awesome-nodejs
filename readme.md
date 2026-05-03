@@ -252,6 +252,7 @@
 - [swagger-stats](https://github.com/slanatech/swagger-stats) - Trace API calls and monitor API performance, health, and usage metrics.
 - [NiM](https://github.com/june07/nim) - Manages DevTools debugging workflow.
 - [dats](https://github.com/immobiliare/dats) - Minimalistic and zero-dependencies [StatsD](https://github.com/statsd/statsd) client.
+- [Manifest](https://github.com/mnfst/manifest) - Real-time cost observability for AI agents with token tracking, model usage metrics, and OTLP-native telemetry.
 
 ### Logging
 
