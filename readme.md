@@ -67,6 +67,7 @@
 
 - [Official](#official)
 - [Packages](#packages)
+	- [Diff](#diff)
 	- [Mad science](#mad-science)
 	- [Command-line apps](#command-line-apps)
 	- [Functional programming](#functional-programming)
@@ -139,6 +140,10 @@
 - [Repository](https://github.com/nodejs/node)
 
 ## Packages
+
+### Diff
+
+- [superdiff](https://github.com/DoneDeal0/superdiff) - Rich diff for arrays, objects, texts and coordinates. Supports stream and file inputs for handling large datasets efficiently, zero dependencies, top-tier performance.
 
 ### Mad science
 
